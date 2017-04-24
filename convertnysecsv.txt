@@ -1,0 +1,12578 @@
+[
+ {
+   "Symbol": "A",
+   "LastSale": "53.27"
+ },
+ {
+   "Symbol": "AA",
+   "LastSale": "31.7"
+ },
+ {
+   "Symbol": "AAC",
+   "LastSale": "7.39"
+ },
+ {
+   "Symbol": "AAN",
+   "LastSale": "30.71"
+ },
+ {
+   "Symbol": "AAP",
+   "LastSale": "146.84"
+ },
+ {
+   "Symbol": "AAT",
+   "LastSale": "44.18"
+ },
+ {
+   "Symbol": "AAV",
+   "LastSale": "6.5"
+ },
+ {
+   "Symbol": "AB",
+   "LastSale": "22.9"
+ },
+ {
+   "Symbol": "ABB",
+   "LastSale": "23.32"
+ },
+ {
+   "Symbol": "ABBV",
+   "LastSale": "63.82"
+ },
+ {
+   "Symbol": "ABC",
+   "LastSale": "81.26"
+ },
+ {
+   "Symbol": "ABEV",
+   "LastSale": "5.64"
+ },
+ {
+   "Symbol": "ABG",
+   "LastSale": "61.35"
+ },
+ {
+   "Symbol": "ABM",
+   "LastSale": "43.07"
+ },
+ {
+   "Symbol": "ABR",
+   "LastSale": "8.65"
+ },
+ {
+   "Symbol": "ABRN",
+   "LastSale": "25.6604"
+ },
+ {
+   "Symbol": "ABR^A",
+   "LastSale": "25.86"
+ },
+ {
+   "Symbol": "ABR^B",
+   "LastSale": "25.3545"
+ },
+ {
+   "Symbol": "ABR^C",
+   "LastSale": "25.96"
+ },
+ {
+   "Symbol": "ABT",
+   "LastSale": "43.53"
+ },
+ {
+   "Symbol": "ABX",
+   "LastSale": "19.27"
+ },
+ {
+   "Symbol": "AC",
+   "LastSale": "33.85"
+ },
+ {
+   "Symbol": "ACC",
+   "LastSale": "49.6"
+ },
+ {
+   "Symbol": "ACCO",
+   "LastSale": "13.75"
+ },
+ {
+   "Symbol": "ACH",
+   "LastSale": "12.86"
+ },
+ {
+   "Symbol": "ACM",
+   "LastSale": "33.41"
+ },
+ {
+   "Symbol": "ACN",
+   "LastSale": "119.23"
+ },
+ {
+   "Symbol": "ACP",
+   "LastSale": "13.95"
+ },
+ {
+   "Symbol": "ACRE",
+   "LastSale": "13.79"
+ },
+ {
+   "Symbol": "ACV",
+   "LastSale": "20.57"
+ },
+ {
+   "Symbol": "ADC",
+   "LastSale": "51.08"
+ },
+ {
+   "Symbol": "ADM",
+   "LastSale": "44.81"
+ },
+ {
+   "Symbol": "ADNT",
+   "LastSale": "69.24"
+ },
+ {
+   "Symbol": "ADS",
+   "LastSale": "259.51"
+ },
+ {
+   "Symbol": "ADSW",
+   "LastSale": "23.66"
+ },
+ {
+   "Symbol": "ADX",
+   "LastSale": "13.79"
+ },
+ {
+   "Symbol": "AEB",
+   "LastSale": "25"
+ },
+ {
+   "Symbol": "AED",
+   "LastSale": "26.28"
+ },
+ {
+   "Symbol": "AEE",
+   "LastSale": "55.09"
+ },
+ {
+   "Symbol": "AEG",
+   "LastSale": "4.96"
+ },
+ {
+   "Symbol": "AEH",
+   "LastSale": "25.71"
+ },
+ {
+   "Symbol": "AEK",
+   "LastSale": "25.98"
+ },
+ {
+   "Symbol": "AEL",
+   "LastSale": "23.67"
+ },
+ {
+   "Symbol": "AEM",
+   "LastSale": "46.01"
+ },
+ {
+   "Symbol": "AEO",
+   "LastSale": "14.05"
+ },
+ {
+   "Symbol": "AEP",
+   "LastSale": "67.86"
+ },
+ {
+   "Symbol": "AER",
+   "LastSale": "43.83"
+ },
+ {
+   "Symbol": "AES",
+   "LastSale": "11.38"
+ },
+ {
+   "Symbol": "AES^C",
+   "LastSale": "50.41"
+ },
+ {
+   "Symbol": "AET",
+   "LastSale": "131.18"
+ },
+ {
+   "Symbol": "AEUA",
+   "LastSale": "45.91"
+ },
+ {
+   "Symbol": "AF",
+   "LastSale": "20.23"
+ },
+ {
+   "Symbol": "AFA",
+   "LastSale": "25.4207"
+ },
+ {
+   "Symbol": "AFB",
+   "LastSale": "13.57"
+ },
+ {
+   "Symbol": "AFC",
+   "LastSale": "25.9"
+ },
+ {
+   "Symbol": "AFG",
+   "LastSale": "95.79"
+ },
+ {
+   "Symbol": "AFGE",
+   "LastSale": "26.29"
+ },
+ {
+   "Symbol": "AFGH",
+   "LastSale": "26.5"
+ },
+ {
+   "Symbol": "AFI",
+   "LastSale": "18.58"
+ },
+ {
+   "Symbol": "AFL",
+   "LastSale": "73.99"
+ },
+ {
+   "Symbol": "AFSD",
+   "LastSale": "25.88"
+ },
+ {
+   "Symbol": "AFSI^A",
+   "LastSale": "21.78"
+ },
+ {
+   "Symbol": "AFSI^B",
+   "LastSale": "22.64"
+ },
+ {
+   "Symbol": "AFSI^C",
+   "LastSale": "23.43"
+ },
+ {
+   "Symbol": "AFSI^D",
+   "LastSale": "23.23"
+ },
+ {
+   "Symbol": "AFSI^E",
+   "LastSale": "24.04"
+ },
+ {
+   "Symbol": "AFSI^F",
+   "LastSale": "21.82"
+ },
+ {
+   "Symbol": "AFSS",
+   "LastSale": "24.3063"
+ },
+ {
+   "Symbol": "AFST",
+   "LastSale": "24.95"
+ },
+ {
+   "Symbol": "AFT",
+   "LastSale": "17.35"
+ },
+ {
+   "Symbol": "AFW",
+   "LastSale": "25.67"
+ },
+ {
+   "Symbol": "AF^C",
+   "LastSale": "25.69"
+ },
+ {
+   "Symbol": "AG",
+   "LastSale": "8.77"
+ },
+ {
+   "Symbol": "AGC",
+   "LastSale": "6.1"
+ },
+ {
+   "Symbol": "AGCO",
+   "LastSale": "59.49"
+ },
+ {
+   "Symbol": "AGD",
+   "LastSale": "9.79"
+ },
+ {
+   "Symbol": "AGI",
+   "LastSale": "7.62"
+ },
+ {
+   "Symbol": "AGM",
+   "LastSale": "55.06"
+ },
+ {
+   "Symbol": "AGM.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "AGM^A",
+   "LastSale": "26.1446"
+ },
+ {
+   "Symbol": "AGM^B",
+   "LastSale": "26.92"
+ },
+ {
+   "Symbol": "AGM^C",
+   "LastSale": "27.4499"
+ },
+ {
+   "Symbol": "AGN",
+   "LastSale": "236.35"
+ },
+ {
+   "Symbol": "AGN^A",
+   "LastSale": "844.94"
+ },
+ {
+   "Symbol": "AGO",
+   "LastSale": "38.01"
+ },
+ {
+   "Symbol": "AGO^B",
+   "LastSale": "26.26"
+ },
+ {
+   "Symbol": "AGO^E",
+   "LastSale": "26.26"
+ },
+ {
+   "Symbol": "AGO^F",
+   "LastSale": "25.0699"
+ },
+ {
+   "Symbol": "AGR",
+   "LastSale": "43.77"
+ },
+ {
+   "Symbol": "AGRO",
+   "LastSale": "11.19"
+ },
+ {
+   "Symbol": "AGU",
+   "LastSale": "90.47"
+ },
+ {
+   "Symbol": "AGX",
+   "LastSale": "65.7"
+ },
+ {
+   "Symbol": "AHC",
+   "LastSale": "6.2"
+ },
+ {
+   "Symbol": "AHH",
+   "LastSale": "14.59"
+ },
+ {
+   "Symbol": "AHL",
+   "LastSale": "50.45"
+ },
+ {
+   "Symbol": "AHL^B",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "AHL^C",
+   "LastSale": "27.49"
+ },
+ {
+   "Symbol": "AHL^D",
+   "LastSale": "24.22"
+ },
+ {
+   "Symbol": "AHP",
+   "LastSale": "10.46"
+ },
+ {
+   "Symbol": "AHP^B",
+   "LastSale": "19.75"
+ },
+ {
+   "Symbol": "AHT",
+   "LastSale": "6.38"
+ },
+ {
+   "Symbol": "AHT^A",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "AHT^D",
+   "LastSale": "25.55"
+ },
+ {
+   "Symbol": "AHT^F",
+   "LastSale": "25.19"
+ },
+ {
+   "Symbol": "AHT^G",
+   "LastSale": "24.7999"
+ },
+ {
+   "Symbol": "AI",
+   "LastSale": "14.35"
+ },
+ {
+   "Symbol": "AIB",
+   "LastSale": "25.23"
+ },
+ {
+   "Symbol": "AIC",
+   "LastSale": "23.3"
+ },
+ {
+   "Symbol": "AIF",
+   "LastSale": "16.54"
+ },
+ {
+   "Symbol": "AIG",
+   "LastSale": "59.13"
+ },
+ {
+   "Symbol": "AIG.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "AIN",
+   "LastSale": "45.4"
+ },
+ {
+   "Symbol": "AIR",
+   "LastSale": "34.66"
+ },
+ {
+   "Symbol": "AIT",
+   "LastSale": "61.95"
+ },
+ {
+   "Symbol": "AIV",
+   "LastSale": "44.15"
+ },
+ {
+   "Symbol": "AIV^A",
+   "LastSale": "26.5644"
+ },
+ {
+   "Symbol": "AIW",
+   "LastSale": "25.02"
+ },
+ {
+   "Symbol": "AIY",
+   "LastSale": "26.1753"
+ },
+ {
+   "Symbol": "AIZ",
+   "LastSale": "94.7"
+ },
+ {
+   "Symbol": "AJG",
+   "LastSale": "55.61"
+ },
+ {
+   "Symbol": "AJRD",
+   "LastSale": "22.31"
+ },
+ {
+   "Symbol": "AJX",
+   "LastSale": "13.37"
+ },
+ {
+   "Symbol": "AKO.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "AKO.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "AKP",
+   "LastSale": "13.6029"
+ },
+ {
+   "Symbol": "AKR",
+   "LastSale": "31.42"
+ },
+ {
+   "Symbol": "AKS",
+   "LastSale": "6.72"
+ },
+ {
+   "Symbol": "AL",
+   "LastSale": "36.81"
+ },
+ {
+   "Symbol": "ALB",
+   "LastSale": "105.1"
+ },
+ {
+   "Symbol": "ALDW",
+   "LastSale": "9.15"
+ },
+ {
+   "Symbol": "ALE",
+   "LastSale": "70.38"
+ },
+ {
+   "Symbol": "ALEX",
+   "LastSale": "45.8"
+ },
+ {
+   "Symbol": "ALG",
+   "LastSale": "76.14"
+ },
+ {
+   "Symbol": "ALJ",
+   "LastSale": "11.23"
+ },
+ {
+   "Symbol": "ALK",
+   "LastSale": "89.11"
+ },
+ {
+   "Symbol": "ALL",
+   "LastSale": "79.73"
+ },
+ {
+   "Symbol": "ALLE",
+   "LastSale": "77.91"
+ },
+ {
+   "Symbol": "ALLY",
+   "LastSale": "19.93"
+ },
+ {
+   "Symbol": "ALLY^A",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "ALL^A",
+   "LastSale": "26.15"
+ },
+ {
+   "Symbol": "ALL^B",
+   "LastSale": "27.59"
+ },
+ {
+   "Symbol": "ALL^C",
+   "LastSale": "27.2"
+ },
+ {
+   "Symbol": "ALL^D",
+   "LastSale": "27.3166"
+ },
+ {
+   "Symbol": "ALL^E",
+   "LastSale": "27.48"
+ },
+ {
+   "Symbol": "ALL^F",
+   "LastSale": "27.65"
+ },
+ {
+   "Symbol": "ALP^O",
+   "LastSale": "27.9"
+ },
+ {
+   "Symbol": "ALR",
+   "LastSale": "48.9"
+ },
+ {
+   "Symbol": "ALR^B",
+   "LastSale": "383"
+ },
+ {
+   "Symbol": "ALSN",
+   "LastSale": "35.95"
+ },
+ {
+   "Symbol": "ALV",
+   "LastSale": "99.38"
+ },
+ {
+   "Symbol": "ALX",
+   "LastSale": "435.47"
+ },
+ {
+   "Symbol": "AM",
+   "LastSale": "32.55"
+ },
+ {
+   "Symbol": "AMBR",
+   "LastSale": "7.58"
+ },
+ {
+   "Symbol": "AMC",
+   "LastSale": "30.9"
+ },
+ {
+   "Symbol": "AME",
+   "LastSale": "54.84"
+ },
+ {
+   "Symbol": "AMFW",
+   "LastSale": "7.13"
+ },
+ {
+   "Symbol": "AMG",
+   "LastSale": "163.31"
+ },
+ {
+   "Symbol": "AMH",
+   "LastSale": "23.62"
+ },
+ {
+   "Symbol": "AMH^A",
+   "LastSale": "28.2845"
+ },
+ {
+   "Symbol": "AMH^B",
+   "LastSale": "28.3063"
+ },
+ {
+   "Symbol": "AMH^C",
+   "LastSale": "28.357"
+ },
+ {
+   "Symbol": "AMH^D",
+   "LastSale": "26.17"
+ },
+ {
+   "Symbol": "AMH^E",
+   "LastSale": "25.75"
+ },
+ {
+   "Symbol": "AMID",
+   "LastSale": "14.45"
+ },
+ {
+   "Symbol": "AMN",
+   "LastSale": "41"
+ },
+ {
+   "Symbol": "AMOV",
+   "LastSale": "14.42"
+ },
+ {
+   "Symbol": "AMP",
+   "LastSale": "128.44"
+ },
+ {
+   "Symbol": "AMRC",
+   "LastSale": "6.45"
+ },
+ {
+   "Symbol": "AMT",
+   "LastSale": "124.43"
+ },
+ {
+   "Symbol": "AMT^A",
+   "LastSale": "117.33"
+ },
+ {
+   "Symbol": "AMT^B",
+   "LastSale": "115.66"
+ },
+ {
+   "Symbol": "AMX",
+   "LastSale": "14.61"
+ },
+ {
+   "Symbol": "AN",
+   "LastSale": "42.81"
+ },
+ {
+   "Symbol": "ANET",
+   "LastSale": "136.66"
+ },
+ {
+   "Symbol": "ANF",
+   "LastSale": "11.68"
+ },
+ {
+   "Symbol": "ANFI",
+   "LastSale": "5.17"
+ },
+ {
+   "Symbol": "ANH",
+   "LastSale": "5.69"
+ },
+ {
+   "Symbol": "ANH^A",
+   "LastSale": "26.8151"
+ },
+ {
+   "Symbol": "ANH^B",
+   "LastSale": "28.07"
+ },
+ {
+   "Symbol": "ANH^C",
+   "LastSale": "24.74"
+ },
+ {
+   "Symbol": "ANTM",
+   "LastSale": "167.8"
+ },
+ {
+   "Symbol": "ANTX",
+   "LastSale": "49.3"
+ },
+ {
+   "Symbol": "ANW",
+   "LastSale": "11.65"
+ },
+ {
+   "Symbol": "AOD",
+   "LastSale": "8.34"
+ },
+ {
+   "Symbol": "AOI",
+   "LastSale": "12.95"
+ },
+ {
+   "Symbol": "AON",
+   "LastSale": "118.43"
+ },
+ {
+   "Symbol": "AOS",
+   "LastSale": "51.37"
+ },
+ {
+   "Symbol": "AP",
+   "LastSale": "14.35"
+ },
+ {
+   "Symbol": "APA",
+   "LastSale": "49.02"
+ },
+ {
+   "Symbol": "APAM",
+   "LastSale": "28.05"
+ },
+ {
+   "Symbol": "APB",
+   "LastSale": "12.05"
+ },
+ {
+   "Symbol": "APC",
+   "LastSale": "59.29"
+ },
+ {
+   "Symbol": "APD",
+   "LastSale": "137.3"
+ },
+ {
+   "Symbol": "APF",
+   "LastSale": "15.39"
+ },
+ {
+   "Symbol": "APFH",
+   "LastSale": "34.57"
+ },
+ {
+   "Symbol": "APH",
+   "LastSale": "70.47"
+ },
+ {
+   "Symbol": "APLE",
+   "LastSale": "19.13"
+ },
+ {
+   "Symbol": "APO",
+   "LastSale": "25.01"
+ },
+ {
+   "Symbol": "APO^A",
+   "LastSale": "25.3"
+ },
+ {
+   "Symbol": "APTS",
+   "LastSale": "14.29"
+ },
+ {
+   "Symbol": "APU",
+   "LastSale": "45.79"
+ },
+ {
+   "Symbol": "AQN",
+   "LastSale": "9.58"
+ },
+ {
+   "Symbol": "AR",
+   "LastSale": "21.39"
+ },
+ {
+   "Symbol": "ARA",
+   "LastSale": "17.31"
+ },
+ {
+   "Symbol": "ARC",
+   "LastSale": "3.51"
+ },
+ {
+   "Symbol": "ARCH",
+   "LastSale": "70.58"
+ },
+ {
+   "Symbol": "ARCO",
+   "LastSale": "7.95"
+ },
+ {
+   "Symbol": "ARCX",
+   "LastSale": "14.44"
+ },
+ {
+   "Symbol": "ARD",
+   "LastSale": "21.1"
+ },
+ {
+   "Symbol": "ARDC",
+   "LastSale": "16.19"
+ },
+ {
+   "Symbol": "ARE",
+   "LastSale": "115.43"
+ },
+ {
+   "Symbol": "ARES",
+   "LastSale": "19.2"
+ },
+ {
+   "Symbol": "ARES^A",
+   "LastSale": "25.97"
+ },
+ {
+   "Symbol": "ARE^D",
+   "LastSale": "35.5299"
+ },
+ {
+   "Symbol": "ARH^C",
+   "LastSale": "25.56"
+ },
+ {
+   "Symbol": "ARI",
+   "LastSale": "18.83"
+ },
+ {
+   "Symbol": "ARI^A",
+   "LastSale": "25.57"
+ },
+ {
+   "Symbol": "ARI^C",
+   "LastSale": "25.5299"
+ },
+ {
+   "Symbol": "ARL",
+   "LastSale": "7.69"
+ },
+ {
+   "Symbol": "ARMK",
+   "LastSale": "36.72"
+ },
+ {
+   "Symbol": "ARNC",
+   "LastSale": "26"
+ },
+ {
+   "Symbol": "ARNC^B",
+   "LastSale": "40.43"
+ },
+ {
+   "Symbol": "AROC",
+   "LastSale": "11.95"
+ },
+ {
+   "Symbol": "ARR",
+   "LastSale": "23.75"
+ },
+ {
+   "Symbol": "ARR^A",
+   "LastSale": "25.215"
+ },
+ {
+   "Symbol": "ARR^B",
+   "LastSale": "23.98"
+ },
+ {
+   "Symbol": "ARU",
+   "LastSale": "25.98"
+ },
+ {
+   "Symbol": "ARW",
+   "LastSale": "70.87"
+ },
+ {
+   "Symbol": "ASA",
+   "LastSale": "12.54"
+ },
+ {
+   "Symbol": "ASB",
+   "LastSale": "24.95"
+ },
+ {
+   "Symbol": "ASB^C",
+   "LastSale": "26.2936"
+ },
+ {
+   "Symbol": "ASB^D",
+   "LastSale": "24.48"
+ },
+ {
+   "Symbol": "ASC",
+   "LastSale": "6.95"
+ },
+ {
+   "Symbol": "ASG",
+   "LastSale": "4.67"
+ },
+ {
+   "Symbol": "ASGN",
+   "LastSale": "48.16"
+ },
+ {
+   "Symbol": "ASH",
+   "LastSale": "125.06"
+ },
+ {
+   "Symbol": "ASIX",
+   "LastSale": "25.16"
+ },
+ {
+   "Symbol": "ASPN",
+   "LastSale": "3.99"
+ },
+ {
+   "Symbol": "ASR",
+   "LastSale": "182.86"
+ },
+ {
+   "Symbol": "ASX",
+   "LastSale": "6.25"
+ },
+ {
+   "Symbol": "AT",
+   "LastSale": "2.5"
+ },
+ {
+   "Symbol": "ATEN",
+   "LastSale": "8.81"
+ },
+ {
+   "Symbol": "ATH",
+   "LastSale": "52.83"
+ },
+ {
+   "Symbol": "ATHM",
+   "LastSale": "32.4"
+ },
+ {
+   "Symbol": "ATI",
+   "LastSale": "17.1"
+ },
+ {
+   "Symbol": "ATKR",
+   "LastSale": "25.68"
+ },
+ {
+   "Symbol": "ATO",
+   "LastSale": "79.83"
+ },
+ {
+   "Symbol": "ATR",
+   "LastSale": "77.99"
+ },
+ {
+   "Symbol": "ATTO",
+   "LastSale": "8.85"
+ },
+ {
+   "Symbol": "ATU",
+   "LastSale": "25.15"
+ },
+ {
+   "Symbol": "ATV",
+   "LastSale": "9.1879"
+ },
+ {
+   "Symbol": "ATW",
+   "LastSale": "7.97"
+ },
+ {
+   "Symbol": "AU",
+   "LastSale": "12.43"
+ },
+ {
+   "Symbol": "AUO",
+   "LastSale": "4.06"
+ },
+ {
+   "Symbol": "AUY",
+   "LastSale": "3.01"
+ },
+ {
+   "Symbol": "AVA",
+   "LastSale": "40.33"
+ },
+ {
+   "Symbol": "AVAL",
+   "LastSale": "8.11"
+ },
+ {
+   "Symbol": "AVB",
+   "LastSale": "186.72"
+ },
+ {
+   "Symbol": "AVD",
+   "LastSale": "16.75"
+ },
+ {
+   "Symbol": "AVH",
+   "LastSale": "7.18"
+ },
+ {
+   "Symbol": "AVK",
+   "LastSale": "15.58"
+ },
+ {
+   "Symbol": "AVP",
+   "LastSale": "4.4"
+ },
+ {
+   "Symbol": "AVT",
+   "LastSale": "44.21"
+ },
+ {
+   "Symbol": "AVX",
+   "LastSale": "16.77"
+ },
+ {
+   "Symbol": "AVY",
+   "LastSale": "81.69"
+ },
+ {
+   "Symbol": "AWF",
+   "LastSale": "12.74"
+ },
+ {
+   "Symbol": "AWH",
+   "LastSale": "52.94"
+ },
+ {
+   "Symbol": "AWI",
+   "LastSale": "46.75"
+ },
+ {
+   "Symbol": "AWK",
+   "LastSale": "80.51"
+ },
+ {
+   "Symbol": "AWP",
+   "LastSale": "5.92"
+ },
+ {
+   "Symbol": "AWR",
+   "LastSale": "45.14"
+ },
+ {
+   "Symbol": "AXE",
+   "LastSale": "79.35"
+ },
+ {
+   "Symbol": "AXL",
+   "LastSale": "16.99"
+ },
+ {
+   "Symbol": "AXON          ",
+   "LastSale": "21.54"
+ },
+ {
+   "Symbol": "AXP",
+   "LastSale": "79.59"
+ },
+ {
+   "Symbol": "AXR",
+   "LastSale": "7"
+ },
+ {
+   "Symbol": "AXS",
+   "LastSale": "66.2"
+ },
+ {
+   "Symbol": "AXS^D",
+   "LastSale": "25.29"
+ },
+ {
+   "Symbol": "AXS^E",
+   "LastSale": "24.1"
+ },
+ {
+   "Symbol": "AXTA",
+   "LastSale": "31.37"
+ },
+ {
+   "Symbol": "AYI",
+   "LastSale": "177.65"
+ },
+ {
+   "Symbol": "AYR",
+   "LastSale": "23.14"
+ },
+ {
+   "Symbol": "AYX",
+   "LastSale": "15.43"
+ },
+ {
+   "Symbol": "AZN",
+   "LastSale": "29.76"
+ },
+ {
+   "Symbol": "AZO",
+   "LastSale": "707.79"
+ },
+ {
+   "Symbol": "AZRE",
+   "LastSale": "16.1"
+ },
+ {
+   "Symbol": "AZUL",
+   "LastSale": "23"
+ },
+ {
+   "Symbol": "AZZ",
+   "LastSale": "56.75"
+ },
+ {
+   "Symbol": "B",
+   "LastSale": "51.43"
+ },
+ {
+   "Symbol": "BA",
+   "LastSale": "180.38"
+ },
+ {
+   "Symbol": "BABA",
+   "LastSale": "113.11"
+ },
+ {
+   "Symbol": "BAC",
+   "LastSale": "22.71"
+ },
+ {
+   "Symbol": "BAC.WS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BAC.WS.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BAC^A",
+   "LastSale": "26.02"
+ },
+ {
+   "Symbol": "BAC^C",
+   "LastSale": "26.01"
+ },
+ {
+   "Symbol": "BAC^D",
+   "LastSale": "25.69"
+ },
+ {
+   "Symbol": "BAC^E",
+   "LastSale": "23.3"
+ },
+ {
+   "Symbol": "BAC^I",
+   "LastSale": "25.83"
+ },
+ {
+   "Symbol": "BAC^L",
+   "LastSale": "1211"
+ },
+ {
+   "Symbol": "BAC^W",
+   "LastSale": "27.11"
+ },
+ {
+   "Symbol": "BAC^Y",
+   "LastSale": "26.94"
+ },
+ {
+   "Symbol": "BAF",
+   "LastSale": "14.58"
+ },
+ {
+   "Symbol": "BAH",
+   "LastSale": "35.65"
+ },
+ {
+   "Symbol": "BAK",
+   "LastSale": "20.2"
+ },
+ {
+   "Symbol": "BAM",
+   "LastSale": "36.22"
+ },
+ {
+   "Symbol": "BANC",
+   "LastSale": "22.1"
+ },
+ {
+   "Symbol": "BANC^C",
+   "LastSale": "26.95"
+ },
+ {
+   "Symbol": "BANC^D",
+   "LastSale": "26.44"
+ },
+ {
+   "Symbol": "BANC^E",
+   "LastSale": "26.35"
+ },
+ {
+   "Symbol": "BAP",
+   "LastSale": "153.06"
+ },
+ {
+   "Symbol": "BAS",
+   "LastSale": "30.66"
+ },
+ {
+   "Symbol": "BAX",
+   "LastSale": "52.88"
+ },
+ {
+   "Symbol": "BBD",
+   "LastSale": "9.84"
+ },
+ {
+   "Symbol": "BBDO",
+   "LastSale": "9.81"
+ },
+ {
+   "Symbol": "BBF",
+   "LastSale": "14.75"
+ },
+ {
+   "Symbol": "BBG",
+   "LastSale": "3.87"
+ },
+ {
+   "Symbol": "BBK",
+   "LastSale": "15.3"
+ },
+ {
+   "Symbol": "BBL",
+   "LastSale": "30.75"
+ },
+ {
+   "Symbol": "BBN",
+   "LastSale": "22.5"
+ },
+ {
+   "Symbol": "BBT",
+   "LastSale": "42.93"
+ },
+ {
+   "Symbol": "BBT^D",
+   "LastSale": "25.54"
+ },
+ {
+   "Symbol": "BBT^E",
+   "LastSale": "25.67"
+ },
+ {
+   "Symbol": "BBT^F",
+   "LastSale": "25.19"
+ },
+ {
+   "Symbol": "BBT^G",
+   "LastSale": "25.23"
+ },
+ {
+   "Symbol": "BBT^H",
+   "LastSale": "25.83"
+ },
+ {
+   "Symbol": "BBU",
+   "LastSale": "25.99"
+ },
+ {
+   "Symbol": "BBVA",
+   "LastSale": "7.61"
+ },
+ {
+   "Symbol": "BBW",
+   "LastSale": "9.1"
+ },
+ {
+   "Symbol": "BBY",
+   "LastSale": "50.64"
+ },
+ {
+   "Symbol": "BC",
+   "LastSale": "58.91"
+ },
+ {
+   "Symbol": "BCC",
+   "LastSale": "30.35"
+ },
+ {
+   "Symbol": "BCE",
+   "LastSale": "45.43"
+ },
+ {
+   "Symbol": "BCEI",
+   "LastSale": "0.871"
+ },
+ {
+   "Symbol": "BCH",
+   "LastSale": "74.74"
+ },
+ {
+   "Symbol": "BCO",
+   "LastSale": "56.65"
+ },
+ {
+   "Symbol": "BCR",
+   "LastSale": "253.07"
+ },
+ {
+   "Symbol": "BCRH",
+   "LastSale": "19.5"
+ },
+ {
+   "Symbol": "BCS",
+   "LastSale": "10.56"
+ },
+ {
+   "Symbol": "BCS^D",
+   "LastSale": "26.17"
+ },
+ {
+   "Symbol": "BCX",
+   "LastSale": "8.57"
+ },
+ {
+   "Symbol": "BDC",
+   "LastSale": "67.25"
+ },
+ {
+   "Symbol": "BDC^B",
+   "LastSale": "94.98"
+ },
+ {
+   "Symbol": "BDJ",
+   "LastSale": "8.52"
+ },
+ {
+   "Symbol": "BDN",
+   "LastSale": "17.05"
+ },
+ {
+   "Symbol": "BDX",
+   "LastSale": "185.29"
+ },
+ {
+   "Symbol": "BEL",
+   "LastSale": "12.05"
+ },
+ {
+   "Symbol": "BEN",
+   "LastSale": "41.01"
+ },
+ {
+   "Symbol": "BEP",
+   "LastSale": "30.75"
+ },
+ {
+   "Symbol": "BERY",
+   "LastSale": "49.26"
+ },
+ {
+   "Symbol": "BETR",
+   "LastSale": "8.5"
+ },
+ {
+   "Symbol": "BF.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BF.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BFAM",
+   "LastSale": "74.57"
+ },
+ {
+   "Symbol": "BFK",
+   "LastSale": "14.13"
+ },
+ {
+   "Symbol": "BFO",
+   "LastSale": "15.14"
+ },
+ {
+   "Symbol": "BFR",
+   "LastSale": "18.39"
+ },
+ {
+   "Symbol": "BFS",
+   "LastSale": "63.96"
+ },
+ {
+   "Symbol": "BFS^C",
+   "LastSale": "25.6359"
+ },
+ {
+   "Symbol": "BFZ",
+   "LastSale": "14.31"
+ },
+ {
+   "Symbol": "BG",
+   "LastSale": "77.46"
+ },
+ {
+   "Symbol": "BGB",
+   "LastSale": "16.09"
+ },
+ {
+   "Symbol": "BGC",
+   "LastSale": "17"
+ },
+ {
+   "Symbol": "BGCA",
+   "LastSale": "25.54"
+ },
+ {
+   "Symbol": "BGE^B",
+   "LastSale": "25.97"
+ },
+ {
+   "Symbol": "BGG",
+   "LastSale": "23.5"
+ },
+ {
+   "Symbol": "BGH",
+   "LastSale": "19.81"
+ },
+ {
+   "Symbol": "BGIO",
+   "LastSale": "10.01"
+ },
+ {
+   "Symbol": "BGR",
+   "LastSale": "13.4"
+ },
+ {
+   "Symbol": "BGS",
+   "LastSale": "42.5"
+ },
+ {
+   "Symbol": "BGT",
+   "LastSale": "14.6"
+ },
+ {
+   "Symbol": "BGX",
+   "LastSale": "16.3"
+ },
+ {
+   "Symbol": "BGY",
+   "LastSale": "5.89"
+ },
+ {
+   "Symbol": "BH",
+   "LastSale": "430.18"
+ },
+ {
+   "Symbol": "BHE",
+   "LastSale": "31"
+ },
+ {
+   "Symbol": "BHI",
+   "LastSale": "57.68"
+ },
+ {
+   "Symbol": "BHK",
+   "LastSale": "13.64"
+ },
+ {
+   "Symbol": "BHL",
+   "LastSale": "13.7"
+ },
+ {
+   "Symbol": "BHLB",
+   "LastSale": "34.95"
+ },
+ {
+   "Symbol": "BHP",
+   "LastSale": "35.76"
+ },
+ {
+   "Symbol": "BID",
+   "LastSale": "45.51"
+ },
+ {
+   "Symbol": "BIF",
+   "LastSale": "9.32"
+ },
+ {
+   "Symbol": "BIG",
+   "LastSale": "49.69"
+ },
+ {
+   "Symbol": "BIO",
+   "LastSale": "211.59"
+ },
+ {
+   "Symbol": "BIO.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BIOA",
+   "LastSale": "2.36"
+ },
+ {
+   "Symbol": "BIOA.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BIP",
+   "LastSale": "38.57"
+ },
+ {
+   "Symbol": "BIT",
+   "LastSale": "17.64"
+ },
+ {
+   "Symbol": "BITA",
+   "LastSale": "27.01"
+ },
+ {
+   "Symbol": "BJZ",
+   "LastSale": "15.07"
+ },
+ {
+   "Symbol": "BK",
+   "LastSale": "46.75"
+ },
+ {
+   "Symbol": "BKD",
+   "LastSale": "13.01"
+ },
+ {
+   "Symbol": "BKE",
+   "LastSale": "18.8"
+ },
+ {
+   "Symbol": "BKFS",
+   "LastSale": "39.9"
+ },
+ {
+   "Symbol": "BKH",
+   "LastSale": "67.33"
+ },
+ {
+   "Symbol": "BKHU",
+   "LastSale": "73.26"
+ },
+ {
+   "Symbol": "BKK",
+   "LastSale": "15.85"
+ },
+ {
+   "Symbol": "BKN",
+   "LastSale": "14.81"
+ },
+ {
+   "Symbol": "BKS",
+   "LastSale": "8.75"
+ },
+ {
+   "Symbol": "BKT",
+   "LastSale": "6.25"
+ },
+ {
+   "Symbol": "BKU",
+   "LastSale": "35.69"
+ },
+ {
+   "Symbol": "BK^C",
+   "LastSale": "25.28"
+ },
+ {
+   "Symbol": "BLD",
+   "LastSale": "49.68"
+ },
+ {
+   "Symbol": "BLH",
+   "LastSale": "14.89"
+ },
+ {
+   "Symbol": "BLK",
+   "LastSale": "378.06"
+ },
+ {
+   "Symbol": "BLL",
+   "LastSale": "73.68"
+ },
+ {
+   "Symbol": "BLW",
+   "LastSale": "15.61"
+ },
+ {
+   "Symbol": "BLX",
+   "LastSale": "27.59"
+ },
+ {
+   "Symbol": "BMA",
+   "LastSale": "84.84"
+ },
+ {
+   "Symbol": "BME",
+   "LastSale": "34.18"
+ },
+ {
+   "Symbol": "BMI",
+   "LastSale": "39.65"
+ },
+ {
+   "Symbol": "BML^G",
+   "LastSale": "22.15"
+ },
+ {
+   "Symbol": "BML^H",
+   "LastSale": "22.05"
+ },
+ {
+   "Symbol": "BML^I",
+   "LastSale": "25.82"
+ },
+ {
+   "Symbol": "BML^J",
+   "LastSale": "23.68"
+ },
+ {
+   "Symbol": "BML^L",
+   "LastSale": "23.38"
+ },
+ {
+   "Symbol": "BMO",
+   "LastSale": "73.1"
+ },
+ {
+   "Symbol": "BMS",
+   "LastSale": "49.33"
+ },
+ {
+   "Symbol": "BMY",
+   "LastSale": "53.48"
+ },
+ {
+   "Symbol": "BNED",
+   "LastSale": "10.3"
+ },
+ {
+   "Symbol": "BNJ",
+   "LastSale": "15.45"
+ },
+ {
+   "Symbol": "BNS",
+   "LastSale": "56.89"
+ },
+ {
+   "Symbol": "BNY",
+   "LastSale": "14.91"
+ },
+ {
+   "Symbol": "BOE",
+   "LastSale": "12.71"
+ },
+ {
+   "Symbol": "BOH",
+   "LastSale": "81.19"
+ },
+ {
+   "Symbol": "BOOT",
+   "LastSale": "10.76"
+ },
+ {
+   "Symbol": "BORN",
+   "LastSale": "1.16"
+ },
+ {
+   "Symbol": "BOX",
+   "LastSale": "16.8"
+ },
+ {
+   "Symbol": "BOXC",
+   "LastSale": "24.11"
+ },
+ {
+   "Symbol": "BP",
+   "LastSale": "34"
+ },
+ {
+   "Symbol": "BPI",
+   "LastSale": "11.77"
+ },
+ {
+   "Symbol": "BPK",
+   "LastSale": "15.04"
+ },
+ {
+   "Symbol": "BPL",
+   "LastSale": "68.07"
+ },
+ {
+   "Symbol": "BPT",
+   "LastSale": "19.6"
+ },
+ {
+   "Symbol": "BPY",
+   "LastSale": "23.02"
+ },
+ {
+   "Symbol": "BQH",
+   "LastSale": "14.43"
+ },
+ {
+   "Symbol": "BR",
+   "LastSale": "68.46"
+ },
+ {
+   "Symbol": "BRC",
+   "LastSale": "38.2"
+ },
+ {
+   "Symbol": "BRFS",
+   "LastSale": "12.71"
+ },
+ {
+   "Symbol": "BRK.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BRK.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "BRO",
+   "LastSale": "42.5"
+ },
+ {
+   "Symbol": "BRS",
+   "LastSale": "13.79"
+ },
+ {
+   "Symbol": "BRSS",
+   "LastSale": "33.25"
+ },
+ {
+   "Symbol": "BRT",
+   "LastSale": "8.07"
+ },
+ {
+   "Symbol": "BRX",
+   "LastSale": "21.62"
+ },
+ {
+   "Symbol": "BSAC",
+   "LastSale": "23.81"
+ },
+ {
+   "Symbol": "BSBR",
+   "LastSale": "7.88"
+ },
+ {
+   "Symbol": "BSD",
+   "LastSale": "13.71"
+ },
+ {
+   "Symbol": "BSE",
+   "LastSale": "13.3753"
+ },
+ {
+   "Symbol": "BSL",
+   "LastSale": "18.15"
+ },
+ {
+   "Symbol": "BSM",
+   "LastSale": "16.47"
+ },
+ {
+   "Symbol": "BSMX",
+   "LastSale": "9.06"
+ },
+ {
+   "Symbol": "BST",
+   "LastSale": "21.03"
+ },
+ {
+   "Symbol": "BSX",
+   "LastSale": "24.86"
+ },
+ {
+   "Symbol": "BT",
+   "LastSale": "20.05"
+ },
+ {
+   "Symbol": "BTA",
+   "LastSale": "11.75"
+ },
+ {
+   "Symbol": "BTE",
+   "LastSale": "2.99"
+ },
+ {
+   "Symbol": "BTO",
+   "LastSale": "34.34"
+ },
+ {
+   "Symbol": "BTT",
+   "LastSale": "22.94"
+ },
+ {
+   "Symbol": "BTU",
+   "LastSale": "25.69"
+ },
+ {
+   "Symbol": "BTZ",
+   "LastSale": "13.22"
+ },
+ {
+   "Symbol": "BUD",
+   "LastSale": "108.28"
+ },
+ {
+   "Symbol": "BUI",
+   "LastSale": "20.57"
+ },
+ {
+   "Symbol": "BURL",
+   "LastSale": "97.54"
+ },
+ {
+   "Symbol": "BVN",
+   "LastSale": "12.2"
+ },
+ {
+   "Symbol": "BW",
+   "LastSale": "9.17"
+ },
+ {
+   "Symbol": "BWA",
+   "LastSale": "39.51"
+ },
+ {
+   "Symbol": "BWG",
+   "LastSale": "13.01"
+ },
+ {
+   "Symbol": "BWP",
+   "LastSale": "18.33"
+ },
+ {
+   "Symbol": "BWXT",
+   "LastSale": "48.55"
+ },
+ {
+   "Symbol": "BX",
+   "LastSale": "30.28"
+ },
+ {
+   "Symbol": "BXC",
+   "LastSale": "9.77"
+ },
+ {
+   "Symbol": "BXE",
+   "LastSale": "0.754"
+ },
+ {
+   "Symbol": "BXMT",
+   "LastSale": "30.76"
+ },
+ {
+   "Symbol": "BXMX",
+   "LastSale": "13.68"
+ },
+ {
+   "Symbol": "BXP",
+   "LastSale": "134.35"
+ },
+ {
+   "Symbol": "BXP^B",
+   "LastSale": "25.97"
+ },
+ {
+   "Symbol": "BXS",
+   "LastSale": "30.6"
+ },
+ {
+   "Symbol": "BYD",
+   "LastSale": "22.17"
+ },
+ {
+   "Symbol": "BYM",
+   "LastSale": "14.08"
+ },
+ {
+   "Symbol": "BZH",
+   "LastSale": "12.4"
+ },
+ {
+   "Symbol": "C",
+   "LastSale": "57.72"
+ },
+ {
+   "Symbol": "C.WS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "CAA",
+   "LastSale": "37.79"
+ },
+ {
+   "Symbol": "CAB",
+   "LastSale": "56.94"
+ },
+ {
+   "Symbol": "CABO",
+   "LastSale": "664.5"
+ },
+ {
+   "Symbol": "CACI",
+   "LastSale": "116"
+ },
+ {
+   "Symbol": "CADE",
+   "LastSale": "22.22"
+ },
+ {
+   "Symbol": "CAE",
+   "LastSale": "15.21"
+ },
+ {
+   "Symbol": "CAF",
+   "LastSale": "19.52"
+ },
+ {
+   "Symbol": "CAG",
+   "LastSale": "40.66"
+ },
+ {
+   "Symbol": "CAH",
+   "LastSale": "72.5"
+ },
+ {
+   "Symbol": "CAI",
+   "LastSale": "18.57"
+ },
+ {
+   "Symbol": "CAJ",
+   "LastSale": "31.78"
+ },
+ {
+   "Symbol": "CAL",
+   "LastSale": "28.17"
+ },
+ {
+   "Symbol": "CALX",
+   "LastSale": "6.7"
+ },
+ {
+   "Symbol": "CAPL",
+   "LastSale": "25.5"
+ },
+ {
+   "Symbol": "CAT",
+   "LastSale": "94.32"
+ },
+ {
+   "Symbol": "CATO",
+   "LastSale": "22.39"
+ },
+ {
+   "Symbol": "CB",
+   "LastSale": "135.48"
+ },
+ {
+   "Symbol": "CBA           ",
+   "LastSale": "9.68"
+ },
+ {
+   "Symbol": "CBB",
+   "LastSale": "18.45"
+ },
+ {
+   "Symbol": "CBB^B",
+   "LastSale": "50"
+ },
+ {
+   "Symbol": "CBD",
+   "LastSale": "20.18"
+ },
+ {
+   "Symbol": "CBG",
+   "LastSale": "34.38"
+ },
+ {
+   "Symbol": "CBI",
+   "LastSale": "29.95"
+ },
+ {
+   "Symbol": "CBK",
+   "LastSale": "1.32"
+ },
+ {
+   "Symbol": "CBL",
+   "LastSale": "10.03"
+ },
+ {
+   "Symbol": "CBL^D",
+   "LastSale": "23.73"
+ },
+ {
+   "Symbol": "CBL^E",
+   "LastSale": "23.77"
+ },
+ {
+   "Symbol": "CBM",
+   "LastSale": "55.9"
+ },
+ {
+   "Symbol": "CBO",
+   "LastSale": "19.3"
+ },
+ {
+   "Symbol": "CBPX",
+   "LastSale": "23.85"
+ },
+ {
+   "Symbol": "CBS",
+   "LastSale": "66.84"
+ },
+ {
+   "Symbol": "CBS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "CBT",
+   "LastSale": "59.04"
+ },
+ {
+   "Symbol": "CBU",
+   "LastSale": "54.44"
+ },
+ {
+   "Symbol": "CBX",
+   "LastSale": "1.09"
+ },
+ {
+   "Symbol": "CBZ",
+   "LastSale": "14.65"
+ },
+ {
+   "Symbol": "CC",
+   "LastSale": "37.53"
+ },
+ {
+   "Symbol": "CCC",
+   "LastSale": "13.75"
+ },
+ {
+   "Symbol": "CCE",
+   "LastSale": "37.35"
+ },
+ {
+   "Symbol": "CCI",
+   "LastSale": "95.53"
+ },
+ {
+   "Symbol": "CCJ",
+   "LastSale": "10.73"
+ },
+ {
+   "Symbol": "CCK",
+   "LastSale": "55.07"
+ },
+ {
+   "Symbol": "CCL",
+   "LastSale": "58.96"
+ },
+ {
+   "Symbol": "CCM",
+   "LastSale": "4.53"
+ },
+ {
+   "Symbol": "CCO",
+   "LastSale": "5.85"
+ },
+ {
+   "Symbol": "CCP",
+   "LastSale": "28.18"
+ },
+ {
+   "Symbol": "CCS",
+   "LastSale": "26.9"
+ },
+ {
+   "Symbol": "CCU",
+   "LastSale": "25.87"
+ },
+ {
+   "Symbol": "CCV",
+   "LastSale": "26.01"
+ },
+ {
+   "Symbol": "CCZ",
+   "LastSale": "50.1"
+ },
+ {
+   "Symbol": "CDE",
+   "LastSale": "9.36"
+ },
+ {
+   "Symbol": "CDI",
+   "LastSale": "7.8"
+ },
+ {
+   "Symbol": "CDR",
+   "LastSale": "5.34"
+ },
+ {
+   "Symbol": "CDR^B",
+   "LastSale": "25.65"
+ },
+ {
+   "Symbol": "CE",
+   "LastSale": "88.4"
+ },
+ {
+   "Symbol": "CEA",
+   "LastSale": "27.45"
+ },
+ {
+   "Symbol": "CEE",
+   "LastSale": "20.9701"
+ },
+ {
+   "Symbol": "CEL",
+   "LastSale": "9.91"
+ },
+ {
+   "Symbol": "CELP",
+   "LastSale": "8.74"
+ },
+ {
+   "Symbol": "CEM",
+   "LastSale": "16.71"
+ },
+ {
+   "Symbol": "CEN",
+   "LastSale": "12.19"
+ },
+ {
+   "Symbol": "CEO",
+   "LastSale": "115.57"
+ },
+ {
+   "Symbol": "CEQP",
+   "LastSale": "25.25"
+ },
+ {
+   "Symbol": "CF",
+   "LastSale": "26"
+ },
+ {
+   "Symbol": "CFC^B",
+   "LastSale": "25.95"
+ },
+ {
+   "Symbol": "CFG",
+   "LastSale": "34.9"
+ },
+ {
+   "Symbol": "CFI",
+   "LastSale": "32.4"
+ },
+ {
+   "Symbol": "CFR",
+   "LastSale": "89.98"
+ },
+ {
+   "Symbol": "CFR^A",
+   "LastSale": "25.71"
+ },
+ {
+   "Symbol": "CFX",
+   "LastSale": "38.75"
+ },
+ {
+   "Symbol": "CGA",
+   "LastSale": "1.26"
+ },
+ {
+   "Symbol": "CGG",
+   "LastSale": "6.78"
+ },
+ {
+   "Symbol": "CGI",
+   "LastSale": "4.7"
+ },
+ {
+   "Symbol": "CHA",
+   "LastSale": "49.08"
+ },
+ {
+   "Symbol": "CHCT",
+   "LastSale": "24.8"
+ },
+ {
+   "Symbol": "CHD",
+   "LastSale": "50.25"
+ },
+ {
+   "Symbol": "CHE",
+   "LastSale": "185.28"
+ },
+ {
+   "Symbol": "CHGG",
+   "LastSale": "8.25"
+ },
+ {
+   "Symbol": "CHH",
+   "LastSale": "62.95"
+ },
+ {
+   "Symbol": "CHK",
+   "LastSale": "5.52"
+ },
+ {
+   "Symbol": "CHKR",
+   "LastSale": "2.575"
+ },
+ {
+   "Symbol": "CHK^D",
+   "LastSale": "59.94"
+ },
+ {
+   "Symbol": "CHL",
+   "LastSale": "53.87"
+ },
+ {
+   "Symbol": "CHMI",
+   "LastSale": "17.47"
+ },
+ {
+   "Symbol": "CHN",
+   "LastSale": "17.12"
+ },
+ {
+   "Symbol": "CHS",
+   "LastSale": "14.21"
+ },
+ {
+   "Symbol": "CHSP",
+   "LastSale": "24.03"
+ },
+ {
+   "Symbol": "CHSP^A",
+   "LastSale": "25.42"
+ },
+ {
+   "Symbol": "CHT",
+   "LastSale": "33.91"
+ },
+ {
+   "Symbol": "CHU",
+   "LastSale": "13.21"
+ },
+ {
+   "Symbol": "CI",
+   "LastSale": "155.08"
+ },
+ {
+   "Symbol": "CIA",
+   "LastSale": "6.22"
+ },
+ {
+   "Symbol": "CIB",
+   "LastSale": "39.24"
+ },
+ {
+   "Symbol": "CIE",
+   "LastSale": "0.3944"
+ },
+ {
+   "Symbol": "CIEN",
+   "LastSale": "21.77"
+ },
+ {
+   "Symbol": "CIF",
+   "LastSale": "2.68"
+ },
+ {
+   "Symbol": "CIG",
+   "LastSale": "2.93"
+ },
+ {
+   "Symbol": "CIG.C",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "CII",
+   "LastSale": "14.48"
+ },
+ {
+   "Symbol": "CIM",
+   "LastSale": "20.49"
+ },
+ {
+   "Symbol": "CIM^A",
+   "LastSale": "25.409"
+ },
+ {
+   "Symbol": "CIM^B",
+   "LastSale": "25.46"
+ },
+ {
+   "Symbol": "CINR",
+   "LastSale": "28.51"
+ },
+ {
+   "Symbol": "CIO",
+   "LastSale": "12.46"
+ },
+ {
+   "Symbol": "CIO^A",
+   "LastSale": "25.13"
+ },
+ {
+   "Symbol": "CIR",
+   "LastSale": "61.78"
+ },
+ {
+   "Symbol": "CIT",
+   "LastSale": "43.6"
+ },
+ {
+   "Symbol": "CIVI",
+   "LastSale": "17.35"
+ },
+ {
+   "Symbol": "CJ",
+   "LastSale": "31.05"
+ },
+ {
+   "Symbol": "CKH",
+   "LastSale": "64.98"
+ },
+ {
+   "Symbol": "CL",
+   "LastSale": "73.02"
+ },
+ {
+   "Symbol": "CLA",
+   "LastSale": "25.48"
+ },
+ {
+   "Symbol": "CLB",
+   "LastSale": "112.49"
+ },
+ {
+   "Symbol": "CLD",
+   "LastSale": "3.89"
+ },
+ {
+   "Symbol": "CLDT",
+   "LastSale": "19.87"
+ },
+ {
+   "Symbol": "CLF",
+   "LastSale": "7.11"
+ },
+ {
+   "Symbol": "CLGX",
+   "LastSale": "41.54"
+ },
+ {
+   "Symbol": "CLH",
+   "LastSale": "57.13"
+ },
+ {
+   "Symbol": "CLI",
+   "LastSale": "28.25"
+ },
+ {
+   "Symbol": "CLNS",
+   "LastSale": "13.05"
+ },
+ {
+   "Symbol": "CLNS^A",
+   "LastSale": "25.621"
+ },
+ {
+   "Symbol": "CLNS^B",
+   "LastSale": "25.64"
+ },
+ {
+   "Symbol": "CLNS^C",
+   "LastSale": "25.86"
+ },
+ {
+   "Symbol": "CLNS^D",
+   "LastSale": "26.34"
+ },
+ {
+   "Symbol": "CLNS^E",
+   "LastSale": "26.48"
+ },
+ {
+   "Symbol": "CLNS^F",
+   "LastSale": "25.29"
+ },
+ {
+   "Symbol": "CLNS^G",
+   "LastSale": "25.1"
+ },
+ {
+   "Symbol": "CLNS^H",
+   "LastSale": "24.95"
+ },
+ {
+   "Symbol": "CLPR",
+   "LastSale": "11.07"
+ },
+ {
+   "Symbol": "CLR",
+   "LastSale": "43.21"
+ },
+ {
+   "Symbol": "CLS",
+   "LastSale": "14.26"
+ },
+ {
+   "Symbol": "CLW",
+   "LastSale": "48.5"
+ },
+ {
+   "Symbol": "CLX",
+   "LastSale": "134.29"
+ },
+ {
+   "Symbol": "CM",
+   "LastSale": "82.85"
+ },
+ {
+   "Symbol": "CMA",
+   "LastSale": "68.71"
+ },
+ {
+   "Symbol": "CMA.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "CMC",
+   "LastSale": "18.46"
+ },
+ {
+   "Symbol": "CMCM",
+   "LastSale": "10.83"
+ },
+ {
+   "Symbol": "CMD",
+   "LastSale": "72.35"
+ },
+ {
+   "Symbol": "CMG",
+   "LastSale": "479.09"
+ },
+ {
+   "Symbol": "CMI",
+   "LastSale": "145.56"
+ },
+ {
+   "Symbol": "CMO",
+   "LastSale": "10.77"
+ },
+ {
+   "Symbol": "CMO^E",
+   "LastSale": "24.85"
+ },
+ {
+   "Symbol": "CMP",
+   "LastSale": "67"
+ },
+ {
+   "Symbol": "CMRE",
+   "LastSale": "6.56"
+ },
+ {
+   "Symbol": "CMRE^B",
+   "LastSale": "22.7"
+ },
+ {
+   "Symbol": "CMRE^C",
+   "LastSale": "23.49"
+ },
+ {
+   "Symbol": "CMRE^D",
+   "LastSale": "23.75"
+ },
+ {
+   "Symbol": "CMS",
+   "LastSale": "45.19"
+ },
+ {
+   "Symbol": "CMS^B",
+   "LastSale": "102"
+ },
+ {
+   "Symbol": "CMU",
+   "LastSale": "4.64"
+ },
+ {
+   "Symbol": "CNA",
+   "LastSale": "44.01"
+ },
+ {
+   "Symbol": "CNC",
+   "LastSale": "70.64"
+ },
+ {
+   "Symbol": "CNCO",
+   "LastSale": "8.99"
+ },
+ {
+   "Symbol": "CNDT",
+   "LastSale": "16.05"
+ },
+ {
+   "Symbol": "CNHI",
+   "LastSale": "10"
+ },
+ {
+   "Symbol": "CNI",
+   "LastSale": "74.72"
+ },
+ {
+   "Symbol": "CNK",
+   "LastSale": "43.62"
+ },
+ {
+   "Symbol": "CNNX",
+   "LastSale": "21.25"
+ },
+ {
+   "Symbol": "CNO",
+   "LastSale": "20.63"
+ },
+ {
+   "Symbol": "CNP",
+   "LastSale": "28.12"
+ },
+ {
+   "Symbol": "CNQ",
+   "LastSale": "32.67"
+ },
+ {
+   "Symbol": "CNS",
+   "LastSale": "40.98"
+ },
+ {
+   "Symbol": "CNX",
+   "LastSale": "15.35"
+ },
+ {
+   "Symbol": "CNXC",
+   "LastSale": "15.2"
+ },
+ {
+   "Symbol": "CO",
+   "LastSale": "6.85"
+ },
+ {
+   "Symbol": "CODI",
+   "LastSale": "16.8"
+ },
+ {
+   "Symbol": "COE",
+   "LastSale": "17.24"
+ },
+ {
+   "Symbol": "COF",
+   "LastSale": "82.67"
+ },
+ {
+   "Symbol": "COF.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "COF^C",
+   "LastSale": "26.3"
+ },
+ {
+   "Symbol": "COF^D",
+   "LastSale": "27.51"
+ },
+ {
+   "Symbol": "COF^F",
+   "LastSale": "26.62"
+ },
+ {
+   "Symbol": "COF^G",
+   "LastSale": "23.7"
+ },
+ {
+   "Symbol": "COF^H",
+   "LastSale": "25.75"
+ },
+ {
+   "Symbol": "COF^P",
+   "LastSale": "25.73"
+ },
+ {
+   "Symbol": "COG",
+   "LastSale": "24.08"
+ },
+ {
+   "Symbol": "COH",
+   "LastSale": "39.11"
+ },
+ {
+   "Symbol": "COL",
+   "LastSale": "104.7"
+ },
+ {
+   "Symbol": "COO",
+   "LastSale": "199.14"
+ },
+ {
+   "Symbol": "COP",
+   "LastSale": "47.74"
+ },
+ {
+   "Symbol": "COR",
+   "LastSale": "93.01"
+ },
+ {
+   "Symbol": "CORR",
+   "LastSale": "35.85"
+ },
+ {
+   "Symbol": "CORR^A",
+   "LastSale": "24.859"
+ },
+ {
+   "Symbol": "COR^A",
+   "LastSale": "25.62"
+ },
+ {
+   "Symbol": "COT",
+   "LastSale": "12.8"
+ },
+ {
+   "Symbol": "COTV",
+   "LastSale": "41.72"
+ },
+ {
+   "Symbol": "COTY",
+   "LastSale": "17.6"
+ },
+ {
+   "Symbol": "CP",
+   "LastSale": "152.99"
+ },
+ {
+   "Symbol": "CPA",
+   "LastSale": "114.31"
+ },
+ {
+   "Symbol": "CPAC",
+   "LastSale": "11.18"
+ },
+ {
+   "Symbol": "CPB",
+   "LastSale": "57.35"
+ },
+ {
+   "Symbol": "CPE",
+   "LastSale": "11.54"
+ },
+ {
+   "Symbol": "CPE^A",
+   "LastSale": "52.9142"
+ },
+ {
+   "Symbol": "CPF",
+   "LastSale": "30.31"
+ },
+ {
+   "Symbol": "CPG",
+   "LastSale": "10.09"
+ },
+ {
+   "Symbol": "CPK",
+   "LastSale": "71.75"
+ },
+ {
+   "Symbol": "CPL",
+   "LastSale": "16.22"
+ },
+ {
+   "Symbol": "CPN",
+   "LastSale": "10.17"
+ },
+ {
+   "Symbol": "CPS",
+   "LastSale": "110.25"
+ },
+ {
+   "Symbol": "CPT",
+   "LastSale": "81.92"
+ },
+ {
+   "Symbol": "CR",
+   "LastSale": "76.54"
+ },
+ {
+   "Symbol": "CRC",
+   "LastSale": "11.95"
+ },
+ {
+   "Symbol": "CRCM",
+   "LastSale": "11.83"
+ },
+ {
+   "Symbol": "CRD.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "CRD.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "CRH",
+   "LastSale": "34.75"
+ },
+ {
+   "Symbol": "CRI",
+   "LastSale": "91.41"
+ },
+ {
+   "Symbol": "CRK",
+   "LastSale": "8.65"
+ },
+ {
+   "Symbol": "CRL",
+   "LastSale": "88.83"
+ },
+ {
+   "Symbol": "CRM",
+   "LastSale": "83.79"
+ },
+ {
+   "Symbol": "CRR",
+   "LastSale": "8.89"
+ },
+ {
+   "Symbol": "CRS",
+   "LastSale": "36.57"
+ },
+ {
+   "Symbol": "CRT",
+   "LastSale": "15.55"
+ },
+ {
+   "Symbol": "CRY",
+   "LastSale": "15.65"
+ },
+ {
+   "Symbol": "CS",
+   "LastSale": "14.45"
+ },
+ {
+   "Symbol": "CSL",
+   "LastSale": "107.44"
+ },
+ {
+   "Symbol": "CSLT",
+   "LastSale": "3.95"
+ },
+ {
+   "Symbol": "CSRA",
+   "LastSale": "28.92"
+ },
+ {
+   "Symbol": "CSS",
+   "LastSale": "26.41"
+ },
+ {
+   "Symbol": "CST",
+   "LastSale": "48.33"
+ },
+ {
+   "Symbol": "CSTM",
+   "LastSale": "5.55"
+ },
+ {
+   "Symbol": "CSU",
+   "LastSale": "14.17"
+ },
+ {
+   "Symbol": "CSV",
+   "LastSale": "27.64"
+ },
+ {
+   "Symbol": "CTAA",
+   "LastSale": "26.83"
+ },
+ {
+   "Symbol": "CTB",
+   "LastSale": "43"
+ },
+ {
+   "Symbol": "CTBB",
+   "LastSale": "24.64"
+ },
+ {
+   "Symbol": "CTL",
+   "LastSale": "25.32"
+ },
+ {
+   "Symbol": "CTLT",
+   "LastSale": "28.08"
+ },
+ {
+   "Symbol": "CTR",
+   "LastSale": "13.42"
+ },
+ {
+   "Symbol": "CTS",
+   "LastSale": "20.7"
+ },
+ {
+   "Symbol": "CTT           ",
+   "LastSale": "11.92"
+ },
+ {
+   "Symbol": "CTU",
+   "LastSale": "25.39"
+ },
+ {
+   "Symbol": "CTV",
+   "LastSale": "25.43"
+ },
+ {
+   "Symbol": "CTW",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "CTX",
+   "LastSale": "25.29"
+ },
+ {
+   "Symbol": "CTY",
+   "LastSale": "24.85"
+ },
+ {
+   "Symbol": "CTZ",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "CUB",
+   "LastSale": "50.75"
+ },
+ {
+   "Symbol": "CUBE",
+   "LastSale": "27.61"
+ },
+ {
+   "Symbol": "CUBI",
+   "LastSale": "29.66"
+ },
+ {
+   "Symbol": "CUBI^C",
+   "LastSale": "27.0368"
+ },
+ {
+   "Symbol": "CUBI^D",
+   "LastSale": "26.9"
+ },
+ {
+   "Symbol": "CUBI^E",
+   "LastSale": "26.81"
+ },
+ {
+   "Symbol": "CUBI^F",
+   "LastSale": "26.09"
+ },
+ {
+   "Symbol": "CUBS",
+   "LastSale": "26.23"
+ },
+ {
+   "Symbol": "CUDA",
+   "LastSale": "20.14"
+ },
+ {
+   "Symbol": "CUK",
+   "LastSale": "58.56"
+ },
+ {
+   "Symbol": "CUZ",
+   "LastSale": "8.4"
+ },
+ {
+   "Symbol": "CVA",
+   "LastSale": "14.95"
+ },
+ {
+   "Symbol": "CVE",
+   "LastSale": "10.49"
+ },
+ {
+   "Symbol": "CVEO",
+   "LastSale": "3.17"
+ },
+ {
+   "Symbol": "CVG",
+   "LastSale": "22.01"
+ },
+ {
+   "Symbol": "CVI",
+   "LastSale": "19.33"
+ },
+ {
+   "Symbol": "CVO",
+   "LastSale": "3.78"
+ },
+ {
+   "Symbol": "CVRR",
+   "LastSale": "8.9"
+ },
+ {
+   "Symbol": "CVS",
+   "LastSale": "79.28"
+ },
+ {
+   "Symbol": "CVX",
+   "LastSale": "104.89"
+ },
+ {
+   "Symbol": "CW",
+   "LastSale": "91.86"
+ },
+ {
+   "Symbol": "CWEI",
+   "LastSale": "132.9"
+ },
+ {
+   "Symbol": "CWH",
+   "LastSale": "30.34"
+ },
+ {
+   "Symbol": "CWT",
+   "LastSale": "37.35"
+ },
+ {
+   "Symbol": "CX",
+   "LastSale": "8.78"
+ },
+ {
+   "Symbol": "CXE",
+   "LastSale": "5.06"
+ },
+ {
+   "Symbol": "CXH",
+   "LastSale": "9.95"
+ },
+ {
+   "Symbol": "CXO",
+   "LastSale": "128.01"
+ },
+ {
+   "Symbol": "CXP",
+   "LastSale": "22.49"
+ },
+ {
+   "Symbol": "CXW",
+   "LastSale": "34.01"
+ },
+ {
+   "Symbol": "CYD",
+   "LastSale": "17.63"
+ },
+ {
+   "Symbol": "CYH",
+   "LastSale": "8.24"
+ },
+ {
+   "Symbol": "CYS",
+   "LastSale": "8.53"
+ },
+ {
+   "Symbol": "CYS^A",
+   "LastSale": "24.41"
+ },
+ {
+   "Symbol": "CYS^B",
+   "LastSale": "23.67"
+ },
+ {
+   "Symbol": "CZZ",
+   "LastSale": "7.86"
+ },
+ {
+   "Symbol": "C^C",
+   "LastSale": "25.69"
+ },
+ {
+   "Symbol": "C^J",
+   "LastSale": "29.19"
+ },
+ {
+   "Symbol": "C^K",
+   "LastSale": "29.13"
+ },
+ {
+   "Symbol": "C^L",
+   "LastSale": "27.66"
+ },
+ {
+   "Symbol": "C^N",
+   "LastSale": "26.65"
+ },
+ {
+   "Symbol": "C^P",
+   "LastSale": "27.6"
+ },
+ {
+   "Symbol": "C^S",
+   "LastSale": "26.95"
+ },
+ {
+   "Symbol": "D",
+   "LastSale": "77.54"
+ },
+ {
+   "Symbol": "DAC",
+   "LastSale": "1.7"
+ },
+ {
+   "Symbol": "DAL",
+   "LastSale": "45.53"
+ },
+ {
+   "Symbol": "DAN",
+   "LastSale": "18.55"
+ },
+ {
+   "Symbol": "DAR",
+   "LastSale": "14.94"
+ },
+ {
+   "Symbol": "DATA",
+   "LastSale": "54.09"
+ },
+ {
+   "Symbol": "DB",
+   "LastSale": "16.5"
+ },
+ {
+   "Symbol": "DBD",
+   "LastSale": "27.7"
+ },
+ {
+   "Symbol": "DBL",
+   "LastSale": "24.13"
+ },
+ {
+   "Symbol": "DCI",
+   "LastSale": "45.55"
+ },
+ {
+   "Symbol": "DCM",
+   "LastSale": "23.93"
+ },
+ {
+   "Symbol": "DCO",
+   "LastSale": "29.45"
+ },
+ {
+   "Symbol": "DCP",
+   "LastSale": "37.65"
+ },
+ {
+   "Symbol": "DCT",
+   "LastSale": "50.79"
+ },
+ {
+   "Symbol": "DCUC",
+   "LastSale": "50.48"
+ },
+ {
+   "Symbol": "DCUD",
+   "LastSale": "50.29"
+ },
+ {
+   "Symbol": "DD",
+   "LastSale": "78.65"
+ },
+ {
+   "Symbol": "DDC",
+   "LastSale": "12.14"
+ },
+ {
+   "Symbol": "DDD",
+   "LastSale": "15.16"
+ },
+ {
+   "Symbol": "DDE",
+   "LastSale": "1.03"
+ },
+ {
+   "Symbol": "DDF",
+   "LastSale": "10.34"
+ },
+ {
+   "Symbol": "DDR",
+   "LastSale": "12.4"
+ },
+ {
+   "Symbol": "DDR^J",
+   "LastSale": "25.2405"
+ },
+ {
+   "Symbol": "DDR^K",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "DDS",
+   "LastSale": "53.94"
+ },
+ {
+   "Symbol": "DDT",
+   "LastSale": "25.85"
+ },
+ {
+   "Symbol": "DD^A",
+   "LastSale": "88.7"
+ },
+ {
+   "Symbol": "DD^B",
+   "LastSale": "103.5"
+ },
+ {
+   "Symbol": "DE",
+   "LastSale": "107.54"
+ },
+ {
+   "Symbol": "DEA",
+   "LastSale": "20.68"
+ },
+ {
+   "Symbol": "DECK",
+   "LastSale": "57.88"
+ },
+ {
+   "Symbol": "DEI",
+   "LastSale": "39.35"
+ },
+ {
+   "Symbol": "DEL",
+   "LastSale": "76.32"
+ },
+ {
+   "Symbol": "DEO",
+   "LastSale": "114.05"
+ },
+ {
+   "Symbol": "DEX",
+   "LastSale": "10.9701"
+ },
+ {
+   "Symbol": "DF",
+   "LastSale": "19.74"
+ },
+ {
+   "Symbol": "DFIN",
+   "LastSale": "20.88"
+ },
+ {
+   "Symbol": "DFP",
+   "LastSale": "25.03"
+ },
+ {
+   "Symbol": "DFS",
+   "LastSale": "66.23"
+ },
+ {
+   "Symbol": "DFS^B",
+   "LastSale": "26.01"
+ },
+ {
+   "Symbol": "DFT",
+   "LastSale": "51.2"
+ },
+ {
+   "Symbol": "DFT^C",
+   "LastSale": "27.44"
+ },
+ {
+   "Symbol": "DG",
+   "LastSale": "70.72"
+ },
+ {
+   "Symbol": "DGI",
+   "LastSale": "32.95"
+ },
+ {
+   "Symbol": "DGX",
+   "LastSale": "103.3"
+ },
+ {
+   "Symbol": "DHF",
+   "LastSale": "3.47"
+ },
+ {
+   "Symbol": "DHG",
+   "LastSale": "14.6478"
+ },
+ {
+   "Symbol": "DHI",
+   "LastSale": "32.87"
+ },
+ {
+   "Symbol": "DHR",
+   "LastSale": "81.7"
+ },
+ {
+   "Symbol": "DHT",
+   "LastSale": "4.6"
+ },
+ {
+   "Symbol": "DHX",
+   "LastSale": "3.6"
+ },
+ {
+   "Symbol": "DIAX",
+   "LastSale": "15.86"
+ },
+ {
+   "Symbol": "DIN",
+   "LastSale": "56.39"
+ },
+ {
+   "Symbol": "DIS",
+   "LastSale": "114.44"
+ },
+ {
+   "Symbol": "DK",
+   "LastSale": "22.36"
+ },
+ {
+   "Symbol": "DKL",
+   "LastSale": "31.5"
+ },
+ {
+   "Symbol": "DKS",
+   "LastSale": "51.58"
+ },
+ {
+   "Symbol": "DKT",
+   "LastSale": "26.47"
+ },
+ {
+   "Symbol": "DL",
+   "LastSale": "10.14"
+ },
+ {
+   "Symbol": "DLB",
+   "LastSale": "51.57"
+ },
+ {
+   "Symbol": "DLNG",
+   "LastSale": "17.25"
+ },
+ {
+   "Symbol": "DLNG^A",
+   "LastSale": "26.38"
+ },
+ {
+   "Symbol": "DLPH",
+   "LastSale": "76.6"
+ },
+ {
+   "Symbol": "DLR",
+   "LastSale": "112.88"
+ },
+ {
+   "Symbol": "DLR^G",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "DLR^H",
+   "LastSale": "28.15"
+ },
+ {
+   "Symbol": "DLR^I",
+   "LastSale": "27.12"
+ },
+ {
+   "Symbol": "DLX",
+   "LastSale": "70.28"
+ },
+ {
+   "Symbol": "DM",
+   "LastSale": "31.1"
+ },
+ {
+   "Symbol": "DMB",
+   "LastSale": "12.99"
+ },
+ {
+   "Symbol": "DMO",
+   "LastSale": "24.87"
+ },
+ {
+   "Symbol": "DNB",
+   "LastSale": "107.62"
+ },
+ {
+   "Symbol": "DNI",
+   "LastSale": "12.01"
+ },
+ {
+   "Symbol": "DNOW",
+   "LastSale": "16.48"
+ },
+ {
+   "Symbol": "DNP",
+   "LastSale": "10.95"
+ },
+ {
+   "Symbol": "DNR",
+   "LastSale": "2.24"
+ },
+ {
+   "Symbol": "DO",
+   "LastSale": "14.84"
+ },
+ {
+   "Symbol": "DOC",
+   "LastSale": "20.31"
+ },
+ {
+   "Symbol": "DOOR",
+   "LastSale": "79.5"
+ },
+ {
+   "Symbol": "DOV",
+   "LastSale": "79.32"
+ },
+ {
+   "Symbol": "DOW",
+   "LastSale": "62.16"
+ },
+ {
+   "Symbol": "DPG",
+   "LastSale": "16.69"
+ },
+ {
+   "Symbol": "DPLO",
+   "LastSale": "15.51"
+ },
+ {
+   "Symbol": "DPS",
+   "LastSale": "97.97"
+ },
+ {
+   "Symbol": "DPZ",
+   "LastSale": "179.3"
+ },
+ {
+   "Symbol": "DQ",
+   "LastSale": "18.31"
+ },
+ {
+   "Symbol": "DRA",
+   "LastSale": "17.46"
+ },
+ {
+   "Symbol": "DRD",
+   "LastSale": "4.54"
+ },
+ {
+   "Symbol": "DRE",
+   "LastSale": "27.73"
+ },
+ {
+   "Symbol": "DRH",
+   "LastSale": "11.12"
+ },
+ {
+   "Symbol": "DRI",
+   "LastSale": "84.16"
+ },
+ {
+   "Symbol": "DRQ",
+   "LastSale": "51.6"
+ },
+ {
+   "Symbol": "DRUA",
+   "LastSale": "24.8"
+ },
+ {
+   "Symbol": "DS",
+   "LastSale": "4.18"
+ },
+ {
+   "Symbol": "DSE",
+   "LastSale": "7.7"
+ },
+ {
+   "Symbol": "DSL",
+   "LastSale": "20.37"
+ },
+ {
+   "Symbol": "DSM",
+   "LastSale": "8.4"
+ },
+ {
+   "Symbol": "DST",
+   "LastSale": "124.06"
+ },
+ {
+   "Symbol": "DSU",
+   "LastSale": "11.57"
+ },
+ {
+   "Symbol": "DSW",
+   "LastSale": "20.79"
+ },
+ {
+   "Symbol": "DSX",
+   "LastSale": "4.29"
+ },
+ {
+   "Symbol": "DSXN",
+   "LastSale": "25.73"
+ },
+ {
+   "Symbol": "DSX^B",
+   "LastSale": "22.223"
+ },
+ {
+   "Symbol": "DS^B",
+   "LastSale": "25.33"
+ },
+ {
+   "Symbol": "DS^C",
+   "LastSale": "24.85"
+ },
+ {
+   "Symbol": "DS^D",
+   "LastSale": "24.93"
+ },
+ {
+   "Symbol": "DTE",
+   "LastSale": "103.95"
+ },
+ {
+   "Symbol": "DTF",
+   "LastSale": "14.98"
+ },
+ {
+   "Symbol": "DTJ",
+   "LastSale": "24.8"
+ },
+ {
+   "Symbol": "DTK",
+   "LastSale": "26.07"
+ },
+ {
+   "Symbol": "DTLA^",
+   "LastSale": "25.0969"
+ },
+ {
+   "Symbol": "DTQ",
+   "LastSale": "24.86"
+ },
+ {
+   "Symbol": "DTV",
+   "LastSale": "53.82"
+ },
+ {
+   "Symbol": "DTY",
+   "LastSale": "26.02"
+ },
+ {
+   "Symbol": "DUC",
+   "LastSale": "9.33"
+ },
+ {
+   "Symbol": "DUK",
+   "LastSale": "82.21"
+ },
+ {
+   "Symbol": "DUKH",
+   "LastSale": "25.95"
+ },
+ {
+   "Symbol": "DV",
+   "LastSale": "35.8"
+ },
+ {
+   "Symbol": "DVA",
+   "LastSale": "67.74"
+ },
+ {
+   "Symbol": "DVD",
+   "LastSale": "2.05"
+ },
+ {
+   "Symbol": "DVMT",
+   "LastSale": "64.42"
+ },
+ {
+   "Symbol": "DVN",
+   "LastSale": "39.73"
+ },
+ {
+   "Symbol": "DX",
+   "LastSale": "7.11"
+ },
+ {
+   "Symbol": "DXB",
+   "LastSale": "25.02"
+ },
+ {
+   "Symbol": "DXC",
+   "LastSale": "76.32"
+ },
+ {
+   "Symbol": "DX^A",
+   "LastSale": "25.35"
+ },
+ {
+   "Symbol": "DX^B",
+   "LastSale": "23.9152"
+ },
+ {
+   "Symbol": "DY",
+   "LastSale": "106.4"
+ },
+ {
+   "Symbol": "DYN",
+   "LastSale": "6.38"
+ },
+ {
+   "Symbol": "DYN.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "DYN.WS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "DYNC",
+   "LastSale": "51.72"
+ },
+ {
+   "Symbol": "DYN^A",
+   "LastSale": "23"
+ },
+ {
+   "Symbol": "E",
+   "LastSale": "30.62"
+ },
+ {
+   "Symbol": "EAB",
+   "LastSale": "24.5983"
+ },
+ {
+   "Symbol": "EAE",
+   "LastSale": "24.07"
+ },
+ {
+   "Symbol": "EAI",
+   "LastSale": "23.16"
+ },
+ {
+   "Symbol": "EARN",
+   "LastSale": "15.07"
+ },
+ {
+   "Symbol": "EAT",
+   "LastSale": "44.66"
+ },
+ {
+   "Symbol": "EBF",
+   "LastSale": "16.3"
+ },
+ {
+   "Symbol": "EBR",
+   "LastSale": "4.84"
+ },
+ {
+   "Symbol": "EBR.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "EBS",
+   "LastSale": "28.57"
+ },
+ {
+   "Symbol": "EC",
+   "LastSale": "9.41"
+ },
+ {
+   "Symbol": "ECA",
+   "LastSale": "10.84"
+ },
+ {
+   "Symbol": "ECC           ",
+   "LastSale": "19.55"
+ },
+ {
+   "Symbol": "ECCA",
+   "LastSale": "25.95"
+ },
+ {
+   "Symbol": "ECCB",
+   "LastSale": "25.72"
+ },
+ {
+   "Symbol": "ECCZ",
+   "LastSale": "25.7074"
+ },
+ {
+   "Symbol": "ECL",
+   "LastSale": "126.2"
+ },
+ {
+   "Symbol": "ECOM          ",
+   "LastSale": "11.75"
+ },
+ {
+   "Symbol": "ECR",
+   "LastSale": "2.12"
+ },
+ {
+   "Symbol": "ECT",
+   "LastSale": "2.1"
+ },
+ {
+   "Symbol": "ED",
+   "LastSale": "79.09"
+ },
+ {
+   "Symbol": "EDD",
+   "LastSale": "7.86"
+ },
+ {
+   "Symbol": "EDF",
+   "LastSale": "16.42"
+ },
+ {
+   "Symbol": "EDI",
+   "LastSale": "15.88"
+ },
+ {
+   "Symbol": "EDN",
+   "LastSale": "36.3"
+ },
+ {
+   "Symbol": "EDR",
+   "LastSale": "40.77"
+ },
+ {
+   "Symbol": "EDU",
+   "LastSale": "62.81"
+ },
+ {
+   "Symbol": "EE",
+   "LastSale": "51.65"
+ },
+ {
+   "Symbol": "EEA",
+   "LastSale": "8.44"
+ },
+ {
+   "Symbol": "EEP",
+   "LastSale": "18.35"
+ },
+ {
+   "Symbol": "EEQ",
+   "LastSale": "17.47"
+ },
+ {
+   "Symbol": "EFC",
+   "LastSale": "16.48"
+ },
+ {
+   "Symbol": "EFF",
+   "LastSale": "16.99"
+ },
+ {
+   "Symbol": "EFR",
+   "LastSale": "14.84"
+ },
+ {
+   "Symbol": "EFT",
+   "LastSale": "15.06"
+ },
+ {
+   "Symbol": "EFX",
+   "LastSale": "137.33"
+ },
+ {
+   "Symbol": "EGF",
+   "LastSale": "13.21"
+ },
+ {
+   "Symbol": "EGIF",
+   "LastSale": "17.2299"
+ },
+ {
+   "Symbol": "EGL",
+   "LastSale": "28.17"
+ },
+ {
+   "Symbol": "EGN",
+   "LastSale": "51.66"
+ },
+ {
+   "Symbol": "EGO",
+   "LastSale": "3.6"
+ },
+ {
+   "Symbol": "EGP",
+   "LastSale": "79.2"
+ },
+ {
+   "Symbol": "EGY",
+   "LastSale": "1.01"
+ },
+ {
+   "Symbol": "EHI",
+   "LastSale": "10.15"
+ },
+ {
+   "Symbol": "EHIC",
+   "LastSale": "10.19"
+ },
+ {
+   "Symbol": "EHT",
+   "LastSale": "10.1"
+ },
+ {
+   "Symbol": "EIG",
+   "LastSale": "38.95"
+ },
+ {
+   "Symbol": "EIX",
+   "LastSale": "80.6"
+ },
+ {
+   "Symbol": "EL",
+   "LastSale": "85.18"
+ },
+ {
+   "Symbol": "ELC",
+   "LastSale": "22.88"
+ },
+ {
+   "Symbol": "ELF",
+   "LastSale": "27.65"
+ },
+ {
+   "Symbol": "ELJ",
+   "LastSale": "25.2117"
+ },
+ {
+   "Symbol": "ELLI",
+   "LastSale": "108.32"
+ },
+ {
+   "Symbol": "ELP",
+   "LastSale": "9.43"
+ },
+ {
+   "Symbol": "ELS",
+   "LastSale": "81.49"
+ },
+ {
+   "Symbol": "ELS^C",
+   "LastSale": "26.05"
+ },
+ {
+   "Symbol": "ELU",
+   "LastSale": "23.6791"
+ },
+ {
+   "Symbol": "ELVT",
+   "LastSale": "8.11"
+ },
+ {
+   "Symbol": "ELY",
+   "LastSale": "11.82"
+ },
+ {
+   "Symbol": "EMD",
+   "LastSale": "15.72"
+ },
+ {
+   "Symbol": "EME",
+   "LastSale": "62.55"
+ },
+ {
+   "Symbol": "EMES",
+   "LastSale": "12.75"
+ },
+ {
+   "Symbol": "EMF",
+   "LastSale": "14.07"
+ },
+ {
+   "Symbol": "EMN",
+   "LastSale": "79.31"
+ },
+ {
+   "Symbol": "EMO",
+   "LastSale": "13.33"
+ },
+ {
+   "Symbol": "EMP",
+   "LastSale": "22.79"
+ },
+ {
+   "Symbol": "EMR",
+   "LastSale": "59"
+ },
+ {
+   "Symbol": "ENB",
+   "LastSale": "41.92"
+ },
+ {
+   "Symbol": "ENBL",
+   "LastSale": "16.45"
+ },
+ {
+   "Symbol": "ENH^C",
+   "LastSale": "26.36"
+ },
+ {
+   "Symbol": "ENIA",
+   "LastSale": "10.47"
+ },
+ {
+   "Symbol": "ENIC",
+   "LastSale": "5.35"
+ },
+ {
+   "Symbol": "ENJ",
+   "LastSale": "24.88"
+ },
+ {
+   "Symbol": "ENLC",
+   "LastSale": "18.3"
+ },
+ {
+   "Symbol": "ENLK",
+   "LastSale": "18.11"
+ },
+ {
+   "Symbol": "ENO",
+   "LastSale": "25.03"
+ },
+ {
+   "Symbol": "ENR",
+   "LastSale": "58.71"
+ },
+ {
+   "Symbol": "ENS",
+   "LastSale": "78.39"
+ },
+ {
+   "Symbol": "ENV",
+   "LastSale": "34.1"
+ },
+ {
+   "Symbol": "ENVA",
+   "LastSale": "13.9"
+ },
+ {
+   "Symbol": "ENZ",
+   "LastSale": "8.78"
+ },
+ {
+   "Symbol": "EOCC",
+   "LastSale": "23.6"
+ },
+ {
+   "Symbol": "EOD",
+   "LastSale": "5.88"
+ },
+ {
+   "Symbol": "EOG",
+   "LastSale": "93.58"
+ },
+ {
+   "Symbol": "EOI",
+   "LastSale": "13.15"
+ },
+ {
+   "Symbol": "EOS",
+   "LastSale": "13.83"
+ },
+ {
+   "Symbol": "EOT",
+   "LastSale": "21.65"
+ },
+ {
+   "Symbol": "EPAM",
+   "LastSale": "77.02"
+ },
+ {
+   "Symbol": "EPC",
+   "LastSale": "71.18"
+ },
+ {
+   "Symbol": "EPD",
+   "LastSale": "27.68"
+ },
+ {
+   "Symbol": "EPE",
+   "LastSale": "4.7"
+ },
+ {
+   "Symbol": "EPR",
+   "LastSale": "75.53"
+ },
+ {
+   "Symbol": "EPR^C",
+   "LastSale": "29.5117"
+ },
+ {
+   "Symbol": "EPR^E",
+   "LastSale": "36.6421"
+ },
+ {
+   "Symbol": "EPR^F",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "EP^C",
+   "LastSale": "49.7424"
+ },
+ {
+   "Symbol": "EQC",
+   "LastSale": "32.34"
+ },
+ {
+   "Symbol": "EQCO",
+   "LastSale": "25.03"
+ },
+ {
+   "Symbol": "EQC^D",
+   "LastSale": "25.9"
+ },
+ {
+   "Symbol": "EQGP",
+   "LastSale": "26.97"
+ },
+ {
+   "Symbol": "EQM",
+   "LastSale": "77.23"
+ },
+ {
+   "Symbol": "EQR",
+   "LastSale": "64.28"
+ },
+ {
+   "Symbol": "EQS",
+   "LastSale": "2.46"
+ },
+ {
+   "Symbol": "EQT",
+   "LastSale": "62.85"
+ },
+ {
+   "Symbol": "ERA",
+   "LastSale": "13.04"
+ },
+ {
+   "Symbol": "ERF",
+   "LastSale": "7.5"
+ },
+ {
+   "Symbol": "ERJ",
+   "LastSale": "19.69"
+ },
+ {
+   "Symbol": "EROS",
+   "LastSale": "9.5"
+ },
+ {
+   "Symbol": "ES",
+   "LastSale": "59.8"
+ },
+ {
+   "Symbol": "ESE",
+   "LastSale": "57.85"
+ },
+ {
+   "Symbol": "ESL",
+   "LastSale": "87.55"
+ },
+ {
+   "Symbol": "ESNT",
+   "LastSale": "37.62"
+ },
+ {
+   "Symbol": "ESRT",
+   "LastSale": "21.58"
+ },
+ {
+   "Symbol": "ESS",
+   "LastSale": "235.49"
+ },
+ {
+   "Symbol": "ESV",
+   "LastSale": "8.32"
+ },
+ {
+   "Symbol": "ETB",
+   "LastSale": "16.41"
+ },
+ {
+   "Symbol": "ETE",
+   "LastSale": "18.26"
+ },
+ {
+   "Symbol": "ETG",
+   "LastSale": "15.98"
+ },
+ {
+   "Symbol": "ETH",
+   "LastSale": "30.95"
+ },
+ {
+   "Symbol": "ETJ",
+   "LastSale": "9.17"
+ },
+ {
+   "Symbol": "ETM",
+   "LastSale": "13.2"
+ },
+ {
+   "Symbol": "ETN",
+   "LastSale": "73.85"
+ },
+ {
+   "Symbol": "ETO",
+   "LastSale": "23.13"
+ },
+ {
+   "Symbol": "ETP",
+   "LastSale": "35.12"
+ },
+ {
+   "Symbol": "ETR",
+   "LastSale": "76.41"
+ },
+ {
+   "Symbol": "ETV",
+   "LastSale": "15.4"
+ },
+ {
+   "Symbol": "ETW",
+   "LastSale": "11.03"
+ },
+ {
+   "Symbol": "ETX           ",
+   "LastSale": "20.15"
+ },
+ {
+   "Symbol": "ETY",
+   "LastSale": "11.12"
+ },
+ {
+   "Symbol": "EURN",
+   "LastSale": "7.85"
+ },
+ {
+   "Symbol": "EV",
+   "LastSale": "42.83"
+ },
+ {
+   "Symbol": "EVA",
+   "LastSale": "29.4"
+ },
+ {
+   "Symbol": "EVC",
+   "LastSale": "6.15"
+ },
+ {
+   "Symbol": "EVER",
+   "LastSale": "19.48"
+ },
+ {
+   "Symbol": "EVER^A",
+   "LastSale": "25.3791"
+ },
+ {
+   "Symbol": "EVF",
+   "LastSale": "6.78"
+ },
+ {
+   "Symbol": "EVG",
+   "LastSale": "14.06"
+ },
+ {
+   "Symbol": "EVH",
+   "LastSale": "22.3"
+ },
+ {
+   "Symbol": "EVHC",
+   "LastSale": "54.54"
+ },
+ {
+   "Symbol": "EVHC^",
+   "LastSale": "104.6401"
+ },
+ {
+   "Symbol": "EVN",
+   "LastSale": "13.01"
+ },
+ {
+   "Symbol": "EVR",
+   "LastSale": "76.9"
+ },
+ {
+   "Symbol": "EVRI",
+   "LastSale": "5.9"
+ },
+ {
+   "Symbol": "EVT",
+   "LastSale": "21.6"
+ },
+ {
+   "Symbol": "EVTC",
+   "LastSale": "15.85"
+ },
+ {
+   "Symbol": "EW",
+   "LastSale": "97.77"
+ },
+ {
+   "Symbol": "EXAR",
+   "LastSale": "12.96"
+ },
+ {
+   "Symbol": "EXC",
+   "LastSale": "35.03"
+ },
+ {
+   "Symbol": "EXCU",
+   "LastSale": "49.62"
+ },
+ {
+   "Symbol": "EXD",
+   "LastSale": "11.3"
+ },
+ {
+   "Symbol": "EXG",
+   "LastSale": "8.6"
+ },
+ {
+   "Symbol": "EXK",
+   "LastSale": "3.11"
+ },
+ {
+   "Symbol": "EXP",
+   "LastSale": "95.23"
+ },
+ {
+   "Symbol": "EXPR",
+   "LastSale": "8.5"
+ },
+ {
+   "Symbol": "EXR",
+   "LastSale": "80.47"
+ },
+ {
+   "Symbol": "EXTN",
+   "LastSale": "27.63"
+ },
+ {
+   "Symbol": "EZT",
+   "LastSale": "26.5"
+ },
+ {
+   "Symbol": "F",
+   "LastSale": "11.34"
+ },
+ {
+   "Symbol": "FAC",
+   "LastSale": "1.09"
+ },
+ {
+   "Symbol": "FAF",
+   "LastSale": "39.52"
+ },
+ {
+   "Symbol": "FAM",
+   "LastSale": "11.73"
+ },
+ {
+   "Symbol": "FBC",
+   "LastSale": "28.38"
+ },
+ {
+   "Symbol": "FBHS",
+   "LastSale": "62.82"
+ },
+ {
+   "Symbol": "FBK",
+   "LastSale": "35.16"
+ },
+ {
+   "Symbol": "FBM",
+   "LastSale": "16.11"
+ },
+ {
+   "Symbol": "FBP",
+   "LastSale": "5.4"
+ },
+ {
+   "Symbol": "FBR",
+   "LastSale": "8.93"
+ },
+ {
+   "Symbol": "FC",
+   "LastSale": "20.8"
+ },
+ {
+   "Symbol": "FCAU",
+   "LastSale": "10.09"
+ },
+ {
+   "Symbol": "FCB",
+   "LastSale": "47"
+ },
+ {
+   "Symbol": "FCE.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "FCE.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "FCF",
+   "LastSale": "13"
+ },
+ {
+   "Symbol": "FCFS",
+   "LastSale": "50.1"
+ },
+ {
+   "Symbol": "FCH",
+   "LastSale": "7.32"
+ },
+ {
+   "Symbol": "FCH^A",
+   "LastSale": "24.5894"
+ },
+ {
+   "Symbol": "FCN",
+   "LastSale": "41.87"
+ },
+ {
+   "Symbol": "FCPT",
+   "LastSale": "23.53"
+ },
+ {
+   "Symbol": "FCT",
+   "LastSale": "13.56"
+ },
+ {
+   "Symbol": "FCX",
+   "LastSale": "12.23"
+ },
+ {
+   "Symbol": "FDC",
+   "LastSale": "15.46"
+ },
+ {
+   "Symbol": "FDEU",
+   "LastSale": "17.13"
+ },
+ {
+   "Symbol": "FDP",
+   "LastSale": "59.71"
+ },
+ {
+   "Symbol": "FDS",
+   "LastSale": "162.16"
+ },
+ {
+   "Symbol": "FDX",
+   "LastSale": "185.28"
+ },
+ {
+   "Symbol": "FE",
+   "LastSale": "30.61"
+ },
+ {
+   "Symbol": "FEI           ",
+   "LastSale": "16.35"
+ },
+ {
+   "Symbol": "FELP",
+   "LastSale": "5.54"
+ },
+ {
+   "Symbol": "FENG",
+   "LastSale": "3.57"
+ },
+ {
+   "Symbol": "FEO",
+   "LastSale": "16.12"
+ },
+ {
+   "Symbol": "FET",
+   "LastSale": "18.2"
+ },
+ {
+   "Symbol": "FF",
+   "LastSale": "14.81"
+ },
+ {
+   "Symbol": "FFA",
+   "LastSale": "14.53"
+ },
+ {
+   "Symbol": "FFC",
+   "LastSale": "20.8"
+ },
+ {
+   "Symbol": "FFG",
+   "LastSale": "66.4"
+ },
+ {
+   "Symbol": "FGB",
+   "LastSale": "7.55"
+ },
+ {
+   "Symbol": "FGL",
+   "LastSale": "27.9"
+ },
+ {
+   "Symbol": "FGP",
+   "LastSale": "5.86"
+ },
+ {
+   "Symbol": "FHN",
+   "LastSale": "18.32"
+ },
+ {
+   "Symbol": "FHN^A",
+   "LastSale": "25.21"
+ },
+ {
+   "Symbol": "FHY",
+   "LastSale": "13.22"
+ },
+ {
+   "Symbol": "FI",
+   "LastSale": "9.3"
+ },
+ {
+   "Symbol": "FICO",
+   "LastSale": "130.19"
+ },
+ {
+   "Symbol": "FIF",
+   "LastSale": "19.15"
+ },
+ {
+   "Symbol": "FIG",
+   "LastSale": "7.98"
+ },
+ {
+   "Symbol": "FII",
+   "LastSale": "27.04"
+ },
+ {
+   "Symbol": "FIS",
+   "LastSale": "82.53"
+ },
+ {
+   "Symbol": "FIT",
+   "LastSale": "5.61"
+ },
+ {
+   "Symbol": "FIV",
+   "LastSale": "9.89"
+ },
+ {
+   "Symbol": "FIX",
+   "LastSale": "35.15"
+ },
+ {
+   "Symbol": "FL",
+   "LastSale": "75.84"
+ },
+ {
+   "Symbol": "FLC",
+   "LastSale": "21.25"
+ },
+ {
+   "Symbol": "FLO",
+   "LastSale": "19.84"
+ },
+ {
+   "Symbol": "FLOW",
+   "LastSale": "35.46"
+ },
+ {
+   "Symbol": "FLR",
+   "LastSale": "50.58"
+ },
+ {
+   "Symbol": "FLS",
+   "LastSale": "48.66"
+ },
+ {
+   "Symbol": "FLT",
+   "LastSale": "147.66"
+ },
+ {
+   "Symbol": "FLY",
+   "LastSale": "12.74"
+ },
+ {
+   "Symbol": "FMC",
+   "LastSale": "72.67"
+ },
+ {
+   "Symbol": "FMN",
+   "LastSale": "14.03"
+ },
+ {
+   "Symbol": "FMO",
+   "LastSale": "15.53"
+ },
+ {
+   "Symbol": "FMS",
+   "LastSale": "42.72"
+ },
+ {
+   "Symbol": "FMSA",
+   "LastSale": "5.08"
+ },
+ {
+   "Symbol": "FMX",
+   "LastSale": "90.68"
+ },
+ {
+   "Symbol": "FMY",
+   "LastSale": "14.09"
+ },
+ {
+   "Symbol": "FN",
+   "LastSale": "38.04"
+ },
+ {
+   "Symbol": "FNB",
+   "LastSale": "14.34"
+ },
+ {
+   "Symbol": "FNB^E",
+   "LastSale": "29.47"
+ },
+ {
+   "Symbol": "FNF",
+   "LastSale": "39.7"
+ },
+ {
+   "Symbol": "FNFV",
+   "LastSale": "13.1"
+ },
+ {
+   "Symbol": "FNV",
+   "LastSale": "69.08"
+ },
+ {
+   "Symbol": "FOE",
+   "LastSale": "15.41"
+ },
+ {
+   "Symbol": "FOF",
+   "LastSale": "12.74"
+ },
+ {
+   "Symbol": "FOR",
+   "LastSale": "14.25"
+ },
+ {
+   "Symbol": "FPF",
+   "LastSale": "23.57"
+ },
+ {
+   "Symbol": "FPI",
+   "LastSale": "11.05"
+ },
+ {
+   "Symbol": "FPL",
+   "LastSale": "13.48"
+ },
+ {
+   "Symbol": "FPO",
+   "LastSale": "10.86"
+ },
+ {
+   "Symbol": "FPT",
+   "LastSale": "13.2"
+ },
+ {
+   "Symbol": "FR",
+   "LastSale": "27.96"
+ },
+ {
+   "Symbol": "FRA",
+   "LastSale": "14.38"
+ },
+ {
+   "Symbol": "FRAC",
+   "LastSale": "13.77"
+ },
+ {
+   "Symbol": "FRC",
+   "LastSale": "90.59"
+ },
+ {
+   "Symbol": "FRC^B",
+   "LastSale": "25.64"
+ },
+ {
+   "Symbol": "FRC^C",
+   "LastSale": "26.68"
+ },
+ {
+   "Symbol": "FRC^D",
+   "LastSale": "25.62"
+ },
+ {
+   "Symbol": "FRC^E",
+   "LastSale": "27.1"
+ },
+ {
+   "Symbol": "FRC^F",
+   "LastSale": "26.1"
+ },
+ {
+   "Symbol": "FRC^G",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "FRO",
+   "LastSale": "6.63"
+ },
+ {
+   "Symbol": "FRT",
+   "LastSale": "136.18"
+ },
+ {
+   "Symbol": "FSB",
+   "LastSale": "38.4"
+ },
+ {
+   "Symbol": "FSCE",
+   "LastSale": "24.98"
+ },
+ {
+   "Symbol": "FSD",
+   "LastSale": "16.92"
+ },
+ {
+   "Symbol": "FSIC",
+   "LastSale": "9.8"
+ },
+ {
+   "Symbol": "FSM",
+   "LastSale": "5"
+ },
+ {
+   "Symbol": "FSS",
+   "LastSale": "13.52"
+ },
+ {
+   "Symbol": "FT",
+   "LastSale": "7.15"
+ },
+ {
+   "Symbol": "FTAI",
+   "LastSale": "14.98"
+ },
+ {
+   "Symbol": "FTI",
+   "LastSale": "31.71"
+ },
+ {
+   "Symbol": "FTK",
+   "LastSale": "11.75"
+ },
+ {
+   "Symbol": "FTS",
+   "LastSale": "32.76"
+ },
+ {
+   "Symbol": "FTV",
+   "LastSale": "60.01"
+ },
+ {
+   "Symbol": "FUL",
+   "LastSale": "50.62"
+ },
+ {
+   "Symbol": "FUN",
+   "LastSale": "70.98"
+ },
+ {
+   "Symbol": "G",
+   "LastSale": "24.22"
+ },
+ {
+   "Symbol": "GAB",
+   "LastSale": "6.02"
+ },
+ {
+   "Symbol": "GAB^D",
+   "LastSale": "26.1575"
+ },
+ {
+   "Symbol": "GAB^G",
+   "LastSale": "24.34"
+ },
+ {
+   "Symbol": "GAB^H",
+   "LastSale": "24.5833"
+ },
+ {
+   "Symbol": "GAB^J",
+   "LastSale": "25.3311"
+ },
+ {
+   "Symbol": "GAM",
+   "LastSale": "33.58"
+ },
+ {
+   "Symbol": "GAM^B",
+   "LastSale": "26.3885"
+ },
+ {
+   "Symbol": "GATX",
+   "LastSale": "61.17"
+ },
+ {
+   "Symbol": "GBAB",
+   "LastSale": "22.4"
+ },
+ {
+   "Symbol": "GBL",
+   "LastSale": "28.73"
+ },
+ {
+   "Symbol": "GBX",
+   "LastSale": "44.45"
+ },
+ {
+   "Symbol": "GCAP",
+   "LastSale": "7.07"
+ },
+ {
+   "Symbol": "GCH",
+   "LastSale": "10.53"
+ },
+ {
+   "Symbol": "GCI",
+   "LastSale": "8.91"
+ },
+ {
+   "Symbol": "GCO",
+   "LastSale": "53.15"
+ },
+ {
+   "Symbol": "GCP",
+   "LastSale": "31.95"
+ },
+ {
+   "Symbol": "GCV",
+   "LastSale": "5.01"
+ },
+ {
+   "Symbol": "GCV^B",
+   "LastSale": "26.2445"
+ },
+ {
+   "Symbol": "GD",
+   "LastSale": "188.94"
+ },
+ {
+   "Symbol": "GDDY",
+   "LastSale": "37.62"
+ },
+ {
+   "Symbol": "GDL",
+   "LastSale": "9.85"
+ },
+ {
+   "Symbol": "GDL^B",
+   "LastSale": "50.6178"
+ },
+ {
+   "Symbol": "GDO",
+   "LastSale": "17.49"
+ },
+ {
+   "Symbol": "GDOT",
+   "LastSale": "33.71"
+ },
+ {
+   "Symbol": "GDV",
+   "LastSale": "21.1"
+ },
+ {
+   "Symbol": "GDV^A",
+   "LastSale": "26.3424"
+ },
+ {
+   "Symbol": "GDV^D",
+   "LastSale": "26.42"
+ },
+ {
+   "Symbol": "GDV^G",
+   "LastSale": "25.4029"
+ },
+ {
+   "Symbol": "GE",
+   "LastSale": "29.55"
+ },
+ {
+   "Symbol": "GEB",
+   "LastSale": "25.32"
+ },
+ {
+   "Symbol": "GEF",
+   "LastSale": "56.43"
+ },
+ {
+   "Symbol": "GEF.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "GEH",
+   "LastSale": "25.94"
+ },
+ {
+   "Symbol": "GEK",
+   "LastSale": "25.57"
+ },
+ {
+   "Symbol": "GEL",
+   "LastSale": "31.89"
+ },
+ {
+   "Symbol": "GEN           ",
+   "LastSale": "2.3"
+ },
+ {
+   "Symbol": "GEO",
+   "LastSale": "49.07"
+ },
+ {
+   "Symbol": "GER",
+   "LastSale": "7.83"
+ },
+ {
+   "Symbol": "GES",
+   "LastSale": "11.3"
+ },
+ {
+   "Symbol": "GF",
+   "LastSale": "14.81"
+ },
+ {
+   "Symbol": "GFA",
+   "LastSale": "16.61"
+ },
+ {
+   "Symbol": "GFF",
+   "LastSale": "23.6"
+ },
+ {
+   "Symbol": "GFI",
+   "LastSale": "3.84"
+ },
+ {
+   "Symbol": "GFY",
+   "LastSale": "16.76"
+ },
+ {
+   "Symbol": "GG",
+   "LastSale": "15.15"
+ },
+ {
+   "Symbol": "GGB",
+   "LastSale": "3.02"
+ },
+ {
+   "Symbol": "GGG",
+   "LastSale": "95.71"
+ },
+ {
+   "Symbol": "GGM",
+   "LastSale": "23.08"
+ },
+ {
+   "Symbol": "GGP",
+   "LastSale": "23.31"
+ },
+ {
+   "Symbol": "GGP^A",
+   "LastSale": "25.13"
+ },
+ {
+   "Symbol": "GGT",
+   "LastSale": "8.32"
+ },
+ {
+   "Symbol": "GGT^B",
+   "LastSale": "26.14"
+ },
+ {
+   "Symbol": "GGZ",
+   "LastSale": "11.43"
+ },
+ {
+   "Symbol": "GGZ^A",
+   "LastSale": "25.15"
+ },
+ {
+   "Symbol": "GHC",
+   "LastSale": "604.3"
+ },
+ {
+   "Symbol": "GHL",
+   "LastSale": "27.8"
+ },
+ {
+   "Symbol": "GHM",
+   "LastSale": "22.19"
+ },
+ {
+   "Symbol": "GHY",
+   "LastSale": "15.08"
+ },
+ {
+   "Symbol": "GIB",
+   "LastSale": "46.71"
+ },
+ {
+   "Symbol": "GIL",
+   "LastSale": "27.67"
+ },
+ {
+   "Symbol": "GIM",
+   "LastSale": "6.66"
+ },
+ {
+   "Symbol": "GIMO",
+   "LastSale": "37.4"
+ },
+ {
+   "Symbol": "GIS",
+   "LastSale": "57.73"
+ },
+ {
+   "Symbol": "GJH",
+   "LastSale": "9.88"
+ },
+ {
+   "Symbol": "GJO",
+   "LastSale": "21.8"
+ },
+ {
+   "Symbol": "GJP",
+   "LastSale": "21.5"
+ },
+ {
+   "Symbol": "GJR",
+   "LastSale": "21.3332"
+ },
+ {
+   "Symbol": "GJS",
+   "LastSale": "18.8099"
+ },
+ {
+   "Symbol": "GJT",
+   "LastSale": "18.9832"
+ },
+ {
+   "Symbol": "GJV",
+   "LastSale": "26.08"
+ },
+ {
+   "Symbol": "GKOS",
+   "LastSale": "45.63"
+ },
+ {
+   "Symbol": "GLA",
+   "LastSale": "4.45"
+ },
+ {
+   "Symbol": "GLOB",
+   "LastSale": "34.96"
+ },
+ {
+   "Symbol": "GLOG",
+   "LastSale": "13.5"
+ },
+ {
+   "Symbol": "GLOG^A",
+   "LastSale": "25.71"
+ },
+ {
+   "Symbol": "GLOP",
+   "LastSale": "23.8"
+ },
+ {
+   "Symbol": "GLP",
+   "LastSale": "18.45"
+ },
+ {
+   "Symbol": "GLT",
+   "LastSale": "20.57"
+ },
+ {
+   "Symbol": "GLW",
+   "LastSale": "27.02"
+ },
+ {
+   "Symbol": "GM",
+   "LastSale": "33.75"
+ },
+ {
+   "Symbol": "GM.WS.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "GME",
+   "LastSale": "23.19"
+ },
+ {
+   "Symbol": "GMED",
+   "LastSale": "30.9"
+ },
+ {
+   "Symbol": "GMRE",
+   "LastSale": "9.73"
+ },
+ {
+   "Symbol": "GMS",
+   "LastSale": "35.02"
+ },
+ {
+   "Symbol": "GMTA",
+   "LastSale": "25.22"
+ },
+ {
+   "Symbol": "GMZ",
+   "LastSale": "10.39"
+ },
+ {
+   "Symbol": "GNC",
+   "LastSale": "8.24"
+ },
+ {
+   "Symbol": "GNE",
+   "LastSale": "8.07"
+ },
+ {
+   "Symbol": "GNE^A",
+   "LastSale": "7.79"
+ },
+ {
+   "Symbol": "GNK",
+   "LastSale": "11.55"
+ },
+ {
+   "Symbol": "GNL",
+   "LastSale": "24.15"
+ },
+ {
+   "Symbol": "GNRC",
+   "LastSale": "35.99"
+ },
+ {
+   "Symbol": "GNRT",
+   "LastSale": "5.34"
+ },
+ {
+   "Symbol": "GNT",
+   "LastSale": "7.16"
+ },
+ {
+   "Symbol": "GNW",
+   "LastSale": "4.07"
+ },
+ {
+   "Symbol": "GOF",
+   "LastSale": "20.63"
+ },
+ {
+   "Symbol": "GOL",
+   "LastSale": "31.19"
+ },
+ {
+   "Symbol": "GOLF",
+   "LastSale": "18.1"
+ },
+ {
+   "Symbol": "GOOS",
+   "LastSale": "15.99"
+ },
+ {
+   "Symbol": "GPC",
+   "LastSale": "93.11"
+ },
+ {
+   "Symbol": "GPE^A",
+   "LastSale": "27.77"
+ },
+ {
+   "Symbol": "GPI",
+   "LastSale": "70.11"
+ },
+ {
+   "Symbol": "GPK",
+   "LastSale": "13.54"
+ },
+ {
+   "Symbol": "GPM",
+   "LastSale": "8.19"
+ },
+ {
+   "Symbol": "GPN",
+   "LastSale": "80.86"
+ },
+ {
+   "Symbol": "GPRK",
+   "LastSale": "6.6"
+ },
+ {
+   "Symbol": "GPS",
+   "LastSale": "25.61"
+ },
+ {
+   "Symbol": "GPT",
+   "LastSale": "28.39"
+ },
+ {
+   "Symbol": "GPT^A",
+   "LastSale": "26.5241"
+ },
+ {
+   "Symbol": "GPX",
+   "LastSale": "25.75"
+ },
+ {
+   "Symbol": "GRA",
+   "LastSale": "69.02"
+ },
+ {
+   "Symbol": "GRAM",
+   "LastSale": "3.84"
+ },
+ {
+   "Symbol": "GRP.U",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "GRR",
+   "LastSale": "11.3"
+ },
+ {
+   "Symbol": "GRUB",
+   "LastSale": "34.61"
+ },
+ {
+   "Symbol": "GRX",
+   "LastSale": "10.15"
+ },
+ {
+   "Symbol": "GRX^A",
+   "LastSale": "25.56"
+ },
+ {
+   "Symbol": "GRX^B",
+   "LastSale": "26.7999"
+ },
+ {
+   "Symbol": "GS",
+   "LastSale": "216.86"
+ },
+ {
+   "Symbol": "GSBD",
+   "LastSale": "24.83"
+ },
+ {
+   "Symbol": "GSH",
+   "LastSale": "30.4"
+ },
+ {
+   "Symbol": "GSK",
+   "LastSale": "40.78"
+ },
+ {
+   "Symbol": "GSL",
+   "LastSale": "1.37"
+ },
+ {
+   "Symbol": "GSL^B",
+   "LastSale": "20.72"
+ },
+ {
+   "Symbol": "GS^A",
+   "LastSale": "23.88"
+ },
+ {
+   "Symbol": "GS^B",
+   "LastSale": "26.77"
+ },
+ {
+   "Symbol": "GS^C",
+   "LastSale": "23.35"
+ },
+ {
+   "Symbol": "GS^D",
+   "LastSale": "23.2"
+ },
+ {
+   "Symbol": "GS^I",
+   "LastSale": "25.89"
+ },
+ {
+   "Symbol": "GS^J",
+   "LastSale": "26.9"
+ },
+ {
+   "Symbol": "GS^K",
+   "LastSale": "28.39"
+ },
+ {
+   "Symbol": "GS^N",
+   "LastSale": "26.92"
+ },
+ {
+   "Symbol": "GTN",
+   "LastSale": "14.65"
+ },
+ {
+   "Symbol": "GTN.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "GTS",
+   "LastSale": "18.31"
+ },
+ {
+   "Symbol": "GTT",
+   "LastSale": "28.15"
+ },
+ {
+   "Symbol": "GTY",
+   "LastSale": "26.55"
+ },
+ {
+   "Symbol": "GUT",
+   "LastSale": "6.71"
+ },
+ {
+   "Symbol": "GUT^A",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "GUT^C",
+   "LastSale": "25.1948"
+ },
+ {
+   "Symbol": "GVA",
+   "LastSale": "51.68"
+ },
+ {
+   "Symbol": "GWB",
+   "LastSale": "42.56"
+ },
+ {
+   "Symbol": "GWR",
+   "LastSale": "67.19"
+ },
+ {
+   "Symbol": "GWRE",
+   "LastSale": "59.91"
+ },
+ {
+   "Symbol": "GWW",
+   "LastSale": "195.15"
+ },
+ {
+   "Symbol": "GXP",
+   "LastSale": "29.54"
+ },
+ {
+   "Symbol": "GXP^B",
+   "LastSale": "53.9"
+ },
+ {
+   "Symbol": "GYB",
+   "LastSale": "22.31"
+ },
+ {
+   "Symbol": "GYC",
+   "LastSale": "23.3999"
+ },
+ {
+   "Symbol": "GZT",
+   "LastSale": "10.264"
+ },
+ {
+   "Symbol": "H",
+   "LastSale": "55.09"
+ },
+ {
+   "Symbol": "HAE",
+   "LastSale": "41"
+ },
+ {
+   "Symbol": "HAL",
+   "LastSale": "47.06"
+ },
+ {
+   "Symbol": "HASI",
+   "LastSale": "21.35"
+ },
+ {
+   "Symbol": "HBI",
+   "LastSale": "21.69"
+ },
+ {
+   "Symbol": "HBM",
+   "LastSale": "5.9"
+ },
+ {
+   "Symbol": "HBM.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "HCA",
+   "LastSale": "83.55"
+ },
+ {
+   "Symbol": "HCC",
+   "LastSale": "18.41"
+ },
+ {
+   "Symbol": "HCI",
+   "LastSale": "45.35"
+ },
+ {
+   "Symbol": "HCLP",
+   "LastSale": "14.1"
+ },
+ {
+   "Symbol": "HCN",
+   "LastSale": "73.68"
+ },
+ {
+   "Symbol": "HCN^I",
+   "LastSale": "65.32"
+ },
+ {
+   "Symbol": "HCP",
+   "LastSale": "32.5"
+ },
+ {
+   "Symbol": "HD",
+   "LastSale": "150"
+ },
+ {
+   "Symbol": "HDB",
+   "LastSale": "77.3"
+ },
+ {
+   "Symbol": "HE",
+   "LastSale": "33.68"
+ },
+ {
+   "Symbol": "HEI",
+   "LastSale": "69.54"
+ },
+ {
+   "Symbol": "HEI.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "HEP",
+   "LastSale": "35.84"
+ },
+ {
+   "Symbol": "HEQ",
+   "LastSale": "16.81"
+ },
+ {
+   "Symbol": "HES",
+   "LastSale": "47.31"
+ },
+ {
+   "Symbol": "HESM",
+   "LastSale": "25.44"
+ },
+ {
+   "Symbol": "HES^A",
+   "LastSale": "58.05"
+ },
+ {
+   "Symbol": "HE^U",
+   "LastSale": "27.4753"
+ },
+ {
+   "Symbol": "HF",
+   "LastSale": "28.31"
+ },
+ {
+   "Symbol": "HFC",
+   "LastSale": "27.88"
+ },
+ {
+   "Symbol": "HGH",
+   "LastSale": "31.96"
+ },
+ {
+   "Symbol": "HGT",
+   "LastSale": "2.05"
+ },
+ {
+   "Symbol": "HGV",
+   "LastSale": "31.16"
+ },
+ {
+   "Symbol": "HHC",
+   "LastSale": "123.74"
+ },
+ {
+   "Symbol": "HHS",
+   "LastSale": "1.4"
+ },
+ {
+   "Symbol": "HI",
+   "LastSale": "36.15"
+ },
+ {
+   "Symbol": "HIE",
+   "LastSale": "13.42"
+ },
+ {
+   "Symbol": "HIFR",
+   "LastSale": "18.02"
+ },
+ {
+   "Symbol": "HIG",
+   "LastSale": "47.28"
+ },
+ {
+   "Symbol": "HIG.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "HII",
+   "LastSale": "199.63"
+ },
+ {
+   "Symbol": "HIL",
+   "LastSale": "3.85"
+ },
+ {
+   "Symbol": "HIO",
+   "LastSale": "5.19"
+ },
+ {
+   "Symbol": "HIVE",
+   "LastSale": "3.77"
+ },
+ {
+   "Symbol": "HIW",
+   "LastSale": "51.67"
+ },
+ {
+   "Symbol": "HIX",
+   "LastSale": "7.295"
+ },
+ {
+   "Symbol": "HJV",
+   "LastSale": "16.25"
+ },
+ {
+   "Symbol": "HK",
+   "LastSale": "7.02"
+ },
+ {
+   "Symbol": "HK.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "HL",
+   "LastSale": "5.47"
+ },
+ {
+   "Symbol": "HLF",
+   "LastSale": "59.98"
+ },
+ {
+   "Symbol": "HLI",
+   "LastSale": "32.84"
+ },
+ {
+   "Symbol": "HLS",
+   "LastSale": "43.29"
+ },
+ {
+   "Symbol": "HLT",
+   "LastSale": "57.35"
+ },
+ {
+   "Symbol": "HLX",
+   "LastSale": "7.09"
+ },
+ {
+   "Symbol": "HL^B",
+   "LastSale": "54.5001"
+ },
+ {
+   "Symbol": "HMC",
+   "LastSale": "28.52"
+ },
+ {
+   "Symbol": "HMLP",
+   "LastSale": "19.9"
+ },
+ {
+   "Symbol": "HMN",
+   "LastSale": "39.1"
+ },
+ {
+   "Symbol": "HMY",
+   "LastSale": "2.38"
+ },
+ {
+   "Symbol": "HNI",
+   "LastSale": "44.35"
+ },
+ {
+   "Symbol": "HNP",
+   "LastSale": "26.6"
+ },
+ {
+   "Symbol": "HNR",
+   "LastSale": "6.96"
+ },
+ {
+   "Symbol": "HOG",
+   "LastSale": "55.81"
+ },
+ {
+   "Symbol": "HOME",
+   "LastSale": "16.47"
+ },
+ {
+   "Symbol": "HON",
+   "LastSale": "127.08"
+ },
+ {
+   "Symbol": "HOS",
+   "LastSale": "3.36"
+ },
+ {
+   "Symbol": "HOV",
+   "LastSale": "2.34"
+ },
+ {
+   "Symbol": "HP",
+   "LastSale": "65.09"
+ },
+ {
+   "Symbol": "HPE",
+   "LastSale": "18.14"
+ },
+ {
+   "Symbol": "HPF",
+   "LastSale": "21.32"
+ },
+ {
+   "Symbol": "HPI",
+   "LastSale": "21.68"
+ },
+ {
+   "Symbol": "HPP",
+   "LastSale": "35.35"
+ },
+ {
+   "Symbol": "HPQ",
+   "LastSale": "18.29"
+ },
+ {
+   "Symbol": "HPS",
+   "LastSale": "18.73"
+ },
+ {
+   "Symbol": "HQH",
+   "LastSale": "24.26"
+ },
+ {
+   "Symbol": "HQL",
+   "LastSale": "19.54"
+ },
+ {
+   "Symbol": "HR",
+   "LastSale": "33.82"
+ },
+ {
+   "Symbol": "HRB",
+   "LastSale": "23.08"
+ },
+ {
+   "Symbol": "HRC",
+   "LastSale": "71.14"
+ },
+ {
+   "Symbol": "HRG",
+   "LastSale": "19.53"
+ },
+ {
+   "Symbol": "HRI",
+   "LastSale": "45.63"
+ },
+ {
+   "Symbol": "HRL",
+   "LastSale": "34.69"
+ },
+ {
+   "Symbol": "HRS",
+   "LastSale": "110.27"
+ },
+ {
+   "Symbol": "HRTG",
+   "LastSale": "11.6"
+ },
+ {
+   "Symbol": "HSBC",
+   "LastSale": "39.94"
+ },
+ {
+   "Symbol": "HSBC^A",
+   "LastSale": "26.13"
+ },
+ {
+   "Symbol": "HSC",
+   "LastSale": "12.3"
+ },
+ {
+   "Symbol": "HSEA",
+   "LastSale": "27.1"
+ },
+ {
+   "Symbol": "HSEB",
+   "LastSale": "26.74"
+ },
+ {
+   "Symbol": "HST",
+   "LastSale": "18.82"
+ },
+ {
+   "Symbol": "HSY",
+   "LastSale": "107.4"
+ },
+ {
+   "Symbol": "HT",
+   "LastSale": "18.57"
+ },
+ {
+   "Symbol": "HTA",
+   "LastSale": "32.77"
+ },
+ {
+   "Symbol": "HTD",
+   "LastSale": "25.36"
+ },
+ {
+   "Symbol": "HTF",
+   "LastSale": "25.42"
+ },
+ {
+   "Symbol": "HTGC",
+   "LastSale": "15.34"
+ },
+ {
+   "Symbol": "HTGX",
+   "LastSale": "25.34"
+ },
+ {
+   "Symbol": "HTH",
+   "LastSale": "27.41"
+ },
+ {
+   "Symbol": "HTY",
+   "LastSale": "9.08"
+ },
+ {
+   "Symbol": "HTZ",
+   "LastSale": "15.64"
+ },
+ {
+   "Symbol": "HT^C",
+   "LastSale": "25.13"
+ },
+ {
+   "Symbol": "HT^D",
+   "LastSale": "25.1"
+ },
+ {
+   "Symbol": "HT^E",
+   "LastSale": "24.51"
+ },
+ {
+   "Symbol": "HUBB",
+   "LastSale": "119"
+ },
+ {
+   "Symbol": "HUBS",
+   "LastSale": "64.1"
+ },
+ {
+   "Symbol": "HUM",
+   "LastSale": "213.67"
+ },
+ {
+   "Symbol": "HUN",
+   "LastSale": "24"
+ },
+ {
+   "Symbol": "HVT",
+   "LastSale": "24.2"
+ },
+ {
+   "Symbol": "HVT.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "HW",
+   "LastSale": "23.7"
+ },
+ {
+   "Symbol": "HXL",
+   "LastSale": "51.41"
+ },
+ {
+   "Symbol": "HY",
+   "LastSale": "58.81"
+ },
+ {
+   "Symbol": "HYB",
+   "LastSale": "9.46"
+ },
+ {
+   "Symbol": "HYH",
+   "LastSale": "37.59"
+ },
+ {
+   "Symbol": "HYI",
+   "LastSale": "15.39"
+ },
+ {
+   "Symbol": "HYT",
+   "LastSale": "11.14"
+ },
+ {
+   "Symbol": "HZN",
+   "LastSale": "13.17"
+ },
+ {
+   "Symbol": "HZO",
+   "LastSale": "22.2"
+ },
+ {
+   "Symbol": "I",
+   "LastSale": "3.62"
+ },
+ {
+   "Symbol": "IAE",
+   "LastSale": "10.07"
+ },
+ {
+   "Symbol": "IAG",
+   "LastSale": "4.34"
+ },
+ {
+   "Symbol": "IBA",
+   "LastSale": "53.81"
+ },
+ {
+   "Symbol": "IBM",
+   "LastSale": "160.38"
+ },
+ {
+   "Symbol": "IBN",
+   "LastSale": "8.25"
+ },
+ {
+   "Symbol": "IBP",
+   "LastSale": "53.45"
+ },
+ {
+   "Symbol": "ICB",
+   "LastSale": "18.04"
+ },
+ {
+   "Symbol": "ICD",
+   "LastSale": "4.9"
+ },
+ {
+   "Symbol": "ICE",
+   "LastSale": "60.41"
+ },
+ {
+   "Symbol": "ICL",
+   "LastSale": "4.07"
+ },
+ {
+   "Symbol": "IDA",
+   "LastSale": "85.24"
+ },
+ {
+   "Symbol": "IDE",
+   "LastSale": "14.52"
+ },
+ {
+   "Symbol": "IDT",
+   "LastSale": "15.3"
+ },
+ {
+   "Symbol": "IEX",
+   "LastSale": "101.59"
+ },
+ {
+   "Symbol": "IFF",
+   "LastSale": "136.12"
+ },
+ {
+   "Symbol": "IFN",
+   "LastSale": "25.88"
+ },
+ {
+   "Symbol": "IGA",
+   "LastSale": "10.39"
+ },
+ {
+   "Symbol": "IGD",
+   "LastSale": "7.29"
+ },
+ {
+   "Symbol": "IGI",
+   "LastSale": "20.49"
+ },
+ {
+   "Symbol": "IGR",
+   "LastSale": "7.7"
+ },
+ {
+   "Symbol": "IGT",
+   "LastSale": "22.34"
+ },
+ {
+   "Symbol": "IHC",
+   "LastSale": "18.75"
+ },
+ {
+   "Symbol": "IHD",
+   "LastSale": "8.5"
+ },
+ {
+   "Symbol": "IHG",
+   "LastSale": "50.1"
+ },
+ {
+   "Symbol": "IHIT",
+   "LastSale": "10.01"
+ },
+ {
+   "Symbol": "IID",
+   "LastSale": "6.84"
+ },
+ {
+   "Symbol": "IIF",
+   "LastSale": "32.57"
+ },
+ {
+   "Symbol": "IIM",
+   "LastSale": "14.89"
+ },
+ {
+   "Symbol": "IIPR",
+   "LastSale": "18.44"
+ },
+ {
+   "Symbol": "IMAX",
+   "LastSale": "31.9"
+ },
+ {
+   "Symbol": "INB",
+   "LastSale": "9.18"
+ },
+ {
+   "Symbol": "INF",
+   "LastSale": "13.47"
+ },
+ {
+   "Symbol": "INFY",
+   "LastSale": "14.48"
+ },
+ {
+   "Symbol": "ING",
+   "LastSale": "15.22"
+ },
+ {
+   "Symbol": "INGR",
+   "LastSale": "120.86"
+ },
+ {
+   "Symbol": "INN",
+   "LastSale": "16.77"
+ },
+ {
+   "Symbol": "INN^B",
+   "LastSale": "25.85"
+ },
+ {
+   "Symbol": "INN^C",
+   "LastSale": "25.7758"
+ },
+ {
+   "Symbol": "INN^D",
+   "LastSale": "25.53"
+ },
+ {
+   "Symbol": "INSI",
+   "LastSale": "19.27"
+ },
+ {
+   "Symbol": "INST",
+   "LastSale": "22.65"
+ },
+ {
+   "Symbol": "INSW",
+   "LastSale": "19.14"
+ },
+ {
+   "Symbol": "INT",
+   "LastSale": "36.54"
+ },
+ {
+   "Symbol": "INVH",
+   "LastSale": "21.66"
+ },
+ {
+   "Symbol": "INVN",
+   "LastSale": "12.93"
+ },
+ {
+   "Symbol": "INXN",
+   "LastSale": "39.97"
+ },
+ {
+   "Symbol": "IO",
+   "LastSale": "4.2"
+ },
+ {
+   "Symbol": "IP",
+   "LastSale": "52.78"
+ },
+ {
+   "Symbol": "IPG",
+   "LastSale": "24.39"
+ },
+ {
+   "Symbol": "IPHI",
+   "LastSale": "44.42"
+ },
+ {
+   "Symbol": "IPI",
+   "LastSale": "1.86"
+ },
+ {
+   "Symbol": "IPL^D",
+   "LastSale": "25.9795"
+ },
+ {
+   "Symbol": "IQI",
+   "LastSale": "12.48"
+ },
+ {
+   "Symbol": "IR",
+   "LastSale": "83.03"
+ },
+ {
+   "Symbol": "IRET",
+   "LastSale": "6.1"
+ },
+ {
+   "Symbol": "IRET^B",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "IRL",
+   "LastSale": "13.3"
+ },
+ {
+   "Symbol": "IRM",
+   "LastSale": "36.34"
+ },
+ {
+   "Symbol": "IRR",
+   "LastSale": "6.37"
+ },
+ {
+   "Symbol": "IRS",
+   "LastSale": "24.63"
+ },
+ {
+   "Symbol": "ISD",
+   "LastSale": "15.46"
+ },
+ {
+   "Symbol": "ISF",
+   "LastSale": "25.94"
+ },
+ {
+   "Symbol": "ISG",
+   "LastSale": "25.6"
+ },
+ {
+   "Symbol": "ISP",
+   "LastSale": "25.57"
+ },
+ {
+   "Symbol": "IT",
+   "LastSale": "112.58"
+ },
+ {
+   "Symbol": "ITCB",
+   "LastSale": "14.21"
+ },
+ {
+   "Symbol": "ITG",
+   "LastSale": "19.84"
+ },
+ {
+   "Symbol": "ITGR",
+   "LastSale": "35.85"
+ },
+ {
+   "Symbol": "ITT",
+   "LastSale": "39.82"
+ },
+ {
+   "Symbol": "ITUB",
+   "LastSale": "11.86"
+ },
+ {
+   "Symbol": "ITW",
+   "LastSale": "134.87"
+ },
+ {
+   "Symbol": "IVC",
+   "LastSale": "12.2"
+ },
+ {
+   "Symbol": "IVH",
+   "LastSale": "15.4"
+ },
+ {
+   "Symbol": "IVR",
+   "LastSale": "16.04"
+ },
+ {
+   "Symbol": "IVR^A",
+   "LastSale": "25.55"
+ },
+ {
+   "Symbol": "IVR^B",
+   "LastSale": "25.56"
+ },
+ {
+   "Symbol": "IVZ",
+   "LastSale": "31.28"
+ },
+ {
+   "Symbol": "IX",
+   "LastSale": "78.22"
+ },
+ {
+   "Symbol": "JAG",
+   "LastSale": "11.85"
+ },
+ {
+   "Symbol": "JAX",
+   "LastSale": "10.65"
+ },
+ {
+   "Symbol": "JBK",
+   "LastSale": "24.31"
+ },
+ {
+   "Symbol": "JBL",
+   "LastSale": "28.95"
+ },
+ {
+   "Symbol": "JBN",
+   "LastSale": "16.63"
+ },
+ {
+   "Symbol": "JBR",
+   "LastSale": "16.58"
+ },
+ {
+   "Symbol": "JBT",
+   "LastSale": "88.25"
+ },
+ {
+   "Symbol": "JCAP",
+   "LastSale": "24.24"
+ },
+ {
+   "Symbol": "JCE",
+   "LastSale": "14.09"
+ },
+ {
+   "Symbol": "JCI",
+   "LastSale": "42.04"
+ },
+ {
+   "Symbol": "JCO",
+   "LastSale": "10.14"
+ },
+ {
+   "Symbol": "JCP",
+   "LastSale": "5.58"
+ },
+ {
+   "Symbol": "JDD",
+   "LastSale": "12.15"
+ },
+ {
+   "Symbol": "JE",
+   "LastSale": "6.15"
+ },
+ {
+   "Symbol": "JEC",
+   "LastSale": "53.54"
+ },
+ {
+   "Symbol": "JELD",
+   "LastSale": "32.69"
+ },
+ {
+   "Symbol": "JEQ",
+   "LastSale": "8.1084"
+ },
+ {
+   "Symbol": "JE^A",
+   "LastSale": "26.25"
+ },
+ {
+   "Symbol": "JFC",
+   "LastSale": "18.56"
+ },
+ {
+   "Symbol": "JFR",
+   "LastSale": "11.55"
+ },
+ {
+   "Symbol": "JGH",
+   "LastSale": "16.56"
+ },
+ {
+   "Symbol": "JHA",
+   "LastSale": "10.18"
+ },
+ {
+   "Symbol": "JHB",
+   "LastSale": "10.05"
+ },
+ {
+   "Symbol": "JHD",
+   "LastSale": "10.29"
+ },
+ {
+   "Symbol": "JHI",
+   "LastSale": "17.31"
+ },
+ {
+   "Symbol": "JHS",
+   "LastSale": "14.34"
+ },
+ {
+   "Symbol": "JHX",
+   "LastSale": "16.3"
+ },
+ {
+   "Symbol": "JHY",
+   "LastSale": "10.15"
+ },
+ {
+   "Symbol": "JILL",
+   "LastSale": "13.7"
+ },
+ {
+   "Symbol": "JKS",
+   "LastSale": "16.65"
+ },
+ {
+   "Symbol": "JLL",
+   "LastSale": "111.81"
+ },
+ {
+   "Symbol": "JLS",
+   "LastSale": "24.86"
+ },
+ {
+   "Symbol": "JMEI",
+   "LastSale": "3.63"
+ },
+ {
+   "Symbol": "JMF",
+   "LastSale": "13.37"
+ },
+ {
+   "Symbol": "JMLP",
+   "LastSale": "10.06"
+ },
+ {
+   "Symbol": "JMM",
+   "LastSale": "7.56"
+ },
+ {
+   "Symbol": "JMP",
+   "LastSale": "6.09"
+ },
+ {
+   "Symbol": "JMPB",
+   "LastSale": "25.6699"
+ },
+ {
+   "Symbol": "JMPC",
+   "LastSale": "25.31"
+ },
+ {
+   "Symbol": "JMT",
+   "LastSale": "24"
+ },
+ {
+   "Symbol": "JNJ",
+   "LastSale": "121.76"
+ },
+ {
+   "Symbol": "JNPR",
+   "LastSale": "27.78"
+ },
+ {
+   "Symbol": "JNS",
+   "LastSale": "13.15"
+ },
+ {
+   "Symbol": "JOE",
+   "LastSale": "17.45"
+ },
+ {
+   "Symbol": "JOF",
+   "LastSale": "10.75"
+ },
+ {
+   "Symbol": "JONE",
+   "LastSale": "2.05"
+ },
+ {
+   "Symbol": "JP",
+   "LastSale": "8.92"
+ },
+ {
+   "Symbol": "JPC",
+   "LastSale": "10"
+ },
+ {
+   "Symbol": "JPI",
+   "LastSale": "24.77"
+ },
+ {
+   "Symbol": "JPM",
+   "LastSale": "84.52"
+ },
+ {
+   "Symbol": "JPM.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "JPM^A",
+   "LastSale": "25.88"
+ },
+ {
+   "Symbol": "JPM^B",
+   "LastSale": "27.62"
+ },
+ {
+   "Symbol": "JPM^D",
+   "LastSale": "25.8"
+ },
+ {
+   "Symbol": "JPM^E",
+   "LastSale": "27.52"
+ },
+ {
+   "Symbol": "JPM^F",
+   "LastSale": "27.25"
+ },
+ {
+   "Symbol": "JPM^G",
+   "LastSale": "27.16"
+ },
+ {
+   "Symbol": "JPM^H",
+   "LastSale": "27.25"
+ },
+ {
+   "Symbol": "JPS",
+   "LastSale": "9.69"
+ },
+ {
+   "Symbol": "JPT",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "JPW",
+   "LastSale": "17.219"
+ },
+ {
+   "Symbol": "JQC",
+   "LastSale": "8.86"
+ },
+ {
+   "Symbol": "JRI",
+   "LastSale": "17.39"
+ },
+ {
+   "Symbol": "JRO",
+   "LastSale": "11.79"
+ },
+ {
+   "Symbol": "JRS",
+   "LastSale": "11.46"
+ },
+ {
+   "Symbol": "JSD",
+   "LastSale": "17.99"
+ },
+ {
+   "Symbol": "JTA",
+   "LastSale": "12.19"
+ },
+ {
+   "Symbol": "JTD",
+   "LastSale": "15.12"
+ },
+ {
+   "Symbol": "JW.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "JW.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "JWN",
+   "LastSale": "47.62"
+ },
+ {
+   "Symbol": "K",
+   "LastSale": "72.42"
+ },
+ {
+   "Symbol": "KAI",
+   "LastSale": "60.45"
+ },
+ {
+   "Symbol": "KAMN",
+   "LastSale": "47.05"
+ },
+ {
+   "Symbol": "KAP",
+   "LastSale": "25.49"
+ },
+ {
+   "Symbol": "KAR",
+   "LastSale": "43.49"
+ },
+ {
+   "Symbol": "KATE",
+   "LastSale": "17.54"
+ },
+ {
+   "Symbol": "KB",
+   "LastSale": "44"
+ },
+ {
+   "Symbol": "KBH",
+   "LastSale": "20.43"
+ },
+ {
+   "Symbol": "KBR",
+   "LastSale": "14.99"
+ },
+ {
+   "Symbol": "KCG",
+   "LastSale": "19.75"
+ },
+ {
+   "Symbol": "KDMN",
+   "LastSale": "2.38"
+ },
+ {
+   "Symbol": "KED",
+   "LastSale": "18.86"
+ },
+ {
+   "Symbol": "KEF",
+   "LastSale": "8.81"
+ },
+ {
+   "Symbol": "KEG",
+   "LastSale": "22.51"
+ },
+ {
+   "Symbol": "KEM",
+   "LastSale": "11.2"
+ },
+ {
+   "Symbol": "KEN",
+   "LastSale": "11.55"
+ },
+ {
+   "Symbol": "KEP",
+   "LastSale": "19.36"
+ },
+ {
+   "Symbol": "KEX",
+   "LastSale": "70.45"
+ },
+ {
+   "Symbol": "KEY",
+   "LastSale": "18.15"
+ },
+ {
+   "Symbol": "KEYS",
+   "LastSale": "35.88"
+ },
+ {
+   "Symbol": "KEY^I",
+   "LastSale": "27.91"
+ },
+ {
+   "Symbol": "KF",
+   "LastSale": "37.83"
+ },
+ {
+   "Symbol": "KFI.CL",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "KFN^",
+   "LastSale": "25.82"
+ },
+ {
+   "Symbol": "KFS",
+   "LastSale": "5.75"
+ },
+ {
+   "Symbol": "KFY",
+   "LastSale": "31.69"
+ },
+ {
+   "Symbol": "KGC",
+   "LastSale": "3.86"
+ },
+ {
+   "Symbol": "KIM",
+   "LastSale": "22.23"
+ },
+ {
+   "Symbol": "KIM^I",
+   "LastSale": "25.15"
+ },
+ {
+   "Symbol": "KIM^J",
+   "LastSale": "25.1"
+ },
+ {
+   "Symbol": "KIM^K",
+   "LastSale": "25.36"
+ },
+ {
+   "Symbol": "KIO",
+   "LastSale": "17.31"
+ },
+ {
+   "Symbol": "KKR",
+   "LastSale": "17.04"
+ },
+ {
+   "Symbol": "KKR^A",
+   "LastSale": "26.37"
+ },
+ {
+   "Symbol": "KKR^B",
+   "LastSale": "25.83"
+ },
+ {
+   "Symbol": "KMB",
+   "LastSale": "129.96"
+ },
+ {
+   "Symbol": "KMF",
+   "LastSale": "15.84"
+ },
+ {
+   "Symbol": "KMG",
+   "LastSale": "44.6"
+ },
+ {
+   "Symbol": "KMI",
+   "LastSale": "20.27"
+ },
+ {
+   "Symbol": "KMI.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "KMI^A",
+   "LastSale": "45.84"
+ },
+ {
+   "Symbol": "KMM",
+   "LastSale": "8.74"
+ },
+ {
+   "Symbol": "KMPA",
+   "LastSale": "26.79"
+ },
+ {
+   "Symbol": "KMPR",
+   "LastSale": "40.35"
+ },
+ {
+   "Symbol": "KMT",
+   "LastSale": "37.66"
+ },
+ {
+   "Symbol": "KMX",
+   "LastSale": "58.31"
+ },
+ {
+   "Symbol": "KN",
+   "LastSale": "18.92"
+ },
+ {
+   "Symbol": "KND",
+   "LastSale": "9.7"
+ },
+ {
+   "Symbol": "KNL",
+   "LastSale": "23.52"
+ },
+ {
+   "Symbol": "KNOP",
+   "LastSale": "23.15"
+ },
+ {
+   "Symbol": "KNX",
+   "LastSale": "34.05"
+ },
+ {
+   "Symbol": "KO",
+   "LastSale": "43.07"
+ },
+ {
+   "Symbol": "KODK",
+   "LastSale": "10.5"
+ },
+ {
+   "Symbol": "KODK.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "KODK.WS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "KOF",
+   "LastSale": "73.16"
+ },
+ {
+   "Symbol": "KOP",
+   "LastSale": "41.25"
+ },
+ {
+   "Symbol": "KORS",
+   "LastSale": "36.76"
+ },
+ {
+   "Symbol": "KOS",
+   "LastSale": "5.69"
+ },
+ {
+   "Symbol": "KR",
+   "LastSale": "29.95"
+ },
+ {
+   "Symbol": "KRA",
+   "LastSale": "32.5"
+ },
+ {
+   "Symbol": "KRC",
+   "LastSale": "74.48"
+ },
+ {
+   "Symbol": "KRC^H",
+   "LastSale": "25.56"
+ },
+ {
+   "Symbol": "KRG",
+   "LastSale": "21.87"
+ },
+ {
+   "Symbol": "KRO",
+   "LastSale": "16.62"
+ },
+ {
+   "Symbol": "KRP",
+   "LastSale": "18.45"
+ },
+ {
+   "Symbol": "KS",
+   "LastSale": "23.38"
+ },
+ {
+   "Symbol": "KSM",
+   "LastSale": "12.59"
+ },
+ {
+   "Symbol": "KSS",
+   "LastSale": "40.07"
+ },
+ {
+   "Symbol": "KST",
+   "LastSale": "12.23"
+ },
+ {
+   "Symbol": "KSU",
+   "LastSale": "87.99"
+ },
+ {
+   "Symbol": "KSU^",
+   "LastSale": "27.87"
+ },
+ {
+   "Symbol": "KT",
+   "LastSale": "16.12"
+ },
+ {
+   "Symbol": "KTF",
+   "LastSale": "13.39"
+ },
+ {
+   "Symbol": "KTH",
+   "LastSale": "32.0994"
+ },
+ {
+   "Symbol": "KTN",
+   "LastSale": "33.3561"
+ },
+ {
+   "Symbol": "KTP",
+   "LastSale": "18.69"
+ },
+ {
+   "Symbol": "KW",
+   "LastSale": "22.5"
+ },
+ {
+   "Symbol": "KWN",
+   "LastSale": "25.9"
+ },
+ {
+   "Symbol": "KWR",
+   "LastSale": "142.99"
+ },
+ {
+   "Symbol": "KYE",
+   "LastSale": "12.23"
+ },
+ {
+   "Symbol": "KYN",
+   "LastSale": "20.06"
+ },
+ {
+   "Symbol": "KYN^F",
+   "LastSale": "25.44"
+ },
+ {
+   "Symbol": "KYO",
+   "LastSale": "54.73"
+ },
+ {
+   "Symbol": "L",
+   "LastSale": "45.95"
+ },
+ {
+   "Symbol": "LAD",
+   "LastSale": "90.73"
+ },
+ {
+   "Symbol": "LADR",
+   "LastSale": "14.69"
+ },
+ {
+   "Symbol": "LAZ",
+   "LastSale": "44.76"
+ },
+ {
+   "Symbol": "LB",
+   "LastSale": "49.84"
+ },
+ {
+   "Symbol": "LBF",
+   "LastSale": "8.5579"
+ },
+ {
+   "Symbol": "LC",
+   "LastSale": "5.72"
+ },
+ {
+   "Symbol": "LCI",
+   "LastSale": "24.25"
+ },
+ {
+   "Symbol": "LCII",
+   "LastSale": "97.2"
+ },
+ {
+   "Symbol": "LCM",
+   "LastSale": "8.61"
+ },
+ {
+   "Symbol": "LDF",
+   "LastSale": "10.6683"
+ },
+ {
+   "Symbol": "LDL",
+   "LastSale": "50.5"
+ },
+ {
+   "Symbol": "LDOS",
+   "LastSale": "52.21"
+ },
+ {
+   "Symbol": "LDP",
+   "LastSale": "25.9"
+ },
+ {
+   "Symbol": "LDR",
+   "LastSale": "50.65"
+ },
+ {
+   "Symbol": "LEA",
+   "LastSale": "139.05"
+ },
+ {
+   "Symbol": "LEE",
+   "LastSale": "2.8"
+ },
+ {
+   "Symbol": "LEG",
+   "LastSale": "52.47"
+ },
+ {
+   "Symbol": "LEJU",
+   "LastSale": "3.26"
+ },
+ {
+   "Symbol": "LEN",
+   "LastSale": "52.01"
+ },
+ {
+   "Symbol": "LEN.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "LEO",
+   "LastSale": "8.77"
+ },
+ {
+   "Symbol": "LFC",
+   "LastSale": "14.53"
+ },
+ {
+   "Symbol": "LFGR",
+   "LastSale": "8.1"
+ },
+ {
+   "Symbol": "LFL",
+   "LastSale": "13.21"
+ },
+ {
+   "Symbol": "LGF.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "LGF.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "LGI",
+   "LastSale": "15.14"
+ },
+ {
+   "Symbol": "LH",
+   "LastSale": "143.29"
+ },
+ {
+   "Symbol": "LHO",
+   "LastSale": "28.55"
+ },
+ {
+   "Symbol": "LHO^H.CL",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "LHO^I",
+   "LastSale": "25.96"
+ },
+ {
+   "Symbol": "LHO^J",
+   "LastSale": "25.38"
+ },
+ {
+   "Symbol": "LII",
+   "LastSale": "172.43"
+ },
+ {
+   "Symbol": "LITB",
+   "LastSale": "2.84"
+ },
+ {
+   "Symbol": "LKSD",
+   "LastSale": "24.64"
+ },
+ {
+   "Symbol": "LL",
+   "LastSale": "23.05"
+ },
+ {
+   "Symbol": "LLL",
+   "LastSale": "167.89"
+ },
+ {
+   "Symbol": "LLY",
+   "LastSale": "81.89"
+ },
+ {
+   "Symbol": "LM",
+   "LastSale": "37.43"
+ },
+ {
+   "Symbol": "LMHA",
+   "LastSale": "26.2"
+ },
+ {
+   "Symbol": "LMHB",
+   "LastSale": "23.67"
+ },
+ {
+   "Symbol": "LMT",
+   "LastSale": "273.09"
+ },
+ {
+   "Symbol": "LN",
+   "LastSale": "35.77"
+ },
+ {
+   "Symbol": "LNC",
+   "LastSale": "64.72"
+ },
+ {
+   "Symbol": "LNC.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "LND",
+   "LastSale": "3.99"
+ },
+ {
+   "Symbol": "LNN",
+   "LastSale": "86.81"
+ },
+ {
+   "Symbol": "LNT",
+   "LastSale": "39.96"
+ },
+ {
+   "Symbol": "LOR",
+   "LastSale": "10.63"
+ },
+ {
+   "Symbol": "LOW",
+   "LastSale": "83.47"
+ },
+ {
+   "Symbol": "LPG",
+   "LastSale": "9.46"
+ },
+ {
+   "Symbol": "LPI",
+   "LastSale": "12.86"
+ },
+ {
+   "Symbol": "LPL",
+   "LastSale": "13.14"
+ },
+ {
+   "Symbol": "LPT",
+   "LastSale": "40.93"
+ },
+ {
+   "Symbol": "LPX",
+   "LastSale": "25.98"
+ },
+ {
+   "Symbol": "LQ",
+   "LastSale": "13.73"
+ },
+ {
+   "Symbol": "LRN",
+   "LastSale": "19.63"
+ },
+ {
+   "Symbol": "LSI",
+   "LastSale": "85.29"
+ },
+ {
+   "Symbol": "LTC",
+   "LastSale": "49.48"
+ },
+ {
+   "Symbol": "LUB",
+   "LastSale": "2.91"
+ },
+ {
+   "Symbol": "LUK",
+   "LastSale": "25.51"
+ },
+ {
+   "Symbol": "LUV",
+   "LastSale": "55.63"
+ },
+ {
+   "Symbol": "LUX",
+   "LastSale": "54.76"
+ },
+ {
+   "Symbol": "LVLT",
+   "LastSale": "60.06"
+ },
+ {
+   "Symbol": "LVS",
+   "LastSale": "57.38"
+ },
+ {
+   "Symbol": "LW",
+   "LastSale": "42.26"
+ },
+ {
+   "Symbol": "LXFR",
+   "LastSale": "11.08"
+ },
+ {
+   "Symbol": "LXFT",
+   "LastSale": "62.55"
+ },
+ {
+   "Symbol": "LXP",
+   "LastSale": "10.48"
+ },
+ {
+   "Symbol": "LXP^C",
+   "LastSale": "50.9687"
+ },
+ {
+   "Symbol": "LXU",
+   "LastSale": "7.17"
+ },
+ {
+   "Symbol": "LYB",
+   "LastSale": "85.42"
+ },
+ {
+   "Symbol": "LYG",
+   "LastSale": "3.32"
+ },
+ {
+   "Symbol": "LYV",
+   "LastSale": "31.25"
+ },
+ {
+   "Symbol": "LZB",
+   "LastSale": "28"
+ },
+ {
+   "Symbol": "M",
+   "LastSale": "29.48"
+ },
+ {
+   "Symbol": "MA",
+   "LastSale": "114.27"
+ },
+ {
+   "Symbol": "MAA",
+   "LastSale": "101.27"
+ },
+ {
+   "Symbol": "MAA^I",
+   "LastSale": "64.65"
+ },
+ {
+   "Symbol": "MAC",
+   "LastSale": "65.05"
+ },
+ {
+   "Symbol": "MAIN",
+   "LastSale": "39.5"
+ },
+ {
+   "Symbol": "MAN",
+   "LastSale": "100.34"
+ },
+ {
+   "Symbol": "MANU",
+   "LastSale": "16.4"
+ },
+ {
+   "Symbol": "MAS",
+   "LastSale": "34.34"
+ },
+ {
+   "Symbol": "MATX",
+   "LastSale": "31.59"
+ },
+ {
+   "Symbol": "MAV",
+   "LastSale": "11.32"
+ },
+ {
+   "Symbol": "MBI",
+   "LastSale": "8.53"
+ },
+ {
+   "Symbol": "MBLY",
+   "LastSale": "61.67"
+ },
+ {
+   "Symbol": "MBT",
+   "LastSale": "10.38"
+ },
+ {
+   "Symbol": "MC",
+   "LastSale": "38.5"
+ },
+ {
+   "Symbol": "MCA",
+   "LastSale": "14.96"
+ },
+ {
+   "Symbol": "MCC",
+   "LastSale": "7.73"
+ },
+ {
+   "Symbol": "MCD",
+   "LastSale": "133.41"
+ },
+ {
+   "Symbol": "MCI",
+   "LastSale": "15.4267"
+ },
+ {
+   "Symbol": "MCK",
+   "LastSale": "135.92"
+ },
+ {
+   "Symbol": "MCN",
+   "LastSale": "8.03"
+ },
+ {
+   "Symbol": "MCO",
+   "LastSale": "115.02"
+ },
+ {
+   "Symbol": "MCR",
+   "LastSale": "8.61"
+ },
+ {
+   "Symbol": "MCRN",
+   "LastSale": "17.88"
+ },
+ {
+   "Symbol": "MCS",
+   "LastSale": "32.7"
+ },
+ {
+   "Symbol": "MCV",
+   "LastSale": "25.21"
+ },
+ {
+   "Symbol": "MCX",
+   "LastSale": "25.8499"
+ },
+ {
+   "Symbol": "MCY",
+   "LastSale": "59.94"
+ },
+ {
+   "Symbol": "MD",
+   "LastSale": "60.68"
+ },
+ {
+   "Symbol": "MDC",
+   "LastSale": "31.28"
+ },
+ {
+   "Symbol": "MDLQ",
+   "LastSale": "25.2"
+ },
+ {
+   "Symbol": "MDLX",
+   "LastSale": "24.93"
+ },
+ {
+   "Symbol": "MDLY",
+   "LastSale": "8.1"
+ },
+ {
+   "Symbol": "MDP",
+   "LastSale": "64.2"
+ },
+ {
+   "Symbol": "MDR",
+   "LastSale": "6.31"
+ },
+ {
+   "Symbol": "MDT",
+   "LastSale": "80.48"
+ },
+ {
+   "Symbol": "MDU",
+   "LastSale": "27.07"
+ },
+ {
+   "Symbol": "MED",
+   "LastSale": "44.6"
+ },
+ {
+   "Symbol": "MEI",
+   "LastSale": "43.75"
+ },
+ {
+   "Symbol": "MEN",
+   "LastSale": "11.7"
+ },
+ {
+   "Symbol": "MEP",
+   "LastSale": "8"
+ },
+ {
+   "Symbol": "MER^K",
+   "LastSale": "25.9"
+ },
+ {
+   "Symbol": "MER^P",
+   "LastSale": "26.61"
+ },
+ {
+   "Symbol": "MET",
+   "LastSale": "51.265"
+ },
+ {
+   "Symbol": "MET^A",
+   "LastSale": "25.09"
+ },
+ {
+   "Symbol": "MFA",
+   "LastSale": "8.17"
+ },
+ {
+   "Symbol": "MFA^B",
+   "LastSale": "25.19"
+ },
+ {
+   "Symbol": "MFC",
+   "LastSale": "17.13"
+ },
+ {
+   "Symbol": "MFCB",
+   "LastSale": "1.55"
+ },
+ {
+   "Symbol": "MFD",
+   "LastSale": "12.62"
+ },
+ {
+   "Symbol": "MFG",
+   "LastSale": "3.6"
+ },
+ {
+   "Symbol": "MFL",
+   "LastSale": "14.52"
+ },
+ {
+   "Symbol": "MFM",
+   "LastSale": "7.02"
+ },
+ {
+   "Symbol": "MFO",
+   "LastSale": "25.75"
+ },
+ {
+   "Symbol": "MFT",
+   "LastSale": "13.94"
+ },
+ {
+   "Symbol": "MFV",
+   "LastSale": "5.86"
+ },
+ {
+   "Symbol": "MG",
+   "LastSale": "21.37"
+ },
+ {
+   "Symbol": "MGA",
+   "LastSale": "40.58"
+ },
+ {
+   "Symbol": "MGF",
+   "LastSale": "5"
+ },
+ {
+   "Symbol": "MGM",
+   "LastSale": "28.41"
+ },
+ {
+   "Symbol": "MGP",
+   "LastSale": "28.4"
+ },
+ {
+   "Symbol": "MGR",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "MGU",
+   "LastSale": "23.38"
+ },
+ {
+   "Symbol": "MHD",
+   "LastSale": "16.74"
+ },
+ {
+   "Symbol": "MHF",
+   "LastSale": "7.35"
+ },
+ {
+   "Symbol": "MHI",
+   "LastSale": "11.8"
+ },
+ {
+   "Symbol": "MHK",
+   "LastSale": "234.93"
+ },
+ {
+   "Symbol": "MHLA",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "MHN",
+   "LastSale": "13.77"
+ },
+ {
+   "Symbol": "MHNB",
+   "LastSale": "25.4799"
+ },
+ {
+   "Symbol": "MHNC",
+   "LastSale": "26.25"
+ },
+ {
+   "Symbol": "MHO",
+   "LastSale": "25.55"
+ },
+ {
+   "Symbol": "MHO^A",
+   "LastSale": "25.66"
+ },
+ {
+   "Symbol": "MH^A",
+   "LastSale": "25.76"
+ },
+ {
+   "Symbol": "MH^C",
+   "LastSale": "25.5"
+ },
+ {
+   "Symbol": "MIC",
+   "LastSale": "80.11"
+ },
+ {
+   "Symbol": "MIE",
+   "LastSale": "11.27"
+ },
+ {
+   "Symbol": "MIN",
+   "LastSale": "4.36"
+ },
+ {
+   "Symbol": "MITT",
+   "LastSale": "18.52"
+ },
+ {
+   "Symbol": "MITT^A",
+   "LastSale": "25.4642"
+ },
+ {
+   "Symbol": "MITT^B",
+   "LastSale": "25.01"
+ },
+ {
+   "Symbol": "MIXT",
+   "LastSale": "6.34"
+ },
+ {
+   "Symbol": "MIY",
+   "LastSale": "13.78"
+ },
+ {
+   "Symbol": "MJN",
+   "LastSale": "88.76"
+ },
+ {
+   "Symbol": "MKC",
+   "LastSale": "100.4"
+ },
+ {
+   "Symbol": "MKC.V",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "MKL",
+   "LastSale": "969.28"
+ },
+ {
+   "Symbol": "MLI",
+   "LastSale": "33.75"
+ },
+ {
+   "Symbol": "MLM",
+   "LastSale": "218.89"
+ },
+ {
+   "Symbol": "MLP",
+   "LastSale": "13.8"
+ },
+ {
+   "Symbol": "MLR",
+   "LastSale": "24.1"
+ },
+ {
+   "Symbol": "MMC",
+   "LastSale": "71.88"
+ },
+ {
+   "Symbol": "MMD",
+   "LastSale": "19.5"
+ },
+ {
+   "Symbol": "MMI",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "MMM",
+   "LastSale": "191.5"
+ },
+ {
+   "Symbol": "MMP",
+   "LastSale": "75.83"
+ },
+ {
+   "Symbol": "MMS",
+   "LastSale": "60.39"
+ },
+ {
+   "Symbol": "MMT",
+   "LastSale": "6.16"
+ },
+ {
+   "Symbol": "MMU",
+   "LastSale": "13.86"
+ },
+ {
+   "Symbol": "MN",
+   "LastSale": "5.5"
+ },
+ {
+   "Symbol": "MNE",
+   "LastSale": "13.86"
+ },
+ {
+   "Symbol": "MNI",
+   "LastSale": "9.96"
+ },
+ {
+   "Symbol": "MNK",
+   "LastSale": "43.52"
+ },
+ {
+   "Symbol": "MNP",
+   "LastSale": "15.58"
+ },
+ {
+   "Symbol": "MNR",
+   "LastSale": "14.93"
+ },
+ {
+   "Symbol": "MNR^B",
+   "LastSale": "25.37"
+ },
+ {
+   "Symbol": "MNR^C",
+   "LastSale": "25.048"
+ },
+ {
+   "Symbol": "MO",
+   "LastSale": "71.47"
+ },
+ {
+   "Symbol": "MOD",
+   "LastSale": "10.95"
+ },
+ {
+   "Symbol": "MODN",
+   "LastSale": "10.3"
+ },
+ {
+   "Symbol": "MOG.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "MOG.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "MOH",
+   "LastSale": "47.81"
+ },
+ {
+   "Symbol": "MON",
+   "LastSale": "115.5"
+ },
+ {
+   "Symbol": "MORE          ",
+   "LastSale": "10.24"
+ },
+ {
+   "Symbol": "MOS",
+   "LastSale": "26.67"
+ },
+ {
+   "Symbol": "MOV",
+   "LastSale": "23.75"
+ },
+ {
+   "Symbol": "MPA",
+   "LastSale": "14.35"
+ },
+ {
+   "Symbol": "MPC",
+   "LastSale": "48.56"
+ },
+ {
+   "Symbol": "MPLX",
+   "LastSale": "35.5"
+ },
+ {
+   "Symbol": "MPSX",
+   "LastSale": "17.95"
+ },
+ {
+   "Symbol": "MPV",
+   "LastSale": "14.3443"
+ },
+ {
+   "Symbol": "MPW",
+   "LastSale": "14.03"
+ },
+ {
+   "Symbol": "MPX",
+   "LastSale": "11.9"
+ },
+ {
+   "Symbol": "MP^D",
+   "LastSale": "25.5556"
+ },
+ {
+   "Symbol": "MQT",
+   "LastSale": "13.04"
+ },
+ {
+   "Symbol": "MQY",
+   "LastSale": "15.2"
+ },
+ {
+   "Symbol": "MRC",
+   "LastSale": "18.11"
+ },
+ {
+   "Symbol": "MRIN",
+   "LastSale": "1.75"
+ },
+ {
+   "Symbol": "MRK",
+   "LastSale": "61.89"
+ },
+ {
+   "Symbol": "MRO",
+   "LastSale": "15.16"
+ },
+ {
+   "Symbol": "MRT",
+   "LastSale": "11.9"
+ },
+ {
+   "Symbol": "MS",
+   "LastSale": "41.8"
+ },
+ {
+   "Symbol": "MSA",
+   "LastSale": "69.52"
+ },
+ {
+   "Symbol": "MSB",
+   "LastSale": "16.35"
+ },
+ {
+   "Symbol": "MSCA",
+   "LastSale": "26.1252"
+ },
+ {
+   "Symbol": "MSCI",
+   "LastSale": "98.03"
+ },
+ {
+   "Symbol": "MSD",
+   "LastSale": "9.72"
+ },
+ {
+   "Symbol": "MSF",
+   "LastSale": "15.04"
+ },
+ {
+   "Symbol": "MSG",
+   "LastSale": "199.58"
+ },
+ {
+   "Symbol": "MSGN",
+   "LastSale": "24.4"
+ },
+ {
+   "Symbol": "MSI",
+   "LastSale": "83.72"
+ },
+ {
+   "Symbol": "MSL",
+   "LastSale": "14.35"
+ },
+ {
+   "Symbol": "MSM",
+   "LastSale": "89.56"
+ },
+ {
+   "Symbol": "MSP",
+   "LastSale": "12.02"
+ },
+ {
+   "Symbol": "MS^A",
+   "LastSale": "23.64"
+ },
+ {
+   "Symbol": "MS^E",
+   "LastSale": "29.37"
+ },
+ {
+   "Symbol": "MS^F",
+   "LastSale": "28.74"
+ },
+ {
+   "Symbol": "MS^G",
+   "LastSale": "26.92"
+ },
+ {
+   "Symbol": "MS^I",
+   "LastSale": "27.8"
+ },
+ {
+   "Symbol": "MS^K",
+   "LastSale": "26.35"
+ },
+ {
+   "Symbol": "MT",
+   "LastSale": "7.69"
+ },
+ {
+   "Symbol": "MTB",
+   "LastSale": "153.91"
+ },
+ {
+   "Symbol": "MTB.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "MTB^",
+   "LastSale": "1039.98"
+ },
+ {
+   "Symbol": "MTB^C",
+   "LastSale": "1055"
+ },
+ {
+   "Symbol": "MTD",
+   "LastSale": "490.47"
+ },
+ {
+   "Symbol": "MTDR",
+   "LastSale": "21.76"
+ },
+ {
+   "Symbol": "MTG",
+   "LastSale": "10.75"
+ },
+ {
+   "Symbol": "MTH",
+   "LastSale": "39.05"
+ },
+ {
+   "Symbol": "MTL",
+   "LastSale": "5.18"
+ },
+ {
+   "Symbol": "MTL^",
+   "LastSale": "1.15"
+ },
+ {
+   "Symbol": "MTN",
+   "LastSale": "193.6"
+ },
+ {
+   "Symbol": "MTOR",
+   "LastSale": "16.8"
+ },
+ {
+   "Symbol": "MTR",
+   "LastSale": "15.7"
+ },
+ {
+   "Symbol": "MTRN",
+   "LastSale": "34.25"
+ },
+ {
+   "Symbol": "MTT",
+   "LastSale": "22.37"
+ },
+ {
+   "Symbol": "MTU",
+   "LastSale": "6.29"
+ },
+ {
+   "Symbol": "MTW",
+   "LastSale": "5.6"
+ },
+ {
+   "Symbol": "MTX",
+   "LastSale": "76.6"
+ },
+ {
+   "Symbol": "MTZ",
+   "LastSale": "43.55"
+ },
+ {
+   "Symbol": "MUA",
+   "LastSale": "14.6"
+ },
+ {
+   "Symbol": "MUC",
+   "LastSale": "14.36"
+ },
+ {
+   "Symbol": "MUE",
+   "LastSale": "13.45"
+ },
+ {
+   "Symbol": "MUH",
+   "LastSale": "15.57"
+ },
+ {
+   "Symbol": "MUI",
+   "LastSale": "14.06"
+ },
+ {
+   "Symbol": "MUJ",
+   "LastSale": "14.43"
+ },
+ {
+   "Symbol": "MULE",
+   "LastSale": "22.29"
+ },
+ {
+   "Symbol": "MUR",
+   "LastSale": "26.97"
+ },
+ {
+   "Symbol": "MUS",
+   "LastSale": "13.45"
+ },
+ {
+   "Symbol": "MUSA",
+   "LastSale": "69.79"
+ },
+ {
+   "Symbol": "MUX",
+   "LastSale": "3.07"
+ },
+ {
+   "Symbol": "MVC",
+   "LastSale": "8.7"
+ },
+ {
+   "Symbol": "MVCB",
+   "LastSale": "25.34"
+ },
+ {
+   "Symbol": "MVO",
+   "LastSale": "6.92"
+ },
+ {
+   "Symbol": "MVT",
+   "LastSale": "15.57"
+ },
+ {
+   "Symbol": "MWA",
+   "LastSale": "12.33"
+ },
+ {
+   "Symbol": "MX",
+   "LastSale": "8.35"
+ },
+ {
+   "Symbol": "MXE",
+   "LastSale": "11.06"
+ },
+ {
+   "Symbol": "MXF",
+   "LastSale": "16.63"
+ },
+ {
+   "Symbol": "MXL",
+   "LastSale": "27.52"
+ },
+ {
+   "Symbol": "MYC",
+   "LastSale": "15.17"
+ },
+ {
+   "Symbol": "MYCC",
+   "LastSale": "13.55"
+ },
+ {
+   "Symbol": "MYD",
+   "LastSale": "14.73"
+ },
+ {
+   "Symbol": "MYE",
+   "LastSale": "16.15"
+ },
+ {
+   "Symbol": "MYF",
+   "LastSale": "15.55"
+ },
+ {
+   "Symbol": "MYI",
+   "LastSale": "14.11"
+ },
+ {
+   "Symbol": "MYJ",
+   "LastSale": "15.71"
+ },
+ {
+   "Symbol": "MYN",
+   "LastSale": "13.07"
+ },
+ {
+   "Symbol": "MYOV",
+   "LastSale": "12.23"
+ },
+ {
+   "Symbol": "MZF",
+   "LastSale": "13.5"
+ },
+ {
+   "Symbol": "NAC",
+   "LastSale": "14.67"
+ },
+ {
+   "Symbol": "NAD",
+   "LastSale": "13.88"
+ },
+ {
+   "Symbol": "NADL",
+   "LastSale": "2.55"
+ },
+ {
+   "Symbol": "NAN",
+   "LastSale": "13.82"
+ },
+ {
+   "Symbol": "NAO",
+   "LastSale": "0.94"
+ },
+ {
+   "Symbol": "NAP",
+   "LastSale": "11.92"
+ },
+ {
+   "Symbol": "NAT",
+   "LastSale": "8.36"
+ },
+ {
+   "Symbol": "NAV",
+   "LastSale": "24.16"
+ },
+ {
+   "Symbol": "NAV^D",
+   "LastSale": "10.77"
+ },
+ {
+   "Symbol": "NAZ",
+   "LastSale": "13.99"
+ },
+ {
+   "Symbol": "NBB",
+   "LastSale": "20.7"
+ },
+ {
+   "Symbol": "NBD",
+   "LastSale": "21.36"
+ },
+ {
+   "Symbol": "NBHC",
+   "LastSale": "31.58"
+ },
+ {
+   "Symbol": "NBL",
+   "LastSale": "34.15"
+ },
+ {
+   "Symbol": "NBLX",
+   "LastSale": "49.68"
+ },
+ {
+   "Symbol": "NBR",
+   "LastSale": "11.79"
+ },
+ {
+   "Symbol": "NC",
+   "LastSale": "79.75"
+ },
+ {
+   "Symbol": "NCA",
+   "LastSale": "10.24"
+ },
+ {
+   "Symbol": "NCB",
+   "LastSale": "17"
+ },
+ {
+   "Symbol": "NCI",
+   "LastSale": "23.13"
+ },
+ {
+   "Symbol": "NCR",
+   "LastSale": "40.94"
+ },
+ {
+   "Symbol": "NCS",
+   "LastSale": "16.8"
+ },
+ {
+   "Symbol": "NCV",
+   "LastSale": "6.92"
+ },
+ {
+   "Symbol": "NCZ",
+   "LastSale": "6.09"
+ },
+ {
+   "Symbol": "NDP",
+   "LastSale": "15.85"
+ },
+ {
+   "Symbol": "NDRO",
+   "LastSale": "3.5"
+ },
+ {
+   "Symbol": "NE",
+   "LastSale": "5.29"
+ },
+ {
+   "Symbol": "NEA",
+   "LastSale": "13.63"
+ },
+ {
+   "Symbol": "NEE",
+   "LastSale": "133.02"
+ },
+ {
+   "Symbol": "NEE^C",
+   "LastSale": "25.99"
+ },
+ {
+   "Symbol": "NEE^G",
+   "LastSale": "25.31"
+ },
+ {
+   "Symbol": "NEE^H",
+   "LastSale": "25.17"
+ },
+ {
+   "Symbol": "NEE^I",
+   "LastSale": "25.01"
+ },
+ {
+   "Symbol": "NEE^J",
+   "LastSale": "24.81"
+ },
+ {
+   "Symbol": "NEE^K",
+   "LastSale": "24.6"
+ },
+ {
+   "Symbol": "NEE^Q",
+   "LastSale": "61.02"
+ },
+ {
+   "Symbol": "NEE^R",
+   "LastSale": "52.92"
+ },
+ {
+   "Symbol": "NEFF",
+   "LastSale": "19.55"
+ },
+ {
+   "Symbol": "NEM",
+   "LastSale": "34.13"
+ },
+ {
+   "Symbol": "NEP",
+   "LastSale": "32.42"
+ },
+ {
+   "Symbol": "NETS",
+   "LastSale": "13.05"
+ },
+ {
+   "Symbol": "NEU",
+   "LastSale": "455.9"
+ },
+ {
+   "Symbol": "NEV",
+   "LastSale": "14.31"
+ },
+ {
+   "Symbol": "NEWM",
+   "LastSale": "14.27"
+ },
+ {
+   "Symbol": "NEWR",
+   "LastSale": "39.41"
+ },
+ {
+   "Symbol": "NFG",
+   "LastSale": "53.59"
+ },
+ {
+   "Symbol": "NFJ",
+   "LastSale": "13.17"
+ },
+ {
+   "Symbol": "NFX",
+   "LastSale": "34.87"
+ },
+ {
+   "Symbol": "NGG",
+   "LastSale": "64.18"
+ },
+ {
+   "Symbol": "NGL",
+   "LastSale": "21.6"
+ },
+ {
+   "Symbol": "NGLS^A",
+   "LastSale": "27.5"
+ },
+ {
+   "Symbol": "NGS",
+   "LastSale": "27.45"
+ },
+ {
+   "Symbol": "NGVC",
+   "LastSale": "10.75"
+ },
+ {
+   "Symbol": "NGVT",
+   "LastSale": "62"
+ },
+ {
+   "Symbol": "NHA",
+   "LastSale": "9.9"
+ },
+ {
+   "Symbol": "NHF",
+   "LastSale": "22.73"
+ },
+ {
+   "Symbol": "NHI",
+   "LastSale": "75.52"
+ },
+ {
+   "Symbol": "NI",
+   "LastSale": "24.19"
+ },
+ {
+   "Symbol": "NID",
+   "LastSale": "13.0808"
+ },
+ {
+   "Symbol": "NIE",
+   "LastSale": "19.51"
+ },
+ {
+   "Symbol": "NIM",
+   "LastSale": "10.0718"
+ },
+ {
+   "Symbol": "NIQ",
+   "LastSale": "12.84"
+ },
+ {
+   "Symbol": "NJR",
+   "LastSale": "40.5"
+ },
+ {
+   "Symbol": "NKE",
+   "LastSale": "55.85"
+ },
+ {
+   "Symbol": "NKG",
+   "LastSale": "13.06"
+ },
+ {
+   "Symbol": "NKX",
+   "LastSale": "14.8901"
+ },
+ {
+   "Symbol": "NL",
+   "LastSale": "8"
+ },
+ {
+   "Symbol": "NLS",
+   "LastSale": "17.45"
+ },
+ {
+   "Symbol": "NLSN",
+   "LastSale": "41"
+ },
+ {
+   "Symbol": "NLY",
+   "LastSale": "11.76"
+ },
+ {
+   "Symbol": "NLY^A",
+   "LastSale": "25.73"
+ },
+ {
+   "Symbol": "NLY^C",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "NLY^D",
+   "LastSale": "25.63"
+ },
+ {
+   "Symbol": "NLY^E",
+   "LastSale": "25.37"
+ },
+ {
+   "Symbol": "NM",
+   "LastSale": "1.8"
+ },
+ {
+   "Symbol": "NMFC",
+   "LastSale": "14.9"
+ },
+ {
+   "Symbol": "NMI",
+   "LastSale": "12.34"
+ },
+ {
+   "Symbol": "NMK^B",
+   "LastSale": "97"
+ },
+ {
+   "Symbol": "NMK^C",
+   "LastSale": "98.99"
+ },
+ {
+   "Symbol": "NMM",
+   "LastSale": "2.13"
+ },
+ {
+   "Symbol": "NMR",
+   "LastSale": "6.14"
+ },
+ {
+   "Symbol": "NMS",
+   "LastSale": "16.77"
+ },
+ {
+   "Symbol": "NMT",
+   "LastSale": "13.8316"
+ },
+ {
+   "Symbol": "NMY",
+   "LastSale": "12.9"
+ },
+ {
+   "Symbol": "NMZ",
+   "LastSale": "13.28"
+ },
+ {
+   "Symbol": "NM^G",
+   "LastSale": "18.06"
+ },
+ {
+   "Symbol": "NM^H",
+   "LastSale": "17.79"
+ },
+ {
+   "Symbol": "NNA",
+   "LastSale": "1.71"
+ },
+ {
+   "Symbol": "NNC",
+   "LastSale": "13.12"
+ },
+ {
+   "Symbol": "NNI",
+   "LastSale": "45.87"
+ },
+ {
+   "Symbol": "NNN",
+   "LastSale": "45.25"
+ },
+ {
+   "Symbol": "NNN^E",
+   "LastSale": "25.76"
+ },
+ {
+   "Symbol": "NNN^F",
+   "LastSale": "24.22"
+ },
+ {
+   "Symbol": "NNY",
+   "LastSale": "9.95"
+ },
+ {
+   "Symbol": "NOA",
+   "LastSale": "4.85"
+ },
+ {
+   "Symbol": "NOAH",
+   "LastSale": "25.83"
+ },
+ {
+   "Symbol": "NOC",
+   "LastSale": "246.33"
+ },
+ {
+   "Symbol": "NOK",
+   "LastSale": "5.22"
+ },
+ {
+   "Symbol": "NOM",
+   "LastSale": "16.3"
+ },
+ {
+   "Symbol": "NOMD",
+   "LastSale": "11.37"
+ },
+ {
+   "Symbol": "NORD",
+   "LastSale": "27.69"
+ },
+ {
+   "Symbol": "NOV",
+   "LastSale": "34.65"
+ },
+ {
+   "Symbol": "NOW",
+   "LastSale": "88.32"
+ },
+ {
+   "Symbol": "NP",
+   "LastSale": "75.9"
+ },
+ {
+   "Symbol": "NPK",
+   "LastSale": "102.35"
+ },
+ {
+   "Symbol": "NPO",
+   "LastSale": "67.02"
+ },
+ {
+   "Symbol": "NPTN",
+   "LastSale": "8.24"
+ },
+ {
+   "Symbol": "NPV",
+   "LastSale": "13.16"
+ },
+ {
+   "Symbol": "NQ",
+   "LastSale": "3.63"
+ },
+ {
+   "Symbol": "NQP",
+   "LastSale": "13.31"
+ },
+ {
+   "Symbol": "NR",
+   "LastSale": "7.7"
+ },
+ {
+   "Symbol": "NRE",
+   "LastSale": "11.49"
+ },
+ {
+   "Symbol": "NRG",
+   "LastSale": "17.07"
+ },
+ {
+   "Symbol": "NRK",
+   "LastSale": "13.07"
+ },
+ {
+   "Symbol": "NRP",
+   "LastSale": "32.65"
+ },
+ {
+   "Symbol": "NRT",
+   "LastSale": "7.15"
+ },
+ {
+   "Symbol": "NRZ",
+   "LastSale": "16.34"
+ },
+ {
+   "Symbol": "NS",
+   "LastSale": "47.85"
+ },
+ {
+   "Symbol": "NSA",
+   "LastSale": "25.57"
+ },
+ {
+   "Symbol": "NSC",
+   "LastSale": "116.37"
+ },
+ {
+   "Symbol": "NSH",
+   "LastSale": "27.2"
+ },
+ {
+   "Symbol": "NSL",
+   "LastSale": "6.94"
+ },
+ {
+   "Symbol": "NSM",
+   "LastSale": "16.43"
+ },
+ {
+   "Symbol": "NSP",
+   "LastSale": "88.65"
+ },
+ {
+   "Symbol": "NSR",
+   "LastSale": "33.25"
+ },
+ {
+   "Symbol": "NSS",
+   "LastSale": "25.78"
+ },
+ {
+   "Symbol": "NS^A",
+   "LastSale": "26.48"
+ },
+ {
+   "Symbol": "NTB",
+   "LastSale": "31.76"
+ },
+ {
+   "Symbol": "NTC",
+   "LastSale": "12.4493"
+ },
+ {
+   "Symbol": "NTEST",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "NTEST.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "NTEST.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "NTEST.C",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "NTG",
+   "LastSale": "19.8"
+ },
+ {
+   "Symbol": "NTL",
+   "LastSale": "27.23"
+ },
+ {
+   "Symbol": "NTP",
+   "LastSale": "7.35"
+ },
+ {
+   "Symbol": "NTX",
+   "LastSale": "14.84"
+ },
+ {
+   "Symbol": "NTZ",
+   "LastSale": "3.11"
+ },
+ {
+   "Symbol": "NUE",
+   "LastSale": "60"
+ },
+ {
+   "Symbol": "NUM",
+   "LastSale": "13.57"
+ },
+ {
+   "Symbol": "NUO",
+   "LastSale": "15"
+ },
+ {
+   "Symbol": "NUS",
+   "LastSale": "55.38"
+ },
+ {
+   "Symbol": "NUV",
+   "LastSale": "9.94"
+ },
+ {
+   "Symbol": "NUW",
+   "LastSale": "16.92"
+ },
+ {
+   "Symbol": "NVG",
+   "LastSale": "14.92"
+ },
+ {
+   "Symbol": "NVGS",
+   "LastSale": "12.85"
+ },
+ {
+   "Symbol": "NVO",
+   "LastSale": "35.88"
+ },
+ {
+   "Symbol": "NVR",
+   "LastSale": "2092.41"
+ },
+ {
+   "Symbol": "NVRO",
+   "LastSale": "85.22"
+ },
+ {
+   "Symbol": "NVS",
+   "LastSale": "73.4"
+ },
+ {
+   "Symbol": "NVTA",
+   "LastSale": "10.38"
+ },
+ {
+   "Symbol": "NWE",
+   "LastSale": "59.54"
+ },
+ {
+   "Symbol": "NWHM",
+   "LastSale": "10.48"
+ },
+ {
+   "Symbol": "NWL",
+   "LastSale": "47.35"
+ },
+ {
+   "Symbol": "NWN",
+   "LastSale": "60"
+ },
+ {
+   "Symbol": "NWY",
+   "LastSale": "1.79"
+ },
+ {
+   "Symbol": "NW^C",
+   "LastSale": "26.26"
+ },
+ {
+   "Symbol": "NX",
+   "LastSale": "19.75"
+ },
+ {
+   "Symbol": "NXC",
+   "LastSale": "14.99"
+ },
+ {
+   "Symbol": "NXJ",
+   "LastSale": "13.61"
+ },
+ {
+   "Symbol": "NXN",
+   "LastSale": "13.99"
+ },
+ {
+   "Symbol": "NXP",
+   "LastSale": "14.26"
+ },
+ {
+   "Symbol": "NXQ",
+   "LastSale": "13.71"
+ },
+ {
+   "Symbol": "NXR",
+   "LastSale": "14.45"
+ },
+ {
+   "Symbol": "NXRT",
+   "LastSale": "24.78"
+ },
+ {
+   "Symbol": "NYCB",
+   "LastSale": "13.81"
+ },
+ {
+   "Symbol": "NYCB^A",
+   "LastSale": "27.73"
+ },
+ {
+   "Symbol": "NYCB^U",
+   "LastSale": "50.31"
+ },
+ {
+   "Symbol": "NYLD",
+   "LastSale": "17.45"
+ },
+ {
+   "Symbol": "NYLD.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "NYRT",
+   "LastSale": "9.6"
+ },
+ {
+   "Symbol": "NYT",
+   "LastSale": "14.7"
+ },
+ {
+   "Symbol": "NYV",
+   "LastSale": "15.21"
+ },
+ {
+   "Symbol": "NZF",
+   "LastSale": "14.73"
+ },
+ {
+   "Symbol": "O",
+   "LastSale": "61.75"
+ },
+ {
+   "Symbol": "OA",
+   "LastSale": "97.28"
+ },
+ {
+   "Symbol": "OAK",
+   "LastSale": "47.1"
+ },
+ {
+   "Symbol": "OAKS",
+   "LastSale": "5.36"
+ },
+ {
+   "Symbol": "OAKS^A",
+   "LastSale": "25.18"
+ },
+ {
+   "Symbol": "OAS",
+   "LastSale": "11.81"
+ },
+ {
+   "Symbol": "OB",
+   "LastSale": "16.05"
+ },
+ {
+   "Symbol": "OC",
+   "LastSale": "61.57"
+ },
+ {
+   "Symbol": "OCIP",
+   "LastSale": "7.4"
+ },
+ {
+   "Symbol": "OCN",
+   "LastSale": "2.42"
+ },
+ {
+   "Symbol": "ODC",
+   "LastSale": "39.47"
+ },
+ {
+   "Symbol": "OEC",
+   "LastSale": "19.9"
+ },
+ {
+   "Symbol": "OFC",
+   "LastSale": "33.58"
+ },
+ {
+   "Symbol": "OFC^L",
+   "LastSale": "25.32"
+ },
+ {
+   "Symbol": "OFG",
+   "LastSale": "11.05"
+ },
+ {
+   "Symbol": "OFG^A",
+   "LastSale": "23.7621"
+ },
+ {
+   "Symbol": "OFG^B",
+   "LastSale": "23.7"
+ },
+ {
+   "Symbol": "OFG^D",
+   "LastSale": "23.91"
+ },
+ {
+   "Symbol": "OGE",
+   "LastSale": "35.16"
+ },
+ {
+   "Symbol": "OGS",
+   "LastSale": "68.89"
+ },
+ {
+   "Symbol": "OHI",
+   "LastSale": "34.98"
+ },
+ {
+   "Symbol": "OI",
+   "LastSale": "20.51"
+ },
+ {
+   "Symbol": "OIA",
+   "LastSale": "7.79"
+ },
+ {
+   "Symbol": "OIBR.C",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "OII",
+   "LastSale": "25.96"
+ },
+ {
+   "Symbol": "OIS",
+   "LastSale": "31.1"
+ },
+ {
+   "Symbol": "OKE",
+   "LastSale": "53.53"
+ },
+ {
+   "Symbol": "OKS",
+   "LastSale": "52.45"
+ },
+ {
+   "Symbol": "OLN",
+   "LastSale": "32.22"
+ },
+ {
+   "Symbol": "OLP",
+   "LastSale": "24.33"
+ },
+ {
+   "Symbol": "OMAA",
+   "LastSale": "23.4"
+ },
+ {
+   "Symbol": "OMAM",
+   "LastSale": "15.07"
+ },
+ {
+   "Symbol": "OMC",
+   "LastSale": "83.25"
+ },
+ {
+   "Symbol": "OME",
+   "LastSale": "19.3"
+ },
+ {
+   "Symbol": "OMF",
+   "LastSale": "24.1"
+ },
+ {
+   "Symbol": "OMI",
+   "LastSale": "33.92"
+ },
+ {
+   "Symbol": "OMN",
+   "LastSale": "9.1"
+ },
+ {
+   "Symbol": "ONDK",
+   "LastSale": "4.55"
+ },
+ {
+   "Symbol": "OOMA",
+   "LastSale": "12.05"
+ },
+ {
+   "Symbol": "OPP",
+   "LastSale": "18.7"
+ },
+ {
+   "Symbol": "OPY",
+   "LastSale": "16.95"
+ },
+ {
+   "Symbol": "OR",
+   "LastSale": "11.12"
+ },
+ {
+   "Symbol": "ORA",
+   "LastSale": "57.75"
+ },
+ {
+   "Symbol": "ORAN",
+   "LastSale": "15.04"
+ },
+ {
+   "Symbol": "ORC",
+   "LastSale": "10.82"
+ },
+ {
+   "Symbol": "ORCL",
+   "LastSale": "44.43"
+ },
+ {
+   "Symbol": "ORI",
+   "LastSale": "19.82"
+ },
+ {
+   "Symbol": "ORN",
+   "LastSale": "7.46"
+ },
+ {
+   "Symbol": "OSB",
+   "LastSale": "29.88"
+ },
+ {
+   "Symbol": "OSG",
+   "LastSale": "3.74"
+ },
+ {
+   "Symbol": "OSK",
+   "LastSale": "70.74"
+ },
+ {
+   "Symbol": "OUT",
+   "LastSale": "26.23"
+ },
+ {
+   "Symbol": "OXM",
+   "LastSale": "55.98"
+ },
+ {
+   "Symbol": "OXY",
+   "LastSale": "61.86"
+ },
+ {
+   "Symbol": "OZM",
+   "LastSale": "2.16"
+ },
+ {
+   "Symbol": "P",
+   "LastSale": "10.93"
+ },
+ {
+   "Symbol": "PAA",
+   "LastSale": "29.91"
+ },
+ {
+   "Symbol": "PAC",
+   "LastSale": "100.42"
+ },
+ {
+   "Symbol": "PACD",
+   "LastSale": "1.73"
+ },
+ {
+   "Symbol": "PAG",
+   "LastSale": "47.9"
+ },
+ {
+   "Symbol": "PAGP",
+   "LastSale": "30.07"
+ },
+ {
+   "Symbol": "PAH",
+   "LastSale": "13.36"
+ },
+ {
+   "Symbol": "PAI",
+   "LastSale": "14.5458"
+ },
+ {
+   "Symbol": "PAM",
+   "LastSale": "57.78"
+ },
+ {
+   "Symbol": "PANW",
+   "LastSale": "108.55"
+ },
+ {
+   "Symbol": "PAR",
+   "LastSale": "8.29"
+ },
+ {
+   "Symbol": "PAY",
+   "LastSale": "17.89"
+ },
+ {
+   "Symbol": "PAYC",
+   "LastSale": "59.28"
+ },
+ {
+   "Symbol": "PB",
+   "LastSale": "68.16"
+ },
+ {
+   "Symbol": "PBA",
+   "LastSale": "32.78"
+ },
+ {
+   "Symbol": "PBB",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "PBF",
+   "LastSale": "21.57"
+ },
+ {
+   "Symbol": "PBFX",
+   "LastSale": "20.85"
+ },
+ {
+   "Symbol": "PBH",
+   "LastSale": "55.86"
+ },
+ {
+   "Symbol": "PBI",
+   "LastSale": "13.11"
+ },
+ {
+   "Symbol": "PBI^B",
+   "LastSale": "26.43"
+ },
+ {
+   "Symbol": "PBR",
+   "LastSale": "9.01"
+ },
+ {
+   "Symbol": "PBR.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "PBT",
+   "LastSale": "10.16"
+ },
+ {
+   "Symbol": "PCF",
+   "LastSale": "8.69"
+ },
+ {
+   "Symbol": "PCG",
+   "LastSale": "67.33"
+ },
+ {
+   "Symbol": "PCI",
+   "LastSale": "21.64"
+ },
+ {
+   "Symbol": "PCK",
+   "LastSale": "9.98"
+ },
+ {
+   "Symbol": "PCM",
+   "LastSale": "10.44"
+ },
+ {
+   "Symbol": "PCN",
+   "LastSale": "16.25"
+ },
+ {
+   "Symbol": "PCQ",
+   "LastSale": "16.59"
+ },
+ {
+   "Symbol": "PDI",
+   "LastSale": "29.09"
+ },
+ {
+   "Symbol": "PDM",
+   "LastSale": "22.53"
+ },
+ {
+   "Symbol": "PDS",
+   "LastSale": "4.32"
+ },
+ {
+   "Symbol": "PDT",
+   "LastSale": "16.22"
+ },
+ {
+   "Symbol": "PE",
+   "LastSale": "29.43"
+ },
+ {
+   "Symbol": "PEB",
+   "LastSale": "30.08"
+ },
+ {
+   "Symbol": "PEB^C",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "PEB^D",
+   "LastSale": "25.27"
+ },
+ {
+   "Symbol": "PEG",
+   "LastSale": "44.51"
+ },
+ {
+   "Symbol": "PEI",
+   "LastSale": "15.16"
+ },
+ {
+   "Symbol": "PEI^A",
+   "LastSale": "25.3901"
+ },
+ {
+   "Symbol": "PEI^B",
+   "LastSale": "25.564"
+ },
+ {
+   "Symbol": "PEI^C",
+   "LastSale": "26.3"
+ },
+ {
+   "Symbol": "PEN",
+   "LastSale": "84.6"
+ },
+ {
+   "Symbol": "PEO",
+   "LastSale": "19.22"
+ },
+ {
+   "Symbol": "PEP",
+   "LastSale": "113.43"
+ },
+ {
+   "Symbol": "PER",
+   "LastSale": "3.2"
+ },
+ {
+   "Symbol": "PES",
+   "LastSale": "3.5"
+ },
+ {
+   "Symbol": "PF",
+   "LastSale": "58.44"
+ },
+ {
+   "Symbol": "PFD",
+   "LastSale": "15.085"
+ },
+ {
+   "Symbol": "PFE",
+   "LastSale": "33.64"
+ },
+ {
+   "Symbol": "PFG",
+   "LastSale": "62.81"
+ },
+ {
+   "Symbol": "PFGC",
+   "LastSale": "24.2"
+ },
+ {
+   "Symbol": "PFH",
+   "LastSale": "18.5199"
+ },
+ {
+   "Symbol": "PFK",
+   "LastSale": "25.8488"
+ },
+ {
+   "Symbol": "PFL",
+   "LastSale": "11.34"
+ },
+ {
+   "Symbol": "PFN",
+   "LastSale": "10.26"
+ },
+ {
+   "Symbol": "PFO",
+   "LastSale": "12.08"
+ },
+ {
+   "Symbol": "PFS",
+   "LastSale": "25.48"
+ },
+ {
+   "Symbol": "PFSI",
+   "LastSale": "16.6"
+ },
+ {
+   "Symbol": "PG",
+   "LastSale": "88.62"
+ },
+ {
+   "Symbol": "PGEM",
+   "LastSale": "19"
+ },
+ {
+   "Symbol": "PGH",
+   "LastSale": "1"
+ },
+ {
+   "Symbol": "PGP",
+   "LastSale": "17.9"
+ },
+ {
+   "Symbol": "PGR",
+   "LastSale": "39.38"
+ },
+ {
+   "Symbol": "PGRE",
+   "LastSale": "17.02"
+ },
+ {
+   "Symbol": "PGTI",
+   "LastSale": "10.5"
+ },
+ {
+   "Symbol": "PGZ",
+   "LastSale": "17.575"
+ },
+ {
+   "Symbol": "PH",
+   "LastSale": "156.31"
+ },
+ {
+   "Symbol": "PHD",
+   "LastSale": "12.17"
+ },
+ {
+   "Symbol": "PHG",
+   "LastSale": "32.65"
+ },
+ {
+   "Symbol": "PHH",
+   "LastSale": "13.22"
+ },
+ {
+   "Symbol": "PHI",
+   "LastSale": "34.41"
+ },
+ {
+   "Symbol": "PHK",
+   "LastSale": "8.6"
+ },
+ {
+   "Symbol": "PHM",
+   "LastSale": "23.32"
+ },
+ {
+   "Symbol": "PHT",
+   "LastSale": "9.93"
+ },
+ {
+   "Symbol": "PHX",
+   "LastSale": "19.2"
+ },
+ {
+   "Symbol": "PII",
+   "LastSale": "81.86"
+ },
+ {
+   "Symbol": "PIM",
+   "LastSale": "4.72"
+ },
+ {
+   "Symbol": "PIR",
+   "LastSale": "7.08"
+ },
+ {
+   "Symbol": "PIY",
+   "LastSale": "25.31"
+ },
+ {
+   "Symbol": "PJC",
+   "LastSale": "58.9"
+ },
+ {
+   "Symbol": "PJH",
+   "LastSale": "26.04"
+ },
+ {
+   "Symbol": "PJT",
+   "LastSale": "34.32"
+ },
+ {
+   "Symbol": "PK",
+   "LastSale": "26.43"
+ },
+ {
+   "Symbol": "PKD",
+   "LastSale": "1.6"
+ },
+ {
+   "Symbol": "PKE",
+   "LastSale": "16.95"
+ },
+ {
+   "Symbol": "PKG",
+   "LastSale": "93.73"
+ },
+ {
+   "Symbol": "PKI",
+   "LastSale": "57.22"
+ },
+ {
+   "Symbol": "PKO",
+   "LastSale": "25.33"
+ },
+ {
+   "Symbol": "PKX",
+   "LastSale": "58.97"
+ },
+ {
+   "Symbol": "PKY",
+   "LastSale": "20.27"
+ },
+ {
+   "Symbol": "PLD",
+   "LastSale": "54.35"
+ },
+ {
+   "Symbol": "PLNT",
+   "LastSale": "18.64"
+ },
+ {
+   "Symbol": "PLOW",
+   "LastSale": "31.45"
+ },
+ {
+   "Symbol": "PLT",
+   "LastSale": "53.07"
+ },
+ {
+   "Symbol": "PL^C",
+   "LastSale": "25.43"
+ },
+ {
+   "Symbol": "PL^E",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "PM",
+   "LastSale": "109.62"
+ },
+ {
+   "Symbol": "PMC",
+   "LastSale": "23.05"
+ },
+ {
+   "Symbol": "PMF",
+   "LastSale": "13.43"
+ },
+ {
+   "Symbol": "PML",
+   "LastSale": "12.77"
+ },
+ {
+   "Symbol": "PMM",
+   "LastSale": "7.42"
+ },
+ {
+   "Symbol": "PMO",
+   "LastSale": "12.25"
+ },
+ {
+   "Symbol": "PMT",
+   "LastSale": "17.64"
+ },
+ {
+   "Symbol": "PMT^A",
+   "LastSale": "25.1"
+ },
+ {
+   "Symbol": "PMX",
+   "LastSale": "11.44"
+ },
+ {
+   "Symbol": "PN",
+   "LastSale": "2.1"
+ },
+ {
+   "Symbol": "PNC",
+   "LastSale": "118.17"
+ },
+ {
+   "Symbol": "PNC.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "PNC^P",
+   "LastSale": "29.2"
+ },
+ {
+   "Symbol": "PNC^Q",
+   "LastSale": "25.28"
+ },
+ {
+   "Symbol": "PNF",
+   "LastSale": "12.805"
+ },
+ {
+   "Symbol": "PNI",
+   "LastSale": "11.72"
+ },
+ {
+   "Symbol": "PNM",
+   "LastSale": "37.75"
+ },
+ {
+   "Symbol": "PNR",
+   "LastSale": "62.57"
+ },
+ {
+   "Symbol": "PNTA",
+   "LastSale": "25.2"
+ },
+ {
+   "Symbol": "PNW",
+   "LastSale": "85.83"
+ },
+ {
+   "Symbol": "POL",
+   "LastSale": "35.99"
+ },
+ {
+   "Symbol": "POR",
+   "LastSale": "46.02"
+ },
+ {
+   "Symbol": "POST",
+   "LastSale": "84.93"
+ },
+ {
+   "Symbol": "POT",
+   "LastSale": "16.15"
+ },
+ {
+   "Symbol": "PPG",
+   "LastSale": "105.94"
+ },
+ {
+   "Symbol": "PPL",
+   "LastSale": "37.93"
+ },
+ {
+   "Symbol": "PPP",
+   "LastSale": "0.5401"
+ },
+ {
+   "Symbol": "PPR",
+   "LastSale": "5.41"
+ },
+ {
+   "Symbol": "PPT",
+   "LastSale": "5.2"
+ },
+ {
+   "Symbol": "PPX",
+   "LastSale": "26.27"
+ },
+ {
+   "Symbol": "PQ",
+   "LastSale": "2.5"
+ },
+ {
+   "Symbol": "PRA",
+   "LastSale": "60.8"
+ },
+ {
+   "Symbol": "PRE^F",
+   "LastSale": "25.545"
+ },
+ {
+   "Symbol": "PRE^G",
+   "LastSale": "27.41"
+ },
+ {
+   "Symbol": "PRE^H",
+   "LastSale": "29.08"
+ },
+ {
+   "Symbol": "PRE^I",
+   "LastSale": "26.23"
+ },
+ {
+   "Symbol": "PRGO",
+   "LastSale": "66.43"
+ },
+ {
+   "Symbol": "PRH",
+   "LastSale": "26"
+ },
+ {
+   "Symbol": "PRI",
+   "LastSale": "82.8"
+ },
+ {
+   "Symbol": "PRLB",
+   "LastSale": "50.05"
+ },
+ {
+   "Symbol": "PRO",
+   "LastSale": "23.19"
+ },
+ {
+   "Symbol": "PRTY",
+   "LastSale": "14.65"
+ },
+ {
+   "Symbol": "PRU",
+   "LastSale": "105.65"
+ },
+ {
+   "Symbol": "PSA",
+   "LastSale": "228.37"
+ },
+ {
+   "Symbol": "PSA^A",
+   "LastSale": "26.12"
+ },
+ {
+   "Symbol": "PSA^B",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "PSA^C",
+   "LastSale": "24.85"
+ },
+ {
+   "Symbol": "PSA^D",
+   "LastSale": "23.7"
+ },
+ {
+   "Symbol": "PSA^E",
+   "LastSale": "23.31"
+ },
+ {
+   "Symbol": "PSA^S",
+   "LastSale": "25.24"
+ },
+ {
+   "Symbol": "PSA^T",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "PSA^U",
+   "LastSale": "25.3"
+ },
+ {
+   "Symbol": "PSA^V",
+   "LastSale": "25.21"
+ },
+ {
+   "Symbol": "PSA^W",
+   "LastSale": "25.47"
+ },
+ {
+   "Symbol": "PSA^X",
+   "LastSale": "25.29"
+ },
+ {
+   "Symbol": "PSA^Y",
+   "LastSale": "27.23"
+ },
+ {
+   "Symbol": "PSA^Z",
+   "LastSale": "27.07"
+ },
+ {
+   "Symbol": "PSB",
+   "LastSale": "121.81"
+ },
+ {
+   "Symbol": "PSB^T",
+   "LastSale": "25.29"
+ },
+ {
+   "Symbol": "PSB^U",
+   "LastSale": "25.3"
+ },
+ {
+   "Symbol": "PSB^V",
+   "LastSale": "25.24"
+ },
+ {
+   "Symbol": "PSB^W",
+   "LastSale": "24.05"
+ },
+ {
+   "Symbol": "PSF",
+   "LastSale": "26.76"
+ },
+ {
+   "Symbol": "PSO",
+   "LastSale": "8.02"
+ },
+ {
+   "Symbol": "PSTG",
+   "LastSale": "10.24"
+ },
+ {
+   "Symbol": "PSX",
+   "LastSale": "76.35"
+ },
+ {
+   "Symbol": "PSXP",
+   "LastSale": "51.76"
+ },
+ {
+   "Symbol": "PTHN",
+   "LastSale": "24.98"
+ },
+ {
+   "Symbol": "PTR",
+   "LastSale": "70.59"
+ },
+ {
+   "Symbol": "PTY",
+   "LastSale": "15.85"
+ },
+ {
+   "Symbol": "PUK",
+   "LastSale": "42.05"
+ },
+ {
+   "Symbol": "PUK^",
+   "LastSale": "26.33"
+ },
+ {
+   "Symbol": "PUK^A",
+   "LastSale": "26.41"
+ },
+ {
+   "Symbol": "PUMP",
+   "LastSale": "13.64"
+ },
+ {
+   "Symbol": "PVG",
+   "LastSale": "10.49"
+ },
+ {
+   "Symbol": "PVH",
+   "LastSale": "98.26"
+ },
+ {
+   "Symbol": "PVTD",
+   "LastSale": "25.9952"
+ },
+ {
+   "Symbol": "PWE",
+   "LastSale": "1.5"
+ },
+ {
+   "Symbol": "PWR",
+   "LastSale": "35.01"
+ },
+ {
+   "Symbol": "PX",
+   "LastSale": "119.58"
+ },
+ {
+   "Symbol": "PXD",
+   "LastSale": "174.63"
+ },
+ {
+   "Symbol": "PYN",
+   "LastSale": "9.74"
+ },
+ {
+   "Symbol": "PYS",
+   "LastSale": "23.24"
+ },
+ {
+   "Symbol": "PYT",
+   "LastSale": "20.7"
+ },
+ {
+   "Symbol": "PZC",
+   "LastSale": "12.17"
+ },
+ {
+   "Symbol": "PZE",
+   "LastSale": "11.88"
+ },
+ {
+   "Symbol": "PZN",
+   "LastSale": "10.74"
+ },
+ {
+   "Symbol": "Q",
+   "LastSale": "82.25"
+ },
+ {
+   "Symbol": "QCP",
+   "LastSale": "18.6"
+ },
+ {
+   "Symbol": "QEP",
+   "LastSale": "11.05"
+ },
+ {
+   "Symbol": "QHC",
+   "LastSale": "4.49"
+ },
+ {
+   "Symbol": "QSR",
+   "LastSale": "56.6"
+ },
+ {
+   "Symbol": "QTM",
+   "LastSale": "7.28"
+ },
+ {
+   "Symbol": "QTS",
+   "LastSale": "52.9"
+ },
+ {
+   "Symbol": "QTWO",
+   "LastSale": "37.2"
+ },
+ {
+   "Symbol": "QUAD",
+   "LastSale": "24.52"
+ },
+ {
+   "Symbol": "QUOT",
+   "LastSale": "10.5"
+ },
+ {
+   "Symbol": "R",
+   "LastSale": "77.65"
+ },
+ {
+   "Symbol": "RA",
+   "LastSale": "23.21"
+ },
+ {
+   "Symbol": "RACE",
+   "LastSale": "70.82"
+ },
+ {
+   "Symbol": "RAD",
+   "LastSale": "3.8"
+ },
+ {
+   "Symbol": "RAI",
+   "LastSale": "63.67"
+ },
+ {
+   "Symbol": "RAS",
+   "LastSale": "3.06"
+ },
+ {
+   "Symbol": "RAS^A",
+   "LastSale": "21.33"
+ },
+ {
+   "Symbol": "RAS^B",
+   "LastSale": "23.34"
+ },
+ {
+   "Symbol": "RAS^C",
+   "LastSale": "24.21"
+ },
+ {
+   "Symbol": "RATE",
+   "LastSale": "9.95"
+ },
+ {
+   "Symbol": "RBA",
+   "LastSale": "30.74"
+ },
+ {
+   "Symbol": "RBC",
+   "LastSale": "76.15"
+ },
+ {
+   "Symbol": "RBS",
+   "LastSale": "6.16"
+ },
+ {
+   "Symbol": "RBS^F",
+   "LastSale": "26.47"
+ },
+ {
+   "Symbol": "RBS^H",
+   "LastSale": "25.76"
+ },
+ {
+   "Symbol": "RBS^L",
+   "LastSale": "25.06"
+ },
+ {
+   "Symbol": "RBS^S",
+   "LastSale": "25.31"
+ },
+ {
+   "Symbol": "RCI",
+   "LastSale": "45.98"
+ },
+ {
+   "Symbol": "RCL",
+   "LastSale": "97.33"
+ },
+ {
+   "Symbol": "RCS",
+   "LastSale": "9.85"
+ },
+ {
+   "Symbol": "RDC",
+   "LastSale": "14.27"
+ },
+ {
+   "Symbol": "RDN",
+   "LastSale": "18.54"
+ },
+ {
+   "Symbol": "RDS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "RDS.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "RDY",
+   "LastSale": "40.57"
+ },
+ {
+   "Symbol": "RE",
+   "LastSale": "233.73"
+ },
+ {
+   "Symbol": "REG",
+   "LastSale": "67.47"
+ },
+ {
+   "Symbol": "REG^G",
+   "LastSale": "25.4925"
+ },
+ {
+   "Symbol": "RELX",
+   "LastSale": "20.24"
+ },
+ {
+   "Symbol": "REN           ",
+   "LastSale": "38.38"
+ },
+ {
+   "Symbol": "RENN",
+   "LastSale": "7.39"
+ },
+ {
+   "Symbol": "RENX",
+   "LastSale": "19.02"
+ },
+ {
+   "Symbol": "RES",
+   "LastSale": "17.56"
+ },
+ {
+   "Symbol": "RESI",
+   "LastSale": "14.03"
+ },
+ {
+   "Symbol": "REV",
+   "LastSale": "25.35"
+ },
+ {
+   "Symbol": "REVG",
+   "LastSale": "28.29"
+ },
+ {
+   "Symbol": "REX",
+   "LastSale": "87.58"
+ },
+ {
+   "Symbol": "REXR",
+   "LastSale": "24.8"
+ },
+ {
+   "Symbol": "REXR^A",
+   "LastSale": "24.8762"
+ },
+ {
+   "Symbol": "RF",
+   "LastSale": "13.47"
+ },
+ {
+   "Symbol": "RFI",
+   "LastSale": "12.65"
+ },
+ {
+   "Symbol": "RFP",
+   "LastSale": "5.4"
+ },
+ {
+   "Symbol": "RFT",
+   "LastSale": "24.16"
+ },
+ {
+   "Symbol": "RFTA",
+   "LastSale": "25.12"
+ },
+ {
+   "Symbol": "RF^A",
+   "LastSale": "26.05"
+ },
+ {
+   "Symbol": "RF^B",
+   "LastSale": "28.41"
+ },
+ {
+   "Symbol": "RGA",
+   "LastSale": "127.28"
+ },
+ {
+   "Symbol": "RGC",
+   "LastSale": "22.11"
+ },
+ {
+   "Symbol": "RGR",
+   "LastSale": "56.3"
+ },
+ {
+   "Symbol": "RGS",
+   "LastSale": "10.89"
+ },
+ {
+   "Symbol": "RGT",
+   "LastSale": "9.08"
+ },
+ {
+   "Symbol": "RH",
+   "LastSale": "48.64"
+ },
+ {
+   "Symbol": "RHI",
+   "LastSale": "47.18"
+ },
+ {
+   "Symbol": "RHP",
+   "LastSale": "63.62"
+ },
+ {
+   "Symbol": "RHT",
+   "LastSale": "87.02"
+ },
+ {
+   "Symbol": "RIC",
+   "LastSale": "7.8"
+ },
+ {
+   "Symbol": "RICE",
+   "LastSale": "22.81"
+ },
+ {
+   "Symbol": "RIG",
+   "LastSale": "11.3"
+ },
+ {
+   "Symbol": "RIO",
+   "LastSale": "39.53"
+ },
+ {
+   "Symbol": "RIV",
+   "LastSale": "19.68"
+ },
+ {
+   "Symbol": "RJF",
+   "LastSale": "73.21"
+ },
+ {
+   "Symbol": "RL",
+   "LastSale": "78.92"
+ },
+ {
+   "Symbol": "RLGY",
+   "LastSale": "29.93"
+ },
+ {
+   "Symbol": "RLH",
+   "LastSale": "6.65"
+ },
+ {
+   "Symbol": "RLI",
+   "LastSale": "54.5"
+ },
+ {
+   "Symbol": "RLJ",
+   "LastSale": "23.6"
+ },
+ {
+   "Symbol": "RM",
+   "LastSale": "20.09"
+ },
+ {
+   "Symbol": "RMAX",
+   "LastSale": "59.65"
+ },
+ {
+   "Symbol": "RMD",
+   "LastSale": "69.84"
+ },
+ {
+   "Symbol": "RMP",
+   "LastSale": "24.52"
+ },
+ {
+   "Symbol": "RMT",
+   "LastSale": "8.5"
+ },
+ {
+   "Symbol": "RNG",
+   "LastSale": "29.35"
+ },
+ {
+   "Symbol": "RNP",
+   "LastSale": "19.81"
+ },
+ {
+   "Symbol": "RNR",
+   "LastSale": "138.99"
+ },
+ {
+   "Symbol": "RNR^C",
+   "LastSale": "25.66"
+ },
+ {
+   "Symbol": "RNR^E",
+   "LastSale": "25.2"
+ },
+ {
+   "Symbol": "ROG",
+   "LastSale": "85.46"
+ },
+ {
+   "Symbol": "ROK",
+   "LastSale": "153.59"
+ },
+ {
+   "Symbol": "ROL",
+   "LastSale": "37.8"
+ },
+ {
+   "Symbol": "ROP",
+   "LastSale": "209.75"
+ },
+ {
+   "Symbol": "ROYT",
+   "LastSale": "2.11"
+ },
+ {
+   "Symbol": "RPAI",
+   "LastSale": "14.52"
+ },
+ {
+   "Symbol": "RPAI^A",
+   "LastSale": "25.4857"
+ },
+ {
+   "Symbol": "RPM",
+   "LastSale": "51.91"
+ },
+ {
+   "Symbol": "RPT",
+   "LastSale": "14.43"
+ },
+ {
+   "Symbol": "RPT^D",
+   "LastSale": "55.18"
+ },
+ {
+   "Symbol": "RQI",
+   "LastSale": "12.82"
+ },
+ {
+   "Symbol": "RRC",
+   "LastSale": "27.47"
+ },
+ {
+   "Symbol": "RRD",
+   "LastSale": "12.02"
+ },
+ {
+   "Symbol": "RRTS",
+   "LastSale": "6.7"
+ },
+ {
+   "Symbol": "RS",
+   "LastSale": "76.94"
+ },
+ {
+   "Symbol": "RSG",
+   "LastSale": "63.38"
+ },
+ {
+   "Symbol": "RSO",
+   "LastSale": "9.26"
+ },
+ {
+   "Symbol": "RSO^A",
+   "LastSale": "24.45"
+ },
+ {
+   "Symbol": "RSO^B",
+   "LastSale": "23.89"
+ },
+ {
+   "Symbol": "RSO^C",
+   "LastSale": "24.5503"
+ },
+ {
+   "Symbol": "RSPP",
+   "LastSale": "37.3"
+ },
+ {
+   "Symbol": "RST",
+   "LastSale": "11.19"
+ },
+ {
+   "Symbol": "RT",
+   "LastSale": "2.53"
+ },
+ {
+   "Symbol": "RTEC",
+   "LastSale": "23.5"
+ },
+ {
+   "Symbol": "RTN",
+   "LastSale": "154.04"
+ },
+ {
+   "Symbol": "RUBI",
+   "LastSale": "5.76"
+ },
+ {
+   "Symbol": "RVT",
+   "LastSale": "14.28"
+ },
+ {
+   "Symbol": "RWT",
+   "LastSale": "16.85"
+ },
+ {
+   "Symbol": "RXN",
+   "LastSale": "22.65"
+ },
+ {
+   "Symbol": "RXN^A",
+   "LastSale": "53.75"
+ },
+ {
+   "Symbol": "RY",
+   "LastSale": "70"
+ },
+ {
+   "Symbol": "RYAM",
+   "LastSale": "12.5"
+ },
+ {
+   "Symbol": "RYAM^A",
+   "LastSale": "99.2299"
+ },
+ {
+   "Symbol": "RYI",
+   "LastSale": "12.7"
+ },
+ {
+   "Symbol": "RYN",
+   "LastSale": "28.84"
+ },
+ {
+   "Symbol": "RY^S",
+   "LastSale": "25.57"
+ },
+ {
+   "Symbol": "RY^T",
+   "LastSale": "30.45"
+ },
+ {
+   "Symbol": "RZA",
+   "LastSale": "29.35"
+ },
+ {
+   "Symbol": "RZB",
+   "LastSale": "27.33"
+ },
+ {
+   "Symbol": "S",
+   "LastSale": "8.5"
+ },
+ {
+   "Symbol": "SA",
+   "LastSale": "11.7"
+ },
+ {
+   "Symbol": "SAB",
+   "LastSale": "25.81"
+ },
+ {
+   "Symbol": "SAH",
+   "LastSale": "20"
+ },
+ {
+   "Symbol": "SAIC",
+   "LastSale": "72.31"
+ },
+ {
+   "Symbol": "SALT",
+   "LastSale": "7.4"
+ },
+ {
+   "Symbol": "SAM",
+   "LastSale": "139.05"
+ },
+ {
+   "Symbol": "SAN",
+   "LastSale": "6.08"
+ },
+ {
+   "Symbol": "SAN^A",
+   "LastSale": "25.92"
+ },
+ {
+   "Symbol": "SAN^B",
+   "LastSale": "24.78"
+ },
+ {
+   "Symbol": "SAN^C",
+   "LastSale": "25.71"
+ },
+ {
+   "Symbol": "SAN^I",
+   "LastSale": "25.749"
+ },
+ {
+   "Symbol": "SAP",
+   "LastSale": "97"
+ },
+ {
+   "Symbol": "SAR",
+   "LastSale": "21.39"
+ },
+ {
+   "Symbol": "SB",
+   "LastSale": "2.16"
+ },
+ {
+   "Symbol": "SBBC",
+   "LastSale": "25.19"
+ },
+ {
+   "Symbol": "SBGL",
+   "LastSale": "8.99"
+ },
+ {
+   "Symbol": "SBH",
+   "LastSale": "19.69"
+ },
+ {
+   "Symbol": "SBNA",
+   "LastSale": "24.382"
+ },
+ {
+   "Symbol": "SBNB",
+   "LastSale": "25.27"
+ },
+ {
+   "Symbol": "SBR",
+   "LastSale": "36.55"
+ },
+ {
+   "Symbol": "SBS",
+   "LastSale": "9.68"
+ },
+ {
+   "Symbol": "SBY",
+   "LastSale": "21.55"
+ },
+ {
+   "Symbol": "SB^B",
+   "LastSale": "26.2732"
+ },
+ {
+   "Symbol": "SB^C",
+   "LastSale": "19.13"
+ },
+ {
+   "Symbol": "SB^D",
+   "LastSale": "19.009"
+ },
+ {
+   "Symbol": "SC",
+   "LastSale": "12.75"
+ },
+ {
+   "Symbol": "SCCO",
+   "LastSale": "35.28"
+ },
+ {
+   "Symbol": "SCD",
+   "LastSale": "14.38"
+ },
+ {
+   "Symbol": "SCE^F",
+   "LastSale": "25.54"
+ },
+ {
+   "Symbol": "SCE^G",
+   "LastSale": "25.16"
+ },
+ {
+   "Symbol": "SCE^H",
+   "LastSale": "27.8"
+ },
+ {
+   "Symbol": "SCE^J",
+   "LastSale": "27.88"
+ },
+ {
+   "Symbol": "SCE^K",
+   "LastSale": "28.22"
+ },
+ {
+   "Symbol": "SCG",
+   "LastSale": "66.27"
+ },
+ {
+   "Symbol": "SCHW",
+   "LastSale": "38.33"
+ },
+ {
+   "Symbol": "SCHW^B",
+   "LastSale": "25.89"
+ },
+ {
+   "Symbol": "SCHW^C",
+   "LastSale": "27.47"
+ },
+ {
+   "Symbol": "SCHW^D",
+   "LastSale": "27.04"
+ },
+ {
+   "Symbol": "SCI",
+   "LastSale": "31.33"
+ },
+ {
+   "Symbol": "SCL",
+   "LastSale": "78.45"
+ },
+ {
+   "Symbol": "SCM",
+   "LastSale": "14.14"
+ },
+ {
+   "Symbol": "SCQ",
+   "LastSale": "25.65"
+ },
+ {
+   "Symbol": "SCS",
+   "LastSale": "16.4"
+ },
+ {
+   "Symbol": "SCX",
+   "LastSale": "9.95"
+ },
+ {
+   "Symbol": "SD",
+   "LastSale": "18.38"
+ },
+ {
+   "Symbol": "SDLP",
+   "LastSale": "3"
+ },
+ {
+   "Symbol": "SDR",
+   "LastSale": "1.5"
+ },
+ {
+   "Symbol": "SDRL",
+   "LastSale": "0.721"
+ },
+ {
+   "Symbol": "SDT",
+   "LastSale": "1.55"
+ },
+ {
+   "Symbol": "SEAS",
+   "LastSale": "17.23"
+ },
+ {
+   "Symbol": "SEE",
+   "LastSale": "43.75"
+ },
+ {
+   "Symbol": "SEM",
+   "LastSale": "13.65"
+ },
+ {
+   "Symbol": "SEMG",
+   "LastSale": "33.55"
+ },
+ {
+   "Symbol": "SEP",
+   "LastSale": "44.13"
+ },
+ {
+   "Symbol": "SERV",
+   "LastSale": "41.89"
+ },
+ {
+   "Symbol": "SF",
+   "LastSale": "46.98"
+ },
+ {
+   "Symbol": "SFE",
+   "LastSale": "12.35"
+ },
+ {
+   "Symbol": "SFL",
+   "LastSale": "13.9"
+ },
+ {
+   "Symbol": "SFR",
+   "LastSale": "34.82"
+ },
+ {
+   "Symbol": "SFS",
+   "LastSale": "12.35"
+ },
+ {
+   "Symbol": "SFUN",
+   "LastSale": "3.49"
+ },
+ {
+   "Symbol": "SF^A",
+   "LastSale": "26.19"
+ },
+ {
+   "Symbol": "SGF",
+   "LastSale": "10.94"
+ },
+ {
+   "Symbol": "SGM",
+   "LastSale": "7.93"
+ },
+ {
+   "Symbol": "SGU",
+   "LastSale": "9.33"
+ },
+ {
+   "Symbol": "SGY",
+   "LastSale": "20.93"
+ },
+ {
+   "Symbol": "SGZA",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "SHAK",
+   "LastSale": "33.49"
+ },
+ {
+   "Symbol": "SHG",
+   "LastSale": "41.63"
+ },
+ {
+   "Symbol": "SHI",
+   "LastSale": "56.81"
+ },
+ {
+   "Symbol": "SHLX",
+   "LastSale": "32.18"
+ },
+ {
+   "Symbol": "SHO",
+   "LastSale": "15.25"
+ },
+ {
+   "Symbol": "SHOP",
+   "LastSale": "76.38"
+ },
+ {
+   "Symbol": "SHO^E",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "SHO^F",
+   "LastSale": "25.26"
+ },
+ {
+   "Symbol": "SHW",
+   "LastSale": "324.6"
+ },
+ {
+   "Symbol": "SID",
+   "LastSale": "2.31"
+ },
+ {
+   "Symbol": "SIG",
+   "LastSale": "66.14"
+ },
+ {
+   "Symbol": "SITE",
+   "LastSale": "48.29"
+ },
+ {
+   "Symbol": "SIX",
+   "LastSale": "61.57"
+ },
+ {
+   "Symbol": "SJI",
+   "LastSale": "37.32"
+ },
+ {
+   "Symbol": "SJM",
+   "LastSale": "126.58"
+ },
+ {
+   "Symbol": "SJR",
+   "LastSale": "21.05"
+ },
+ {
+   "Symbol": "SJT",
+   "LastSale": "7.25"
+ },
+ {
+   "Symbol": "SJW",
+   "LastSale": "51.15"
+ },
+ {
+   "Symbol": "SKM",
+   "LastSale": "24.33"
+ },
+ {
+   "Symbol": "SKT",
+   "LastSale": "32.83"
+ },
+ {
+   "Symbol": "SKX",
+   "LastSale": "25.48"
+ },
+ {
+   "Symbol": "SLB",
+   "LastSale": "74.84"
+ },
+ {
+   "Symbol": "SLCA",
+   "LastSale": "40.51"
+ },
+ {
+   "Symbol": "SLD",
+   "LastSale": "14.55"
+ },
+ {
+   "Symbol": "SLF",
+   "LastSale": "35.45"
+ },
+ {
+   "Symbol": "SLG",
+   "LastSale": "107.67"
+ },
+ {
+   "Symbol": "SLG^I",
+   "LastSale": "25.74"
+ },
+ {
+   "Symbol": "SLRA",
+   "LastSale": "25.39"
+ },
+ {
+   "Symbol": "SLTB",
+   "LastSale": "24.75"
+ },
+ {
+   "Symbol": "SLW",
+   "LastSale": "21.09"
+ },
+ {
+   "Symbol": "SM",
+   "LastSale": "21.51"
+ },
+ {
+   "Symbol": "SMFG",
+   "LastSale": "7.29"
+ },
+ {
+   "Symbol": "SMG",
+   "LastSale": "96.75"
+ },
+ {
+   "Symbol": "SMI",
+   "LastSale": "5.96"
+ },
+ {
+   "Symbol": "SMLP",
+   "LastSale": "23.6"
+ },
+ {
+   "Symbol": "SMM",
+   "LastSale": "13.15"
+ },
+ {
+   "Symbol": "SMP",
+   "LastSale": "49.33"
+ },
+ {
+   "Symbol": "SN",
+   "LastSale": "7.5"
+ },
+ {
+   "Symbol": "SNA",
+   "LastSale": "175.21"
+ },
+ {
+   "Symbol": "SNAP",
+   "LastSale": "20.93"
+ },
+ {
+   "Symbol": "SNDR",
+   "LastSale": "18.8"
+ },
+ {
+   "Symbol": "SNE",
+   "LastSale": "33.68"
+ },
+ {
+   "Symbol": "SNN",
+   "LastSale": "32.04"
+ },
+ {
+   "Symbol": "SNOW",
+   "LastSale": "23.6"
+ },
+ {
+   "Symbol": "SNP",
+   "LastSale": "80.84"
+ },
+ {
+   "Symbol": "SNR",
+   "LastSale": "10.78"
+ },
+ {
+   "Symbol": "SNV",
+   "LastSale": "41.89"
+ },
+ {
+   "Symbol": "SNV^C",
+   "LastSale": "27.49"
+ },
+ {
+   "Symbol": "SNX",
+   "LastSale": "106.71"
+ },
+ {
+   "Symbol": "SNY",
+   "LastSale": "44.09"
+ },
+ {
+   "Symbol": "SO",
+   "LastSale": "49.98"
+ },
+ {
+   "Symbol": "SOJA",
+   "LastSale": "26.26"
+ },
+ {
+   "Symbol": "SOJB",
+   "LastSale": "24.35"
+ },
+ {
+   "Symbol": "SOL",
+   "LastSale": "2.39"
+ },
+ {
+   "Symbol": "SON",
+   "LastSale": "53.21"
+ },
+ {
+   "Symbol": "SOR",
+   "LastSale": "37.66"
+ },
+ {
+   "Symbol": "SOV^C",
+   "LastSale": "26.53"
+ },
+ {
+   "Symbol": "SPA",
+   "LastSale": "22.03"
+ },
+ {
+   "Symbol": "SPB           ",
+   "LastSale": "144.01"
+ },
+ {
+   "Symbol": "SPE",
+   "LastSale": "14.8"
+ },
+ {
+   "Symbol": "SPE^B",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "SPG",
+   "LastSale": "171.98"
+ },
+ {
+   "Symbol": "SPGI",
+   "LastSale": "131.52"
+ },
+ {
+   "Symbol": "SPG^J",
+   "LastSale": "70.38"
+ },
+ {
+   "Symbol": "SPH",
+   "LastSale": "26.46"
+ },
+ {
+   "Symbol": "SPLP",
+   "LastSale": "18.2"
+ },
+ {
+   "Symbol": "SPLP^A",
+   "LastSale": "22.4062"
+ },
+ {
+   "Symbol": "SPN",
+   "LastSale": "12.81"
+ },
+ {
+   "Symbol": "SPR",
+   "LastSale": "56.55"
+ },
+ {
+   "Symbol": "SPXC",
+   "LastSale": "23.63"
+ },
+ {
+   "Symbol": "SPXX",
+   "LastSale": "15.09"
+ },
+ {
+   "Symbol": "SQ",
+   "LastSale": "17.49"
+ },
+ {
+   "Symbol": "SQM",
+   "LastSale": "35.62"
+ },
+ {
+   "Symbol": "SQNS",
+   "LastSale": "3.34"
+ },
+ {
+   "Symbol": "SR",
+   "LastSale": "69.15"
+ },
+ {
+   "Symbol": "SRC",
+   "LastSale": "10.44"
+ },
+ {
+   "Symbol": "SRE",
+   "LastSale": "112.52"
+ },
+ {
+   "Symbol": "SRF",
+   "LastSale": "9.22"
+ },
+ {
+   "Symbol": "SRG",
+   "LastSale": "42.86"
+ },
+ {
+   "Symbol": "SRI",
+   "LastSale": "18.38"
+ },
+ {
+   "Symbol": "SRLP",
+   "LastSale": "26.65"
+ },
+ {
+   "Symbol": "SRT",
+   "LastSale": "9.34"
+ },
+ {
+   "Symbol": "SRV",
+   "LastSale": "13.66"
+ },
+ {
+   "Symbol": "SSD",
+   "LastSale": "41.72"
+ },
+ {
+   "Symbol": "SSI",
+   "LastSale": "2.78"
+ },
+ {
+   "Symbol": "SSL",
+   "LastSale": "30.07"
+ },
+ {
+   "Symbol": "SSNI",
+   "LastSale": "11.24"
+ },
+ {
+   "Symbol": "SSP",
+   "LastSale": "22.19"
+ },
+ {
+   "Symbol": "SSTK",
+   "LastSale": "42.29"
+ },
+ {
+   "Symbol": "SSW",
+   "LastSale": "6.28"
+ },
+ {
+   "Symbol": "SSWN",
+   "LastSale": "24.86"
+ },
+ {
+   "Symbol": "SSW^D",
+   "LastSale": "22.99"
+ },
+ {
+   "Symbol": "SSW^E",
+   "LastSale": "23.36"
+ },
+ {
+   "Symbol": "SSW^G",
+   "LastSale": "22.93"
+ },
+ {
+   "Symbol": "SSW^H",
+   "LastSale": "21.99"
+ },
+ {
+   "Symbol": "ST",
+   "LastSale": "41.05"
+ },
+ {
+   "Symbol": "STAG",
+   "LastSale": "26.49"
+ },
+ {
+   "Symbol": "STAG^B",
+   "LastSale": "25.45"
+ },
+ {
+   "Symbol": "STAG^C",
+   "LastSale": "26.49"
+ },
+ {
+   "Symbol": "STAR          ",
+   "LastSale": "12.34"
+ },
+ {
+   "Symbol": "STAR^D",
+   "LastSale": "24.91"
+ },
+ {
+   "Symbol": "STAR^E",
+   "LastSale": "24.8"
+ },
+ {
+   "Symbol": "STAR^F",
+   "LastSale": "24.53"
+ },
+ {
+   "Symbol": "STAR^G",
+   "LastSale": "24.2404"
+ },
+ {
+   "Symbol": "STAR^I",
+   "LastSale": "23.89"
+ },
+ {
+   "Symbol": "STAY",
+   "LastSale": "17.24"
+ },
+ {
+   "Symbol": "STC",
+   "LastSale": "45.42"
+ },
+ {
+   "Symbol": "STE",
+   "LastSale": "70.44"
+ },
+ {
+   "Symbol": "STI",
+   "LastSale": "54.85"
+ },
+ {
+   "Symbol": "STI.WS.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "STI.WS.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "STI^A",
+   "LastSale": "24.74"
+ },
+ {
+   "Symbol": "STI^E",
+   "LastSale": "25.7"
+ },
+ {
+   "Symbol": "STK",
+   "LastSale": "21.67"
+ },
+ {
+   "Symbol": "STL",
+   "LastSale": "23.4"
+ },
+ {
+   "Symbol": "STM",
+   "LastSale": "14.64"
+ },
+ {
+   "Symbol": "STN",
+   "LastSale": "24.85"
+ },
+ {
+   "Symbol": "STNG",
+   "LastSale": "4"
+ },
+ {
+   "Symbol": "STO",
+   "LastSale": "16.34"
+ },
+ {
+   "Symbol": "STON",
+   "LastSale": "8.76"
+ },
+ {
+   "Symbol": "STOR",
+   "LastSale": "25.13"
+ },
+ {
+   "Symbol": "STT",
+   "LastSale": "77.7"
+ },
+ {
+   "Symbol": "STT^C",
+   "LastSale": "25.18"
+ },
+ {
+   "Symbol": "STT^D",
+   "LastSale": "28.07"
+ },
+ {
+   "Symbol": "STT^E",
+   "LastSale": "26.84"
+ },
+ {
+   "Symbol": "STT^G",
+   "LastSale": "26.7"
+ },
+ {
+   "Symbol": "STV",
+   "LastSale": "1.71"
+ },
+ {
+   "Symbol": "STWD",
+   "LastSale": "22.63"
+ },
+ {
+   "Symbol": "STZ",
+   "LastSale": "172.09"
+ },
+ {
+   "Symbol": "STZ.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "SU",
+   "LastSale": "30.31"
+ },
+ {
+   "Symbol": "SUI",
+   "LastSale": "84.64"
+ },
+ {
+   "Symbol": "SUI^A",
+   "LastSale": "25.56"
+ },
+ {
+   "Symbol": "SUM",
+   "LastSale": "25.49"
+ },
+ {
+   "Symbol": "SUN",
+   "LastSale": "30.22"
+ },
+ {
+   "Symbol": "SUP",
+   "LastSale": "23.9"
+ },
+ {
+   "Symbol": "SUPV",
+   "LastSale": "17.01"
+ },
+ {
+   "Symbol": "SVU",
+   "LastSale": "3.84"
+ },
+ {
+   "Symbol": "SWC",
+   "LastSale": "17.93"
+ },
+ {
+   "Symbol": "SWFT",
+   "LastSale": "24.38"
+ },
+ {
+   "Symbol": "SWJ",
+   "LastSale": "25.48"
+ },
+ {
+   "Symbol": "SWK",
+   "LastSale": "137.56"
+ },
+ {
+   "Symbol": "SWM",
+   "LastSale": "43.11"
+ },
+ {
+   "Symbol": "SWN",
+   "LastSale": "7.44"
+ },
+ {
+   "Symbol": "SWNC",
+   "LastSale": "18.97"
+ },
+ {
+   "Symbol": "SWX",
+   "LastSale": "83.43"
+ },
+ {
+   "Symbol": "SWZ",
+   "LastSale": "11.59"
+ },
+ {
+   "Symbol": "SXC",
+   "LastSale": "9.87"
+ },
+ {
+   "Symbol": "SXCP",
+   "LastSale": "16.6"
+ },
+ {
+   "Symbol": "SXE",
+   "LastSale": "4.43"
+ },
+ {
+   "Symbol": "SXI",
+   "LastSale": "92.5"
+ },
+ {
+   "Symbol": "SXL",
+   "LastSale": "23.55"
+ },
+ {
+   "Symbol": "SXT",
+   "LastSale": "81.54"
+ },
+ {
+   "Symbol": "SYF",
+   "LastSale": "33.38"
+ },
+ {
+   "Symbol": "SYK",
+   "LastSale": "132.94"
+ },
+ {
+   "Symbol": "SYT",
+   "LastSale": "90.57"
+ },
+ {
+   "Symbol": "SYX",
+   "LastSale": "12.91"
+ },
+ {
+   "Symbol": "SYY",
+   "LastSale": "52.2"
+ },
+ {
+   "Symbol": "SZC",
+   "LastSale": "18.13"
+ },
+ {
+   "Symbol": "T",
+   "LastSale": "39.93"
+ },
+ {
+   "Symbol": "TAC",
+   "LastSale": "5.15"
+ },
+ {
+   "Symbol": "TAHO",
+   "LastSale": "8.61"
+ },
+ {
+   "Symbol": "TAL",
+   "LastSale": "110.67"
+ },
+ {
+   "Symbol": "TAP",
+   "LastSale": "94.86"
+ },
+ {
+   "Symbol": "TAP.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "TARO",
+   "LastSale": "115.57"
+ },
+ {
+   "Symbol": "TBI",
+   "LastSale": "26.7"
+ },
+ {
+   "Symbol": "TCAP",
+   "LastSale": "18.78"
+ },
+ {
+   "Symbol": "TCB",
+   "LastSale": "17.06"
+ },
+ {
+   "Symbol": "TCB.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "TCB^B",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "TCB^C",
+   "LastSale": "25.639"
+ },
+ {
+   "Symbol": "TCCA",
+   "LastSale": "25.5"
+ },
+ {
+   "Symbol": "TCCB",
+   "LastSale": "25.9"
+ },
+ {
+   "Symbol": "TCI",
+   "LastSale": "21"
+ },
+ {
+   "Symbol": "TCO",
+   "LastSale": "66.28"
+ },
+ {
+   "Symbol": "TCO^J",
+   "LastSale": "25.67"
+ },
+ {
+   "Symbol": "TCO^K",
+   "LastSale": "25.2"
+ },
+ {
+   "Symbol": "TCP",
+   "LastSale": "59.59"
+ },
+ {
+   "Symbol": "TCRX",
+   "LastSale": "25.6"
+ },
+ {
+   "Symbol": "TCRZ",
+   "LastSale": "25.81"
+ },
+ {
+   "Symbol": "TCS",
+   "LastSale": "4.24"
+ },
+ {
+   "Symbol": "TD",
+   "LastSale": "48.59"
+ },
+ {
+   "Symbol": "TDA",
+   "LastSale": "24.87"
+ },
+ {
+   "Symbol": "TDC",
+   "LastSale": "31.06"
+ },
+ {
+   "Symbol": "TDE",
+   "LastSale": "25.76"
+ },
+ {
+   "Symbol": "TDF",
+   "LastSale": "18.76"
+ },
+ {
+   "Symbol": "TDG",
+   "LastSale": "240.21"
+ },
+ {
+   "Symbol": "TDI",
+   "LastSale": "26.04"
+ },
+ {
+   "Symbol": "TDJ",
+   "LastSale": "25.58"
+ },
+ {
+   "Symbol": "TDOC",
+   "LastSale": "25.75"
+ },
+ {
+   "Symbol": "TDS",
+   "LastSale": "27.16"
+ },
+ {
+   "Symbol": "TDW",
+   "LastSale": "0.81"
+ },
+ {
+   "Symbol": "TDY",
+   "LastSale": "127.43"
+ },
+ {
+   "Symbol": "TECK",
+   "LastSale": "21.79"
+ },
+ {
+   "Symbol": "TEF",
+   "LastSale": "10.9"
+ },
+ {
+   "Symbol": "TEGP",
+   "LastSale": "27.81"
+ },
+ {
+   "Symbol": "TEI",
+   "LastSale": "11.37"
+ },
+ {
+   "Symbol": "TEL",
+   "LastSale": "73.61"
+ },
+ {
+   "Symbol": "TEN",
+   "LastSale": "60.24"
+ },
+ {
+   "Symbol": "TEO",
+   "LastSale": "22.94"
+ },
+ {
+   "Symbol": "TEP",
+   "LastSale": "51.23"
+ },
+ {
+   "Symbol": "TER",
+   "LastSale": "32.44"
+ },
+ {
+   "Symbol": "TEVA",
+   "LastSale": "31.13"
+ },
+ {
+   "Symbol": "TEX",
+   "LastSale": "32.45"
+ },
+ {
+   "Symbol": "TFX",
+   "LastSale": "199.52"
+ },
+ {
+   "Symbol": "TG",
+   "LastSale": "16.65"
+ },
+ {
+   "Symbol": "TGH",
+   "LastSale": "14.8"
+ },
+ {
+   "Symbol": "TGI",
+   "LastSale": "26.35"
+ },
+ {
+   "Symbol": "TGNA",
+   "LastSale": "25.83"
+ },
+ {
+   "Symbol": "TGP",
+   "LastSale": "16.5"
+ },
+ {
+   "Symbol": "TGP^A",
+   "LastSale": "25.35"
+ },
+ {
+   "Symbol": "TGS",
+   "LastSale": "16.05"
+ },
+ {
+   "Symbol": "TGT",
+   "LastSale": "54.78"
+ },
+ {
+   "Symbol": "THC",
+   "LastSale": "15.35"
+ },
+ {
+   "Symbol": "THG",
+   "LastSale": "87.8"
+ },
+ {
+   "Symbol": "THGA",
+   "LastSale": "25.31"
+ },
+ {
+   "Symbol": "THO",
+   "LastSale": "91.8"
+ },
+ {
+   "Symbol": "THQ",
+   "LastSale": "17.35"
+ },
+ {
+   "Symbol": "THR",
+   "LastSale": "19.9"
+ },
+ {
+   "Symbol": "THS",
+   "LastSale": "89.06"
+ },
+ {
+   "Symbol": "THW",
+   "LastSale": "14.22"
+ },
+ {
+   "Symbol": "TI",
+   "LastSale": "8.46"
+ },
+ {
+   "Symbol": "TI.A",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "TIER",
+   "LastSale": "17.66"
+ },
+ {
+   "Symbol": "TIF",
+   "LastSale": "91.69"
+ },
+ {
+   "Symbol": "TIME",
+   "LastSale": "18.45"
+ },
+ {
+   "Symbol": "TISI",
+   "LastSale": "26.3"
+ },
+ {
+   "Symbol": "TJX",
+   "LastSale": "78.56"
+ },
+ {
+   "Symbol": "TK",
+   "LastSale": "8.77"
+ },
+ {
+   "Symbol": "TKC",
+   "LastSale": "8.33"
+ },
+ {
+   "Symbol": "TKF",
+   "LastSale": "8.7"
+ },
+ {
+   "Symbol": "TKR",
+   "LastSale": "44.9"
+ },
+ {
+   "Symbol": "TLI",
+   "LastSale": "11.34"
+ },
+ {
+   "Symbol": "TLK",
+   "LastSale": "32.55"
+ },
+ {
+   "Symbol": "TLLP",
+   "LastSale": "54.37"
+ },
+ {
+   "Symbol": "TLP",
+   "LastSale": "44.79"
+ },
+ {
+   "Symbol": "TLRD",
+   "LastSale": "12.65"
+ },
+ {
+   "Symbol": "TLYS",
+   "LastSale": "9.08"
+ },
+ {
+   "Symbol": "TM",
+   "LastSale": "106.58"
+ },
+ {
+   "Symbol": "TMHC",
+   "LastSale": "22.04"
+ },
+ {
+   "Symbol": "TMK",
+   "LastSale": "76.33"
+ },
+ {
+   "Symbol": "TMK^B",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "TMK^C",
+   "LastSale": "26.44"
+ },
+ {
+   "Symbol": "TMO",
+   "LastSale": "155.04"
+ },
+ {
+   "Symbol": "TMST",
+   "LastSale": "15.68"
+ },
+ {
+   "Symbol": "TNC",
+   "LastSale": "73.65"
+ },
+ {
+   "Symbol": "TNET",
+   "LastSale": "28.59"
+ },
+ {
+   "Symbol": "TNH",
+   "LastSale": "92.15"
+ },
+ {
+   "Symbol": "TNK",
+   "LastSale": "2.03"
+ },
+ {
+   "Symbol": "TNP",
+   "LastSale": "4.76"
+ },
+ {
+   "Symbol": "TNP^B",
+   "LastSale": "25.6"
+ },
+ {
+   "Symbol": "TNP^C",
+   "LastSale": "25.86"
+ },
+ {
+   "Symbol": "TNP^D",
+   "LastSale": "24.9"
+ },
+ {
+   "Symbol": "TNP^E",
+   "LastSale": "24.94"
+ },
+ {
+   "Symbol": "TOL",
+   "LastSale": "36.18"
+ },
+ {
+   "Symbol": "TOO",
+   "LastSale": "5.62"
+ },
+ {
+   "Symbol": "TOO^A",
+   "LastSale": "20.95"
+ },
+ {
+   "Symbol": "TOO^B",
+   "LastSale": "23.157"
+ },
+ {
+   "Symbol": "TOT",
+   "LastSale": "49.94"
+ },
+ {
+   "Symbol": "TOWR",
+   "LastSale": "25.5"
+ },
+ {
+   "Symbol": "TPB",
+   "LastSale": "16.09"
+ },
+ {
+   "Symbol": "TPC",
+   "LastSale": "30.25"
+ },
+ {
+   "Symbol": "TPH",
+   "LastSale": "12.16"
+ },
+ {
+   "Symbol": "TPL",
+   "LastSale": "287.5"
+ },
+ {
+   "Symbol": "TPRE",
+   "LastSale": "12"
+ },
+ {
+   "Symbol": "TPVG",
+   "LastSale": "14.05"
+ },
+ {
+   "Symbol": "TPVZ",
+   "LastSale": "25.72"
+ },
+ {
+   "Symbol": "TPX",
+   "LastSale": "44.78"
+ },
+ {
+   "Symbol": "TPZ",
+   "LastSale": "22.41"
+ },
+ {
+   "Symbol": "TR",
+   "LastSale": "37.75"
+ },
+ {
+   "Symbol": "TRC",
+   "LastSale": "22.83"
+ },
+ {
+   "Symbol": "TRCO",
+   "LastSale": "37.35"
+ },
+ {
+   "Symbol": "TREC",
+   "LastSale": "10.25"
+ },
+ {
+   "Symbol": "TREX",
+   "LastSale": "69.86"
+ },
+ {
+   "Symbol": "TRGP",
+   "LastSale": "55.43"
+ },
+ {
+   "Symbol": "TRI",
+   "LastSale": "42.63"
+ },
+ {
+   "Symbol": "TRK",
+   "LastSale": "19.52"
+ },
+ {
+   "Symbol": "TRMR",
+   "LastSale": "2.22"
+ },
+ {
+   "Symbol": "TRN",
+   "LastSale": "26.13"
+ },
+ {
+   "Symbol": "TRNO",
+   "LastSale": "29.9"
+ },
+ {
+   "Symbol": "TRNO^A",
+   "LastSale": "25.5"
+ },
+ {
+   "Symbol": "TROX",
+   "LastSale": "16.03"
+ },
+ {
+   "Symbol": "TRP",
+   "LastSale": "46.9"
+ },
+ {
+   "Symbol": "TRQ",
+   "LastSale": "2.67"
+ },
+ {
+   "Symbol": "TRR",
+   "LastSale": "17.45"
+ },
+ {
+   "Symbol": "TRTN",
+   "LastSale": "28.81"
+ },
+ {
+   "Symbol": "TRU",
+   "LastSale": "39.26"
+ },
+ {
+   "Symbol": "TRV",
+   "LastSale": "119.1"
+ },
+ {
+   "Symbol": "TS",
+   "LastSale": "31.73"
+ },
+ {
+   "Symbol": "TSE",
+   "LastSale": "64.35"
+ },
+ {
+   "Symbol": "TSI",
+   "LastSale": "5.5"
+ },
+ {
+   "Symbol": "TSLF",
+   "LastSale": "18.25"
+ },
+ {
+   "Symbol": "TSLX",
+   "LastSale": "20.58"
+ },
+ {
+   "Symbol": "TSM",
+   "LastSale": "32.08"
+ },
+ {
+   "Symbol": "TSN",
+   "LastSale": "65.14"
+ },
+ {
+   "Symbol": "TSNU",
+   "LastSale": "70.25"
+ },
+ {
+   "Symbol": "TSO",
+   "LastSale": "77.89"
+ },
+ {
+   "Symbol": "TSQ",
+   "LastSale": "11.13"
+ },
+ {
+   "Symbol": "TSS",
+   "LastSale": "53.49"
+ },
+ {
+   "Symbol": "TSU",
+   "LastSale": "16.39"
+ },
+ {
+   "Symbol": "TTC",
+   "LastSale": "62.86"
+ },
+ {
+   "Symbol": "TTF",
+   "LastSale": "8.66"
+ },
+ {
+   "Symbol": "TTI",
+   "LastSale": "3.55"
+ },
+ {
+   "Symbol": "TTM",
+   "LastSale": "33.72"
+ },
+ {
+   "Symbol": "TTP",
+   "LastSale": "21.51"
+ },
+ {
+   "Symbol": "TU",
+   "LastSale": "32.86"
+ },
+ {
+   "Symbol": "TUP",
+   "LastSale": "64.22"
+ },
+ {
+   "Symbol": "TV",
+   "LastSale": "25.14"
+ },
+ {
+   "Symbol": "TVC",
+   "LastSale": "25.44"
+ },
+ {
+   "Symbol": "TVE",
+   "LastSale": "25.189"
+ },
+ {
+   "Symbol": "TVPT",
+   "LastSale": "12.97"
+ },
+ {
+   "Symbol": "TWI",
+   "LastSale": "10.01"
+ },
+ {
+   "Symbol": "TWLO",
+   "LastSale": "30.82"
+ },
+ {
+   "Symbol": "TWN",
+   "LastSale": "18.2908"
+ },
+ {
+   "Symbol": "TWO",
+   "LastSale": "9.93"
+ },
+ {
+   "Symbol": "TWO^A",
+   "LastSale": "26.44"
+ },
+ {
+   "Symbol": "TWTR",
+   "LastSale": "14.63"
+ },
+ {
+   "Symbol": "TWX",
+   "LastSale": "99.84"
+ },
+ {
+   "Symbol": "TX",
+   "LastSale": "25.15"
+ },
+ {
+   "Symbol": "TXT",
+   "LastSale": "46.66"
+ },
+ {
+   "Symbol": "TY",
+   "LastSale": "23.43"
+ },
+ {
+   "Symbol": "TYG",
+   "LastSale": "34.28"
+ },
+ {
+   "Symbol": "TYL",
+   "LastSale": "158.56"
+ },
+ {
+   "Symbol": "TY^",
+   "LastSale": "50.4175"
+ },
+ {
+   "Symbol": "UA",
+   "LastSale": "17.53"
+ },
+ {
+   "Symbol": "UAA",
+   "LastSale": "18.99"
+ },
+ {
+   "Symbol": "UAL",
+   "LastSale": "69.56"
+ },
+ {
+   "Symbol": "UAM",
+   "LastSale": "9.98"
+ },
+ {
+   "Symbol": "UAN",
+   "LastSale": "4.66"
+ },
+ {
+   "Symbol": "UBA",
+   "LastSale": "20.73"
+ },
+ {
+   "Symbol": "UBP",
+   "LastSale": "17.0852"
+ },
+ {
+   "Symbol": "UBP^F",
+   "LastSale": "25.5417"
+ },
+ {
+   "Symbol": "UBP^G",
+   "LastSale": "25.9281"
+ },
+ {
+   "Symbol": "UBS",
+   "LastSale": "15.56"
+ },
+ {
+   "Symbol": "UCP",
+   "LastSale": "11.4"
+ },
+ {
+   "Symbol": "UDR",
+   "LastSale": "36.21"
+ },
+ {
+   "Symbol": "UE",
+   "LastSale": "27.36"
+ },
+ {
+   "Symbol": "UFI",
+   "LastSale": "27.63"
+ },
+ {
+   "Symbol": "UFS",
+   "LastSale": "37.7"
+ },
+ {
+   "Symbol": "UGI",
+   "LastSale": "49.25"
+ },
+ {
+   "Symbol": "UGP",
+   "LastSale": "22.12"
+ },
+ {
+   "Symbol": "UHS",
+   "LastSale": "118.84"
+ },
+ {
+   "Symbol": "UHT",
+   "LastSale": "69.68"
+ },
+ {
+   "Symbol": "UIS",
+   "LastSale": "10.95"
+ },
+ {
+   "Symbol": "UL",
+   "LastSale": "50.1"
+ },
+ {
+   "Symbol": "UMC",
+   "LastSale": "1.9"
+ },
+ {
+   "Symbol": "UMH",
+   "LastSale": "15.62"
+ },
+ {
+   "Symbol": "UMH^A",
+   "LastSale": "26.04"
+ },
+ {
+   "Symbol": "UMH^B",
+   "LastSale": "26.8777"
+ },
+ {
+   "Symbol": "UN",
+   "LastSale": "51"
+ },
+ {
+   "Symbol": "UNF",
+   "LastSale": "138.4"
+ },
+ {
+   "Symbol": "UNH",
+   "LastSale": "171.16"
+ },
+ {
+   "Symbol": "UNM",
+   "LastSale": "45.52"
+ },
+ {
+   "Symbol": "UNP",
+   "LastSale": "108.28"
+ },
+ {
+   "Symbol": "UNT",
+   "LastSale": "21.24"
+ },
+ {
+   "Symbol": "UNVR",
+   "LastSale": "29.56"
+ },
+ {
+   "Symbol": "UPS",
+   "LastSale": "105.77"
+ },
+ {
+   "Symbol": "URI",
+   "LastSale": "111.46"
+ },
+ {
+   "Symbol": "USA",
+   "LastSale": "5.49"
+ },
+ {
+   "Symbol": "USAC",
+   "LastSale": "17.57"
+ },
+ {
+   "Symbol": "USB",
+   "LastSale": "50.51"
+ },
+ {
+   "Symbol": "USB^A",
+   "LastSale": "865"
+ },
+ {
+   "Symbol": "USB^H",
+   "LastSale": "23.02"
+ },
+ {
+   "Symbol": "USB^M",
+   "LastSale": "29.13"
+ },
+ {
+   "Symbol": "USB^O",
+   "LastSale": "26.27"
+ },
+ {
+   "Symbol": "USDP",
+   "LastSale": "14.05"
+ },
+ {
+   "Symbol": "USFD",
+   "LastSale": "27.53"
+ },
+ {
+   "Symbol": "USG",
+   "LastSale": "31.37"
+ },
+ {
+   "Symbol": "USM",
+   "LastSale": "37.77"
+ },
+ {
+   "Symbol": "USNA",
+   "LastSale": "56.5"
+ },
+ {
+   "Symbol": "USPH",
+   "LastSale": "64.2"
+ },
+ {
+   "Symbol": "UTF",
+   "LastSale": "22.14"
+ },
+ {
+   "Symbol": "UTI",
+   "LastSale": "3.59"
+ },
+ {
+   "Symbol": "UTL",
+   "LastSale": "46.44"
+ },
+ {
+   "Symbol": "UTX",
+   "LastSale": "114.99"
+ },
+ {
+   "Symbol": "UVE",
+   "LastSale": "22.7"
+ },
+ {
+   "Symbol": "UVV",
+   "LastSale": "73.7"
+ },
+ {
+   "Symbol": "UZA",
+   "LastSale": "25.72"
+ },
+ {
+   "Symbol": "UZB",
+   "LastSale": "26.7175"
+ },
+ {
+   "Symbol": "UZC",
+   "LastSale": "26.8297"
+ },
+ {
+   "Symbol": "V",
+   "LastSale": "91.15"
+ },
+ {
+   "Symbol": "VAC",
+   "LastSale": "104.42"
+ },
+ {
+   "Symbol": "VAL",
+   "LastSale": "112.43"
+ },
+ {
+   "Symbol": "VALE",
+   "LastSale": "8.87"
+ },
+ {
+   "Symbol": "VALE.P",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "VAR",
+   "LastSale": "89"
+ },
+ {
+   "Symbol": "VBF",
+   "LastSale": "18.88"
+ },
+ {
+   "Symbol": "VC",
+   "LastSale": "97.02"
+ },
+ {
+   "Symbol": "VCO",
+   "LastSale": "33.61"
+ },
+ {
+   "Symbol": "VCRA",
+   "LastSale": "23.91"
+ },
+ {
+   "Symbol": "VCV",
+   "LastSale": "12.53"
+ },
+ {
+   "Symbol": "VEC",
+   "LastSale": "24.2"
+ },
+ {
+   "Symbol": "VEDL",
+   "LastSale": "14.49"
+ },
+ {
+   "Symbol": "VEEV",
+   "LastSale": "51.83"
+ },
+ {
+   "Symbol": "VER",
+   "LastSale": "8.82"
+ },
+ {
+   "Symbol": "VER^F",
+   "LastSale": "25.95"
+ },
+ {
+   "Symbol": "VET",
+   "LastSale": "35.95"
+ },
+ {
+   "Symbol": "VFC",
+   "LastSale": "55.85"
+ },
+ {
+   "Symbol": "VG",
+   "LastSale": "6.41"
+ },
+ {
+   "Symbol": "VGI",
+   "LastSale": "16.35"
+ },
+ {
+   "Symbol": "VGM",
+   "LastSale": "13.19"
+ },
+ {
+   "Symbol": "VGR",
+   "LastSale": "21.19"
+ },
+ {
+   "Symbol": "VHI",
+   "LastSale": "3.31"
+ },
+ {
+   "Symbol": "VIPS",
+   "LastSale": "13.8"
+ },
+ {
+   "Symbol": "VIV",
+   "LastSale": "14.87"
+ },
+ {
+   "Symbol": "VJET",
+   "LastSale": "3.12"
+ },
+ {
+   "Symbol": "VKQ",
+   "LastSale": "12.68"
+ },
+ {
+   "Symbol": "VLO",
+   "LastSale": "65.23"
+ },
+ {
+   "Symbol": "VLP",
+   "LastSale": "47.16"
+ },
+ {
+   "Symbol": "VLRS",
+   "LastSale": "13.22"
+ },
+ {
+   "Symbol": "VLT",
+   "LastSale": "14.5"
+ },
+ {
+   "Symbol": "VLY",
+   "LastSale": "11.88"
+ },
+ {
+   "Symbol": "VLY.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "VLY^A",
+   "LastSale": "27.858"
+ },
+ {
+   "Symbol": "VMC",
+   "LastSale": "120.97"
+ },
+ {
+   "Symbol": "VMI",
+   "LastSale": "151.8"
+ },
+ {
+   "Symbol": "VMO",
+   "LastSale": "13.08"
+ },
+ {
+   "Symbol": "VMW",
+   "LastSale": "90.85"
+ },
+ {
+   "Symbol": "VNCE",
+   "LastSale": "1.15"
+ },
+ {
+   "Symbol": "VNO",
+   "LastSale": "101.6"
+ },
+ {
+   "Symbol": "VNO^G",
+   "LastSale": "25.794"
+ },
+ {
+   "Symbol": "VNO^I",
+   "LastSale": "25.68"
+ },
+ {
+   "Symbol": "VNO^K",
+   "LastSale": "25.22"
+ },
+ {
+   "Symbol": "VNO^L",
+   "LastSale": "25.1"
+ },
+ {
+   "Symbol": "VNTV",
+   "LastSale": "65.3"
+ },
+ {
+   "Symbol": "VOC",
+   "LastSale": "4.77"
+ },
+ {
+   "Symbol": "VOYA",
+   "LastSale": "36.68"
+ },
+ {
+   "Symbol": "VPG",
+   "LastSale": "16.8"
+ },
+ {
+   "Symbol": "VPV",
+   "LastSale": "12.39"
+ },
+ {
+   "Symbol": "VR",
+   "LastSale": "55.59"
+ },
+ {
+   "Symbol": "VRS",
+   "LastSale": "5.82"
+ },
+ {
+   "Symbol": "VRTV",
+   "LastSale": "48.9"
+ },
+ {
+   "Symbol": "VRX",
+   "LastSale": "8.51"
+ },
+ {
+   "Symbol": "VR^A",
+   "LastSale": "24.85"
+ },
+ {
+   "Symbol": "VSH",
+   "LastSale": "16"
+ },
+ {
+   "Symbol": "VSI",
+   "LastSale": "19.7"
+ },
+ {
+   "Symbol": "VSLR",
+   "LastSale": "2.75"
+ },
+ {
+   "Symbol": "VSM",
+   "LastSale": "31.11"
+ },
+ {
+   "Symbol": "VSTO",
+   "LastSale": "19.06"
+ },
+ {
+   "Symbol": "VTA",
+   "LastSale": "12.16"
+ },
+ {
+   "Symbol": "VTN",
+   "LastSale": "13.66"
+ },
+ {
+   "Symbol": "VTR",
+   "LastSale": "65.78"
+ },
+ {
+   "Symbol": "VTRB",
+   "LastSale": "24.81"
+ },
+ {
+   "Symbol": "VTTI",
+   "LastSale": "18.85"
+ },
+ {
+   "Symbol": "VVC",
+   "LastSale": "59.08"
+ },
+ {
+   "Symbol": "VVI",
+   "LastSale": "44.55"
+ },
+ {
+   "Symbol": "VVR",
+   "LastSale": "4.68"
+ },
+ {
+   "Symbol": "VVV",
+   "LastSale": "22.61"
+ },
+ {
+   "Symbol": "VZ",
+   "LastSale": "47.25"
+ },
+ {
+   "Symbol": "VZA",
+   "LastSale": "26.65"
+ },
+ {
+   "Symbol": "W",
+   "LastSale": "45.96"
+ },
+ {
+   "Symbol": "WAAS",
+   "LastSale": "18.06"
+ },
+ {
+   "Symbol": "WAB",
+   "LastSale": "81.15"
+ },
+ {
+   "Symbol": "WAC",
+   "LastSale": "1.03"
+ },
+ {
+   "Symbol": "WAGE",
+   "LastSale": "73"
+ },
+ {
+   "Symbol": "WAIR",
+   "LastSale": "12.15"
+ },
+ {
+   "Symbol": "WAL",
+   "LastSale": "46.45"
+ },
+ {
+   "Symbol": "WALA",
+   "LastSale": "25.21"
+ },
+ {
+   "Symbol": "WAT",
+   "LastSale": "158.52"
+ },
+ {
+   "Symbol": "WBAI",
+   "LastSale": "13.49"
+ },
+ {
+   "Symbol": "WBC",
+   "LastSale": "114.65"
+ },
+ {
+   "Symbol": "WBK",
+   "LastSale": "25.8"
+ },
+ {
+   "Symbol": "WBS",
+   "LastSale": "50.26"
+ },
+ {
+   "Symbol": "WBS^E",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "WBT",
+   "LastSale": "19.88"
+ },
+ {
+   "Symbol": "WCC",
+   "LastSale": "65.1"
+ },
+ {
+   "Symbol": "WCG",
+   "LastSale": "150.14"
+ },
+ {
+   "Symbol": "WCN",
+   "LastSale": "89.98"
+ },
+ {
+   "Symbol": "WD",
+   "LastSale": "42.93"
+ },
+ {
+   "Symbol": "WDAY",
+   "LastSale": "85"
+ },
+ {
+   "Symbol": "WDR",
+   "LastSale": "17.52"
+ },
+ {
+   "Symbol": "WEA",
+   "LastSale": "13.43"
+ },
+ {
+   "Symbol": "WEC",
+   "LastSale": "60.3"
+ },
+ {
+   "Symbol": "WES",
+   "LastSale": "59.3"
+ },
+ {
+   "Symbol": "WEX",
+   "LastSale": "104.53"
+ },
+ {
+   "Symbol": "WF",
+   "LastSale": "38.15"
+ },
+ {
+   "Symbol": "WFC",
+   "LastSale": "53"
+ },
+ {
+   "Symbol": "WFC.WS",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "WFC^J",
+   "LastSale": "26.27"
+ },
+ {
+   "Symbol": "WFC^L",
+   "LastSale": "1261.57"
+ },
+ {
+   "Symbol": "WFC^N",
+   "LastSale": "24.77"
+ },
+ {
+   "Symbol": "WFC^O",
+   "LastSale": "24.89"
+ },
+ {
+   "Symbol": "WFC^P",
+   "LastSale": "25.07"
+ },
+ {
+   "Symbol": "WFC^Q",
+   "LastSale": "26.85"
+ },
+ {
+   "Symbol": "WFC^R",
+   "LastSale": "29.64"
+ },
+ {
+   "Symbol": "WFC^T",
+   "LastSale": "26.32"
+ },
+ {
+   "Symbol": "WFC^V",
+   "LastSale": "26.29"
+ },
+ {
+   "Symbol": "WFC^W",
+   "LastSale": "25.59"
+ },
+ {
+   "Symbol": "WFC^X",
+   "LastSale": "24.98"
+ },
+ {
+   "Symbol": "WFE^A",
+   "LastSale": "26.63"
+ },
+ {
+   "Symbol": "WFT",
+   "LastSale": "5.47"
+ },
+ {
+   "Symbol": "WG",
+   "LastSale": "2.61"
+ },
+ {
+   "Symbol": "WGL",
+   "LastSale": "82.14"
+ },
+ {
+   "Symbol": "WGO",
+   "LastSale": "26.25"
+ },
+ {
+   "Symbol": "WGP",
+   "LastSale": "45.38"
+ },
+ {
+   "Symbol": "WHG",
+   "LastSale": "54.46"
+ },
+ {
+   "Symbol": "WHR",
+   "LastSale": "171.51"
+ },
+ {
+   "Symbol": "WIA",
+   "LastSale": "11.35"
+ },
+ {
+   "Symbol": "WIT",
+   "LastSale": "9.7"
+ },
+ {
+   "Symbol": "WIW",
+   "LastSale": "11.13"
+ },
+ {
+   "Symbol": "WK",
+   "LastSale": "16.5"
+ },
+ {
+   "Symbol": "WLH",
+   "LastSale": "21.84"
+ },
+ {
+   "Symbol": "WLK",
+   "LastSale": "64.3"
+ },
+ {
+   "Symbol": "WLKP",
+   "LastSale": "25.15"
+ },
+ {
+   "Symbol": "WLL",
+   "LastSale": "8.07"
+ },
+ {
+   "Symbol": "WM",
+   "LastSale": "73.38"
+ },
+ {
+   "Symbol": "WMB",
+   "LastSale": "30.01"
+ },
+ {
+   "Symbol": "WMC",
+   "LastSale": "10.36"
+ },
+ {
+   "Symbol": "WMK",
+   "LastSale": "62.08"
+ },
+ {
+   "Symbol": "WMLP",
+   "LastSale": "4.85"
+ },
+ {
+   "Symbol": "WMS",
+   "LastSale": "22.65"
+ },
+ {
+   "Symbol": "WMT",
+   "LastSale": "74.94"
+ },
+ {
+   "Symbol": "WNC",
+   "LastSale": "19.72"
+ },
+ {
+   "Symbol": "WNR",
+   "LastSale": "33.9"
+ },
+ {
+   "Symbol": "WNRL",
+   "LastSale": "24.95"
+ },
+ {
+   "Symbol": "WNS",
+   "LastSale": "29.93"
+ },
+ {
+   "Symbol": "WOR",
+   "LastSale": "42.48"
+ },
+ {
+   "Symbol": "WPC",
+   "LastSale": "64.45"
+ },
+ {
+   "Symbol": "WPG",
+   "LastSale": "9.26"
+ },
+ {
+   "Symbol": "WPG^H",
+   "LastSale": "25.25"
+ },
+ {
+   "Symbol": "WPG^I",
+   "LastSale": "25.1"
+ },
+ {
+   "Symbol": "WPT",
+   "LastSale": "17.25"
+ },
+ {
+   "Symbol": "WPX",
+   "LastSale": "12.08"
+ },
+ {
+   "Symbol": "WPXP",
+   "LastSale": "55.34"
+ },
+ {
+   "Symbol": "WPZ",
+   "LastSale": "40.75"
+ },
+ {
+   "Symbol": "WR",
+   "LastSale": "51.43"
+ },
+ {
+   "Symbol": "WRB",
+   "LastSale": "68.01"
+ },
+ {
+   "Symbol": "WRB^B",
+   "LastSale": "24.75"
+ },
+ {
+   "Symbol": "WRB^C",
+   "LastSale": "25.8898"
+ },
+ {
+   "Symbol": "WRB^D",
+   "LastSale": "25.06"
+ },
+ {
+   "Symbol": "WRD",
+   "LastSale": "10.68"
+ },
+ {
+   "Symbol": "WRE",
+   "LastSale": "32.6"
+ },
+ {
+   "Symbol": "WRI",
+   "LastSale": "35.03"
+ },
+ {
+   "Symbol": "WRK",
+   "LastSale": "53.02"
+ },
+ {
+   "Symbol": "WSM",
+   "LastSale": "54.71"
+ },
+ {
+   "Symbol": "WSO",
+   "LastSale": "138.62"
+ },
+ {
+   "Symbol": "WSO.B",
+   "LastSale": "n/a"
+ },
+ {
+   "Symbol": "WSR",
+   "LastSale": "13.05"
+ },
+ {
+   "Symbol": "WST",
+   "LastSale": "81.9"
+ },
+ {
+   "Symbol": "WTI",
+   "LastSale": "2.09"
+ },
+ {
+   "Symbol": "WTM",
+   "LastSale": "862.56"
+ },
+ {
+   "Symbol": "WTR",
+   "LastSale": "33.21"
+ },
+ {
+   "Symbol": "WTS",
+   "LastSale": "60.95"
+ },
+ {
+   "Symbol": "WTW",
+   "LastSale": "17.99"
+ },
+ {
+   "Symbol": "WU",
+   "LastSale": "19.76"
+ },
+ {
+   "Symbol": "WUBA",
+   "LastSale": "38.4"
+ },
+ {
+   "Symbol": "WWE",
+   "LastSale": "21.07"
+ },
+ {
+   "Symbol": "WWW",
+   "LastSale": "24.18"
+ },
+ {
+   "Symbol": "WY",
+   "LastSale": "34.56"
+ },
+ {
+   "Symbol": "WYN",
+   "LastSale": "89.72"
+ },
+ {
+   "Symbol": "X",
+   "LastSale": "30.42"
+ },
+ {
+   "Symbol": "XCO",
+   "LastSale": "0.4983"
+ },
+ {
+   "Symbol": "XEC",
+   "LastSale": "118.63"
+ },
+ {
+   "Symbol": "XEL",
+   "LastSale": "44.83"
+ },
+ {
+   "Symbol": "XHR",
+   "LastSale": "17.45"
+ },
+ {
+   "Symbol": "XIN",
+   "LastSale": "4.73"
+ },
+ {
+   "Symbol": "XKE",
+   "LastSale": "8.09"
+ },
+ {
+   "Symbol": "XL",
+   "LastSale": "40.41"
+ },
+ {
+   "Symbol": "XNY",
+   "LastSale": "1.51"
+ },
+ {
+   "Symbol": "XOM",
+   "LastSale": "80.69"
+ },
+ {
+   "Symbol": "XON",
+   "LastSale": "20.17"
+ },
+ {
+   "Symbol": "XOXO",
+   "LastSale": "17.28"
+ },
+ {
+   "Symbol": "XPO",
+   "LastSale": "48.41"
+ },
+ {
+   "Symbol": "XRM",
+   "LastSale": "6.71"
+ },
+ {
+   "Symbol": "XRX",
+   "LastSale": "6.92"
+ },
+ {
+   "Symbol": "XTLY",
+   "LastSale": "11.5"
+ },
+ {
+   "Symbol": "XYL",
+   "LastSale": "50.65"
+ },
+ {
+   "Symbol": "Y",
+   "LastSale": "603.14"
+ },
+ {
+   "Symbol": "YELP",
+   "LastSale": "33.49"
+ },
+ {
+   "Symbol": "YEXT",
+   "LastSale": "13.44"
+ },
+ {
+   "Symbol": "YGE",
+   "LastSale": "2.7"
+ },
+ {
+   "Symbol": "YPF",
+   "LastSale": "25.33"
+ },
+ {
+   "Symbol": "YRD",
+   "LastSale": "23.63"
+ },
+ {
+   "Symbol": "YUM",
+   "LastSale": "64.82"
+ },
+ {
+   "Symbol": "YUMC",
+   "LastSale": "32.75"
+ },
+ {
+   "Symbol": "YUME",
+   "LastSale": "4.12"
+ },
+ {
+   "Symbol": "ZAYO",
+   "LastSale": "34.23"
+ },
+ {
+   "Symbol": "ZBH",
+   "LastSale": "121.19"
+ },
+ {
+   "Symbol": "ZBK",
+   "LastSale": "29.68"
+ },
+ {
+   "Symbol": "ZB^A",
+   "LastSale": "24.305"
+ },
+ {
+   "Symbol": "ZB^F",
+   "LastSale": "25.46"
+ },
+ {
+   "Symbol": "ZB^G",
+   "LastSale": "28.58"
+ },
+ {
+   "Symbol": "ZB^H",
+   "LastSale": "25.3256"
+ },
+ {
+   "Symbol": "ZEN",
+   "LastSale": "28.33"
+ },
+ {
+   "Symbol": "ZF",
+   "LastSale": "11.56"
+ },
+ {
+   "Symbol": "ZNH",
+   "LastSale": "33.51"
+ },
+ {
+   "Symbol": "ZOES",
+   "LastSale": "17.49"
+ },
+ {
+   "Symbol": "ZPIN",
+   "LastSale": "17.92"
+ },
+ {
+   "Symbol": "ZTO",
+   "LastSale": "13.01"
+ },
+ {
+   "Symbol": "ZTR",
+   "LastSale": "12.06"
+ },
+ {
+   "Symbol": "ZTS",
+   "LastSale": "54.19"
+ },
+ {
+   "Symbol": "ZX",
+   "LastSale": "1.52"
+ }
+]

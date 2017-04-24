@@ -1,0 +1,12786 @@
+{
+ 
+    "Symbol",
+   "FIELD2": "LastSale"
+ ,
+ 
+    "PIH",
+   "FIELD2": "7.5"
+ ,
+ 
+    "TURN",
+   "FIELD2": "1.44"
+ ,
+ 
+    "FLWS",
+   "FIELD2": "10.5"
+ ,
+ 
+    "FCCY",
+   "FIELD2": "18.45"
+ ,
+ 
+    "SRCE",
+   "FIELD2": "48.65"
+ ,
+ 
+    "VNET",
+   "FIELD2": "5.54"
+ ,
+ 
+    "TWOU",
+   "FIELD2": "43.3"
+ ,
+ 
+    "JOBS",
+   "FIELD2": "39.75"
+ ,
+ 
+    "CAFD",
+   "FIELD2": "12.18"
+ ,
+ 
+    "EGHT",
+   "FIELD2": "14.45"
+ ,
+ 
+    "AVHI",
+   "FIELD2": "16.6"
+ ,
+ 
+    "SHLM",
+   "FIELD2": "29.95"
+ ,
+ 
+    "AAON",
+   "FIELD2": "36.2"
+ ,
+ 
+    "ABAX",
+   "FIELD2": "48.89"
+ ,
+ 
+    "ABEO",
+   "FIELD2": "5.2"
+ ,
+ 
+    "ABEOW",
+   "FIELD2": "2.75"
+ ,
+ 
+    "ABIL",
+   "FIELD2": "1.02"
+ ,
+ 
+    "ABMD",
+   "FIELD2": "125.03"
+ ,
+ 
+    "AXAS",
+   "FIELD2": "1.9"
+ ,
+ 
+    "ACIU",
+   "FIELD2": "9.66"
+ ,
+ 
+    "ACIA",
+   "FIELD2": "52.02"
+ ,
+ 
+    "ACTG",
+   "FIELD2": "5.2"
+ ,
+ 
+    "ACHC",
+   "FIELD2": "43.08"
+ ,
+ 
+    "ACAD",
+   "FIELD2": "32.21"
+ ,
+ 
+    "ACST",
+   "FIELD2": "1.29"
+ ,
+ 
+    "AXDX",
+   "FIELD2": "24.75"
+ ,
+ 
+    "ACCP",
+   "FIELD2": "n/a"
+ ,
+ 
+    "XLRN",
+   "FIELD2": "28.02"
+ ,
+ 
+    "ANCX",
+   "FIELD2": "28.43"
+ ,
+ 
+    "ARAY",
+   "FIELD2": "4.65"
+ ,
+ 
+    "ACRX",
+   "FIELD2": "2.55"
+ ,
+ 
+    "ACET",
+   "FIELD2": "15.27"
+ ,
+ 
+    "AKAO",
+   "FIELD2": "22.08"
+ ,
+ 
+    "ACHN",
+   "FIELD2": "3.64"
+ ,
+ 
+    "ACIW",
+   "FIELD2": "21.5"
+ ,
+ 
+    "ACRS",
+   "FIELD2": "30.22"
+ ,
+ 
+    "ACNB",
+   "FIELD2": "30.25"
+ ,
+ 
+    "ACOR",
+   "FIELD2": "15.85"
+ ,
+ 
+    "SQZZ",
+   "FIELD2": "24.74"
+ ,
+ 
+    "ATVI",
+   "FIELD2": "49.87"
+ ,
+ 
+    "ACTA",
+   "FIELD2": "14.25"
+ ,
+ 
+    "ACXM",
+   "FIELD2": "27.87"
+ ,
+ 
+    "ADMS",
+   "FIELD2": "15.57"
+ ,
+ 
+    "ADMP",
+   "FIELD2": "3.85"
+ ,
+ 
+    "ADAP",
+   "FIELD2": "5.46"
+ ,
+ 
+    "ADUS",
+   "FIELD2": "32.8"
+ ,
+ 
+    "AEY",
+   "FIELD2": "1.79"
+ ,
+ 
+    "IOTS",
+   "FIELD2": "5.45"
+ ,
+ 
+    "ADMA",
+   "FIELD2": "4.56"
+ ,
+ 
+    "ADBE",
+   "FIELD2": "131.52"
+ ,
+ 
+    "ADTN",
+   "FIELD2": "19.65"
+ ,
+ 
+    "ADRO",
+   "FIELD2": "9"
+ ,
+ 
+    "AAAP",
+   "FIELD2": "36.95"
+ ,
+ 
+    "ADES",
+   "FIELD2": "9.5"
+ ,
+ 
+    "AEIS",
+   "FIELD2": "68.5"
+ ,
+ 
+    "AMD",
+   "FIELD2": "13"
+ ,
+ 
+    "ADXS",
+   "FIELD2": "8.12"
+ ,
+ 
+    "ADXSW",
+   "FIELD2": "4.3601"
+ ,
+ 
+    "ADVM",
+   "FIELD2": "2.7"
+ ,
+ 
+    "MAUI",
+   "FIELD2": "24.18"
+ ,
+ 
+    "AEGN",
+   "FIELD2": "22.18"
+ ,
+ 
+    "AGLE",
+   "FIELD2": "7.04"
+ ,
+ 
+    "AEHR",
+   "FIELD2": "4.38"
+ ,
+ 
+    "AMTX",
+   "FIELD2": "1.18"
+ ,
+ 
+    "AERI",
+   "FIELD2": "41.2"
+ ,
+ 
+    "AVAV",
+   "FIELD2": "28.73"
+ ,
+ 
+    "AEZS",
+   "FIELD2": "2.95"
+ ,
+ 
+    "AEMD",
+   "FIELD2": "2.27"
+ ,
+ 
+    "GNMX",
+   "FIELD2": "1.54"
+ ,
+ 
+    "AFMD",
+   "FIELD2": "2.075"
+ ,
+ 
+    "AGEN",
+   "FIELD2": "3.52"
+ ,
+ 
+    "AGRX",
+   "FIELD2": "3.03"
+ ,
+ 
+    "AGYS",
+   "FIELD2": "9.4"
+ ,
+ 
+    "AGIO",
+   "FIELD2": "46.99"
+ ,
+ 
+    "AGNC",
+   "FIELD2": "20.79"
+ ,
+ 
+    "AGNCB",
+   "FIELD2": "25.95"
+ ,
+ 
+    "AGNCP",
+   "FIELD2": "25.85"
+ ,
+ 
+    "AGFS",
+   "FIELD2": "5.75"
+ ,
+ 
+    "AGFSW",
+   "FIELD2": "0.55"
+ ,
+ 
+    "AIMT",
+   "FIELD2": "19.07"
+ ,
+ 
+    "AIRM",
+   "FIELD2": "42.95"
+ ,
+ 
+    "AIRT",
+   "FIELD2": "20.65"
+ ,
+ 
+    "ATSG",
+   "FIELD2": "17.97"
+ ,
+ 
+    "AIRG",
+   "FIELD2": "14.67"
+ ,
+ 
+    "AMCN",
+   "FIELD2": "2.7"
+ ,
+ 
+    "AKAM",
+   "FIELD2": "60.28"
+ ,
+ 
+    "AKTX",
+   "FIELD2": "20.5"
+ ,
+ 
+    "AKBA",
+   "FIELD2": "9.1"
+ ,
+ 
+    "AKER",
+   "FIELD2": "1.8"
+ ,
+ 
+    "AKRX",
+   "FIELD2": "32.91"
+ ,
+ 
+    "AKTS",
+   "FIELD2": "10.19"
+ ,
+ 
+    "ALRM",
+   "FIELD2": "32.01"
+ ,
+ 
+    "ALSK",
+   "FIELD2": "2.51"
+ ,
+ 
+    "AMRI",
+   "FIELD2": "15.82"
+ ,
+ 
+    "ALBO",
+   "FIELD2": "20.66"
+ ,
+ 
+    "ABDC",
+   "FIELD2": "14.39"
+ ,
+ 
+    "ADHD",
+   "FIELD2": "1.1"
+ ,
+ 
+    "ALDR",
+   "FIELD2": "20.5"
+ ,
+ 
+    "ALDX",
+   "FIELD2": "4.4"
+ ,
+ 
+    "ALXN",
+   "FIELD2": "116.82"
+ ,
+ 
+    "ALCO",
+   "FIELD2": "29.65"
+ ,
+ 
+    "ALGN",
+   "FIELD2": "118.44"
+ ,
+ 
+    "ALIM",
+   "FIELD2": "1.4"
+ ,
+ 
+    "ALJJ",
+   "FIELD2": "3.42"
+ ,
+ 
+    "ALKS",
+   "FIELD2": "56.57"
+ ,
+ 
+    "ABTX",
+   "FIELD2": "37.35"
+ ,
+ 
+    "ALGT",
+   "FIELD2": "162.15"
+ ,
+ 
+    "AIQ",
+   "FIELD2": "13.1"
+ ,
+ 
+    "AHGP",
+   "FIELD2": "27.56"
+ ,
+ 
+    "AMMA",
+   "FIELD2": "1.69"
+ ,
+ 
+    "ARLP",
+   "FIELD2": "21.7"
+ ,
+ 
+    "AHPI",
+   "FIELD2": "1.9"
+ ,
+ 
+    "AMOT",
+   "FIELD2": "22.33"
+ ,
+ 
+    "ALQA",
+   "FIELD2": "0.406"
+ ,
+ 
+    "ALLT",
+   "FIELD2": "4.9"
+ ,
+ 
+    "MDRX",
+   "FIELD2": "11.82"
+ ,
+ 
+    "AFAM",
+   "FIELD2": "47.4"
+ ,
+ 
+    "ALNY",
+   "FIELD2": "49.51"
+ ,
+ 
+    "AOSL",
+   "FIELD2": "16.27"
+ ,
+ 
+    "GOOG",
+   "FIELD2": "843.19"
+ ,
+ 
+    "GOOGL",
+   "FIELD2": "858.95"
+ ,
+ 
+    "SMCP",
+   "FIELD2": "24.4"
+ ,
+ 
+    "ATEC",
+   "FIELD2": "2"
+ ,
+ 
+    "SWIN",
+   "FIELD2": "25.939"
+ ,
+ 
+    "ASPS",
+   "FIELD2": "24.05"
+ ,
+ 
+    "AIMC",
+   "FIELD2": "37.8"
+ ,
+ 
+    "AMAG",
+   "FIELD2": "22.4"
+ ,
+ 
+    "AMRN",
+   "FIELD2": "3.17"
+ ,
+ 
+    "AMRK",
+   "FIELD2": "17.03"
+ ,
+ 
+    "AYA",
+   "FIELD2": "17.75"
+ ,
+ 
+    "AMZN",
+   "FIELD2": "898.53"
+ ,
+ 
+    "AMBC",
+   "FIELD2": "19.42"
+ ,
+ 
+    "AMBCW",
+   "FIELD2": "9.6165"
+ ,
+ 
+    "AMBA",
+   "FIELD2": "53.35"
+ ,
+ 
+    "AMCX",
+   "FIELD2": "59.26"
+ ,
+ 
+    "DOX",
+   "FIELD2": "60.71"
+ ,
+ 
+    "AMDA",
+   "FIELD2": "0.38"
+ ,
+ 
+    "AMED",
+   "FIELD2": "52.63"
+ ,
+ 
+    "UHAL",
+   "FIELD2": "364.55"
+ ,
+ 
+    "ATAX",
+   "FIELD2": "5.75"
+ ,
+ 
+    "AMOV",
+   "FIELD2": "14.42"
+ ,
+ 
+    "AAL",
+   "FIELD2": "45.15"
+ ,
+ 
+    "ACSF",
+   "FIELD2": "13.5"
+ ,
+ 
+    "AETI",
+   "FIELD2": "1.681"
+ ,
+ 
+    "AMNB",
+   "FIELD2": "38.4"
+ ,
+ 
+    "ANAT",
+   "FIELD2": "115.85"
+ ,
+ 
+    "AOBC",
+   "FIELD2": "21.15"
+ ,
+ 
+    "APEI",
+   "FIELD2": "21.75"
+ ,
+ 
+    "ARII",
+   "FIELD2": "41.98"
+ ,
+ 
+    "AMRB",
+   "FIELD2": "14.71"
+ ,
+ 
+    "AMSWA",
+   "FIELD2": "10.85"
+ ,
+ 
+    "AMSC",
+   "FIELD2": "6.93"
+ ,
+ 
+    "AMWD",
+   "FIELD2": "87.4"
+ ,
+ 
+    "CRMT",
+   "FIELD2": "36"
+ ,
+ 
+    "ABCB",
+   "FIELD2": "46.3"
+ ,
+ 
+    "AMSF",
+   "FIELD2": "65.05"
+ ,
+ 
+    "ASRV",
+   "FIELD2": "4.05"
+ ,
+ 
+    "ASRVP",
+   "FIELD2": "27.172"
+ ,
+ 
+    "ATLO",
+   "FIELD2": "31.1"
+ ,
+ 
+    "AMGN",
+   "FIELD2": "160.41"
+ ,
+ 
+    "FOLD",
+   "FIELD2": "7.26"
+ ,
+ 
+    "AMKR",
+   "FIELD2": "11.73"
+ ,
+ 
+    "AMPH",
+   "FIELD2": "14.74"
+ ,
+ 
+    "IBUY",
+   "FIELD2": "30.51"
+ ,
+ 
+    "ASYS",
+   "FIELD2": "5.36"
+ ,
+ 
+    "AFSI",
+   "FIELD2": "16.01"
+ ,
+ 
+    "AMRS",
+   "FIELD2": "0.5341"
+ ,
+ 
+    "ADI",
+   "FIELD2": "77.63"
+ ,
+ 
+    "ALOG",
+   "FIELD2": "71.2"
+ ,
+ 
+    "ANAB",
+   "FIELD2": "24.52"
+ ,
+ 
+    "AVXL",
+   "FIELD2": "5.71"
+ ,
+ 
+    "ANCB",
+   "FIELD2": "24.85"
+ ,
+ 
+    "ANDA",
+   "FIELD2": "10.15"
+ ,
+ 
+    "ANDAR",
+   "FIELD2": "0.549"
+ ,
+ 
+    "ANDAU",
+   "FIELD2": "11"
+ ,
+ 
+    "ANDAW",
+   "FIELD2": "0.29"
+ ,
+ 
+    "ANGI",
+   "FIELD2": "5.88"
+ ,
+ 
+    "ANGO",
+   "FIELD2": "15.5"
+ ,
+ 
+    "ANIP",
+   "FIELD2": "50.42"
+ ,
+ 
+    "ANIK",
+   "FIELD2": "43.78"
+ ,
+ 
+    "ANSS",
+   "FIELD2": "108"
+ ,
+ 
+    "ATRS",
+   "FIELD2": "2.82"
+ ,
+ 
+    "ANTH",
+   "FIELD2": "0.414"
+ ,
+ 
+    "ABAC",
+   "FIELD2": "2.2"
+ ,
+ 
+    "APOG",
+   "FIELD2": "52.2"
+ ,
+ 
+    "APEN",
+   "FIELD2": "10.39"
+ ,
+ 
+    "AINV",
+   "FIELD2": "6.62"
+ ,
+ 
+    "AMEH",
+   "FIELD2": "9.9"
+ ,
+ 
+    "APPF",
+   "FIELD2": "26.05"
+ ,
+ 
+    "AAPL",
+   "FIELD2": "142.27"
+ ,
+ 
+    "ARCI",
+   "FIELD2": "0.9299"
+ ,
+ 
+    "APDN",
+   "FIELD2": "1.75"
+ ,
+ 
+    "APDNW",
+   "FIELD2": "0.3922"
+ ,
+ 
+    "AGTC",
+   "FIELD2": "5.575"
+ ,
+ 
+    "AMAT",
+   "FIELD2": "39.79"
+ ,
+ 
+    "AAOI",
+   "FIELD2": "45.54"
+ ,
+ 
+    "AREX",
+   "FIELD2": "2.18"
+ ,
+ 
+    "APTI",
+   "FIELD2": "12.71"
+ ,
+ 
+    "APRI",
+   "FIELD2": "1.2"
+ ,
+ 
+    "APVO",
+   "FIELD2": "1.94"
+ ,
+ 
+    "APTO",
+   "FIELD2": "0.9"
+ ,
+ 
+    "AQMS",
+   "FIELD2": "15.67"
+ ,
+ 
+    "AQB",
+   "FIELD2": "8.53"
+ ,
+ 
+    "AQXP",
+   "FIELD2": "14.1"
+ ,
+ 
+    "ARDM",
+   "FIELD2": "1.34"
+ ,
+ 
+    "ARLZ",
+   "FIELD2": "1.57"
+ ,
+ 
+    "PETX",
+   "FIELD2": "6.16"
+ ,
+ 
+    "ABUS",
+   "FIELD2": "3.35"
+ ,
+ 
+    "ARCW",
+   "FIELD2": "3.7"
+ ,
+ 
+    "ABIO",
+   "FIELD2": "2.6"
+ ,
+ 
+    "RKDA",
+   "FIELD2": "0.718"
+ ,
+ 
+    "ARCB",
+   "FIELD2": "25.65"
+ ,
+ 
+    "ACGL",
+   "FIELD2": "94.99"
+ ,
+ 
+    "ACGLP",
+   "FIELD2": "23.05"
+ ,
+ 
+    "APLP",
+   "FIELD2": "16.19"
+ ,
+ 
+    "ARDX",
+   "FIELD2": "12.5"
+ ,
+ 
+    "ARNA",
+   "FIELD2": "1.3"
+ ,
+ 
+    "ARCC",
+   "FIELD2": "17.4"
+ ,
+ 
+    "AGII",
+   "FIELD2": "65.15"
+ ,
+ 
+    "AGIIL",
+   "FIELD2": "25.85"
+ ,
+ 
+    "ARGS",
+   "FIELD2": "0.4954"
+ ,
+ 
+    "ARIS",
+   "FIELD2": "5.11"
+ ,
+ 
+    "ARKR",
+   "FIELD2": "25.1"
+ ,
+ 
+    "ARTX",
+   "FIELD2": "3.1"
+ ,
+ 
+    "ARQL",
+   "FIELD2": "1"
+ ,
+ 
+    "ARRY",
+   "FIELD2": "8.25"
+ ,
+ 
+    "ARRS",
+   "FIELD2": "25.51"
+ ,
+ 
+    "DWAT",
+   "FIELD2": "10.59"
+ ,
+ 
+    "AROW",
+   "FIELD2": "33.4"
+ ,
+ 
+    "ARWR",
+   "FIELD2": "1.52"
+ ,
+ 
+    "ARTNA",
+   "FIELD2": "38.18"
+ ,
+ 
+    "ARTW",
+   "FIELD2": "3.25"
+ ,
+ 
+    "ASBB",
+   "FIELD2": "35"
+ ,
+ 
+    "ASNA",
+   "FIELD2": "3.99"
+ ,
+ 
+    "ASND",
+   "FIELD2": "28.04"
+ ,
+ 
+    "ASCMA",
+   "FIELD2": "13.73"
+ ,
+ 
+    "APWC",
+   "FIELD2": "2.7"
+ ,
+ 
+    "ASML",
+   "FIELD2": "130.03"
+ ,
+ 
+    "AZPN",
+   "FIELD2": "60.05"
+ ,
+ 
+    "ASMB",
+   "FIELD2": "23.98"
+ ,
+ 
+    "ASFI",
+   "FIELD2": "8.6"
+ ,
+ 
+    "ASTE",
+   "FIELD2": "61.69"
+ ,
+ 
+    "ATRO",
+   "FIELD2": "31.23"
+ ,
+ 
+    "ALOT",
+   "FIELD2": "15"
+ ,
+ 
+    "ASTC",
+   "FIELD2": "1.27"
+ ,
+ 
+    "ASUR",
+   "FIELD2": "10.38"
+ ,
+ 
+    "ATAI",
+   "FIELD2": "3.7"
+ ,
+ 
+    "ATRA",
+   "FIELD2": "16.9"
+ ,
+ 
+    "ATHN",
+   "FIELD2": "117.22"
+ ,
+ 
+    "ATHX",
+   "FIELD2": "1.47"
+ ,
+ 
+    "AAPC",
+   "FIELD2": "10.11"
+ ,
+ 
+    "AAME",
+   "FIELD2": "3.85"
+ ,
+ 
+    "ACBI",
+   "FIELD2": "18.85"
+ ,
+ 
+    "ACFC",
+   "FIELD2": "7.99"
+ ,
+ 
+    "ABY",
+   "FIELD2": "20.15"
+ ,
+ 
+    "ATLC",
+   "FIELD2": "2.53"
+ ,
+ 
+    "AAWW",
+   "FIELD2": "57.25"
+ ,
+ 
+    "AFH",
+   "FIELD2": "12.55"
+ ,
+ 
+    "TEAM",
+   "FIELD2": "31.54"
+ ,
+ 
+    "ATNI",
+   "FIELD2": "71.16"
+ ,
+ 
+    "ATOM",
+   "FIELD2": "6.39"
+ ,
+ 
+    "ATOS",
+   "FIELD2": "0.63"
+ ,
+ 
+    "ATRC",
+   "FIELD2": "19.55"
+ ,
+ 
+    "ATRI",
+   "FIELD2": "503.4"
+ ,
+ 
+    "ATTU",
+   "FIELD2": "7.29"
+ ,
+ 
+    "LIFE",
+   "FIELD2": "3.05"
+ ,
+ 
+    "AUBN",
+   "FIELD2": "33.26"
+ ,
+ 
+    "BOLD",
+   "FIELD2": "14.25"
+ ,
+ 
+    "AUDC",
+   "FIELD2": "6.46"
+ ,
+ 
+    "AUPH",
+   "FIELD2": "7.11"
+ ,
+ 
+    "EARS",
+   "FIELD2": "0.78"
+ ,
+ 
+    "ABTL",
+   "FIELD2": "12.3"
+ ,
+ 
+    "ADSK",
+   "FIELD2": "88.58"
+ ,
+ 
+    "ADP",
+   "FIELD2": "102.69"
+ ,
+ 
+    "AVDL",
+   "FIELD2": "9.32"
+ ,
+ 
+    "AVEO",
+   "FIELD2": "0.5801"
+ ,
+ 
+    "AVXS",
+   "FIELD2": "76.76"
+ ,
+ 
+    "AVNW",
+   "FIELD2": "15.03"
+ ,
+ 
+    "AVID",
+   "FIELD2": "5.11"
+ ,
+ 
+    "AVGR",
+   "FIELD2": "0.5782"
+ ,
+ 
+    "AVIR",
+   "FIELD2": "0.6015"
+ ,
+ 
+    "CAR",
+   "FIELD2": "29.38"
+ ,
+ 
+    "AHPA",
+   "FIELD2": "9.8"
+ ,
+ 
+    "AHPAU",
+   "FIELD2": "10.37"
+ ,
+ 
+    "AHPAW",
+   "FIELD2": "0.47"
+ ,
+ 
+    "AWRE",
+   "FIELD2": "4.65"
+ ,
+ 
+    "AXAR",
+   "FIELD2": "9.9"
+ ,
+ 
+    "AXARU",
+   "FIELD2": "10.02"
+ ,
+ 
+    "AXARW",
+   "FIELD2": "0.0739"
+ ,
+ 
+    "ACLS",
+   "FIELD2": "18.6"
+ ,
+ 
+    "AXGN",
+   "FIELD2": "11.45"
+ ,
+ 
+    "AAXN",
+   "FIELD2": "23.69"
+ ,
+ 
+    "AXSM",
+   "FIELD2": "3.85"
+ ,
+ 
+    "AXTI",
+   "FIELD2": "6.4"
+ ,
+ 
+    "AZRX",
+   "FIELD2": "4"
+ ,
+ 
+    "BCOM",
+   "FIELD2": "19.99"
+ ,
+ 
+    "RILY",
+   "FIELD2": "14.75"
+ ,
+ 
+    "RILYL",
+   "FIELD2": "25.82"
+ ,
+ 
+    "BOSC",
+   "FIELD2": "2.02"
+ ,
+ 
+    "BIDU",
+   "FIELD2": "178.08"
+ ,
+ 
+    "BCPC",
+   "FIELD2": "78.31"
+ ,
+ 
+    "BWINA",
+   "FIELD2": "23.35"
+ ,
+ 
+    "BWINB",
+   "FIELD2": "24.3"
+ ,
+ 
+    "BLDP",
+   "FIELD2": "2.76"
+ ,
+ 
+    "BANF",
+   "FIELD2": "98.8"
+ ,
+ 
+    "BANFP",
+   "FIELD2": "28.1575"
+ ,
+ 
+    "BCTF",
+   "FIELD2": "12.7199"
+ ,
+ 
+    "BKMU",
+   "FIELD2": "9.25"
+ ,
+ 
+    "BOCH",
+   "FIELD2": "11.05"
+ ,
+ 
+    "BMRC",
+   "FIELD2": "68.7"
+ ,
+ 
+    "BMLP",
+   "FIELD2": "52.2999"
+ ,
+ 
+    "BKSC",
+   "FIELD2": "20.0999"
+ ,
+ 
+    "BOTJ",
+   "FIELD2": "14.4001"
+ ,
+ 
+    "OZRK",
+   "FIELD2": "48.34"
+ ,
+ 
+    "BFIN",
+   "FIELD2": "14.6"
+ ,
+ 
+    "BWFG",
+   "FIELD2": "35.5"
+ ,
+ 
+    "BANR",
+   "FIELD2": "54.84"
+ ,
+ 
+    "BZUN",
+   "FIELD2": "14.96"
+ ,
+ 
+    "TAPR",
+   "FIELD2": "23.88"
+ ,
+ 
+    "BHAC",
+   "FIELD2": "10.22"
+ ,
+ 
+    "BHACR",
+   "FIELD2": "0.38"
+ ,
+ 
+    "BHACU",
+   "FIELD2": "12"
+ ,
+ 
+    "BHACW",
+   "FIELD2": "0.14"
+ ,
+ 
+    "BBSI",
+   "FIELD2": "57.14"
+ ,
+ 
+    "BSET",
+   "FIELD2": "29.3"
+ ,
+ 
+    "BYBK",
+   "FIELD2": "6.8"
+ ,
+ 
+    "BV",
+   "FIELD2": "4.55"
+ ,
+ 
+    "BCBP",
+   "FIELD2": "15.8"
+ ,
+ 
+    "BECN",
+   "FIELD2": "50.51"
+ ,
+ 
+    "BSF",
+   "FIELD2": "9.44"
+ ,
+ 
+    "BBGI",
+   "FIELD2": "13.95"
+ ,
+ 
+    "BEBE",
+   "FIELD2": "4.0001"
+ ,
+ 
+    "BBBY",
+   "FIELD2": "39.8"
+ ,
+ 
+    "BGNE",
+   "FIELD2": "36.71"
+ ,
+ 
+    "BELFA",
+   "FIELD2": "21.8"
+ ,
+ 
+    "BELFB",
+   "FIELD2": "23.15"
+ ,
+ 
+    "BLPH",
+   "FIELD2": "1.34"
+ ,
+ 
+    "BLCM",
+   "FIELD2": "13.42"
+ ,
+ 
+    "BNCL",
+   "FIELD2": "16.45"
+ ,
+ 
+    "BNFT",
+   "FIELD2": "28.8"
+ ,
+ 
+    "BNTC",
+   "FIELD2": "2.64"
+ ,
+ 
+    "BNTCW",
+   "FIELD2": "0.34"
+ ,
+ 
+    "BYSI",
+   "FIELD2": "21.7"
+ ,
+ 
+    "BGCP",
+   "FIELD2": "11.16"
+ ,
+ 
+    "BGFV",
+   "FIELD2": "16.55"
+ ,
+ 
+    "BASI",
+   "FIELD2": "1.25"
+ ,
+ 
+    "ORPN",
+   "FIELD2": "0.55"
+ ,
+ 
+    "BIOC",
+   "FIELD2": "1.67"
+ ,
+ 
+    "BCRX",
+   "FIELD2": "6.51"
+ ,
+ 
+    "BDSI",
+   "FIELD2": "1.6"
+ ,
+ 
+    "BIIB",
+   "FIELD2": "272.94"
+ ,
+ 
+    "BIOL",
+   "FIELD2": "1.31"
+ ,
+ 
+    "BLFS",
+   "FIELD2": "2.05"
+ ,
+ 
+    "BOLT",
+   "FIELD2": "n/a"
+ ,
+ 
+    "BLRX",
+   "FIELD2": "0.8799"
+ ,
+ 
+    "BMRN",
+   "FIELD2": "88.47"
+ ,
+ 
+    "BMRA",
+   "FIELD2": "2.38"
+ ,
+ 
+    "BVXV",
+   "FIELD2": "6.25"
+ ,
+ 
+    "BVXVW",
+   "FIELD2": "1.11"
+ ,
+ 
+    "BPTH",
+   "FIELD2": "0.68"
+ ,
+ 
+    "BIOP",
+   "FIELD2": "3.81"
+ ,
+ 
+    "BIOS",
+   "FIELD2": "1.51"
+ ,
+ 
+    "BBC",
+   "FIELD2": "21.7001"
+ ,
+ 
+    "BBP",
+   "FIELD2": "36.471"
+ ,
+ 
+    "BSTC",
+   "FIELD2": "53.87"
+ ,
+ 
+    "BSTG",
+   "FIELD2": "0.3179"
+ ,
+ 
+    "BSPM",
+   "FIELD2": "1.78"
+ ,
+ 
+    "TECH",
+   "FIELD2": "101.76"
+ ,
+ 
+    "BEAT",
+   "FIELD2": "30.95"
+ ,
+ 
+    "BIVV",
+   "FIELD2": "57.18"
+ ,
+ 
+    "BJRI",
+   "FIELD2": "42.55"
+ ,
+ 
+    "BBOX",
+   "FIELD2": "9.95"
+ ,
+ 
+    "BDE",
+   "FIELD2": "5.2"
+ ,
+ 
+    "BLKB",
+   "FIELD2": "78.91"
+ ,
+ 
+    "BBRY",
+   "FIELD2": "9.08"
+ ,
+ 
+    "HAWK",
+   "FIELD2": "41.1"
+ ,
+ 
+    "BL",
+   "FIELD2": "32.79"
+ ,
+ 
+    "BKCC",
+   "FIELD2": "7.3"
+ ,
+ 
+    "ADRA",
+   "FIELD2": "29.2494"
+ ,
+ 
+    "ADRD",
+   "FIELD2": "20.725"
+ ,
+ 
+    "ADRE",
+   "FIELD2": "36.325"
+ ,
+ 
+    "ADRU",
+   "FIELD2": "20.2"
+ ,
+ 
+    "BLMN",
+   "FIELD2": "19.78"
+ ,
+ 
+    "BCOR",
+   "FIELD2": "17.4"
+ ,
+ 
+    "BLBD",
+   "FIELD2": "18"
+ ,
+ 
+    "BUFF",
+   "FIELD2": "24.09"
+ ,
+ 
+    "BHBK",
+   "FIELD2": "18.4"
+ ,
+ 
+    "BLUE",
+   "FIELD2": "82.4"
+ ,
+ 
+    "BKEP",
+   "FIELD2": "7"
+ ,
+ 
+    "BKEPP",
+   "FIELD2": "8"
+ ,
+ 
+    "BPMC",
+   "FIELD2": "45.12"
+ ,
+ 
+    "ITEQ",
+   "FIELD2": "28.5102"
+ ,
+ 
+    "BMCH",
+   "FIELD2": "23.2"
+ ,
+ 
+    "BNCN",
+   "FIELD2": "33.85"
+ ,
+ 
+    "BOBE",
+   "FIELD2": "66.22"
+ ,
+ 
+    "BOFI",
+   "FIELD2": "25.79"
+ ,
+ 
+    "BOFIL",
+   "FIELD2": "25.8"
+ ,
+ 
+    "WIFI",
+   "FIELD2": "14.03"
+ ,
+ 
+    "BOJA",
+   "FIELD2": "20.9"
+ ,
+ 
+    "BOKF",
+   "FIELD2": "77.93"
+ ,
+ 
+    "BOKFL",
+   "FIELD2": "24.42"
+ ,
+ 
+    "BNSO",
+   "FIELD2": "2.49"
+ ,
+ 
+    "BPFH",
+   "FIELD2": "16.35"
+ ,
+ 
+    "BPFHP",
+   "FIELD2": "25.8253"
+ ,
+ 
+    "BPFHW",
+   "FIELD2": "10.06"
+ ,
+ 
+    "EPAY",
+   "FIELD2": "22.42"
+ ,
+ 
+    "BLVD",
+   "FIELD2": "10.01"
+ ,
+ 
+    "BLVDU",
+   "FIELD2": "10.3672"
+ ,
+ 
+    "BLVDW",
+   "FIELD2": "0.81"
+ ,
+ 
+    "BOXL",
+   "FIELD2": "n/a"
+ ,
+ 
+    "BBRX",
+   "FIELD2": "n/a"
+ ,
+ 
+    "BCLI",
+   "FIELD2": "4.08"
+ ,
+ 
+    "BBRG",
+   "FIELD2": "4.85"
+ ,
+ 
+    "BDGE",
+   "FIELD2": "34.15"
+ ,
+ 
+    "BLIN          ",
+   "FIELD2": "0.7215"
+ ,
+ 
+    "BRID",
+   "FIELD2": "11.668"
+ ,
+ 
+    "BCOV",
+   "FIELD2": "8.45"
+ ,
+ 
+    "AVGO",
+   "FIELD2": "217.66"
+ ,
+ 
+    "BSFT",
+   "FIELD2": "38.1"
+ ,
+ 
+    "BVSN",
+   "FIELD2": "4.3"
+ ,
+ 
+    "BYFC",
+   "FIELD2": "1.78"
+ ,
+ 
+    "BWEN",
+   "FIELD2": "8.67"
+ ,
+ 
+    "BRCD",
+   "FIELD2": "12.56"
+ ,
+ 
+    "BRKL",
+   "FIELD2": "15.25"
+ ,
+ 
+    "BRKS",
+   "FIELD2": "23.07"
+ ,
+ 
+    "BRKR",
+   "FIELD2": "22.19"
+ ,
+ 
+    "BMTC",
+   "FIELD2": "41.75"
+ ,
+ 
+    "BLMT",
+   "FIELD2": "28.75"
+ ,
+ 
+    "BSQR",
+   "FIELD2": "5.25"
+ ,
+ 
+    "BWLD",
+   "FIELD2": "161.75"
+ ,
+ 
+    "BLDR",
+   "FIELD2": "15.39"
+ ,
+ 
+    "BMLA",
+   "FIELD2": "30.31"
+ ,
+ 
+    "BUR",
+   "FIELD2": "1.47"
+ ,
+ 
+    "CFFI",
+   "FIELD2": "49.6"
+ ,
+ 
+    "CHRW",
+   "FIELD2": "76.54"
+ ,
+ 
+    "CA",
+   "FIELD2": "31.93"
+ ,
+ 
+    "CCMP",
+   "FIELD2": "72.49"
+ ,
+ 
+    "CDNS",
+   "FIELD2": "32.88"
+ ,
+ 
+    "CDZI",
+   "FIELD2": "14.9"
+ ,
+ 
+    "CACQ",
+   "FIELD2": "15.65"
+ ,
+ 
+    "CZR",
+   "FIELD2": "9.7"
+ ,
+ 
+    "CSTE",
+   "FIELD2": "37.7"
+ ,
+ 
+    "PRSS",
+   "FIELD2": "2.83"
+ ,
+ 
+    "CLBS",
+   "FIELD2": "4.53"
+ ,
+ 
+    "CHY",
+   "FIELD2": "11.42"
+ ,
+ 
+    "CHI",
+   "FIELD2": "11.09"
+ ,
+ 
+    "CCD",
+   "FIELD2": "19.59"
+ ,
+ 
+    "CHW",
+   "FIELD2": "7.95"
+ ,
+ 
+    "CGO",
+   "FIELD2": "11.97"
+ ,
+ 
+    "CSQ",
+   "FIELD2": "11.32"
+ ,
+ 
+    "CAMP",
+   "FIELD2": "17.62"
+ ,
+ 
+    "CVGW",
+   "FIELD2": "64.95"
+ ,
+ 
+    "CFNB",
+   "FIELD2": "16.2"
+ ,
+ 
+    "CALA",
+   "FIELD2": "11.25"
+ ,
+ 
+    "CALD",
+   "FIELD2": "19.9"
+ ,
+ 
+    "CALM",
+   "FIELD2": "39.55"
+ ,
+ 
+    "CLMT",
+   "FIELD2": "3.55"
+ ,
+ 
+    "ABCD",
+   "FIELD2": "4.9"
+ ,
+ 
+    "CAC",
+   "FIELD2": "43.05"
+ ,
+ 
+    "CAMT",
+   "FIELD2": "3.69"
+ ,
+ 
+    "CSIQ",
+   "FIELD2": "13.4"
+ ,
+ 
+    "CGIX",
+   "FIELD2": "4.05"
+ ,
+ 
+    "CPHC",
+   "FIELD2": "10.1303"
+ ,
+ 
+    "CPLA",
+   "FIELD2": "89.35"
+ ,
+ 
+    "CBF",
+   "FIELD2": "41.95"
+ ,
+ 
+    "CCBG",
+   "FIELD2": "20.89"
+ ,
+ 
+    "CPLP",
+   "FIELD2": "3.35"
+ ,
+ 
+    "CSWC",
+   "FIELD2": "16.15"
+ ,
+ 
+    "CPTA",
+   "FIELD2": "14.11"
+ ,
+ 
+    "CLAC",
+   "FIELD2": "10.75"
+ ,
+ 
+    "CLACU",
+   "FIELD2": "11.67"
+ ,
+ 
+    "CLACW",
+   "FIELD2": "1.843"
+ ,
+ 
+    "CFFN",
+   "FIELD2": "14.77"
+ ,
+ 
+    "CAPN",
+   "FIELD2": "0.58"
+ ,
+ 
+    "CAPNW",
+   "FIELD2": "0.0981"
+ ,
+ 
+    "CAPR",
+   "FIELD2": "3.01"
+ ,
+ 
+    "CSTR",
+   "FIELD2": "18.25"
+ ,
+ 
+    "CPST",
+   "FIELD2": "0.7744"
+ ,
+ 
+    "CARA",
+   "FIELD2": "16.53"
+ ,
+ 
+    "CARB",
+   "FIELD2": "19.8"
+ ,
+ 
+    "CCN",
+   "FIELD2": "13.9"
+ ,
+ 
+    "CFNL",
+   "FIELD2": "29.04"
+ ,
+ 
+    "CRME",
+   "FIELD2": "3.14"
+ ,
+ 
+    "CSII",
+   "FIELD2": "28.82"
+ ,
+ 
+    "CATM",
+   "FIELD2": "44.62"
+ ,
+ 
+    "CDNA",
+   "FIELD2": "1"
+ ,
+ 
+    "CECO",
+   "FIELD2": "9.68"
+ ,
+ 
+    "CTRE",
+   "FIELD2": "17.83"
+ ,
+ 
+    "CARO",
+   "FIELD2": "29.85"
+ ,
+ 
+    "CART",
+   "FIELD2": "7"
+ ,
+ 
+    "CRZO",
+   "FIELD2": "25.49"
+ ,
+ 
+    "TAST",
+   "FIELD2": "13.6"
+ ,
+ 
+    "CRTN",
+   "FIELD2": "0.78"
+ ,
+ 
+    "CARV",
+   "FIELD2": "4.9"
+ ,
+ 
+    "CASM",
+   "FIELD2": "1.33"
+ ,
+ 
+    "CACB",
+   "FIELD2": "7.71"
+ ,
+ 
+    "CASC",
+   "FIELD2": "4.1"
+ ,
+ 
+    "CWST",
+   "FIELD2": "14.37"
+ ,
+ 
+    "CASY",
+   "FIELD2": "112.46"
+ ,
+ 
+    "CASI",
+   "FIELD2": "1.11"
+ ,
+ 
+    "CASS",
+   "FIELD2": "66.03"
+ ,
+ 
+    "CATB",
+   "FIELD2": "1.45"
+ ,
+ 
+    "CBIO",
+   "FIELD2": "4.94"
+ ,
+ 
+    "CPRX",
+   "FIELD2": "1.67"
+ ,
+ 
+    "CATY",
+   "FIELD2": "38.15"
+ ,
+ 
+    "CATYW",
+   "FIELD2": "15.85"
+ ,
+ 
+    "CVCO",
+   "FIELD2": "116.5"
+ ,
+ 
+    "CAVM",
+   "FIELD2": "69.23"
+ ,
+ 
+    "CBFV",
+   "FIELD2": "27.85"
+ ,
+ 
+    "CBAK",
+   "FIELD2": "1.35"
+ ,
+ 
+    "CBOE",
+   "FIELD2": "82.99"
+ ,
+ 
+    "CDK",
+   "FIELD2": "64.58"
+ ,
+ 
+    "CDW",
+   "FIELD2": "57.76"
+ ,
+ 
+    "CECE",
+   "FIELD2": "11.02"
+ ,
+ 
+    "CELG",
+   "FIELD2": "122.26"
+ ,
+ 
+    "CELGZ",
+   "FIELD2": "1.1"
+ ,
+ 
+    "CLDX",
+   "FIELD2": "3.2"
+ ,
+ 
+    "APOP",
+   "FIELD2": "7.94"
+ ,
+ 
+    "APOPW",
+   "FIELD2": "1.87"
+ ,
+ 
+    "CLRB",
+   "FIELD2": "2.1"
+ ,
+ 
+    "CLRBW",
+   "FIELD2": "0.3139"
+ ,
+ 
+    "CLRBZ",
+   "FIELD2": "0.7"
+ ,
+ 
+    "CLLS",
+   "FIELD2": "22.65"
+ ,
+ 
+    "CBMG",
+   "FIELD2": "10.75"
+ ,
+ 
+    "CLSN",
+   "FIELD2": "0.29"
+ ,
+ 
+    "CYAD",
+   "FIELD2": "28.75"
+ ,
+ 
+    "CEMP",
+   "FIELD2": "3.8"
+ ,
+ 
+    "CETX",
+   "FIELD2": "3.37"
+ ,
+ 
+    "CETXP",
+   "FIELD2": "5.7906"
+ ,
+ 
+    "CETXW",
+   "FIELD2": "0.6"
+ ,
+ 
+    "CDEV",
+   "FIELD2": "16.97"
+ ,
+ 
+    "CSFL",
+   "FIELD2": "25.75"
+ ,
+ 
+    "CETV",
+   "FIELD2": "3.5"
+ ,
+ 
+    "CFBK",
+   "FIELD2": "2.16"
+ ,
+ 
+    "CENT",
+   "FIELD2": "37.29"
+ ,
+ 
+    "CENTA",
+   "FIELD2": "34.83"
+ ,
+ 
+    "CVCY",
+   "FIELD2": "21.33"
+ ,
+ 
+    "CFCB",
+   "FIELD2": "25.77"
+ ,
+ 
+    "CENX",
+   "FIELD2": "11.88"
+ ,
+ 
+    "CNBKA",
+   "FIELD2": "63"
+ ,
+ 
+    "CNTY",
+   "FIELD2": "7.7"
+ ,
+ 
+    "CRNT",
+   "FIELD2": "3.11"
+ ,
+ 
+    "CERC",
+   "FIELD2": "0.52"
+ ,
+ 
+    "CERCW",
+   "FIELD2": "0.0552"
+ ,
+ 
+    "CERN",
+   "FIELD2": "58.97"
+ ,
+ 
+    "CERU",
+   "FIELD2": "0.643"
+ ,
+ 
+    "CERS",
+   "FIELD2": "4.12"
+ ,
+ 
+    "KOOL",
+   "FIELD2": "3.06"
+ ,
+ 
+    "CEVA",
+   "FIELD2": "35.45"
+ ,
+ 
+    "CFCO",
+   "FIELD2": "10.01"
+ ,
+ 
+    "CFCOU",
+   "FIELD2": "10.73"
+ ,
+ 
+    "CFCOW",
+   "FIELD2": "1.4"
+ ,
+ 
+    "CSBR",
+   "FIELD2": "2.75"
+ ,
+ 
+    "CYOU",
+   "FIELD2": "30.54"
+ ,
+ 
+    "HOTR",
+   "FIELD2": "0.2999"
+ ,
+ 
+    "HOTRW",
+   "FIELD2": "0.051"
+ ,
+ 
+    "CTHR",
+   "FIELD2": "0.9102"
+ ,
+ 
+    "GTLS",
+   "FIELD2": "34.11"
+ ,
+ 
+    "CHTR",
+   "FIELD2": "338.48"
+ ,
+ 
+    "CHFN",
+   "FIELD2": "19.79"
+ ,
+ 
+    "CHKP",
+   "FIELD2": "103.41"
+ ,
+ 
+    "CHEK",
+   "FIELD2": "2.12"
+ ,
+ 
+    "CHEKW",
+   "FIELD2": "0.7166"
+ ,
+ 
+    "CEMI",
+   "FIELD2": "6.05"
+ ,
+ 
+    "CHFC",
+   "FIELD2": "49.23"
+ ,
+ 
+    "CCXI",
+   "FIELD2": "7.1"
+ ,
+ 
+    "CHMG",
+   "FIELD2": "37.47"
+ ,
+ 
+    "CHKE",
+   "FIELD2": "8.95"
+ ,
+ 
+    "CHMA",
+   "FIELD2": "1.45"
+ ,
+ 
+    "PLCE",
+   "FIELD2": "112.15"
+ ,
+ 
+    "CMRX",
+   "FIELD2": "5.78"
+ ,
+ 
+    "CADC",
+   "FIELD2": "2.95"
+ ,
+ 
+    "CALI",
+   "FIELD2": "2.62"
+ ,
+ 
+    "CAAS",
+   "FIELD2": "4.74"
+ ,
+ 
+    "CBPO",
+   "FIELD2": "114.08"
+ ,
+ 
+    "CCCL",
+   "FIELD2": "1.7"
+ ,
+ 
+    "CCCR",
+   "FIELD2": "1.39"
+ ,
+ 
+    "CCRC",
+   "FIELD2": "14.48"
+ ,
+ 
+    "JRJC",
+   "FIELD2": "2.63"
+ ,
+ 
+    "HGSH",
+   "FIELD2": "1.65"
+ ,
+ 
+    "CNIT",
+   "FIELD2": "0.719"
+ ,
+ 
+    "CJJD",
+   "FIELD2": "1.7922"
+ ,
+ 
+    "CLDC",
+   "FIELD2": "5.8"
+ ,
+ 
+    "HTHT",
+   "FIELD2": "66.04"
+ ,
+ 
+    "CHNR",
+   "FIELD2": "2.32"
+ ,
+ 
+    "CREG",
+   "FIELD2": "1.54"
+ ,
+ 
+    "CNTF",
+   "FIELD2": "2.22"
+ ,
+ 
+    "CXDC",
+   "FIELD2": "4.765"
+ ,
+ 
+    "CCIH",
+   "FIELD2": "1.18"
+ ,
+ 
+    "CNET",
+   "FIELD2": "1.2999"
+ ,
+ 
+    "IMOS",
+   "FIELD2": "16.84"
+ ,
+ 
+    "CDXC",
+   "FIELD2": "2.28"
+ ,
+ 
+    "CHSCL",
+   "FIELD2": "28.73"
+ ,
+ 
+    "CHSCM",
+   "FIELD2": "27.33"
+ ,
+ 
+    "CHSCN",
+   "FIELD2": "28.19"
+ ,
+ 
+    "CHSCO",
+   "FIELD2": "28.75"
+ ,
+ 
+    "CHSCP",
+   "FIELD2": "30.45"
+ ,
+ 
+    "CHDN",
+   "FIELD2": "169.75"
+ ,
+ 
+    "CHUY",
+   "FIELD2": "28.45"
+ ,
+ 
+    "CDTX",
+   "FIELD2": "7.05"
+ ,
+ 
+    "CMCT",
+   "FIELD2": "16.6"
+ ,
+ 
+    "CMPR",
+   "FIELD2": "87.24"
+ ,
+ 
+    "CINF",
+   "FIELD2": "70.18"
+ ,
+ 
+    "CIDM",
+   "FIELD2": "1.47"
+ ,
+ 
+    "CTAS",
+   "FIELD2": "123.14"
+ ,
+ 
+    "CRUS",
+   "FIELD2": "63.92"
+ ,
+ 
+    "CSCO",
+   "FIELD2": "32.82"
+ ,
+ 
+    "CTRN",
+   "FIELD2": "17.8"
+ ,
+ 
+    "CZNC",
+   "FIELD2": "23.38"
+ ,
+ 
+    "CZWI",
+   "FIELD2": "14.15"
+ ,
+ 
+    "CZFC",
+   "FIELD2": "18.7"
+ ,
+ 
+    "CIZN",
+   "FIELD2": "23.25"
+ ,
+ 
+    "CTXS",
+   "FIELD2": "83.09"
+ ,
+ 
+    "CHCO",
+   "FIELD2": "67.47"
+ ,
+ 
+    "CIVB",
+   "FIELD2": "21.51"
+ ,
+ 
+    "CIVBP",
+   "FIELD2": "66.05"
+ ,
+ 
+    "CDTI",
+   "FIELD2": "3.1669"
+ ,
+ 
+    "CLNE",
+   "FIELD2": "2.49"
+ ,
+ 
+    "CLNT",
+   "FIELD2": "3.48"
+ ,
+ 
+    "CLFD",
+   "FIELD2": "15.85"
+ ,
+ 
+    "CLRO",
+   "FIELD2": "9.9"
+ ,
+ 
+    "CLSD",
+   "FIELD2": "7.43"
+ ,
+ 
+    "CLIR",
+   "FIELD2": "3.6"
+ ,
+ 
+    "CLIRW",
+   "FIELD2": "1.2907"
+ ,
+ 
+    "CBLI",
+   "FIELD2": "4"
+ ,
+ 
+    "CSBK",
+   "FIELD2": "16.27"
+ ,
+ 
+    "CLVS",
+   "FIELD2": "54.39"
+ ,
+ 
+    "CMFN",
+   "FIELD2": "10.7"
+ ,
+ 
+    "CME",
+   "FIELD2": "118.77"
+ ,
+ 
+    "CCNE",
+   "FIELD2": "24.72"
+ ,
+ 
+    "CWAY",
+   "FIELD2": "18.5"
+ ,
+ 
+    "COBZ",
+   "FIELD2": "16.98"
+ ,
+ 
+    "COKE",
+   "FIELD2": "204.9"
+ ,
+ 
+    "CDXS",
+   "FIELD2": "4.25"
+ ,
+ 
+    "CVLY",
+   "FIELD2": "27.49"
+ ,
+ 
+    "JVA",
+   "FIELD2": "4.76"
+ ,
+ 
+    "CCOI",
+   "FIELD2": "43.85"
+ ,
+ 
+    "CGNT",
+   "FIELD2": "1.7"
+ ,
+ 
+    "COGT",
+   "FIELD2": "5.3"
+ ,
+ 
+    "CGNX",
+   "FIELD2": "82.54"
+ ,
+ 
+    "CTSH",
+   "FIELD2": "57.85"
+ ,
+ 
+    "COHR",
+   "FIELD2": "205.47"
+ ,
+ 
+    "CHRS",
+   "FIELD2": "18.35"
+ ,
+ 
+    "COHU",
+   "FIELD2": "18.92"
+ ,
+ 
+    "CLCT",
+   "FIELD2": "26.02"
+ ,
+ 
+    "COLL",
+   "FIELD2": "10.24"
+ ,
+ 
+    "CIGI",
+   "FIELD2": "49.65"
+ ,
+ 
+    "CBAN",
+   "FIELD2": "13.65"
+ ,
+ 
+    "COLB",
+   "FIELD2": "39.09"
+ ,
+ 
+    "COLM",
+   "FIELD2": "58.44"
+ ,
+ 
+    "CMCO",
+   "FIELD2": "25.44"
+ ,
+ 
+    "CBMX",
+   "FIELD2": "4.8"
+ ,
+ 
+    "CBMXW",
+   "FIELD2": "1.09"
+ ,
+ 
+    "CMCSA",
+   "FIELD2": "38.16"
+ ,
+ 
+    "CBSH",
+   "FIELD2": "54.97"
+ ,
+ 
+    "CBSHP",
+   "FIELD2": "25.6"
+ ,
+ 
+    "CUBN",
+   "FIELD2": "21.53"
+ ,
+ 
+    "CHUBA",
+   "FIELD2": "15.55"
+ ,
+ 
+    "CHUBK",
+   "FIELD2": "15.45"
+ ,
+ 
+    "CVGI",
+   "FIELD2": "8.4"
+ ,
+ 
+    "COMM",
+   "FIELD2": "40.93"
+ ,
+ 
+    "JCS",
+   "FIELD2": "4.47"
+ ,
+ 
+    "ESXB",
+   "FIELD2": "7.7"
+ ,
+ 
+    "CCFI",
+   "FIELD2": "n/a"
+ ,
+ 
+    "CYHHZ",
+   "FIELD2": "0.0087"
+ ,
+ 
+    "CTBI",
+   "FIELD2": "43.85"
+ ,
+ 
+    "CWBC",
+   "FIELD2": "10.25"
+ ,
+ 
+    "CVLT",
+   "FIELD2": "50.15"
+ ,
+ 
+    "CGEN",
+   "FIELD2": "3.95"
+ ,
+ 
+    "CPSI",
+   "FIELD2": "26.15"
+ ,
+ 
+    "CTG",
+   "FIELD2": "5.89"
+ ,
+ 
+    "CHCI",
+   "FIELD2": "1.98"
+ ,
+ 
+    "CMTL",
+   "FIELD2": "14.09"
+ ,
+ 
+    "CNAT",
+   "FIELD2": "7.54"
+ ,
+ 
+    "CNCE",
+   "FIELD2": "15.7"
+ ,
+ 
+    "CXRX",
+   "FIELD2": "1.36"
+ ,
+ 
+    "CCUR",
+   "FIELD2": "4.85"
+ ,
+ 
+    "CDOR",
+   "FIELD2": "10.67"
+ ,
+ 
+    "CFMS",
+   "FIELD2": "5.29"
+ ,
+ 
+    "CNFR",
+   "FIELD2": "7.8"
+ ,
+ 
+    "CNMD",
+   "FIELD2": "47.34"
+ ,
+ 
+    "CTWS",
+   "FIELD2": "55.65"
+ ,
+ 
+    "CNOB",
+   "FIELD2": "23.7"
+ ,
+ 
+    "CNXR",
+   "FIELD2": "0.8495"
+ ,
+ 
+    "CONN",
+   "FIELD2": "14.15"
+ ,
+ 
+    "CNSL",
+   "FIELD2": "24.02"
+ ,
+ 
+    "CWCO",
+   "FIELD2": "11.3"
+ ,
+ 
+    "CPSS",
+   "FIELD2": "4.61"
+ ,
+ 
+    "CFRX",
+   "FIELD2": "1.65"
+ ,
+ 
+    "CTRV",
+   "FIELD2": "1.41"
+ ,
+ 
+    "CTRL",
+   "FIELD2": "16.25"
+ ,
+ 
+    "CPAA",
+   "FIELD2": "11.7"
+ ,
+ 
+    "CPAAU",
+   "FIELD2": "12.7"
+ ,
+ 
+    "CPAAW",
+   "FIELD2": "2.6"
+ ,
+ 
+    "CPRT",
+   "FIELD2": "30.24"
+ ,
+ 
+    "CRBP",
+   "FIELD2": "6.5"
+ ,
+ 
+    "CORT",
+   "FIELD2": "9.11"
+ ,
+ 
+    "CORE",
+   "FIELD2": "33.6"
+ ,
+ 
+    "CORI",
+   "FIELD2": "4.53"
+ ,
+ 
+    "CSOD",
+   "FIELD2": "36.8"
+ ,
+ 
+    "CRVL",
+   "FIELD2": "42.6"
+ ,
+ 
+    "CRVS",
+   "FIELD2": "9.8"
+ ,
+ 
+    "CSGP",
+   "FIELD2": "215.32"
+ ,
+ 
+    "COST",
+   "FIELD2": "170.77"
+ ,
+ 
+    "CPAH",
+   "FIELD2": "2.203"
+ ,
+ 
+    "ICBK",
+   "FIELD2": "29.47"
+ ,
+ 
+    "COUP",
+   "FIELD2": "30.41"
+ ,
+ 
+    "CVTI",
+   "FIELD2": "19.28"
+ ,
+ 
+    "COVS",
+   "FIELD2": "1.85"
+ ,
+ 
+    "COWN",
+   "FIELD2": "13.4"
+ ,
+ 
+    "COWNL",
+   "FIELD2": "27.26"
+ ,
+ 
+    "PMTS",
+   "FIELD2": "3.9"
+ ,
+ 
+    "CPSH",
+   "FIELD2": "1.44"
+ ,
+ 
+    "CRAI",
+   "FIELD2": "37.91"
+ ,
+ 
+    "CBRL",
+   "FIELD2": "158.88"
+ ,
+ 
+    "BREW",
+   "FIELD2": "12.5"
+ ,
+ 
+    "CRAY",
+   "FIELD2": "19.1"
+ ,
+ 
+    "CACC",
+   "FIELD2": "206.47"
+ ,
+ 
+    "GLDI",
+   "FIELD2": "9.64"
+ ,
+ 
+    "SLVO",
+   "FIELD2": "9.0164"
+ ,
+ 
+    "CREE",
+   "FIELD2": "24.66"
+ ,
+ 
+    "CRESY",
+   "FIELD2": "20.59"
+ ,
+ 
+    "CRSP",
+   "FIELD2": "16.97"
+ ,
+ 
+    "CRTO",
+   "FIELD2": "51.71"
+ ,
+ 
+    "CROX",
+   "FIELD2": "6.09"
+ ,
+ 
+    "CCRN",
+   "FIELD2": "14.14"
+ ,
+ 
+    "XRDC",
+   "FIELD2": "2.2199"
+ ,
+ 
+    "CRDS",
+   "FIELD2": "3.38"
+ ,
+ 
+    "CRWS",
+   "FIELD2": "7.95"
+ ,
+ 
+    "CYRX",
+   "FIELD2": "2.43"
+ ,
+ 
+    "CYRXW",
+   "FIELD2": "0.84"
+ ,
+ 
+    "CSGS",
+   "FIELD2": "37.52"
+ ,
+ 
+    "CCLP",
+   "FIELD2": "9.31"
+ ,
+ 
+    "CSPI",
+   "FIELD2": "10.39"
+ ,
+ 
+    "CSWI",
+   "FIELD2": "35.7"
+ ,
+ 
+    "CSX",
+   "FIELD2": "50.77"
+ ,
+ 
+    "CTIC",
+   "FIELD2": "3.91"
+ ,
+ 
+    "CTIB",
+   "FIELD2": "5.55"
+ ,
+ 
+    "CTRP",
+   "FIELD2": "47.16"
+ ,
+ 
+    "CUNB",
+   "FIELD2": "36.65"
+ ,
+ 
+    "CUI",
+   "FIELD2": "4.325"
+ ,
+ 
+    "CPIX",
+   "FIELD2": "5.94"
+ ,
+ 
+    "CMLS",
+   "FIELD2": "0.2331"
+ ,
+ 
+    "CRIS",
+   "FIELD2": "2.53"
+ ,
+ 
+    "CUTR",
+   "FIELD2": "20.3"
+ ,
+ 
+    "CVBF",
+   "FIELD2": "21.27"
+ ,
+ 
+    "CVV",
+   "FIELD2": "10.57"
+ ,
+ 
+    "CYAN",
+   "FIELD2": "3.85"
+ ,
+ 
+    "CYBR",
+   "FIELD2": "51.88"
+ ,
+ 
+    "CYBE",
+   "FIELD2": "23.8"
+ ,
+ 
+    "CYCC",
+   "FIELD2": "5.11"
+ ,
+ 
+    "CYCCP",
+   "FIELD2": "7.35"
+ ,
+ 
+    "CBAY",
+   "FIELD2": "3.58"
+ ,
+ 
+    "CY",
+   "FIELD2": "13.99"
+ ,
+ 
+    "CYRN",
+   "FIELD2": "2"
+ ,
+ 
+    "CONE",
+   "FIELD2": "54.155"
+ ,
+ 
+    "CYTK",
+   "FIELD2": "14.25"
+ ,
+ 
+    "CTMX",
+   "FIELD2": "16.48"
+ ,
+ 
+    "CYTX",
+   "FIELD2": "1.01"
+ ,
+ 
+    "CYTXW",
+   "FIELD2": "0.63"
+ ,
+ 
+    "CTSO",
+   "FIELD2": "4.6"
+ ,
+ 
+    "CYTR",
+   "FIELD2": "0.613"
+ ,
+ 
+    "DJCO",
+   "FIELD2": "211.85"
+ ,
+ 
+    "DAKT",
+   "FIELD2": "9.16"
+ ,
+ 
+    "DRIO",
+   "FIELD2": "2.7"
+ ,
+ 
+    "DRIOW",
+   "FIELD2": "0.3706"
+ ,
+ 
+    "DZSI",
+   "FIELD2": "5.98"
+ ,
+ 
+    "DSKE",
+   "FIELD2": "9.79"
+ ,
+ 
+    "DSKEW",
+   "FIELD2": "1.11"
+ ,
+ 
+    "DAIO",
+   "FIELD2": "4.78"
+ ,
+ 
+    "DRAM",
+   "FIELD2": "1.21"
+ ,
+ 
+    "DWCH",
+   "FIELD2": "9.25"
+ ,
+ 
+    "PLAY",
+   "FIELD2": "62.72"
+ ,
+ 
+    "DTEA",
+   "FIELD2": "6.45"
+ ,
+ 
+    "DFNL",
+   "FIELD2": "20.41"
+ ,
+ 
+    "DUSA",
+   "FIELD2": "20.2"
+ ,
+ 
+    "DWLD",
+   "FIELD2": "21.13"
+ ,
+ 
+    "DWSN",
+   "FIELD2": "5.37"
+ ,
+ 
+    "DBVT",
+   "FIELD2": "32.62"
+ ,
+ 
+    "DFRG",
+   "FIELD2": "18.4"
+ ,
+ 
+    "TACO",
+   "FIELD2": "13.27"
+ ,
+ 
+    "TACOW",
+   "FIELD2": "3.75"
+ ,
+ 
+    "DCTH",
+   "FIELD2": "0.0611"
+ ,
+ 
+    "DMPI",
+   "FIELD2": "2.8"
+ ,
+ 
+    "DGAS",
+   "FIELD2": "30.2"
+ ,
+ 
+    "DELT",
+   "FIELD2": "1.91"
+ ,
+ 
+    "DELTW",
+   "FIELD2": "0.035"
+ ,
+ 
+    "DENN",
+   "FIELD2": "12.46"
+ ,
+ 
+    "XRAY",
+   "FIELD2": "62.53"
+ ,
+ 
+    "DEPO",
+   "FIELD2": "11.37"
+ ,
+ 
+    "DERM",
+   "FIELD2": "32.54"
+ ,
+ 
+    "DEST",
+   "FIELD2": "3.23"
+ ,
+ 
+    "DXLG",
+   "FIELD2": "2.65"
+ ,
+ 
+    "DSWL",
+   "FIELD2": "1.93"
+ ,
+ 
+    "DTRM",
+   "FIELD2": "3.53"
+ ,
+ 
+    "DXCM",
+   "FIELD2": "75.23"
+ ,
+ 
+    "DXTR",
+   "FIELD2": "0.9016"
+ ,
+ 
+    "DHXM",
+   "FIELD2": "4.1501"
+ ,
+ 
+    "DHIL",
+   "FIELD2": "189.99"
+ ,
+ 
+    "FANG",
+   "FIELD2": "101.27"
+ ,
+ 
+    "DCIX",
+   "FIELD2": "0.61"
+ ,
+ 
+    "DRNA",
+   "FIELD2": "2.94"
+ ,
+ 
+    "DFBG",
+   "FIELD2": "1.9989"
+ ,
+ 
+    "DFFN",
+   "FIELD2": "2.93"
+ ,
+ 
+    "DGII",
+   "FIELD2": "12"
+ ,
+ 
+    "DGLT",
+   "FIELD2": "4.1"
+ ,
+ 
+    "DMRC",
+   "FIELD2": "28.7"
+ ,
+ 
+    "DRAD",
+   "FIELD2": "5.05"
+ ,
+ 
+    "DGLY",
+   "FIELD2": "4.095"
+ ,
+ 
+    "APPS",
+   "FIELD2": "0.94"
+ ,
+ 
+    "DCOM",
+   "FIELD2": "20.35"
+ ,
+ 
+    "DMTX",
+   "FIELD2": "1.45"
+ ,
+ 
+    "DIOD",
+   "FIELD2": "23.59"
+ ,
+ 
+    "DISCA",
+   "FIELD2": "29.16"
+ ,
+ 
+    "DISCB",
+   "FIELD2": "28"
+ ,
+ 
+    "DISCK",
+   "FIELD2": "28.65"
+ ,
+ 
+    "DISH",
+   "FIELD2": "59.61"
+ ,
+ 
+    "DVCR",
+   "FIELD2": "10.26"
+ ,
+ 
+    "SAUC",
+   "FIELD2": "2.26"
+ ,
+ 
+    "DLHC",
+   "FIELD2": "4.77"
+ ,
+ 
+    "BOOM",
+   "FIELD2": "14.5"
+ ,
+ 
+    "DNBF",
+   "FIELD2": "33.4"
+ ,
+ 
+    "DLTR",
+   "FIELD2": "78.81"
+ ,
+ 
+    "DGICA",
+   "FIELD2": "17.03"
+ ,
+ 
+    "DGICB",
+   "FIELD2": "16.25"
+ ,
+ 
+    "DMLP",
+   "FIELD2": "17.45"
+ ,
+ 
+    "DORM",
+   "FIELD2": "81.67"
+ ,
+ 
+    "EAGL",
+   "FIELD2": "10.05"
+ ,
+ 
+    "EAGLU",
+   "FIELD2": "10.54"
+ ,
+ 
+    "EAGLW",
+   "FIELD2": "0.5375"
+ ,
+ 
+    "DRWI",
+   "FIELD2": "1.225"
+ ,
+ 
+    "DRYS",
+   "FIELD2": "1.55"
+ ,
+ 
+    "DSPG",
+   "FIELD2": "12.25"
+ ,
+ 
+    "DLTH",
+   "FIELD2": "20.83"
+ ,
+ 
+    "DNKN",
+   "FIELD2": "55.2"
+ ,
+ 
+    "DRRX",
+   "FIELD2": "0.8857"
+ ,
+ 
+    "DXPE",
+   "FIELD2": "36.32"
+ ,
+ 
+    "DYSL",
+   "FIELD2": "1.33"
+ ,
+ 
+    "DYNT",
+   "FIELD2": "2.9"
+ ,
+ 
+    "DVAX",
+   "FIELD2": "5.6"
+ ,
+ 
+    "ETFC",
+   "FIELD2": "34.55"
+ ,
+ 
+    "EBMT",
+   "FIELD2": "18.55"
+ ,
+ 
+    "EGBN",
+   "FIELD2": "59.2"
+ ,
+ 
+    "EGLE",
+   "FIELD2": "5.09"
+ ,
+ 
+    "EGRX",
+   "FIELD2": "88.92"
+ ,
+ 
+    "IGLE",
+   "FIELD2": "n/a"
+ ,
+ 
+    "EWBC",
+   "FIELD2": "54.09"
+ ,
+ 
+    "EACQ",
+   "FIELD2": "9.955"
+ ,
+ 
+    "EACQU",
+   "FIELD2": "10.23"
+ ,
+ 
+    "EACQW",
+   "FIELD2": "0.45"
+ ,
+ 
+    "EML",
+   "FIELD2": "26.1"
+ ,
+ 
+    "EVBS",
+   "FIELD2": "10.78"
+ ,
+ 
+    "EVGBC",
+   "FIELD2": "99.9"
+ ,
+ 
+    "EVSTC",
+   "FIELD2": "99.94"
+ ,
+ 
+    "EVLMC",
+   "FIELD2": "99.9"
+ ,
+ 
+    "EBAY",
+   "FIELD2": "32.18"
+ ,
+ 
+    "EBAYL",
+   "FIELD2": "26.53"
+ ,
+ 
+    "EBIX",
+   "FIELD2": "60.1"
+ ,
+ 
+    "ELON",
+   "FIELD2": "5.81"
+ ,
+ 
+    "ECHO",
+   "FIELD2": "20.45"
+ ,
+ 
+    "SATS",
+   "FIELD2": "56.9"
+ ,
+ 
+    "EEI",
+   "FIELD2": "10.5896"
+ ,
+ 
+    "ESES",
+   "FIELD2": "1.11"
+ ,
+ 
+    "EDAP",
+   "FIELD2": "2.575"
+ ,
+ 
+    "EDGE",
+   "FIELD2": "9.02"
+ ,
+ 
+    "EDGW",
+   "FIELD2": "7.49"
+ ,
+ 
+    "EDIT",
+   "FIELD2": "18.99"
+ ,
+ 
+    "EDUC",
+   "FIELD2": "8.25"
+ ,
+ 
+    "EGAN",
+   "FIELD2": "1.5"
+ ,
+ 
+    "EGLT",
+   "FIELD2": "4.24"
+ ,
+ 
+    "EHTH",
+   "FIELD2": "10.89"
+ ,
+ 
+    "EIGR",
+   "FIELD2": "7.9"
+ ,
+ 
+    "EKSO",
+   "FIELD2": "2.85"
+ ,
+ 
+    "LOCO",
+   "FIELD2": "12.25"
+ ,
+ 
+    "EMITF",
+   "FIELD2": "3.43"
+ ,
+ 
+    "ESLT",
+   "FIELD2": "116.6"
+ ,
+ 
+    "ERI",
+   "FIELD2": "18.4"
+ ,
+ 
+    "ESIO",
+   "FIELD2": "6.43"
+ ,
+ 
+    "EA",
+   "FIELD2": "91.94"
+ ,
+ 
+    "EFII",
+   "FIELD2": "44.16"
+ ,
+ 
+    "ELSE",
+   "FIELD2": "3.94"
+ ,
+ 
+    "ELEC",
+   "FIELD2": "9.99"
+ ,
+ 
+    "ELECU",
+   "FIELD2": "10.35"
+ ,
+ 
+    "ELECW",
+   "FIELD2": "0.4125"
+ ,
+ 
+    "EBIO",
+   "FIELD2": "1.91"
+ ,
+ 
+    "DWAC",
+   "FIELD2": "24.4"
+ ,
+ 
+    "ESBK",
+   "FIELD2": "21.5"
+ ,
+ 
+    "ELTK",
+   "FIELD2": "0.65"
+ ,
+ 
+    "EMCI",
+   "FIELD2": "28.03"
+ ,
+ 
+    "EMCF",
+   "FIELD2": "28.2501"
+ ,
+ 
+    "EMKR",
+   "FIELD2": "8.85"
+ ,
+ 
+    "EMMS",
+   "FIELD2": "2.53"
+ ,
+ 
+    "NYNY",
+   "FIELD2": "24"
+ ,
+ 
+    "ERS",
+   "FIELD2": "6.97"
+ ,
+ 
+    "ENTA",
+   "FIELD2": "30.63"
+ ,
+ 
+    "ECPG",
+   "FIELD2": "32.15"
+ ,
+ 
+    "WIRE",
+   "FIELD2": "42.5"
+ ,
+ 
+    "ENDP",
+   "FIELD2": "10.29"
+ ,
+ 
+    "ECYT",
+   "FIELD2": "2.2"
+ ,
+ 
+    "ELGX",
+   "FIELD2": "6.93"
+ ,
+ 
+    "NDRA",
+   "FIELD2": "n/a"
+ ,
+ 
+    "NDRAW",
+   "FIELD2": "n/a"
+ ,
+ 
+    "EIGI",
+   "FIELD2": "7.2"
+ ,
+ 
+    "WATT",
+   "FIELD2": "14.57"
+ ,
+ 
+    "EFOI",
+   "FIELD2": "3.12"
+ ,
+ 
+    "EHR",
+   "FIELD2": "n/a"
+ ,
+ 
+    "ERII",
+   "FIELD2": "8.18"
+ ,
+ 
+    "EXXI",
+   "FIELD2": "28.3"
+ ,
+ 
+    "ENOC",
+   "FIELD2": "5.7"
+ ,
+ 
+    "ENG",
+   "FIELD2": "1.66"
+ ,
+ 
+    "ENPH",
+   "FIELD2": "1.23"
+ ,
+ 
+    "ESGR",
+   "FIELD2": "188.8"
+ ,
+ 
+    "ENFC",
+   "FIELD2": "23.1"
+ ,
+ 
+    "ENTG",
+   "FIELD2": "23.9"
+ ,
+ 
+    "ENTL",
+   "FIELD2": "14.13"
+ ,
+ 
+    "ETRM",
+   "FIELD2": "4.69"
+ ,
+ 
+    "EBTC",
+   "FIELD2": "34.7"
+ ,
+ 
+    "EFSC",
+   "FIELD2": "42.4"
+ ,
+ 
+    "EGT",
+   "FIELD2": "1.91"
+ ,
+ 
+    "ENZY          ",
+   "FIELD2": "9.1"
+ ,
+ 
+    "EPZM",
+   "FIELD2": "14.55"
+ ,
+ 
+    "PLUS",
+   "FIELD2": "67.7"
+ ,
+ 
+    "EQIX",
+   "FIELD2": "401.84"
+ ,
+ 
+    "EQFN",
+   "FIELD2": "10.3838"
+ ,
+ 
+    "EQBK",
+   "FIELD2": "31.49"
+ ,
+ 
+    "ERIC",
+   "FIELD2": "6.23"
+ ,
+ 
+    "ERIE",
+   "FIELD2": "123.08"
+ ,
+ 
+    "ESCA",
+   "FIELD2": "13.15"
+ ,
+ 
+    "ESPR",
+   "FIELD2": "36.69"
+ ,
+ 
+    "ESSA",
+   "FIELD2": "15"
+ ,
+ 
+    "EPIX",
+   "FIELD2": "2.05"
+ ,
+ 
+    "ESND",
+   "FIELD2": "15.06"
+ ,
+ 
+    "ETSY",
+   "FIELD2": "10.63"
+ ,
+ 
+    "CLWT",
+   "FIELD2": "3.7"
+ ,
+ 
+    "EEFT",
+   "FIELD2": "84.82"
+ ,
+ 
+    "ESEA",
+   "FIELD2": "1.3899"
+ ,
+ 
+    "EVEP",
+   "FIELD2": "1.56"
+ ,
+ 
+    "EVBG",
+   "FIELD2": "22.67"
+ ,
+ 
+    "EVK",
+   "FIELD2": "2.7"
+ ,
+ 
+    "MRAM",
+   "FIELD2": "9.15"
+ ,
+ 
+    "EVLV",
+   "FIELD2": "1.33"
+ ,
+ 
+    "EVGN",
+   "FIELD2": "5.0551"
+ ,
+ 
+    "EVOK",
+   "FIELD2": "2.45"
+ ,
+ 
+    "EVOL",
+   "FIELD2": "5.15"
+ ,
+ 
+    "EXA",
+   "FIELD2": "13.61"
+ ,
+ 
+    "EXAS",
+   "FIELD2": "23.93"
+ ,
+ 
+    "EXAC",
+   "FIELD2": "26.6"
+ ,
+ 
+    "EXEL",
+   "FIELD2": "20.98"
+ ,
+ 
+    "EXFO",
+   "FIELD2": "4.625"
+ ,
+ 
+    "EXLS",
+   "FIELD2": "46.53"
+ ,
+ 
+    "EXPE",
+   "FIELD2": "131.98"
+ ,
+ 
+    "EXPD",
+   "FIELD2": "56.5"
+ ,
+ 
+    "EXPO",
+   "FIELD2": "61.1"
+ ,
+ 
+    "ESRX",
+   "FIELD2": "66.46"
+ ,
+ 
+    "XOG",
+   "FIELD2": "16.73"
+ ,
+ 
+    "EXTR",
+   "FIELD2": "7.36"
+ ,
+ 
+    "EYEG",
+   "FIELD2": "2.09"
+ ,
+ 
+    "EYEGW",
+   "FIELD2": "0.1302"
+ ,
+ 
+    "EZPW",
+   "FIELD2": "8.8"
+ ,
+ 
+    "FFIV",
+   "FIELD2": "136.54"
+ ,
+ 
+    "FB",
+   "FIELD2": "143.68"
+ ,
+ 
+    "FRP",
+   "FIELD2": "17.3"
+ ,
+ 
+    "FALC",
+   "FIELD2": "0.3072"
+ ,
+ 
+    "DAVE",
+   "FIELD2": "3.9"
+ ,
+ 
+    "FANH",
+   "FIELD2": "8.61"
+ ,
+ 
+    "FARM",
+   "FIELD2": "35.2"
+ ,
+ 
+    "FFKT",
+   "FIELD2": "40.5"
+ ,
+ 
+    "FMNB",
+   "FIELD2": "14.15"
+ ,
+ 
+    "FARO",
+   "FIELD2": "34.05"
+ ,
+ 
+    "FAST",
+   "FIELD2": "45.74"
+ ,
+ 
+    "FATE",
+   "FIELD2": "4.59"
+ ,
+ 
+    "FBSS",
+   "FIELD2": "18.12"
+ ,
+ 
+    "FBRC",
+   "FIELD2": "17.75"
+ ,
+ 
+    "FNHC",
+   "FIELD2": "16.19"
+ ,
+ 
+    "FHCO",
+   "FIELD2": "0.95"
+ ,
+ 
+    "FENX",
+   "FIELD2": "1.16"
+ ,
+ 
+    "GSM",
+   "FIELD2": "9.56"
+ ,
+ 
+    "FCSC",
+   "FIELD2": "2.09"
+ ,
+ 
+    "FGEN",
+   "FIELD2": "26.05"
+ ,
+ 
+    "ONEQ",
+   "FIELD2": "232.9"
+ ,
+ 
+    "LION",
+   "FIELD2": "22.87"
+ ,
+ 
+    "FDUS",
+   "FIELD2": "17.84"
+ ,
+ 
+    "FRGI",
+   "FIELD2": "23.9"
+ ,
+ 
+    "FSAM",
+   "FIELD2": "4.75"
+ ,
+ 
+    "FSC",
+   "FIELD2": "4.43"
+ ,
+ 
+    "FSCFL",
+   "FIELD2": "25.1722"
+ ,
+ 
+    "FSFR",
+   "FIELD2": "8.2"
+ ,
+ 
+    "FITB",
+   "FIELD2": "24.62"
+ ,
+ 
+    "FITBI",
+   "FIELD2": "28.69"
+ ,
+ 
+    "FNGN",
+   "FIELD2": "41.75"
+ ,
+ 
+    "FISI",
+   "FIELD2": "33.15"
+ ,
+ 
+    "FNSR",
+   "FIELD2": "22.53"
+ ,
+ 
+    "FNJN",
+   "FIELD2": "1.87"
+ ,
+ 
+    "FNTE",
+   "FIELD2": "9.8948"
+ ,
+ 
+    "FNTEU",
+   "FIELD2": "10.4"
+ ,
+ 
+    "FNTEW",
+   "FIELD2": "1.05"
+ ,
+ 
+    "FEYE",
+   "FIELD2": "12.33"
+ ,
+ 
+    "FBNC",
+   "FIELD2": "30.27"
+ ,
+ 
+    "FNLC",
+   "FIELD2": "26.99"
+ ,
+ 
+    "FRBA",
+   "FIELD2": "13.5"
+ ,
+ 
+    "BUSE",
+   "FIELD2": "30.06"
+ ,
+ 
+    "FBIZ",
+   "FIELD2": "26.34"
+ ,
+ 
+    "FCAP",
+   "FIELD2": "32"
+ ,
+ 
+    "FCFS",
+   "FIELD2": "50.1"
+ ,
+ 
+    "FCNCA",
+   "FIELD2": "336.32"
+ ,
+ 
+    "FCBC",
+   "FIELD2": "25.47"
+ ,
+ 
+    "FCCO",
+   "FIELD2": "20.4"
+ ,
+ 
+    "FCFP",
+   "FIELD2": "13.1"
+ ,
+ 
+    "FBNK",
+   "FIELD2": "25.75"
+ ,
+ 
+    "FDEF",
+   "FIELD2": "52.3"
+ ,
+ 
+    "FFBC",
+   "FIELD2": "28.2"
+ ,
+ 
+    "FFBCW",
+   "FIELD2": "17.5"
+ ,
+ 
+    "FFIN",
+   "FIELD2": "39.6"
+ ,
+ 
+    "THFF",
+   "FIELD2": "48.25"
+ ,
+ 
+    "FFNW",
+   "FIELD2": "16.18"
+ ,
+ 
+    "FFWM",
+   "FIELD2": "15.71"
+ ,
+ 
+    "FGBI",
+   "FIELD2": "24.74"
+ ,
+ 
+    "FHB",
+   "FIELD2": "29.68"
+ ,
+ 
+    "INBK",
+   "FIELD2": "27.85"
+ ,
+ 
+    "INBKL",
+   "FIELD2": "25.649"
+ ,
+ 
+    "FIBK",
+   "FIELD2": "39.6"
+ ,
+ 
+    "FRME",
+   "FIELD2": "40.25"
+ ,
+ 
+    "FMBH",
+   "FIELD2": "32.87"
+ ,
+ 
+    "FMBI",
+   "FIELD2": "23.38"
+ ,
+ 
+    "FNBC",
+   "FIELD2": "3.5"
+ ,
+ 
+    "FNWB",
+   "FIELD2": "15.88"
+ ,
+ 
+    "FSFG",
+   "FIELD2": "49.35"
+ ,
+ 
+    "FSLR",
+   "FIELD2": "26.8"
+ ,
+ 
+    "FSBK",
+   "FIELD2": "12.1"
+ ,
+ 
+    "FAAR",
+   "FIELD2": "29.2499"
+ ,
+ 
+    "FPA",
+   "FIELD2": "30.448"
+ ,
+ 
+    "BICK",
+   "FIELD2": "24.1027"
+ ,
+ 
+    "FBZ",
+   "FIELD2": "14.83"
+ ,
+ 
+    "FCAN",
+   "FIELD2": "22.931"
+ ,
+ 
+    "FTCS",
+   "FIELD2": "43.97"
+ ,
+ 
+    "FCEF",
+   "FIELD2": "21.0489"
+ ,
+ 
+    "FCA",
+   "FIELD2": "22.51"
+ ,
+ 
+    "SKYY",
+   "FIELD2": "38.39"
+ ,
+ 
+    "FDT",
+   "FIELD2": "52.02"
+ ,
+ 
+    "FDTS",
+   "FIELD2": "35.6134"
+ ,
+ 
+    "FVC",
+   "FIELD2": "22.3"
+ ,
+ 
+    "FV",
+   "FIELD2": "23.92"
+ ,
+ 
+    "IFV",
+   "FIELD2": "18.78"
+ ,
+ 
+    "FEM",
+   "FIELD2": "22.5"
+ ,
+ 
+    "FEMB",
+   "FIELD2": "42.4285"
+ ,
+ 
+    "FEMS",
+   "FIELD2": "35.79"
+ ,
+ 
+    "FTSM",
+   "FIELD2": "59.955"
+ ,
+ 
+    "FEP",
+   "FIELD2": "32.22"
+ ,
+ 
+    "FEUZ",
+   "FIELD2": "35.51"
+ ,
+ 
+    "FGM",
+   "FIELD2": "39.317"
+ ,
+ 
+    "FTGC",
+   "FIELD2": "19.92"
+ ,
+ 
+    "FTHI",
+   "FIELD2": "21.1704"
+ ,
+ 
+    "HYLS",
+   "FIELD2": "48.715"
+ ,
+ 
+    "FHK",
+   "FIELD2": "36.77"
+ ,
+ 
+    "FTAG",
+   "FIELD2": "24.42"
+ ,
+ 
+    "FTRI",
+   "FIELD2": "11.08"
+ ,
+ 
+    "FPXI",
+   "FIELD2": "29.2399"
+ ,
+ 
+    "YDIV",
+   "FIELD2": "17.09"
+ ,
+ 
+    "FJP",
+   "FIELD2": "50.54"
+ ,
+ 
+    "FEX",
+   "FIELD2": "51.42"
+ ,
+ 
+    "FTC",
+   "FIELD2": "52.47"
+ ,
+ 
+    "FTA",
+   "FIELD2": "49.02"
+ ,
+ 
+    "FLN",
+   "FIELD2": "19.7097"
+ ,
+ 
+    "FTLB",
+   "FIELD2": "21.0164"
+ ,
+ 
+    "LMBS",
+   "FIELD2": "52.06"
+ ,
+ 
+    "FMB",
+   "FIELD2": "52.19"
+ ,
+ 
+    "FMK",
+   "FIELD2": "28.845"
+ ,
+ 
+    "FNX",
+   "FIELD2": "58.32"
+ ,
+ 
+    "FNY",
+   "FIELD2": "33.42"
+ ,
+ 
+    "FNK",
+   "FIELD2": "33.35"
+ ,
+ 
+    "FAD",
+   "FIELD2": "55.82"
+ ,
+ 
+    "FAB",
+   "FIELD2": "51.6"
+ ,
+ 
+    "MDIV",
+   "FIELD2": "19.54"
+ ,
+ 
+    "MCEF",
+   "FIELD2": "18.8"
+ ,
+ 
+    "QABA",
+   "FIELD2": "50.22"
+ ,
+ 
+    "FTXO",
+   "FIELD2": "25.24"
+ ,
+ 
+    "QCLN",
+   "FIELD2": "16.511"
+ ,
+ 
+    "GRID",
+   "FIELD2": "41.7525"
+ ,
+ 
+    "CIBR",
+   "FIELD2": "21.16"
+ ,
+ 
+    "FTXG",
+   "FIELD2": "20.72"
+ ,
+ 
+    "CARZ",
+   "FIELD2": "35.5"
+ ,
+ 
+    "FTXN",
+   "FIELD2": "19.4591"
+ ,
+ 
+    "FTXH",
+   "FIELD2": "19.805"
+ ,
+ 
+    "FTXD",
+   "FIELD2": "19.69"
+ ,
+ 
+    "FTXL",
+   "FIELD2": "24.72"
+ ,
+ 
+    "FONE",
+   "FIELD2": "45.52"
+ ,
+ 
+    "TDIV",
+   "FIELD2": "31.38"
+ ,
+ 
+    "FTXR",
+   "FIELD2": "22.9699"
+ ,
+ 
+    "QQEW",
+   "FIELD2": "51.54"
+ ,
+ 
+    "QQXT",
+   "FIELD2": "44.49"
+ ,
+ 
+    "QTEC",
+   "FIELD2": "60.16"
+ ,
+ 
+    "AIRR",
+   "FIELD2": "23.81"
+ ,
+ 
+    "QINC",
+   "FIELD2": "23.3065"
+ ,
+ 
+    "RDVY",
+   "FIELD2": "26.39"
+ ,
+ 
+    "RFAP",
+   "FIELD2": "54.5"
+ ,
+ 
+    "RFDI",
+   "FIELD2": "56.42"
+ ,
+ 
+    "RFEM",
+   "FIELD2": "59.29"
+ ,
+ 
+    "RFEU",
+   "FIELD2": "57.02"
+ ,
+ 
+    "FTSL",
+   "FIELD2": "48.42"
+ ,
+ 
+    "FYX",
+   "FIELD2": "54.1"
+ ,
+ 
+    "FYC",
+   "FIELD2": "36.1783"
+ ,
+ 
+    "FYT",
+   "FIELD2": "34.09"
+ ,
+ 
+    "FKO",
+   "FIELD2": "24.16"
+ ,
+ 
+    "FCVT",
+   "FIELD2": "26.95"
+ ,
+ 
+    "FDIV",
+   "FIELD2": "50.63"
+ ,
+ 
+    "FSZ",
+   "FIELD2": "45.24"
+ ,
+ 
+    "FTW",
+   "FIELD2": "34.18"
+ ,
+ 
+    "FIXD",
+   "FIELD2": "50.53"
+ ,
+ 
+    "TUSA",
+   "FIELD2": "28.86"
+ ,
+ 
+    "FKU",
+   "FIELD2": "35.81"
+ ,
+ 
+    "FUNC",
+   "FIELD2": "13.85"
+ ,
+ 
+    "FUSB",
+   "FIELD2": "11.8"
+ ,
+ 
+    "SVVC",
+   "FIELD2": "8.235"
+ ,
+ 
+    "FSV",
+   "FIELD2": "60.74"
+ ,
+ 
+    "FISV",
+   "FIELD2": "118.4"
+ ,
+ 
+    "FIVE",
+   "FIELD2": "47.66"
+ ,
+ 
+    "FPRX",
+   "FIELD2": "32.99"
+ ,
+ 
+    "FVE",
+   "FIELD2": "1.85"
+ ,
+ 
+    "FIVN",
+   "FIELD2": "17.63"
+ ,
+ 
+    "FLEX",
+   "FIELD2": "15.97"
+ ,
+ 
+    "FLKS",
+   "FIELD2": "3.08"
+ ,
+ 
+    "FLXN",
+   "FIELD2": "26.37"
+ ,
+ 
+    "SKOR",
+   "FIELD2": "50.696"
+ ,
+ 
+    "LKOR",
+   "FIELD2": "51.84"
+ ,
+ 
+    "MBSD",
+   "FIELD2": "24.08"
+ ,
+ 
+    "ASET",
+   "FIELD2": "26.7998"
+ ,
+ 
+    "ESGG",
+   "FIELD2": "82.75"
+ ,
+ 
+    "ESG",
+   "FIELD2": "55.4494"
+ ,
+ 
+    "QLC",
+   "FIELD2": "29.09"
+ ,
+ 
+    "FPAY",
+   "FIELD2": "4.28"
+ ,
+ 
+    "FLXS",
+   "FIELD2": "51.44"
+ ,
+ 
+    "FLIR",
+   "FIELD2": "36.37"
+ ,
+ 
+    "FLDM",
+   "FIELD2": "4.74"
+ ,
+ 
+    "FFIC",
+   "FIELD2": "26.6"
+ ,
+ 
+    "FNBG",
+   "FIELD2": "41.6"
+ ,
+ 
+    "FOMX",
+   "FIELD2": "4.14"
+ ,
+ 
+    "FOGO",
+   "FIELD2": "16.05"
+ ,
+ 
+    "FONR",
+   "FIELD2": "18.55"
+ ,
+ 
+    "FH",
+   "FIELD2": "1.76"
+ ,
+ 
+    "FORM",
+   "FIELD2": "10.95"
+ ,
+ 
+    "FORTY",
+   "FIELD2": "39.4"
+ ,
+ 
+    "FORR",
+   "FIELD2": "40.8"
+ ,
+ 
+    "FRTA",
+   "FIELD2": "18.34"
+ ,
+ 
+    "FTNT",
+   "FIELD2": "39.53"
+ ,
+ 
+    "FBIO",
+   "FIELD2": "3.15"
+ ,
+ 
+    "FMCIU",
+   "FIELD2": "10.06"
+ ,
+ 
+    "FWRD",
+   "FIELD2": "49.28"
+ ,
+ 
+    "FORD",
+   "FIELD2": "1.13"
+ ,
+ 
+    "FWP",
+   "FIELD2": "19.5"
+ ,
+ 
+    "FOSL",
+   "FIELD2": "16.99"
+ ,
+ 
+    "FMI",
+   "FIELD2": "32.35"
+ ,
+ 
+    "FOXF",
+   "FIELD2": "28.55"
+ ,
+ 
+    "FRAN",
+   "FIELD2": "15.53"
+ ,
+ 
+    "FELE",
+   "FIELD2": "42.2"
+ ,
+ 
+    "FRED",
+   "FIELD2": "13.28"
+ ,
+ 
+    "RAIL",
+   "FIELD2": "12.81"
+ ,
+ 
+    "FEIM",
+   "FIELD2": "10.63"
+ ,
+ 
+    "FRPT",
+   "FIELD2": "11.3"
+ ,
+ 
+    "FTEO",
+   "FIELD2": "10.9"
+ ,
+ 
+    "FTR",
+   "FIELD2": "1.94"
+ ,
+ 
+    "FTRPR",
+   "FIELD2": "45.93"
+ ,
+ 
+    "FRPH",
+   "FIELD2": "41.5"
+ ,
+ 
+    "FSBW",
+   "FIELD2": "39.35"
+ ,
+ 
+    "FSBC",
+   "FIELD2": "14.95"
+ ,
+ 
+    "FTD",
+   "FIELD2": "19.72"
+ ,
+ 
+    "FTEK",
+   "FIELD2": "0.91"
+ ,
+ 
+    "FCEL",
+   "FIELD2": "1.5"
+ ,
+ 
+    "FLGT",
+   "FIELD2": "10.59"
+ ,
+ 
+    "FORK",
+   "FIELD2": "3"
+ ,
+ 
+    "FLL",
+   "FIELD2": "2.39"
+ ,
+ 
+    "FMAX",
+   "FIELD2": "n/a"
+ ,
+ 
+    "FULT",
+   "FIELD2": "18.45"
+ ,
+ 
+    "FNCX",
+   "FIELD2": "0.59"
+ ,
+ 
+    "FSNN",
+   "FIELD2": "1.42"
+ ,
+ 
+    "FFHL",
+   "FIELD2": "2.91"
+ ,
+ 
+    "WILC",
+   "FIELD2": "6.32"
+ ,
+ 
+    "FOANC",
+   "FIELD2": "100.06"
+ ,
+ 
+    "MOGLC",
+   "FIELD2": "100.06"
+ ,
+ 
+    "GAIA",
+   "FIELD2": "11.25"
+ ,
+ 
+    "GLPG",
+   "FIELD2": "85.84"
+ ,
+ 
+    "GALT",
+   "FIELD2": "3.09"
+ ,
+ 
+    "GALE",
+   "FIELD2": "0.58"
+ ,
+ 
+    "GLMD",
+   "FIELD2": "5.08"
+ ,
+ 
+    "GLPI",
+   "FIELD2": "34.59"
+ ,
+ 
+    "GPIC",
+   "FIELD2": "10.0968"
+ ,
+ 
+    "GRMN",
+   "FIELD2": "49.95"
+ ,
+ 
+    "GARS",
+   "FIELD2": "9.7"
+ ,
+ 
+    "GDS",
+   "FIELD2": "8.02"
+ ,
+ 
+    "GEMP",
+   "FIELD2": "10.91"
+ ,
+ 
+    "GENC",
+   "FIELD2": "16"
+ ,
+ 
+    "GNCMA",
+   "FIELD2": "36.26"
+ ,
+ 
+    "GFN",
+   "FIELD2": "5"
+ ,
+ 
+    "GFNCP",
+   "FIELD2": "95.8568"
+ ,
+ 
+    "GFNSL",
+   "FIELD2": "25.6"
+ ,
+ 
+    "GENE",
+   "FIELD2": "1.1301"
+ ,
+ 
+    "GNUS",
+   "FIELD2": "4.833"
+ ,
+ 
+    "GNMK",
+   "FIELD2": "12.5"
+ ,
+ 
+    "GNCA",
+   "FIELD2": "6.73"
+ ,
+ 
+    "GHDX",
+   "FIELD2": "31.15"
+ ,
+ 
+    "GNST",
+   "FIELD2": "n/a"
+ ,
+ 
+    "GNTX",
+   "FIELD2": "20"
+ ,
+ 
+    "THRM",
+   "FIELD2": "35.3"
+ ,
+ 
+    "GNVC",
+   "FIELD2": "6.22"
+ ,
+ 
+    "GTWN",
+   "FIELD2": "25.9"
+ ,
+ 
+    "GEOS",
+   "FIELD2": "15.28"
+ ,
+ 
+    "GABC",
+   "FIELD2": "49.19"
+ ,
+ 
+    "GERN",
+   "FIELD2": "2.38"
+ ,
+ 
+    "GEVO",
+   "FIELD2": "1.05"
+ ,
+ 
+    "ROCK",
+   "FIELD2": "38.3"
+ ,
+ 
+    "GIGM",
+   "FIELD2": "2.97"
+ ,
+ 
+    "GIGA",
+   "FIELD2": "0.79"
+ ,
+ 
+    "GIII",
+   "FIELD2": "23.59"
+ ,
+ 
+    "GILT",
+   "FIELD2": "5.18"
+ ,
+ 
+    "GILD",
+   "FIELD2": "65.93"
+ ,
+ 
+    "GBCI",
+   "FIELD2": "33.82"
+ ,
+ 
+    "GLAD",
+   "FIELD2": "9.58"
+ ,
+ 
+    "GLADO",
+   "FIELD2": "25.55"
+ ,
+ 
+    "GOOD",
+   "FIELD2": "22.61"
+ ,
+ 
+    "GOODM",
+   "FIELD2": "25.57"
+ ,
+ 
+    "GOODO",
+   "FIELD2": "25.6297"
+ ,
+ 
+    "GOODP",
+   "FIELD2": "26.0602"
+ ,
+ 
+    "GAIN",
+   "FIELD2": "9.47"
+ ,
+ 
+    "GAINM",
+   "FIELD2": "25.3869"
+ ,
+ 
+    "GAINN",
+   "FIELD2": "25.55"
+ ,
+ 
+    "GAINO",
+   "FIELD2": "25.65"
+ ,
+ 
+    "LAND",
+   "FIELD2": "11.22"
+ ,
+ 
+    "LANDP",
+   "FIELD2": "25.854"
+ ,
+ 
+    "GLBZ",
+   "FIELD2": "11.4"
+ ,
+ 
+    "GBT",
+   "FIELD2": "29"
+ ,
+ 
+    "GLBR",
+   "FIELD2": "2.1"
+ ,
+ 
+    "ENT",
+   "FIELD2": "2.97"
+ ,
+ 
+    "GBLI",
+   "FIELD2": "39.76"
+ ,
+ 
+    "GBLIL",
+   "FIELD2": "24.92"
+ ,
+ 
+    "GBLIZ",
+   "FIELD2": "25.5588"
+ ,
+ 
+    "GPAC",
+   "FIELD2": "9.95"
+ ,
+ 
+    "GPACU",
+   "FIELD2": "10.4008"
+ ,
+ 
+    "GPACW",
+   "FIELD2": "0.3329"
+ ,
+ 
+    "SELF",
+   "FIELD2": "4.9399"
+ ,
+ 
+    "GSOL",
+   "FIELD2": "9"
+ ,
+ 
+    "GWRS",
+   "FIELD2": "8.9"
+ ,
+ 
+    "KRMA",
+   "FIELD2": "16.85"
+ ,
+ 
+    "FINX",
+   "FIELD2": "16.5399"
+ ,
+ 
+    "ACTX",
+   "FIELD2": "14.6482"
+ ,
+ 
+    "BFIT",
+   "FIELD2": "15.53"
+ ,
+ 
+    "SNSR",
+   "FIELD2": "17.59"
+ ,
+ 
+    "LNGR",
+   "FIELD2": "17.0736"
+ ,
+ 
+    "MILN",
+   "FIELD2": "16.77"
+ ,
+ 
+    "EFAS",
+   "FIELD2": "16.47"
+ ,
+ 
+    "QQQC",
+   "FIELD2": "22.898"
+ ,
+ 
+    "BOTZ",
+   "FIELD2": "17.23"
+ ,
+ 
+    "CATH",
+   "FIELD2": "28.67"
+ ,
+ 
+    "SOCL",
+   "FIELD2": "25.24"
+ ,
+ 
+    "ALTY",
+   "FIELD2": "15.52"
+ ,
+ 
+    "SRET",
+   "FIELD2": "15.24"
+ ,
+ 
+    "YLCO",
+   "FIELD2": "11.63"
+ ,
+ 
+    "GLBS",
+   "FIELD2": "2.95"
+ ,
+ 
+    "GLUU",
+   "FIELD2": "2.31"
+ ,
+ 
+    "GLYC",
+   "FIELD2": "4.51"
+ ,
+ 
+    "GOGO",
+   "FIELD2": "12.34"
+ ,
+ 
+    "GLNG",
+   "FIELD2": "25.73"
+ ,
+ 
+    "GMLP",
+   "FIELD2": "22.48"
+ ,
+ 
+    "GDEN",
+   "FIELD2": "13.87"
+ ,
+ 
+    "GOGL",
+   "FIELD2": "7.4"
+ ,
+ 
+    "GBDC",
+   "FIELD2": "20.18"
+ ,
+ 
+    "GTIM",
+   "FIELD2": "3.15"
+ ,
+ 
+    "GPRO",
+   "FIELD2": "8.87"
+ ,
+ 
+    "GSHT",
+   "FIELD2": "10"
+ ,
+ 
+    "GSHTU",
+   "FIELD2": "10.375"
+ ,
+ 
+    "GSHTW",
+   "FIELD2": "1.22"
+ ,
+ 
+    "GOV",
+   "FIELD2": "22.04"
+ ,
+ 
+    "GOVNI",
+   "FIELD2": "25.07"
+ ,
+ 
+    "GPIA",
+   "FIELD2": "9.9501"
+ ,
+ 
+    "GPIAU",
+   "FIELD2": "10.07"
+ ,
+ 
+    "GPIAW",
+   "FIELD2": "0.34"
+ ,
+ 
+    "LOPE",
+   "FIELD2": "74.43"
+ ,
+ 
+    "GRVY",
+   "FIELD2": "18.72"
+ ,
+ 
+    "FULLL",
+   "FIELD2": "25.5499"
+ ,
+ 
+    "GECC",
+   "FIELD2": "11.31"
+ ,
+ 
+    "GEC",
+   "FIELD2": "3.4"
+ ,
+ 
+    "GLDD",
+   "FIELD2": "4.45"
+ ,
+ 
+    "GSBC",
+   "FIELD2": "50.3"
+ ,
+ 
+    "GNBC",
+   "FIELD2": "16.35"
+ ,
+ 
+    "GRBK",
+   "FIELD2": "9.95"
+ ,
+ 
+    "GPP",
+   "FIELD2": "19.95"
+ ,
+ 
+    "GPRE",
+   "FIELD2": "22.9"
+ ,
+ 
+    "GCBC",
+   "FIELD2": "25.3"
+ ,
+ 
+    "GLRE",
+   "FIELD2": "22"
+ ,
+ 
+    "GSUM",
+   "FIELD2": "12.26"
+ ,
+ 
+    "GRIF",
+   "FIELD2": "32.13"
+ ,
+ 
+    "GRFS",
+   "FIELD2": "19.95"
+ ,
+ 
+    "GRPN",
+   "FIELD2": "3.88"
+ ,
+ 
+    "OMAB",
+   "FIELD2": "43.97"
+ ,
+ 
+    "GGAL",
+   "FIELD2": "39.13"
+ ,
+ 
+    "GSIT",
+   "FIELD2": "7.92"
+ ,
+ 
+    "GSVC",
+   "FIELD2": "4.55"
+ ,
+ 
+    "GTXI",
+   "FIELD2": "4.26"
+ ,
+ 
+    "GTYH",
+   "FIELD2": "9.95"
+ ,
+ 
+    "GTYHU",
+   "FIELD2": "10.4"
+ ,
+ 
+    "GTYHW",
+   "FIELD2": "1.2"
+ ,
+ 
+    "GBNK",
+   "FIELD2": "25.65"
+ ,
+ 
+    "GFED",
+   "FIELD2": "19.8"
+ ,
+ 
+    "GUID",
+   "FIELD2": "5.96"
+ ,
+ 
+    "GIFI",
+   "FIELD2": "10.45"
+ ,
+ 
+    "GURE",
+   "FIELD2": "1.8"
+ ,
+ 
+    "GPOR",
+   "FIELD2": "16.59"
+ ,
+ 
+    "GWPH",
+   "FIELD2": "114.76"
+ ,
+ 
+    "GWGH",
+   "FIELD2": "10.53"
+ ,
+ 
+    "GYRO",
+   "FIELD2": "20.6"
+ ,
+ 
+    "HEES",
+   "FIELD2": "22.86"
+ ,
+ 
+    "HLG",
+   "FIELD2": "9.05"
+ ,
+ 
+    "HNRG",
+   "FIELD2": "7.25"
+ ,
+ 
+    "HALL",
+   "FIELD2": "10.46"
+ ,
+ 
+    "HALO",
+   "FIELD2": "13.285"
+ ,
+ 
+    "HBK",
+   "FIELD2": "15.05"
+ ,
+ 
+    "HLNE",
+   "FIELD2": "18.46"
+ ,
+ 
+    "HBHC",
+   "FIELD2": "46.1"
+ ,
+ 
+    "HBHCL",
+   "FIELD2": "25.7594"
+ ,
+ 
+    "HNH",
+   "FIELD2": "26.9"
+ ,
+ 
+    "HAFC",
+   "FIELD2": "28.75"
+ ,
+ 
+    "HQCL",
+   "FIELD2": "7.02"
+ ,
+ 
+    "HONE",
+   "FIELD2": "19.97"
+ ,
+ 
+    "HDNG",
+   "FIELD2": "10.83"
+ ,
+ 
+    "HLIT",
+   "FIELD2": "5.65"
+ ,
+ 
+    "HRMN",
+   "FIELD2": "10.2"
+ ,
+ 
+    "HRMNU",
+   "FIELD2": "10.8499"
+ ,
+ 
+    "HRMNW",
+   "FIELD2": "0.441"
+ ,
+ 
+    "HBIO",
+   "FIELD2": "2.45"
+ ,
+ 
+    "HCAP",
+   "FIELD2": "13.61"
+ ,
+ 
+    "HCAPL",
+   "FIELD2": "25.4501"
+ ,
+ 
+    "HAS",
+   "FIELD2": "96.03"
+ ,
+ 
+    "HA",
+   "FIELD2": "53.25"
+ ,
+ 
+    "HCOM",
+   "FIELD2": "24.9"
+ ,
+ 
+    "HWKN",
+   "FIELD2": "48.5"
+ ,
+ 
+    "HWBK",
+   "FIELD2": "17.4"
+ ,
+ 
+    "HAYN",
+   "FIELD2": "38.43"
+ ,
+ 
+    "HDS",
+   "FIELD2": "39.92"
+ ,
+ 
+    "HIIQ",
+   "FIELD2": "15.7"
+ ,
+ 
+    "HCSG",
+   "FIELD2": "45.88"
+ ,
+ 
+    "HQY",
+   "FIELD2": "44.78"
+ ,
+ 
+    "HSTM",
+   "FIELD2": "23.7"
+ ,
+ 
+    "HTLD",
+   "FIELD2": "20.07"
+ ,
+ 
+    "HTLF",
+   "FIELD2": "50.9"
+ ,
+ 
+    "HTBX",
+   "FIELD2": "0.775"
+ ,
+ 
+    "HEBT",
+   "FIELD2": "3.75"
+ ,
+ 
+    "HSII",
+   "FIELD2": "26.15"
+ ,
+ 
+    "HELE",
+   "FIELD2": "94.65"
+ ,
+ 
+    "HMNY",
+   "FIELD2": "2.95"
+ ,
+ 
+    "HMTV",
+   "FIELD2": "12.3"
+ ,
+ 
+    "HNNA",
+   "FIELD2": "17"
+ ,
+ 
+    "HSIC",
+   "FIELD2": "168.11"
+ ,
+ 
+    "HTBK",
+   "FIELD2": "14.2"
+ ,
+ 
+    "HFWA",
+   "FIELD2": "25.1"
+ ,
+ 
+    "HCCI",
+   "FIELD2": "14.4"
+ ,
+ 
+    "MLHR",
+   "FIELD2": "32"
+ ,
+ 
+    "HRTX",
+   "FIELD2": "15.2"
+ ,
+ 
+    "HSKA",
+   "FIELD2": "105.17"
+ ,
+ 
+    "HIBB",
+   "FIELD2": "28.5"
+ ,
+ 
+    "SNLN",
+   "FIELD2": "18.54"
+ ,
+ 
+    "HPJ",
+   "FIELD2": "5.35"
+ ,
+ 
+    "HIHO",
+   "FIELD2": "3.976"
+ ,
+ 
+    "HIMX",
+   "FIELD2": "7.49"
+ ,
+ 
+    "HIFS",
+   "FIELD2": "173.24"
+ ,
+ 
+    "HSGX",
+   "FIELD2": "1.66"
+ ,
+ 
+    "HMNF",
+   "FIELD2": "17.017"
+ ,
+ 
+    "HMSY",
+   "FIELD2": "20.07"
+ ,
+ 
+    "HOLI",
+   "FIELD2": "15.63"
+ ,
+ 
+    "HOLX",
+   "FIELD2": "43.3"
+ ,
+ 
+    "HBCP",
+   "FIELD2": "34.32"
+ ,
+ 
+    "HOMB",
+   "FIELD2": "25.28"
+ ,
+ 
+    "HFBL",
+   "FIELD2": "29.3"
+ ,
+ 
+    "HMST",
+   "FIELD2": "27.85"
+ ,
+ 
+    "HMTA",
+   "FIELD2": "9.7"
+ ,
+ 
+    "HTBI",
+   "FIELD2": "24.35"
+ ,
+ 
+    "HMU",
+   "FIELD2": "n/a"
+ ,
+ 
+    "HOFT",
+   "FIELD2": "42"
+ ,
+ 
+    "HOPE",
+   "FIELD2": "18.79"
+ ,
+ 
+    "HFBC",
+   "FIELD2": "14.26"
+ ,
+ 
+    "HBNC",
+   "FIELD2": "26.21"
+ ,
+ 
+    "HZNP",
+   "FIELD2": "14.99"
+ ,
+ 
+    "HRZN",
+   "FIELD2": "11.57"
+ ,
+ 
+    "DAX",
+   "FIELD2": "26.8"
+ ,
+ 
+    "QYLD",
+   "FIELD2": "23.42"
+ ,
+ 
+    "HDP",
+   "FIELD2": "10.12"
+ ,
+ 
+    "HPT",
+   "FIELD2": "32"
+ ,
+ 
+    "TWNK",
+   "FIELD2": "15.97"
+ ,
+ 
+    "TWNKW",
+   "FIELD2": "2.86"
+ ,
+ 
+    "HMHC",
+   "FIELD2": "11.7"
+ ,
+ 
+    "HWCC",
+   "FIELD2": "6.25"
+ ,
+ 
+    "HOVNP",
+   "FIELD2": "7"
+ ,
+ 
+    "HBMD",
+   "FIELD2": "18.75"
+ ,
+ 
+    "HSNI",
+   "FIELD2": "36.1"
+ ,
+ 
+    "HTGM",
+   "FIELD2": "5.41"
+ ,
+ 
+    "HUBG",
+   "FIELD2": "40.3"
+ ,
+ 
+    "HSON",
+   "FIELD2": "1.28"
+ ,
+ 
+    "HDSN",
+   "FIELD2": "6.69"
+ ,
+ 
+    "HUNT",
+   "FIELD2": "9.75"
+ ,
+ 
+    "HUNTU",
+   "FIELD2": "10.17"
+ ,
+ 
+    "HUNTW",
+   "FIELD2": "1.2"
+ ,
+ 
+    "HBAN",
+   "FIELD2": "12.6"
+ ,
+ 
+    "HBANN",
+   "FIELD2": "25.36"
+ ,
+ 
+    "HBANO",
+   "FIELD2": "26.91"
+ ,
+ 
+    "HBANP",
+   "FIELD2": "1374"
+ ,
+ 
+    "HURC",
+   "FIELD2": "28.4"
+ ,
+ 
+    "HURN",
+   "FIELD2": "43.05"
+ ,
+ 
+    "HCM",
+   "FIELD2": "18.33"
+ ,
+ 
+    "HBP",
+   "FIELD2": "8.97"
+ ,
+ 
+    "HVBC",
+   "FIELD2": "14.01"
+ ,
+ 
+    "HYGS",
+   "FIELD2": "7.2"
+ ,
+ 
+    "IDSY",
+   "FIELD2": "6.36"
+ ,
+ 
+    "IAC",
+   "FIELD2": "78.76"
+ ,
+ 
+    "IKGH",
+   "FIELD2": "0.2509"
+ ,
+ 
+    "IBKC",
+   "FIELD2": "78"
+ ,
+ 
+    "IBKCO",
+   "FIELD2": "27.3231"
+ ,
+ 
+    "IBKCP",
+   "FIELD2": "27.8387"
+ ,
+ 
+    "ICAD",
+   "FIELD2": "5.35"
+ ,
+ 
+    "IEP",
+   "FIELD2": "49"
+ ,
+ 
+    "ICCH",
+   "FIELD2": "15.1201"
+ ,
+ 
+    "ICFI",
+   "FIELD2": "44.35"
+ ,
+ 
+    "ICHR",
+   "FIELD2": "18.36"
+ ,
+ 
+    "ICLR",
+   "FIELD2": "79.87"
+ ,
+ 
+    "ICON",
+   "FIELD2": "7.32"
+ ,
+ 
+    "ICUI",
+   "FIELD2": "148.5"
+ ,
+ 
+    "IPWR",
+   "FIELD2": "2.36"
+ ,
+ 
+    "INVE",
+   "FIELD2": "5.98"
+ ,
+ 
+    "IDRA",
+   "FIELD2": "2.32"
+ ,
+ 
+    "IDXX",
+   "FIELD2": "159.12"
+ ,
+ 
+    "IESC",
+   "FIELD2": "18.6"
+ ,
+ 
+    "IROQ",
+   "FIELD2": "19.88"
+ ,
+ 
+    "IFMK",
+   "FIELD2": "14.21"
+ ,
+ 
+    "RXDX",
+   "FIELD2": "8.45"
+ ,
+ 
+    "INFO",
+   "FIELD2": "43.25"
+ ,
+ 
+    "IIVI",
+   "FIELD2": "32.5"
+ ,
+ 
+    "KANG",
+   "FIELD2": "14.41"
+ ,
+ 
+    "IKNX",
+   "FIELD2": "8.8232"
+ ,
+ 
+    "ILG",
+   "FIELD2": "23.07"
+ ,
+ 
+    "ILMN",
+   "FIELD2": "175.29"
+ ,
+ 
+    "ISNS",
+   "FIELD2": "2.9"
+ ,
+ 
+    "IMMR",
+   "FIELD2": "8.48"
+ ,
+ 
+    "ICCC",
+   "FIELD2": "5.49"
+ ,
+ 
+    "IMDZ",
+   "FIELD2": "6.15"
+ ,
+ 
+    "IMNP          ",
+   "FIELD2": "3.53"
+ ,
+ 
+    "IMGN",
+   "FIELD2": "4.03"
+ ,
+ 
+    "IMMU",
+   "FIELD2": "5.2"
+ ,
+ 
+    "IPXL",
+   "FIELD2": "13.5"
+ ,
+ 
+    "IMPV",
+   "FIELD2": "42.35"
+ ,
+ 
+    "PI",
+   "FIELD2": "36.24"
+ ,
+ 
+    "IMMY",
+   "FIELD2": "4.44"
+ ,
+ 
+    "INCR",
+   "FIELD2": "43.95"
+ ,
+ 
+    "INCY",
+   "FIELD2": "123.01"
+ ,
+ 
+    "INDB",
+   "FIELD2": "64.1"
+ ,
+ 
+    "IBCP",
+   "FIELD2": "21.3"
+ ,
+ 
+    "IBTX",
+   "FIELD2": "59.9"
+ ,
+ 
+    "IDSA",
+   "FIELD2": "1.16"
+ ,
+ 
+    "INFN",
+   "FIELD2": "9.63"
+ ,
+ 
+    "INFI",
+   "FIELD2": "1.92"
+ ,
+ 
+    "IPCC",
+   "FIELD2": "97.85"
+ ,
+ 
+    "III",
+   "FIELD2": "3.11"
+ ,
+ 
+    "IFON",
+   "FIELD2": "0.49"
+ ,
+ 
+    "IMKTA",
+   "FIELD2": "46.4"
+ ,
+ 
+    "INWK",
+   "FIELD2": "10.01"
+ ,
+ 
+    "INNL",
+   "FIELD2": "2.07"
+ ,
+ 
+    "INOD",
+   "FIELD2": "1.9"
+ ,
+ 
+    "IPHS",
+   "FIELD2": "45.91"
+ ,
+ 
+    "IOSP",
+   "FIELD2": "62"
+ ,
+ 
+    "ISSC",
+   "FIELD2": "2.99"
+ ,
+ 
+    "INVA",
+   "FIELD2": "12.52"
+ ,
+ 
+    "INGN",
+   "FIELD2": "79.18"
+ ,
+ 
+    "ITEK",
+   "FIELD2": "1.95"
+ ,
+ 
+    "INOV",
+   "FIELD2": "11.65"
+ ,
+ 
+    "INO",
+   "FIELD2": "6.27"
+ ,
+ 
+    "INPX",
+   "FIELD2": "2.87"
+ ,
+ 
+    "INSG",
+   "FIELD2": "2.24"
+ ,
+ 
+    "NSIT",
+   "FIELD2": "41.36"
+ ,
+ 
+    "ISIG",
+   "FIELD2": "1.22"
+ ,
+ 
+    "INSM",
+   "FIELD2": "18.22"
+ ,
+ 
+    "INSE",
+   "FIELD2": "9.85"
+ ,
+ 
+    "INSEW",
+   "FIELD2": "0.62"
+ ,
+ 
+    "IIIN",
+   "FIELD2": "34.57"
+ ,
+ 
+    "PODD",
+   "FIELD2": "41.5"
+ ,
+ 
+    "INSY",
+   "FIELD2": "10.21"
+ ,
+ 
+    "NTEC",
+   "FIELD2": "5.3"
+ ,
+ 
+    "IART",
+   "FIELD2": "42.11"
+ ,
+ 
+    "IDTI",
+   "FIELD2": "23.54"
+ ,
+ 
+    "INTC",
+   "FIELD2": "36.32"
+ ,
+ 
+    "NTLA",
+   "FIELD2": "13.83"
+ ,
+ 
+    "IPCI",
+   "FIELD2": "1.96"
+ ,
+ 
+    "IPAR",
+   "FIELD2": "35.4"
+ ,
+ 
+    "IBKR",
+   "FIELD2": "34.03"
+ ,
+ 
+    "ICPT",
+   "FIELD2": "107.89"
+ ,
+ 
+    "IDCC",
+   "FIELD2": "85.4"
+ ,
+ 
+    "TILE",
+   "FIELD2": "18.75"
+ ,
+ 
+    "LINK",
+   "FIELD2": "8.075"
+ ,
+ 
+    "IMI",
+   "FIELD2": "0.8"
+ ,
+ 
+    "INAP",
+   "FIELD2": "3.1"
+ ,
+ 
+    "IBOC",
+   "FIELD2": "35.6"
+ ,
+ 
+    "ISCA",
+   "FIELD2": "37.7"
+ ,
+ 
+    "IGLD",
+   "FIELD2": "10.5311"
+ ,
+ 
+    "IIJI",
+   "FIELD2": "8.86"
+ ,
+ 
+    "IDXG",
+   "FIELD2": "2.35"
+ ,
+ 
+    "XENT",
+   "FIELD2": "17.55"
+ ,
+ 
+    "INTX",
+   "FIELD2": "4.51"
+ ,
+ 
+    "IVAC",
+   "FIELD2": "13"
+ ,
+ 
+    "INTL",
+   "FIELD2": "36.47"
+ ,
+ 
+    "ITCI",
+   "FIELD2": "12.41"
+ ,
+ 
+    "IIN",
+   "FIELD2": "9.55"
+ ,
+ 
+    "INTU",
+   "FIELD2": "118.36"
+ ,
+ 
+    "ISRG",
+   "FIELD2": "813.43"
+ ,
+ 
+    "INVT",
+   "FIELD2": "0.2448"
+ ,
+ 
+    "SNAK",
+   "FIELD2": "3.99"
+ ,
+ 
+    "ISTR",
+   "FIELD2": "22"
+ ,
+ 
+    "ISBC",
+   "FIELD2": "14.41"
+ ,
+ 
+    "ITIC",
+   "FIELD2": "162.42"
+ ,
+ 
+    "NVIV",
+   "FIELD2": "3.9"
+ ,
+ 
+    "IVTY",
+   "FIELD2": "8.8"
+ ,
+ 
+    "IONS",
+   "FIELD2": "44.26"
+ ,
+ 
+    "IPAS",
+   "FIELD2": "1.23"
+ ,
+ 
+    "DTYS",
+   "FIELD2": "16.72"
+ ,
+ 
+    "DTYL",
+   "FIELD2": "76.61"
+ ,
+ 
+    "DTUS",
+   "FIELD2": "30.0892"
+ ,
+ 
+    "DTUL",
+   "FIELD2": "63.84"
+ ,
+ 
+    "DFVS",
+   "FIELD2": "28.0561"
+ ,
+ 
+    "DFVL",
+   "FIELD2": "64.3"
+ ,
+ 
+    "FLAT",
+   "FIELD2": "62.03"
+ ,
+ 
+    "DLBS",
+   "FIELD2": "17.5625"
+ ,
+ 
+    "DLBL",
+   "FIELD2": "74.42"
+ ,
+ 
+    "STPP",
+   "FIELD2": "34.05"
+ ,
+ 
+    "IPGP",
+   "FIELD2": "120.55"
+ ,
+ 
+    "IRMD",
+   "FIELD2": "8.8"
+ ,
+ 
+    "IRTC",
+   "FIELD2": "33.63"
+ ,
+ 
+    "IRIX",
+   "FIELD2": "11.17"
+ ,
+ 
+    "IRDM",
+   "FIELD2": "10.2"
+ ,
+ 
+    "IRDMB",
+   "FIELD2": "354"
+ ,
+ 
+    "IRBT",
+   "FIELD2": "67.61"
+ ,
+ 
+    "IRWD",
+   "FIELD2": "15.9"
+ ,
+ 
+    "IRCP",
+   "FIELD2": "47.5"
+ ,
+ 
+    "PMPT",
+   "FIELD2": "24.44"
+ ,
+ 
+    "SLQD",
+   "FIELD2": "50.52"
+ ,
+ 
+    "TLT",
+   "FIELD2": "123.54"
+ ,
+ 
+    "AIA",
+   "FIELD2": "52.17"
+ ,
+ 
+    "COMT",
+   "FIELD2": "33.22"
+ ,
+ 
+    "IXUS",
+   "FIELD2": "54.73"
+ ,
+ 
+    "FALN",
+   "FIELD2": "27.36"
+ ,
+ 
+    "IFEU",
+   "FIELD2": "34.9888"
+ ,
+ 
+    "IFGL",
+   "FIELD2": "28.08"
+ ,
+ 
+    "IGF",
+   "FIELD2": "42.26"
+ ,
+ 
+    "GNMA",
+   "FIELD2": "49.99"
+ ,
+ 
+    "HYXE",
+   "FIELD2": "51.75"
+ ,
+ 
+    "JKI",
+   "FIELD2": "146.713"
+ ,
+ 
+    "ACWX",
+   "FIELD2": "43.52"
+ ,
+ 
+    "ACWI",
+   "FIELD2": "63.02"
+ ,
+ 
+    "AAXJ",
+   "FIELD2": "62.89"
+ ,
+ 
+    "EWZS",
+   "FIELD2": "13.51"
+ ,
+ 
+    "MCHI",
+   "FIELD2": "50.34"
+ ,
+ 
+    "ESGD",
+   "FIELD2": "59.79"
+ ,
+ 
+    "SCZ",
+   "FIELD2": "54.66"
+ ,
+ 
+    "ESGE",
+   "FIELD2": "61.14"
+ ,
+ 
+    "EEMA",
+   "FIELD2": "60.01"
+ ,
+ 
+    "EUFN",
+   "FIELD2": "20.09"
+ ,
+ 
+    "IEUS",
+   "FIELD2": "48.52"
+ ,
+ 
+    "MPCT",
+   "FIELD2": "51.5998"
+ ,
+ 
+    "ENZL",
+   "FIELD2": "42.44"
+ ,
+ 
+    "QAT",
+   "FIELD2": "19.51"
+ ,
+ 
+    "UAE",
+   "FIELD2": "16.9999"
+ ,
+ 
+    "ESGU",
+   "FIELD2": "51.3"
+ ,
+ 
+    "IBB",
+   "FIELD2": "287.49"
+ ,
+ 
+    "SOXX",
+   "FIELD2": "134.36"
+ ,
+ 
+    "EMIF",
+   "FIELD2": "31.3699"
+ ,
+ 
+    "ICLN",
+   "FIELD2": "8.43"
+ ,
+ 
+    "WOOD",
+   "FIELD2": "58.5"
+ ,
+ 
+    "INDY",
+   "FIELD2": "32.05"
+ ,
+ 
+    "ISHG",
+   "FIELD2": "78.99"
+ ,
+ 
+    "IGOV",
+   "FIELD2": "92.55"
+ ,
+ 
+    "ISLE",
+   "FIELD2": "26.01"
+ ,
+ 
+    "ISRL",
+   "FIELD2": "116.8"
+ ,
+ 
+    "ITI",
+   "FIELD2": "5.05"
+ ,
+ 
+    "ITRI",
+   "FIELD2": "61.6"
+ ,
+ 
+    "ITRN",
+   "FIELD2": "30.45"
+ ,
+ 
+    "ITUS",
+   "FIELD2": "2.05"
+ ,
+ 
+    "IVENC",
+   "FIELD2": "99.99"
+ ,
+ 
+    "IVFGC",
+   "FIELD2": "99.99"
+ ,
+ 
+    "IVFVC",
+   "FIELD2": "99.99"
+ ,
+ 
+    "IXYS",
+   "FIELD2": "13.95"
+ ,
+ 
+    "IZEA",
+   "FIELD2": "3.7"
+ ,
+ 
+    "JJSF",
+   "FIELD2": "134.48"
+ ,
+ 
+    "MAYS",
+   "FIELD2": "39.85"
+ ,
+ 
+    "JBHT",
+   "FIELD2": "90.95"
+ ,
+ 
+    "JCOM",
+   "FIELD2": "84.68"
+ ,
+ 
+    "JASO",
+   "FIELD2": "6.52"
+ ,
+ 
+    "JKHY",
+   "FIELD2": "95.63"
+ ,
+ 
+    "JACK",
+   "FIELD2": "101.08"
+ ,
+ 
+    "JXSB",
+   "FIELD2": "30.9525"
+ ,
+ 
+    "JAGX",
+   "FIELD2": "0.7901"
+ ,
+ 
+    "JAKK",
+   "FIELD2": "5.1"
+ ,
+ 
+    "JMBA",
+   "FIELD2": "8.34"
+ ,
+ 
+    "JRVR",
+   "FIELD2": "42.12"
+ ,
+ 
+    "SGQI",
+   "FIELD2": "27.01"
+ ,
+ 
+    "JSML",
+   "FIELD2": "31.55"
+ ,
+ 
+    "JSMD",
+   "FIELD2": "32.86"
+ ,
+ 
+    "JASN",
+   "FIELD2": "1.2"
+ ,
+ 
+    "JASNW",
+   "FIELD2": "0.046"
+ ,
+ 
+    "JAZZ",
+   "FIELD2": "152.84"
+ ,
+ 
+    "JD",
+   "FIELD2": "34.35"
+ ,
+ 
+    "JSYN",
+   "FIELD2": "10.24"
+ ,
+ 
+    "JSYNR",
+   "FIELD2": "0.29"
+ ,
+ 
+    "JSYNU",
+   "FIELD2": "10.72"
+ ,
+ 
+    "JSYNW",
+   "FIELD2": "0.2"
+ ,
+ 
+    "JBLU",
+   "FIELD2": "21.53"
+ ,
+ 
+    "JTPY",
+   "FIELD2": "2"
+ ,
+ 
+    "JCTCF",
+   "FIELD2": "11.9859"
+ ,
+ 
+    "JIVE",
+   "FIELD2": "4.7"
+ ,
+ 
+    "WYIG",
+   "FIELD2": "9.98"
+ ,
+ 
+    "WYIGU",
+   "FIELD2": "10.4"
+ ,
+ 
+    "WYIGW",
+   "FIELD2": "0.43"
+ ,
+ 
+    "JMU",
+   "FIELD2": "2.33"
+ ,
+ 
+    "JBSS",
+   "FIELD2": "72.97"
+ ,
+ 
+    "JOUT",
+   "FIELD2": "36.07"
+ ,
+ 
+    "JNCE",
+   "FIELD2": "24.16"
+ ,
+ 
+    "JNP",
+   "FIELD2": "4"
+ ,
+ 
+    "JUNO",
+   "FIELD2": "23.79"
+ ,
+ 
+    "KTWO",
+   "FIELD2": "21.21"
+ ,
+ 
+    "KALU",
+   "FIELD2": "83.36"
+ ,
+ 
+    "KALV",
+   "FIELD2": "7.08"
+ ,
+ 
+    "KMDA",
+   "FIELD2": "6.94"
+ ,
+ 
+    "KNDI",
+   "FIELD2": "3.8"
+ ,
+ 
+    "KPTI",
+   "FIELD2": "11.31"
+ ,
+ 
+    "KAACU",
+   "FIELD2": "10.04"
+ ,
+ 
+    "KBSF",
+   "FIELD2": "5.1"
+ ,
+ 
+    "KCAP",
+   "FIELD2": "3.75"
+ ,
+ 
+    "KRNY",
+   "FIELD2": "15.2"
+ ,
+ 
+    "KELYA",
+   "FIELD2": "21.65"
+ ,
+ 
+    "KELYB",
+   "FIELD2": "21"
+ ,
+ 
+    "KMPH",
+   "FIELD2": "4.25"
+ ,
+ 
+    "KFFB",
+   "FIELD2": "9.7"
+ ,
+ 
+    "KERX",
+   "FIELD2": "5.69"
+ ,
+ 
+    "KEQU",
+   "FIELD2": "22.95"
+ ,
+ 
+    "KTEC",
+   "FIELD2": "13.14"
+ ,
+ 
+    "KTCC",
+   "FIELD2": "7.11"
+ ,
+ 
+    "KFRC",
+   "FIELD2": "22.65"
+ ,
+ 
+    "KE",
+   "FIELD2": "17.1"
+ ,
+ 
+    "KBAL",
+   "FIELD2": "17.43"
+ ,
+ 
+    "KIN",
+   "FIELD2": "7.15"
+ ,
+ 
+    "KGJI",
+   "FIELD2": "1.39"
+ ,
+ 
+    "KINS",
+   "FIELD2": "15.3"
+ ,
+ 
+    "KONE",
+   "FIELD2": "3.58"
+ ,
+ 
+    "KNSL",
+   "FIELD2": "33.92"
+ ,
+ 
+    "KIRK",
+   "FIELD2": "12.25"
+ ,
+ 
+    "KITE",
+   "FIELD2": "79.5"
+ ,
+ 
+    "KTOV",
+   "FIELD2": "1.85"
+ ,
+ 
+    "KTOVW",
+   "FIELD2": "0.49"
+ ,
+ 
+    "KLAC",
+   "FIELD2": "98.37"
+ ,
+ 
+    "KLRE",
+   "FIELD2": "10.4"
+ ,
+ 
+    "KLREU",
+   "FIELD2": "11.6107"
+ ,
+ 
+    "KLREW",
+   "FIELD2": "1.3"
+ ,
+ 
+    "KLXI",
+   "FIELD2": "47.4"
+ ,
+ 
+    "KONA",
+   "FIELD2": "5.4"
+ ,
+ 
+    "KOPN",
+   "FIELD2": "3.77"
+ ,
+ 
+    "KRNT",
+   "FIELD2": "20.1"
+ ,
+ 
+    "KOSS",
+   "FIELD2": "2.06"
+ ,
+ 
+    "KWEB",
+   "FIELD2": "43.54"
+ ,
+ 
+    "KTOS",
+   "FIELD2": "7.6"
+ ,
+ 
+    "KLIC",
+   "FIELD2": "20.64"
+ ,
+ 
+    "KURA",
+   "FIELD2": "10.4"
+ ,
+ 
+    "KVHI",
+   "FIELD2": "8.3"
+ ,
+ 
+    "FSTR",
+   "FIELD2": "13.4"
+ ,
+ 
+    "LJPC",
+   "FIELD2": "28.59"
+ ,
+ 
+    "LSBK",
+   "FIELD2": "15.67"
+ ,
+ 
+    "LBAI",
+   "FIELD2": "19.25"
+ ,
+ 
+    "LKFN",
+   "FIELD2": "44.11"
+ ,
+ 
+    "LAKE",
+   "FIELD2": "10.45"
+ ,
+ 
+    "LRCX",
+   "FIELD2": "139.98"
+ ,
+ 
+    "LAMR",
+   "FIELD2": "73"
+ ,
+ 
+    "LANC",
+   "FIELD2": "128.52"
+ ,
+ 
+    "LCA",
+   "FIELD2": "9.97"
+ ,
+ 
+    "LCAHU",
+   "FIELD2": "10.73"
+ ,
+ 
+    "LCAHW",
+   "FIELD2": "0.68"
+ ,
+ 
+    "LNDC",
+   "FIELD2": "14.2"
+ ,
+ 
+    "LARK",
+   "FIELD2": "30.06"
+ ,
+ 
+    "LMRK",
+   "FIELD2": "15.85"
+ ,
+ 
+    "LMRKO",
+   "FIELD2": "25.25"
+ ,
+ 
+    "LMRKP",
+   "FIELD2": "25.44"
+ ,
+ 
+    "LE",
+   "FIELD2": "21.5"
+ ,
+ 
+    "LSTR",
+   "FIELD2": "85.45"
+ ,
+ 
+    "LNTH",
+   "FIELD2": "11.6"
+ ,
+ 
+    "LTRX",
+   "FIELD2": "3.18"
+ ,
+ 
+    "LSCC",
+   "FIELD2": "6.85"
+ ,
+ 
+    "LAUR",
+   "FIELD2": "14.26"
+ ,
+ 
+    "LAWS",
+   "FIELD2": "21.5"
+ ,
+ 
+    "LAYN",
+   "FIELD2": "8.06"
+ ,
+ 
+    "LCNB",
+   "FIELD2": "21.8"
+ ,
+ 
+    "LBIX",
+   "FIELD2": "1.9"
+ ,
+ 
+    "LPTX",
+   "FIELD2": "7.25"
+ ,
+ 
+    "LGCY",
+   "FIELD2": "2.14"
+ ,
+ 
+    "LGCYO",
+   "FIELD2": "9.08"
+ ,
+ 
+    "LGCYP",
+   "FIELD2": "8.84"
+ ,
+ 
+    "LTXB",
+   "FIELD2": "36.76"
+ ,
+ 
+    "DDBI",
+   "FIELD2": "25.8578"
+ ,
+ 
+    "EDBI",
+   "FIELD2": "29.03"
+ ,
+ 
+    "INFR",
+   "FIELD2": "27.096"
+ ,
+ 
+    "LVHD",
+   "FIELD2": "29.74"
+ ,
+ 
+    "UDBI",
+   "FIELD2": "28.51"
+ ,
+ 
+    "LMAT",
+   "FIELD2": "25.14"
+ ,
+ 
+    "TREE",
+   "FIELD2": "127.15"
+ ,
+ 
+    "LXRX",
+   "FIELD2": "14.97"
+ ,
+ 
+    "LGIH",
+   "FIELD2": "30.98"
+ ,
+ 
+    "LHCG",
+   "FIELD2": "52.78"
+ ,
+ 
+    "LLIT",
+   "FIELD2": "1.55"
+ ,
+ 
+    "LBRDA",
+   "FIELD2": "87.8"
+ ,
+ 
+    "LBRDK",
+   "FIELD2": "89.05"
+ ,
+ 
+    "LEXEA",
+   "FIELD2": "47.29"
+ ,
+ 
+    "LEXEB",
+   "FIELD2": "46.927"
+ ,
+ 
+    "LBTYA",
+   "FIELD2": "34.53"
+ ,
+ 
+    "LBTYB",
+   "FIELD2": "35.5"
+ ,
+ 
+    "LBTYK",
+   "FIELD2": "33.74"
+ ,
+ 
+    "LILA",
+   "FIELD2": "21.79"
+ ,
+ 
+    "LILAK",
+   "FIELD2": "22.39"
+ ,
+ 
+    "LVNTA",
+   "FIELD2": "52.23"
+ ,
+ 
+    "LVNTB",
+   "FIELD2": "44.86"
+ ,
+ 
+    "QVCA",
+   "FIELD2": "21.17"
+ ,
+ 
+    "QVCB",
+   "FIELD2": "21.64"
+ ,
+ 
+    "BATRA",
+   "FIELD2": "24.52"
+ ,
+ 
+    "BATRK",
+   "FIELD2": "24.28"
+ ,
+ 
+    "FWONA",
+   "FIELD2": "32.99"
+ ,
+ 
+    "FWONK",
+   "FIELD2": "34.64"
+ ,
+ 
+    "LSXMA",
+   "FIELD2": "39.71"
+ ,
+ 
+    "LSXMB",
+   "FIELD2": "38.9783"
+ ,
+ 
+    "LSXMK",
+   "FIELD2": "39.54"
+ ,
+ 
+    "TAX",
+   "FIELD2": "14.3"
+ ,
+ 
+    "LTRPA",
+   "FIELD2": "13.75"
+ ,
+ 
+    "LTRPB",
+   "FIELD2": "14.3"
+ ,
+ 
+    "LPNT",
+   "FIELD2": "60.85"
+ ,
+ 
+    "LCUT",
+   "FIELD2": "20.25"
+ ,
+ 
+    "LFVN",
+   "FIELD2": "5.02"
+ ,
+ 
+    "LWAY",
+   "FIELD2": "9.9"
+ ,
+ 
+    "LGND",
+   "FIELD2": "104.39"
+ ,
+ 
+    "LTBR",
+   "FIELD2": "1.25"
+ ,
+ 
+    "LPTH",
+   "FIELD2": "2.83"
+ ,
+ 
+    "LLEX",
+   "FIELD2": "4.18"
+ ,
+ 
+    "LMB",
+   "FIELD2": "13.37"
+ ,
+ 
+    "LLNW",
+   "FIELD2": "2.65"
+ ,
+ 
+    "LMNR",
+   "FIELD2": "20.47"
+ ,
+ 
+    "LINC",
+   "FIELD2": "2.96"
+ ,
+ 
+    "LECO",
+   "FIELD2": "87.52"
+ ,
+ 
+    "LIND",
+   "FIELD2": "9.3"
+ ,
+ 
+    "LINDW",
+   "FIELD2": "1.97"
+ ,
+ 
+    "LBIO",
+   "FIELD2": "6.6"
+ ,
+ 
+    "LPCN",
+   "FIELD2": "3.7"
+ ,
+ 
+    "LQDT",
+   "FIELD2": "7.6"
+ ,
+ 
+    "LFUS",
+   "FIELD2": "153.11"
+ ,
+ 
+    "LIVN",
+   "FIELD2": "51.75"
+ ,
+ 
+    "LOB",
+   "FIELD2": "21.9"
+ ,
+ 
+    "LIVE",
+   "FIELD2": "15.1663"
+ ,
+ 
+    "LPSN",
+   "FIELD2": "7"
+ ,
+ 
+    "LKQ",
+   "FIELD2": "29.01"
+ ,
+ 
+    "LMFA",
+   "FIELD2": "4.11"
+ ,
+ 
+    "LMFAW",
+   "FIELD2": "0.1201"
+ ,
+ 
+    "LMIA",
+   "FIELD2": "13.87"
+ ,
+ 
+    "LOGI",
+   "FIELD2": "30.99"
+ ,
+ 
+    "LOGM",
+   "FIELD2": "107.35"
+ ,
+ 
+    "EVAR",
+   "FIELD2": "0.5802"
+ ,
+ 
+    "CNCR",
+   "FIELD2": "22.72"
+ ,
+ 
+    "LONE",
+   "FIELD2": "5.02"
+ ,
+ 
+    "LTEA",
+   "FIELD2": "4.51"
+ ,
+ 
+    "LORL",
+   "FIELD2": "37.45"
+ ,
+ 
+    "LOXO",
+   "FIELD2": "47.79"
+ ,
+ 
+    "LPLA",
+   "FIELD2": "39.01"
+ ,
+ 
+    "LRAD",
+   "FIELD2": "1.31"
+ ,
+ 
+    "LYTS",
+   "FIELD2": "9.29"
+ ,
+ 
+    "LULU",
+   "FIELD2": "53.08"
+ ,
+ 
+    "LITE",
+   "FIELD2": "45.2"
+ ,
+ 
+    "LMNX",
+   "FIELD2": "18.25"
+ ,
+ 
+    "LMOS",
+   "FIELD2": "17.83"
+ ,
+ 
+    "LUNA",
+   "FIELD2": "1.47"
+ ,
+ 
+    "MBTF",
+   "FIELD2": "11.5"
+ ,
+ 
+    "MACQ",
+   "FIELD2": "10.12"
+ ,
+ 
+    "MACQU",
+   "FIELD2": "10.4"
+ ,
+ 
+    "MACQW",
+   "FIELD2": "0.35"
+ ,
+ 
+    "MIII",
+   "FIELD2": "9.84"
+ ,
+ 
+    "MIIIU",
+   "FIELD2": "10.1092"
+ ,
+ 
+    "MIIIW",
+   "FIELD2": "0.32"
+ ,
+ 
+    "MBVX",
+   "FIELD2": "1.89"
+ ,
+ 
+    "MCBC",
+   "FIELD2": "9.79"
+ ,
+ 
+    "MFNC",
+   "FIELD2": "13.4117"
+ ,
+ 
+    "MTSI",
+   "FIELD2": "51.74"
+ ,
+ 
+    "MGNX",
+   "FIELD2": "20.48"
+ ,
+ 
+    "MDGL",
+   "FIELD2": "15.9"
+ ,
+ 
+    "MAGS",
+   "FIELD2": "6.71"
+ ,
+ 
+    "MGLN",
+   "FIELD2": "70.7"
+ ,
+ 
+    "MGIC",
+   "FIELD2": "7.85"
+ ,
+ 
+    "CALL",
+   "FIELD2": "8.5"
+ ,
+ 
+    "MNGA",
+   "FIELD2": "0.3"
+ ,
+ 
+    "MGYR",
+   "FIELD2": "12.56"
+ ,
+ 
+    "MHLD",
+   "FIELD2": "12.25"
+ ,
+ 
+    "MSFG",
+   "FIELD2": "33.12"
+ ,
+ 
+    "MMYT",
+   "FIELD2": "37.75"
+ ,
+ 
+    "MBUU",
+   "FIELD2": "22.35"
+ ,
+ 
+    "MLVF",
+   "FIELD2": "21.7"
+ ,
+ 
+    "MAMS",
+   "FIELD2": "6.23"
+ ,
+ 
+    "TUSK",
+   "FIELD2": "19.36"
+ ,
+ 
+    "MANH",
+   "FIELD2": "45.76"
+ ,
+ 
+    "LOAN",
+   "FIELD2": "5.1"
+ ,
+ 
+    "MNTX",
+   "FIELD2": "7.03"
+ ,
+ 
+    "MTEX",
+   "FIELD2": "16.4"
+ ,
+ 
+    "MNKD",
+   "FIELD2": "0.925"
+ ,
+ 
+    "MANT",
+   "FIELD2": "35.19"
+ ,
+ 
+    "MAPI",
+   "FIELD2": "n/a"
+ ,
+ 
+    "MARA",
+   "FIELD2": "0.5999"
+ ,
+ 
+    "MCHX",
+   "FIELD2": "2.68"
+ ,
+ 
+    "MARPS",
+   "FIELD2": "3.9347"
+ ,
+ 
+    "MRNS",
+   "FIELD2": "1.47"
+ ,
+ 
+    "MKTX",
+   "FIELD2": "184.6"
+ ,
+ 
+    "MRLN",
+   "FIELD2": "25.3"
+ ,
+ 
+    "MAR",
+   "FIELD2": "92.47"
+ ,
+ 
+    "MBII",
+   "FIELD2": "1.77"
+ ,
+ 
+    "MRTN",
+   "FIELD2": "23.95"
+ ,
+ 
+    "MMLP",
+   "FIELD2": "19.65"
+ ,
+ 
+    "MRVL",
+   "FIELD2": "14.9"
+ ,
+ 
+    "MASI",
+   "FIELD2": "97.53"
+ ,
+ 
+    "MTCH",
+   "FIELD2": "18.17"
+ ,
+ 
+    "MTLS",
+   "FIELD2": "9.66"
+ ,
+ 
+    "MPACU",
+   "FIELD2": "10.04"
+ ,
+ 
+    "MTRX",
+   "FIELD2": "16.7"
+ ,
+ 
+    "MAT",
+   "FIELD2": "21.79"
+ ,
+ 
+    "MATR",
+   "FIELD2": "3.3"
+ ,
+ 
+    "MATW",
+   "FIELD2": "67.55"
+ ,
+ 
+    "MXIM",
+   "FIELD2": "44.92"
+ ,
+ 
+    "MXPT",
+   "FIELD2": "5.99"
+ ,
+ 
+    "MXWL",
+   "FIELD2": "5.83"
+ ,
+ 
+    "MZOR",
+   "FIELD2": "35.68"
+ ,
+ 
+    "MBFI",
+   "FIELD2": "41.35"
+ ,
+ 
+    "MBFIP",
+   "FIELD2": "26.63"
+ ,
+ 
+    "MCFT",
+   "FIELD2": "16.25"
+ ,
+ 
+    "MGRC",
+   "FIELD2": "34.66"
+ ,
+ 
+    "MDCA",
+   "FIELD2": "8.4"
+ ,
+ 
+    "MFIN",
+   "FIELD2": "2.05"
+ ,
+ 
+    "MFINL",
+   "FIELD2": "17.12"
+ ,
+ 
+    "MTBC",
+   "FIELD2": "0.45"
+ ,
+ 
+    "MTBCP",
+   "FIELD2": "25.3259"
+ ,
+ 
+    "MNOV",
+   "FIELD2": "5.83"
+ ,
+ 
+    "MDSO",
+   "FIELD2": "63"
+ ,
+ 
+    "MDGS",
+   "FIELD2": "2.71"
+ ,
+ 
+    "MDWD",
+   "FIELD2": "6.65"
+ ,
+ 
+    "MDVX",
+   "FIELD2": "1.3"
+ ,
+ 
+    "MDVXW",
+   "FIELD2": "0.2"
+ ,
+ 
+    "MEDP",
+   "FIELD2": "30.46"
+ ,
+ 
+    "MEIP",
+   "FIELD2": "1.57"
+ ,
+ 
+    "MLCO",
+   "FIELD2": "20.55"
+ ,
+ 
+    "MLNX",
+   "FIELD2": "51.5"
+ ,
+ 
+    "MELR",
+   "FIELD2": "17.15"
+ ,
+ 
+    "MEMP",
+   "FIELD2": "0.1299"
+ ,
+ 
+    "MTSL",
+   "FIELD2": "0.56"
+ ,
+ 
+    "MELI",
+   "FIELD2": "223.82"
+ ,
+ 
+    "MBWM",
+   "FIELD2": "33.69"
+ ,
+ 
+    "MERC",
+   "FIELD2": "11.65"
+ ,
+ 
+    "MBVT",
+   "FIELD2": "48.6"
+ ,
+ 
+    "MRCY",
+   "FIELD2": "39.61"
+ ,
+ 
+    "EBSB",
+   "FIELD2": "18.6"
+ ,
+ 
+    "VIVO",
+   "FIELD2": "13.65"
+ ,
+ 
+    "MRDN",
+   "FIELD2": "3.4241"
+ ,
+ 
+    "MRDNW",
+   "FIELD2": "0.5806"
+ ,
+ 
+    "MMSI",
+   "FIELD2": "29"
+ ,
+ 
+    "MACK",
+   "FIELD2": "3.12"
+ ,
+ 
+    "MSLI",
+   "FIELD2": "0.7713"
+ ,
+ 
+    "MRUS",
+   "FIELD2": "19.72"
+ ,
+ 
+    "MLAB",
+   "FIELD2": "141.5"
+ ,
+ 
+    "MESO",
+   "FIELD2": "11.2"
+ ,
+ 
+    "CASH",
+   "FIELD2": "91"
+ ,
+ 
+    "MEOH",
+   "FIELD2": "44.65"
+ ,
+ 
+    "MGCD",
+   "FIELD2": "8.45"
+ ,
+ 
+    "MGEE",
+   "FIELD2": "65"
+ ,
+ 
+    "MGPI",
+   "FIELD2": "52.92"
+ ,
+ 
+    "MBOT",
+   "FIELD2": "4.95"
+ ,
+ 
+    "MCHP",
+   "FIELD2": "74.43"
+ ,
+ 
+    "MU",
+   "FIELD2": "27.32"
+ ,
+ 
+    "MICT",
+   "FIELD2": "1.2"
+ ,
+ 
+    "MICTW",
+   "FIELD2": "0.16"
+ ,
+ 
+    "MSCC",
+   "FIELD2": "49.1"
+ ,
+ 
+    "MSFT",
+   "FIELD2": "66.4"
+ ,
+ 
+    "MSTR",
+   "FIELD2": "187.59"
+ ,
+ 
+    "MVIS",
+   "FIELD2": "2.61"
+ ,
+ 
+    "MPB",
+   "FIELD2": "27.05"
+ ,
+ 
+    "MTP",
+   "FIELD2": "2.93"
+ ,
+ 
+    "MCEP",
+   "FIELD2": "2.3"
+ ,
+ 
+    "MBCN",
+   "FIELD2": "45.6999"
+ ,
+ 
+    "MSEX",
+   "FIELD2": "39.25"
+ ,
+ 
+    "MSBI",
+   "FIELD2": "32.9"
+ ,
+ 
+    "MOFG",
+   "FIELD2": "34.67"
+ ,
+ 
+    "MIME",
+   "FIELD2": "23.17"
+ ,
+ 
+    "MDXG",
+   "FIELD2": "11.52"
+ ,
+ 
+    "MNDO",
+   "FIELD2": "2.47"
+ ,
+ 
+    "MB",
+   "FIELD2": "27.4"
+ ,
+ 
+    "NERV",
+   "FIELD2": "6.8"
+ ,
+ 
+    "MGEN",
+   "FIELD2": "11.85"
+ ,
+ 
+    "MRTX",
+   "FIELD2": "4.25"
+ ,
+ 
+    "MIRN",
+   "FIELD2": "2.04"
+ ,
+ 
+    "MSON",
+   "FIELD2": "11"
+ ,
+ 
+    "MIND",
+   "FIELD2": "4.22"
+ ,
+ 
+    "MINDP",
+   "FIELD2": "23.29"
+ ,
+ 
+    "MITK",
+   "FIELD2": "7.15"
+ ,
+ 
+    "MITL",
+   "FIELD2": "6.83"
+ ,
+ 
+    "MKSI",
+   "FIELD2": "71"
+ ,
+ 
+    "MMAC",
+   "FIELD2": "23.1927"
+ ,
+ 
+    "MINI",
+   "FIELD2": "29.85"
+ ,
+ 
+    "MOBL",
+   "FIELD2": "4.375"
+ ,
+ 
+    "MOCO",
+   "FIELD2": "29.8"
+ ,
+ 
+    "MMDM",
+   "FIELD2": "n/a"
+ ,
+ 
+    "MMDMU",
+   "FIELD2": "n/a"
+ ,
+ 
+    "MDSY",
+   "FIELD2": "0.71"
+ ,
+ 
+    "MLNK",
+   "FIELD2": "1.55"
+ ,
+ 
+    "MBRX",
+   "FIELD2": "0.88"
+ ,
+ 
+    "MNTA",
+   "FIELD2": "13.1"
+ ,
+ 
+    "MOMO",
+   "FIELD2": "38.32"
+ ,
+ 
+    "MCRI",
+   "FIELD2": "29.42"
+ ,
+ 
+    "MDLZ",
+   "FIELD2": "44.94"
+ ,
+ 
+    "MGI",
+   "FIELD2": "17.79"
+ ,
+ 
+    "MPWR",
+   "FIELD2": "93.37"
+ ,
+ 
+    "TYPE",
+   "FIELD2": "20.15"
+ ,
+ 
+    "MNRO",
+   "FIELD2": "54.1"
+ ,
+ 
+    "MRCC",
+   "FIELD2": "15.89"
+ ,
+ 
+    "MNST",
+   "FIELD2": "45.39"
+ ,
+ 
+    "MSDI",
+   "FIELD2": "0.7627"
+ ,
+ 
+    "MSDIW",
+   "FIELD2": "0.18"
+ ,
+ 
+    "MORN",
+   "FIELD2": "78.66"
+ ,
+ 
+    "MOSY",
+   "FIELD2": "1.22"
+ ,
+ 
+    "MTFB",
+   "FIELD2": "10.28"
+ ,
+ 
+    "MTFBW",
+   "FIELD2": "2.35"
+ ,
+ 
+    "MPAA",
+   "FIELD2": "29.47"
+ ,
+ 
+    "MPVD",
+   "FIELD2": "3.3"
+ ,
+ 
+    "MOXC",
+   "FIELD2": "2.29"
+ ,
+ 
+    "MRIC",
+   "FIELD2": "6"
+ ,
+ 
+    "MRVC",
+   "FIELD2": "9.55"
+ ,
+ 
+    "MSBF",
+   "FIELD2": "17"
+ ,
+ 
+    "MSG",
+   "FIELD2": "199.58"
+ ,
+ 
+    "MTGE",
+   "FIELD2": "17.6"
+ ,
+ 
+    "MTGEP",
+   "FIELD2": "25.5"
+ ,
+ 
+    "MTSC",
+   "FIELD2": "46.15"
+ ,
+ 
+    "LABL",
+   "FIELD2": "72.75"
+ ,
+ 
+    "MFSF",
+   "FIELD2": "31.8"
+ ,
+ 
+    "MYSZ",
+   "FIELD2": "1.9699"
+ ,
+ 
+    "MYL",
+   "FIELD2": "36.83"
+ ,
+ 
+    "MYOK",
+   "FIELD2": "12.65"
+ ,
+ 
+    "MYOS",
+   "FIELD2": "2.25"
+ ,
+ 
+    "MYRG",
+   "FIELD2": "41.17"
+ ,
+ 
+    "MYGN",
+   "FIELD2": "17.61"
+ ,
+ 
+    "NBRV",
+   "FIELD2": "10.98"
+ ,
+ 
+    "NAKD",
+   "FIELD2": "2.03"
+ ,
+ 
+    "NNDM",
+   "FIELD2": "6.33"
+ ,
+ 
+    "NANO",
+   "FIELD2": "29.39"
+ ,
+ 
+    "NSTG",
+   "FIELD2": "17.42"
+ ,
+ 
+    "NH",
+   "FIELD2": "3.3"
+ ,
+ 
+    "NK",
+   "FIELD2": "3.31"
+ ,
+ 
+    "NSSC",
+   "FIELD2": "10.25"
+ ,
+ 
+    "NDAQ",
+   "FIELD2": "69.91"
+ ,
+ 
+    "NTRA",
+   "FIELD2": "8.39"
+ ,
+ 
+    "NATH",
+   "FIELD2": "64.7"
+ ,
+ 
+    "NAUH",
+   "FIELD2": "2.4653"
+ ,
+ 
+    "NKSH",
+   "FIELD2": "41.95"
+ ,
+ 
+    "FIZZ",
+   "FIELD2": "85.49"
+ ,
+ 
+    "NCMI",
+   "FIELD2": "12.48"
+ ,
+ 
+    "NCOM",
+   "FIELD2": "37.75"
+ ,
+ 
+    "NGHC",
+   "FIELD2": "22.36"
+ ,
+ 
+    "NGHCN",
+   "FIELD2": "25.16"
+ ,
+ 
+    "NGHCO",
+   "FIELD2": "25.15"
+ ,
+ 
+    "NGHCP",
+   "FIELD2": "25.4"
+ ,
+ 
+    "NGHCZ",
+   "FIELD2": "25"
+ ,
+ 
+    "NHLD",
+   "FIELD2": "2.62"
+ ,
+ 
+    "NHLDW",
+   "FIELD2": "0.5709"
+ ,
+ 
+    "NATI",
+   "FIELD2": "33.45"
+ ,
+ 
+    "NRCIA",
+   "FIELD2": "22.95"
+ ,
+ 
+    "NRCIB",
+   "FIELD2": "41.5"
+ ,
+ 
+    "NSEC",
+   "FIELD2": "16.83"
+ ,
+ 
+    "NWLI",
+   "FIELD2": "312.95"
+ ,
+ 
+    "NAII",
+   "FIELD2": "9.45"
+ ,
+ 
+    "NHTC",
+   "FIELD2": "28.12"
+ ,
+ 
+    "NATR",
+   "FIELD2": "10"
+ ,
+ 
+    "BABY",
+   "FIELD2": "40.25"
+ ,
+ 
+    "ISM",
+   "FIELD2": "25.15"
+ ,
+ 
+    "JSM",
+   "FIELD2": "23.09"
+ ,
+ 
+    "NAVI",
+   "FIELD2": "15.78"
+ ,
+ 
+    "NBCP",
+   "FIELD2": "n/a"
+ ,
+ 
+    "NBTB",
+   "FIELD2": "37.65"
+ ,
+ 
+    "NCIT",
+   "FIELD2": "13.85"
+ ,
+ 
+    "NKTR",
+   "FIELD2": "18.37"
+ ,
+ 
+    "NEOG",
+   "FIELD2": "61.4"
+ ,
+ 
+    "NEO",
+   "FIELD2": "8.53"
+ ,
+ 
+    "NEON",
+   "FIELD2": "1.55"
+ ,
+ 
+    "NEOS",
+   "FIELD2": "7.05"
+ ,
+ 
+    "NEOT",
+   "FIELD2": "1.88"
+ ,
+ 
+    "NVCN",
+   "FIELD2": "1.65"
+ ,
+ 
+    "NEPT",
+   "FIELD2": "0.99"
+ ,
+ 
+    "UEPS",
+   "FIELD2": "10.98"
+ ,
+ 
+    "NETE",
+   "FIELD2": "0.81"
+ ,
+ 
+    "NTAP",
+   "FIELD2": "39.49"
+ ,
+ 
+    "NTES",
+   "FIELD2": "268.97"
+ ,
+ 
+    "NFLX",
+   "FIELD2": "142.87"
+ ,
+ 
+    "NTGR",
+   "FIELD2": "50.6"
+ ,
+ 
+    "NLST",
+   "FIELD2": "1.32"
+ ,
+ 
+    "NTCT",
+   "FIELD2": "36.5"
+ ,
+ 
+    "NTWK",
+   "FIELD2": "4.7"
+ ,
+ 
+    "CUR",
+   "FIELD2": "4.88"
+ ,
+ 
+    "NBIX",
+   "FIELD2": "51.1"
+ ,
+ 
+    "NDRM",
+   "FIELD2": "26.65"
+ ,
+ 
+    "NURO",
+   "FIELD2": "0.67"
+ ,
+ 
+    "NUROW",
+   "FIELD2": "0.05"
+ ,
+ 
+    "NTRP",
+   "FIELD2": "18.61"
+ ,
+ 
+    "NBEV",
+   "FIELD2": "3.74"
+ ,
+ 
+    "NYMT",
+   "FIELD2": "6.35"
+ ,
+ 
+    "NYMTO",
+   "FIELD2": "23.85"
+ ,
+ 
+    "NYMTP",
+   "FIELD2": "23.9"
+ ,
+ 
+    "NLNK",
+   "FIELD2": "18.08"
+ ,
+ 
+    "NWS",
+   "FIELD2": "13.3"
+ ,
+ 
+    "NWSA",
+   "FIELD2": "12.89"
+ ,
+ 
+    "NEWS",
+   "FIELD2": "10.58"
+ ,
+ 
+    "NEWT",
+   "FIELD2": "16.54"
+ ,
+ 
+    "NEWTL",
+   "FIELD2": "25.402"
+ ,
+ 
+    "NEWTZ",
+   "FIELD2": "26.44"
+ ,
+ 
+    "NXEO",
+   "FIELD2": "8.81"
+ ,
+ 
+    "NXEOU",
+   "FIELD2": "8.82"
+ ,
+ 
+    "NXEOW",
+   "FIELD2": "0.69"
+ ,
+ 
+    "NXST",
+   "FIELD2": "69.1"
+ ,
+ 
+    "NVET",
+   "FIELD2": "6.6"
+ ,
+ 
+    "NFEC",
+   "FIELD2": "1.11"
+ ,
+ 
+    "NODK",
+   "FIELD2": "15.59"
+ ,
+ 
+    "EGOV",
+   "FIELD2": "20.9"
+ ,
+ 
+    "NICE",
+   "FIELD2": "67.79"
+ ,
+ 
+    "NICK",
+   "FIELD2": "10.11"
+ ,
+ 
+    "NCBS",
+   "FIELD2": "48.11"
+ ,
+ 
+    "NIHD",
+   "FIELD2": "1.05"
+ ,
+ 
+    "NVLS",
+   "FIELD2": "2.26"
+ ,
+ 
+    "NMIH",
+   "FIELD2": "11.95"
+ ,
+ 
+    "NNBR",
+   "FIELD2": "25.8"
+ ,
+ 
+    "NDLS",
+   "FIELD2": "5.45"
+ ,
+ 
+    "NDSN",
+   "FIELD2": "121.49"
+ ,
+ 
+    "NSYS",
+   "FIELD2": "3.74"
+ ,
+ 
+    "NBN",
+   "FIELD2": "16.25"
+ ,
+ 
+    "NTIC",
+   "FIELD2": "16.695"
+ ,
+ 
+    "NTRS",
+   "FIELD2": "87.36"
+ ,
+ 
+    "NTRSP",
+   "FIELD2": "27.38"
+ ,
+ 
+    "NFBK",
+   "FIELD2": "18.1"
+ ,
+ 
+    "NRIM",
+   "FIELD2": "30.4"
+ ,
+ 
+    "NWBI",
+   "FIELD2": "16.94"
+ ,
+ 
+    "NWPX",
+   "FIELD2": "14.21"
+ ,
+ 
+    "NCLH",
+   "FIELD2": "50.13"
+ ,
+ 
+    "NWFL",
+   "FIELD2": "39.36"
+ ,
+ 
+    "NVFY",
+   "FIELD2": "1.6"
+ ,
+ 
+    "NVMI",
+   "FIELD2": "18.41"
+ ,
+ 
+    "NVDQ",
+   "FIELD2": "7.3"
+ ,
+ 
+    "NOVN",
+   "FIELD2": "5.41"
+ ,
+ 
+    "NOVT",
+   "FIELD2": "27.3"
+ ,
+ 
+    "NVAX",
+   "FIELD2": "0.8291"
+ ,
+ 
+    "NVLN",
+   "FIELD2": "10.3"
+ ,
+ 
+    "NVCR",
+   "FIELD2": "11.45"
+ ,
+ 
+    "NVGN",
+   "FIELD2": "0.96"
+ ,
+ 
+    "NUAN",
+   "FIELD2": "17.03"
+ ,
+ 
+    "NMRX",
+   "FIELD2": "4.29"
+ ,
+ 
+    "NTNX",
+   "FIELD2": "16.28"
+ ,
+ 
+    "NUTR",
+   "FIELD2": "29.9"
+ ,
+ 
+    "NTRI",
+   "FIELD2": "55.5"
+ ,
+ 
+    "NUVA",
+   "FIELD2": "75.02"
+ ,
+ 
+    "NVTR",
+   "FIELD2": "7.52"
+ ,
+ 
+    "QQQX",
+   "FIELD2": "21.22"
+ ,
+ 
+    "NVEE",
+   "FIELD2": "37.6"
+ ,
+ 
+    "NVEC",
+   "FIELD2": "81.8"
+ ,
+ 
+    "NVDA",
+   "FIELD2": "101.68"
+ ,
+ 
+    "NXPI",
+   "FIELD2": "104.36"
+ ,
+ 
+    "NXTM",
+   "FIELD2": "27.9"
+ ,
+ 
+    "NXTD",
+   "FIELD2": "1.6517"
+ ,
+ 
+    "NXTDW",
+   "FIELD2": "0.17"
+ ,
+ 
+    "NYMX",
+   "FIELD2": "4.5"
+ ,
+ 
+    "OIIM",
+   "FIELD2": "2.49"
+ ,
+ 
+    "OVLY",
+   "FIELD2": "13.95"
+ ,
+ 
+    "OASM",
+   "FIELD2": "2.1742"
+ ,
+ 
+    "OBLN",
+   "FIELD2": "11.04"
+ ,
+ 
+    "OBSV",
+   "FIELD2": "6.63"
+ ,
+ 
+    "OBCI",
+   "FIELD2": "4.7944"
+ ,
+ 
+    "OPTT",
+   "FIELD2": "1.83"
+ ,
+ 
+    "ORIG",
+   "FIELD2": "0.228"
+ ,
+ 
+    "OCFC",
+   "FIELD2": "28.07"
+ ,
+ 
+    "OCRX",
+   "FIELD2": "1.3"
+ ,
+ 
+    "OCLR",
+   "FIELD2": "8.85"
+ ,
+ 
+    "OFED",
+   "FIELD2": "25.75"
+ ,
+ 
+    "OCUL",
+   "FIELD2": "8.725"
+ ,
+ 
+    "OMEX",
+   "FIELD2": "3.8"
+ ,
+ 
+    "ODP",
+   "FIELD2": "4.87"
+ ,
+ 
+    "OFS",
+   "FIELD2": "14.41"
+ ,
+ 
+    "OHAI",
+   "FIELD2": "1.55"
+ ,
+ 
+    "OVBC",
+   "FIELD2": "28.5"
+ ,
+ 
+    "OHRP",
+   "FIELD2": "0.72"
+ ,
+ 
+    "OKTA",
+   "FIELD2": "24.29"
+ ,
+ 
+    "ODFL",
+   "FIELD2": "84.33"
+ ,
+ 
+    "OLBK",
+   "FIELD2": "27.42"
+ ,
+ 
+    "ONB",
+   "FIELD2": "16.85"
+ ,
+ 
+    "OPOF",
+   "FIELD2": "30.12"
+ ,
+ 
+    "OSBC",
+   "FIELD2": "11.45"
+ ,
+ 
+    "OSBCP",
+   "FIELD2": "10.3779"
+ ,
+ 
+    "OLLI",
+   "FIELD2": "36.95"
+ ,
+ 
+    "ZEUS",
+   "FIELD2": "18.51"
+ ,
+ 
+    "OFLX",
+   "FIELD2": "50.47"
+ ,
+ 
+    "OMER",
+   "FIELD2": "16.01"
+ ,
+ 
+    "OMNT",
+   "FIELD2": "13.25"
+ ,
+ 
+    "OMCL",
+   "FIELD2": "40.1"
+ ,
+ 
+    "ON",
+   "FIELD2": "14.19"
+ ,
+ 
+    "OTIV",
+   "FIELD2": "1.6258"
+ ,
+ 
+    "ONS",
+   "FIELD2": "2.2"
+ ,
+ 
+    "ONSIW",
+   "FIELD2": "0.59"
+ ,
+ 
+    "ONSIZ",
+   "FIELD2": "0.5"
+ ,
+ 
+    "OGXI",
+   "FIELD2": "0.3705"
+ ,
+ 
+    "OMED",
+   "FIELD2": "3.73"
+ ,
+ 
+    "ONTX",
+   "FIELD2": "2.11"
+ ,
+ 
+    "ONTXW",
+   "FIELD2": "0.52"
+ ,
+ 
+    "ONCS",
+   "FIELD2": "1.2"
+ ,
+ 
+    "OHGI",
+   "FIELD2": "0.2709"
+ ,
+ 
+    "ONVI",
+   "FIELD2": "4.6989"
+ ,
+ 
+    "OTEX",
+   "FIELD2": "33.96"
+ ,
+ 
+    "OPXA",
+   "FIELD2": "0.64"
+ ,
+ 
+    "OPXAW",
+   "FIELD2": "0.0146"
+ ,
+ 
+    "OPGN",
+   "FIELD2": "1.06"
+ ,
+ 
+    "OPGNW",
+   "FIELD2": "0.0681"
+ ,
+ 
+    "OPHT",
+   "FIELD2": "2.74"
+ ,
+ 
+    "OPK",
+   "FIELD2": "7.47"
+ ,
+ 
+    "OBAS",
+   "FIELD2": "7.995"
+ ,
+ 
+    "OCC",
+   "FIELD2": "2.9"
+ ,
+ 
+    "OPHC",
+   "FIELD2": "2.5"
+ ,
+ 
+    "OPB",
+   "FIELD2": "20.8"
+ ,
+ 
+    "ORMP",
+   "FIELD2": "6.56"
+ ,
+ 
+    "OSUR",
+   "FIELD2": "12.67"
+ ,
+ 
+    "ORBC",
+   "FIELD2": "9.61"
+ ,
+ 
+    "ORBK",
+   "FIELD2": "31.51"
+ ,
+ 
+    "ORLY",
+   "FIELD2": "265.36"
+ ,
+ 
+    "OREX",
+   "FIELD2": "2.89"
+ ,
+ 
+    "ONVO",
+   "FIELD2": "2.71"
+ ,
+ 
+    "SEED",
+   "FIELD2": "1.86"
+ ,
+ 
+    "OACQ",
+   "FIELD2": "10.451"
+ ,
+ 
+    "OACQR",
+   "FIELD2": "0.16"
+ ,
+ 
+    "OACQU",
+   "FIELD2": "10.6"
+ ,
+ 
+    "OACQW",
+   "FIELD2": "0.12"
+ ,
+ 
+    "OESX",
+   "FIELD2": "1.74"
+ ,
+ 
+    "ORIT",
+   "FIELD2": "16.95"
+ ,
+ 
+    "ORRF",
+   "FIELD2": "22.35"
+ ,
+ 
+    "OFIX",
+   "FIELD2": "38.95"
+ ,
+ 
+    "OSIS",
+   "FIELD2": "71.64"
+ ,
+ 
+    "OSN",
+   "FIELD2": "2.07"
+ ,
+ 
+    "OTEL",
+   "FIELD2": "6.55"
+ ,
+ 
+    "OTG",
+   "FIELD2": "n/a"
+ ,
+ 
+    "OTIC",
+   "FIELD2": "12.35"
+ ,
+ 
+    "OTTW",
+   "FIELD2": "13.5"
+ ,
+ 
+    "OTTR",
+   "FIELD2": "39.15"
+ ,
+ 
+    "OVAS",
+   "FIELD2": "1.42"
+ ,
+ 
+    "OSTK",
+   "FIELD2": "17.3"
+ ,
+ 
+    "OXBR",
+   "FIELD2": "6.1"
+ ,
+ 
+    "OXBRW",
+   "FIELD2": "0.4"
+ ,
+ 
+    "OXFD",
+   "FIELD2": "15.39"
+ ,
+ 
+    "OXLC",
+   "FIELD2": "10.83"
+ ,
+ 
+    "OXLCN",
+   "FIELD2": "25.81"
+ ,
+ 
+    "OXLCO",
+   "FIELD2": "25.36"
+ ,
+ 
+    "PFIN",
+   "FIELD2": "6.8399"
+ ,
+ 
+    "PTSI",
+   "FIELD2": "15.55"
+ ,
+ 
+    "PCAR",
+   "FIELD2": "65.76"
+ ,
+ 
+    "PACB",
+   "FIELD2": "5.05"
+ ,
+ 
+    "PCBK",
+   "FIELD2": "24.8"
+ ,
+ 
+    "PEIX",
+   "FIELD2": "6.75"
+ ,
+ 
+    "PMBC",
+   "FIELD2": "7.65"
+ ,
+ 
+    "PPBI",
+   "FIELD2": "36.05"
+ ,
+ 
+    "PAAC",
+   "FIELD2": "10.35"
+ ,
+ 
+    "PAACR",
+   "FIELD2": "0.4478"
+ ,
+ 
+    "PAACU",
+   "FIELD2": "11.35"
+ ,
+ 
+    "PAACW",
+   "FIELD2": "0.405"
+ ,
+ 
+    "PCRX",
+   "FIELD2": "45.2"
+ ,
+ 
+    "PACW",
+   "FIELD2": "48.46"
+ ,
+ 
+    "PTIE",
+   "FIELD2": "0.7814"
+ ,
+ 
+    "PAAS",
+   "FIELD2": "18.09"
+ ,
+ 
+    "PNRA",
+   "FIELD2": "314.27"
+ ,
+ 
+    "PANL",
+   "FIELD2": "3.31"
+ ,
+ 
+    "PZZA",
+   "FIELD2": "78.83"
+ ,
+ 
+    "FRSH",
+   "FIELD2": "5.48"
+ ,
+ 
+    "PBNC",
+   "FIELD2": "50"
+ ,
+ 
+    "PRTK",
+   "FIELD2": "22"
+ ,
+ 
+    "PRXL",
+   "FIELD2": "62.84"
+ ,
+ 
+    "PCYG",
+   "FIELD2": "12.6"
+ ,
+ 
+    "PSTB",
+   "FIELD2": "11.95"
+ ,
+ 
+    "PKBK",
+   "FIELD2": "22.7"
+ ,
+ 
+    "PRKR",
+   "FIELD2": "2.12"
+ ,
+ 
+    "PKOH",
+   "FIELD2": "39.05"
+ ,
+ 
+    "PTNR",
+   "FIELD2": "5.11"
+ ,
+ 
+    "PBHC",
+   "FIELD2": "14.7"
+ ,
+ 
+    "PATK",
+   "FIELD2": "64.65"
+ ,
+ 
+    "PNBK",
+   "FIELD2": "15.15"
+ ,
+ 
+    "PATI",
+   "FIELD2": "22.35"
+ ,
+ 
+    "PEGI",
+   "FIELD2": "21.43"
+ ,
+ 
+    "PDCO",
+   "FIELD2": "43.52"
+ ,
+ 
+    "PTEN",
+   "FIELD2": "22.49"
+ ,
+ 
+    "PAVM",
+   "FIELD2": "4.7"
+ ,
+ 
+    "PAVMW",
+   "FIELD2": "1.75"
+ ,
+ 
+    "PAYX",
+   "FIELD2": "59.14"
+ ,
+ 
+    "PCTY",
+   "FIELD2": "39.72"
+ ,
+ 
+    "PYDS",
+   "FIELD2": "1.5"
+ ,
+ 
+    "PYPL",
+   "FIELD2": "43.81"
+ ,
+ 
+    "PBBI",
+   "FIELD2": "10.4"
+ ,
+ 
+    "CNXN",
+   "FIELD2": "28.31"
+ ,
+ 
+    "PCMI",
+   "FIELD2": "27.8"
+ ,
+ 
+    "PCSB",
+   "FIELD2": "16.46"
+ ,
+ 
+    "PCTI",
+   "FIELD2": "7.89"
+ ,
+ 
+    "PDCE",
+   "FIELD2": "57.15"
+ ,
+ 
+    "PDFS",
+   "FIELD2": "22.74"
+ ,
+ 
+    "PDLI",
+   "FIELD2": "2.02"
+ ,
+ 
+    "PDVW",
+   "FIELD2": "23.6"
+ ,
+ 
+    "SKIS",
+   "FIELD2": "5.7"
+ ,
+ 
+    "PGC",
+   "FIELD2": "30.65"
+ ,
+ 
+    "PEGA",
+   "FIELD2": "44.7"
+ ,
+ 
+    "PCO",
+   "FIELD2": "6.14"
+ ,
+ 
+    "PENN",
+   "FIELD2": "18.64"
+ ,
+ 
+    "PVAC",
+   "FIELD2": "42.75"
+ ,
+ 
+    "PFLT",
+   "FIELD2": "13.73"
+ ,
+ 
+    "PNNT",
+   "FIELD2": "7.85"
+ ,
+ 
+    "PWOD",
+   "FIELD2": "41.77"
+ ,
+ 
+    "PTXP",
+   "FIELD2": "16.8"
+ ,
+ 
+    "PEBO",
+   "FIELD2": "33.13"
+ ,
+ 
+    "PEBK",
+   "FIELD2": "29.5"
+ ,
+ 
+    "PFBX",
+   "FIELD2": "14.8"
+ ,
+ 
+    "PFIS",
+   "FIELD2": "43.99"
+ ,
+ 
+    "PBCT",
+   "FIELD2": "17.59"
+ ,
+ 
+    "PBCTP",
+   "FIELD2": "26.97"
+ ,
+ 
+    "PUB",
+   "FIELD2": "26.45"
+ ,
+ 
+    "PRCP",
+   "FIELD2": "8.62"
+ ,
+ 
+    "PPHM",
+   "FIELD2": "0.59"
+ ,
+ 
+    "PPHMP",
+   "FIELD2": "21.9579"
+ ,
+ 
+    "PRFT",
+   "FIELD2": "17.64"
+ ,
+ 
+    "PFMT",
+   "FIELD2": "2.12"
+ ,
+ 
+    "PERF",
+   "FIELD2": "1.1"
+ ,
+ 
+    "PERI",
+   "FIELD2": "1.67"
+ ,
+ 
+    "PESI",
+   "FIELD2": "3.2"
+ ,
+ 
+    "PPIH",
+   "FIELD2": "8.05"
+ ,
+ 
+    "PTX",
+   "FIELD2": "3.71"
+ ,
+ 
+    "PERY",
+   "FIELD2": "21.25"
+ ,
+ 
+    "PGLC",
+   "FIELD2": "2.81"
+ ,
+ 
+    "PETS",
+   "FIELD2": "22.63"
+ ,
+ 
+    "PFSW",
+   "FIELD2": "6.87"
+ ,
+ 
+    "PGTI",
+   "FIELD2": "10.5"
+ ,
+ 
+    "PZRX",
+   "FIELD2": "1.24"
+ ,
+ 
+    "PHII",
+   "FIELD2": "11.2501"
+ ,
+ 
+    "PHIIK",
+   "FIELD2": "11.85"
+ ,
+ 
+    "PAHC",
+   "FIELD2": "28.3"
+ ,
+ 
+    "PHMD",
+   "FIELD2": "1.3"
+ ,
+ 
+    "PLAB",
+   "FIELD2": "11.1"
+ ,
+ 
+    "PICO",
+   "FIELD2": "16.05"
+ ,
+ 
+    "PIRS",
+   "FIELD2": "2.335"
+ ,
+ 
+    "PPC",
+   "FIELD2": "25.45"
+ ,
+ 
+    "PME",
+   "FIELD2": "4.8"
+ ,
+ 
+    "PNK",
+   "FIELD2": "19.95"
+ ,
+ 
+    "PNFP",
+   "FIELD2": "64.4"
+ ,
+ 
+    "PPSI",
+   "FIELD2": "7.15"
+ ,
+ 
+    "PXLW",
+   "FIELD2": "4.3"
+ ,
+ 
+    "PLPM",
+   "FIELD2": "4.09"
+ ,
+ 
+    "PLYA",
+   "FIELD2": "10.26"
+ ,
+ 
+    "PLYAW",
+   "FIELD2": "0.7326"
+ ,
+ 
+    "PLXS",
+   "FIELD2": "52"
+ ,
+ 
+    "PLUG",
+   "FIELD2": "2.12"
+ ,
+ 
+    "PLBC",
+   "FIELD2": "18.4"
+ ,
+ 
+    "PSTI",
+   "FIELD2": "1.41"
+ ,
+ 
+    "PLXP",
+   "FIELD2": "8.25"
+ ,
+ 
+    "PBSK",
+   "FIELD2": "19.6"
+ ,
+ 
+    "PNTR",
+   "FIELD2": "9.2"
+ ,
+ 
+    "PCOM",
+   "FIELD2": "9.35"
+ ,
+ 
+    "POLA",
+   "FIELD2": "7.54"
+ ,
+ 
+    "COOL",
+   "FIELD2": "12.05"
+ ,
+ 
+    "POOL",
+   "FIELD2": "118.91"
+ ,
+ 
+    "POPE",
+   "FIELD2": "71.4127"
+ ,
+ 
+    "BPOP",
+   "FIELD2": "39.37"
+ ,
+ 
+    "BPOPM",
+   "FIELD2": "22.48"
+ ,
+ 
+    "BPOPN",
+   "FIELD2": "24.31"
+ ,
+ 
+    "PBIB",
+   "FIELD2": "8.73"
+ ,
+ 
+    "PTLA",
+   "FIELD2": "38.2"
+ ,
+ 
+    "PBPB",
+   "FIELD2": "13.9"
+ ,
+ 
+    "PCH",
+   "FIELD2": "46.8"
+ ,
+ 
+    "POWL",
+   "FIELD2": "34.12"
+ ,
+ 
+    "POWI",
+   "FIELD2": "65.5"
+ ,
+ 
+    "PLW",
+   "FIELD2": "32.64"
+ ,
+ 
+    "PKW",
+   "FIELD2": "51.58"
+ ,
+ 
+    "PFM",
+   "FIELD2": "23.71"
+ ,
+ 
+    "PYZ",
+   "FIELD2": "61.0667"
+ ,
+ 
+    "PEZ",
+   "FIELD2": "43.51"
+ ,
+ 
+    "PSL",
+   "FIELD2": "59.1449"
+ ,
+ 
+    "PIZ",
+   "FIELD2": "23.549"
+ ,
+ 
+    "PIE",
+   "FIELD2": "16.52"
+ ,
+ 
+    "PXI",
+   "FIELD2": "36.43"
+ ,
+ 
+    "PFI",
+   "FIELD2": "30.31"
+ ,
+ 
+    "PTH",
+   "FIELD2": "52.305"
+ ,
+ 
+    "PRN",
+   "FIELD2": "51.44"
+ ,
+ 
+    "DWLV",
+   "FIELD2": "26.8238"
+ ,
+ 
+    "PDP",
+   "FIELD2": "45.13"
+ ,
+ 
+    "DWAQ",
+   "FIELD2": "84.0514"
+ ,
+ 
+    "DWAS",
+   "FIELD2": "40.45"
+ ,
+ 
+    "DWIN",
+   "FIELD2": "28.16"
+ ,
+ 
+    "DWTR",
+   "FIELD2": "24.36"
+ ,
+ 
+    "PTF",
+   "FIELD2": "44.15"
+ ,
+ 
+    "PUI",
+   "FIELD2": "27.5302"
+ ,
+ 
+    "IDLB",
+   "FIELD2": "26.34"
+ ,
+ 
+    "PRFZ",
+   "FIELD2": "116.29"
+ ,
+ 
+    "PAGG",
+   "FIELD2": "24.8983"
+ ,
+ 
+    "PSAU",
+   "FIELD2": "20.29"
+ ,
+ 
+    "PIO",
+   "FIELD2": "22.5949"
+ ,
+ 
+    "PGJ",
+   "FIELD2": "34.81"
+ ,
+ 
+    "PEY",
+   "FIELD2": "16.96"
+ ,
+ 
+    "IPKW",
+   "FIELD2": "30.95"
+ ,
+ 
+    "PID",
+   "FIELD2": "14.835"
+ ,
+ 
+    "KBWB",
+   "FIELD2": "46.24"
+ ,
+ 
+    "KBWD",
+   "FIELD2": "24.36"
+ ,
+ 
+    "KBWY",
+   "FIELD2": "39.01"
+ ,
+ 
+    "KBWP",
+   "FIELD2": "56.0536"
+ ,
+ 
+    "KBWR",
+   "FIELD2": "53.1"
+ ,
+ 
+    "LDRI",
+   "FIELD2": "24.952"
+ ,
+ 
+    "LALT",
+   "FIELD2": "22.277"
+ ,
+ 
+    "PNQI",
+   "FIELD2": "95.15"
+ ,
+ 
+    "PDBC",
+   "FIELD2": "16.37"
+ ,
+ 
+    "QQQ",
+   "FIELD2": "132.56"
+ ,
+ 
+    "USLB",
+   "FIELD2": "28.54"
+ ,
+ 
+    "PSCD",
+   "FIELD2": "53.2664"
+ ,
+ 
+    "PSCC",
+   "FIELD2": "70.48"
+ ,
+ 
+    "PSCE",
+   "FIELD2": "16.3"
+ ,
+ 
+    "PSCF",
+   "FIELD2": "51.3"
+ ,
+ 
+    "PSCH",
+   "FIELD2": "79.17"
+ ,
+ 
+    "PSCI",
+   "FIELD2": "55.64"
+ ,
+ 
+    "PSCT",
+   "FIELD2": "71.36"
+ ,
+ 
+    "PSCM",
+   "FIELD2": "46.19"
+ ,
+ 
+    "PSCU",
+   "FIELD2": "51.88"
+ ,
+ 
+    "VRIG",
+   "FIELD2": "25.18"
+ ,
+ 
+    "PHO",
+   "FIELD2": "26.16"
+ ,
+ 
+    "PRAA",
+   "FIELD2": "31.65"
+ ,
+ 
+    "PRAH",
+   "FIELD2": "64.78"
+ ,
+ 
+    "PRAN",
+   "FIELD2": "2.93"
+ ,
+ 
+    "PFBC",
+   "FIELD2": "51.19"
+ ,
+ 
+    "PLPC",
+   "FIELD2": "54.19"
+ ,
+ 
+    "PFBI",
+   "FIELD2": "21.31"
+ ,
+ 
+    "PINC",
+   "FIELD2": "33.01"
+ ,
+ 
+    "LENS",
+   "FIELD2": "2.8262"
+ ,
+ 
+    "PSDO",
+   "FIELD2": "15.26"
+ ,
+ 
+    "PRGX",
+   "FIELD2": "6.4"
+ ,
+ 
+    "PSMT",
+   "FIELD2": "86.7"
+ ,
+ 
+    "PBMD",
+   "FIELD2": "2.43"
+ ,
+ 
+    "PNRG",
+   "FIELD2": "45.3"
+ ,
+ 
+    "PRMW",
+   "FIELD2": "11.59"
+ ,
+ 
+    "PRIM",
+   "FIELD2": "22.61"
+ ,
+ 
+    "BTEC",
+   "FIELD2": "26.43"
+ ,
+ 
+    "GENY",
+   "FIELD2": "26.5422"
+ ,
+ 
+    "PSET",
+   "FIELD2": "27.85"
+ ,
+ 
+    "PY",
+   "FIELD2": "28.3644"
+ ,
+ 
+    "PSC",
+   "FIELD2": "28.24"
+ ,
+ 
+    "PVTB",
+   "FIELD2": "58.42"
+ ,
+ 
+    "PVTBP",
+   "FIELD2": "26.61"
+ ,
+ 
+    "PDEX",
+   "FIELD2": "4.6"
+ ,
+ 
+    "IPDN",
+   "FIELD2": "9.01"
+ ,
+ 
+    "PFIE",
+   "FIELD2": "1.31"
+ ,
+ 
+    "PGNX",
+   "FIELD2": "7.75"
+ ,
+ 
+    "PRGS",
+   "FIELD2": "29.49"
+ ,
+ 
+    "PFPT",
+   "FIELD2": "77.65"
+ ,
+ 
+    "PRPH",
+   "FIELD2": "1.95"
+ ,
+ 
+    "PRQR",
+   "FIELD2": "4.8"
+ ,
+ 
+    "BIB",
+   "FIELD2": "46.27"
+ ,
+ 
+    "UBIO",
+   "FIELD2": "25.99"
+ ,
+ 
+    "TQQQ",
+   "FIELD2": "88.33"
+ ,
+ 
+    "ZBIO",
+   "FIELD2": "17.7"
+ ,
+ 
+    "SQQQ",
+   "FIELD2": "36.89"
+ ,
+ 
+    "BIS",
+   "FIELD2": "28.88"
+ ,
+ 
+    "PSEC",
+   "FIELD2": "9.37"
+ ,
+ 
+    "PTGX",
+   "FIELD2": "10.57"
+ ,
+ 
+    "PRTO",
+   "FIELD2": "1.65"
+ ,
+ 
+    "PTI",
+   "FIELD2": "5.74"
+ ,
+ 
+    "PRTA",
+   "FIELD2": "52.95"
+ ,
+ 
+    "PVBC",
+   "FIELD2": "21.1"
+ ,
+ 
+    "PROV",
+   "FIELD2": "18.89"
+ ,
+ 
+    "PBIP",
+   "FIELD2": "17.88"
+ ,
+ 
+    "PSDV",
+   "FIELD2": "1.77"
+ ,
+ 
+    "PMD",
+   "FIELD2": "20.15"
+ ,
+ 
+    "PTC",
+   "FIELD2": "51.93"
+ ,
+ 
+    "PTCT",
+   "FIELD2": "11.37"
+ ,
+ 
+    "PULM",
+   "FIELD2": "2.86"
+ ,
+ 
+    "PLSE",
+   "FIELD2": "23.79"
+ ,
+ 
+    "PBYI",
+   "FIELD2": "37.15"
+ ,
+ 
+    "PCYO",
+   "FIELD2": "5.9"
+ ,
+ 
+    "IMED",
+   "FIELD2": "25.93"
+ ,
+ 
+    "FINQ",
+   "FIELD2": "25.6035"
+ ,
+ 
+    "PXS",
+   "FIELD2": "1.95"
+ ,
+ 
+    "QADA",
+   "FIELD2": "29.45"
+ ,
+ 
+    "QADB",
+   "FIELD2": "25.3"
+ ,
+ 
+    "QCRH",
+   "FIELD2": "43.95"
+ ,
+ 
+    "QGEN",
+   "FIELD2": "28.69"
+ ,
+ 
+    "QIWI",
+   "FIELD2": "17.54"
+ ,
+ 
+    "QRVO",
+   "FIELD2": "70.16"
+ ,
+ 
+    "QCOM",
+   "FIELD2": "52.5"
+ ,
+ 
+    "QSII",
+   "FIELD2": "13.98"
+ ,
+ 
+    "QBAK",
+   "FIELD2": "5.49"
+ ,
+ 
+    "QLYS",
+   "FIELD2": "36.45"
+ ,
+ 
+    "QTNA",
+   "FIELD2": "17.57"
+ ,
+ 
+    "QRHC",
+   "FIELD2": "2.54"
+ ,
+ 
+    "QUIK",
+   "FIELD2": "1.55"
+ ,
+ 
+    "QDEL",
+   "FIELD2": "23.56"
+ ,
+ 
+    "QPAC",
+   "FIELD2": "9.97"
+ ,
+ 
+    "QPACU",
+   "FIELD2": "10.42"
+ ,
+ 
+    "QPACW",
+   "FIELD2": "0.4"
+ ,
+ 
+    "QNST",
+   "FIELD2": "4.45"
+ ,
+ 
+    "QUMU",
+   "FIELD2": "2.63"
+ ,
+ 
+    "QTNT",
+   "FIELD2": "6.41"
+ ,
+ 
+    "RRD",
+   "FIELD2": "12.02"
+ ,
+ 
+    "RCM",
+   "FIELD2": "3.58"
+ ,
+ 
+    "RARX",
+   "FIELD2": "22.65"
+ ,
+ 
+    "RADA",
+   "FIELD2": "1.1399"
+ ,
+ 
+    "RDCM",
+   "FIELD2": "18.2"
+ ,
+ 
+    "ROIA",
+   "FIELD2": "3.2098"
+ ,
+ 
+    "ROIAK",
+   "FIELD2": "3.3"
+ ,
+ 
+    "RSYS",
+   "FIELD2": "3.9"
+ ,
+ 
+    "RDUS",
+   "FIELD2": "38.23"
+ ,
+ 
+    "RDNT",
+   "FIELD2": "6.05"
+ ,
+ 
+    "RDWR",
+   "FIELD2": "15.17"
+ ,
+ 
+    "METC",
+   "FIELD2": "7.23"
+ ,
+ 
+    "RMBS",
+   "FIELD2": "12.94"
+ ,
+ 
+    "RAND",
+   "FIELD2": "2.93"
+ ,
+ 
+    "RLOG",
+   "FIELD2": "0.7471"
+ ,
+ 
+    "GOLD",
+   "FIELD2": "90.61"
+ ,
+ 
+    "RNDB",
+   "FIELD2": "15.5"
+ ,
+ 
+    "RPD",
+   "FIELD2": "16.98"
+ ,
+ 
+    "RAVE",
+   "FIELD2": "2.02"
+ ,
+ 
+    "RAVN",
+   "FIELD2": "29.55"
+ ,
+ 
+    "ROLL",
+   "FIELD2": "95"
+ ,
+ 
+    "RICK",
+   "FIELD2": "16.96"
+ ,
+ 
+    "RCMT",
+   "FIELD2": "4.7599"
+ ,
+ 
+    "RDI",
+   "FIELD2": "14.65"
+ ,
+ 
+    "RDIB",
+   "FIELD2": "18"
+ ,
+ 
+    "RGSE",
+   "FIELD2": "1.1"
+ ,
+ 
+    "RELY",
+   "FIELD2": "2.025"
+ ,
+ 
+    "RNWK",
+   "FIELD2": "4.47"
+ ,
+ 
+    "RP",
+   "FIELD2": "36.95"
+ ,
+ 
+    "RETA",
+   "FIELD2": "20.58"
+ ,
+ 
+    "RCON",
+   "FIELD2": "1.25"
+ ,
+ 
+    "REPH",
+   "FIELD2": "7.87"
+ ,
+ 
+    "RRGB",
+   "FIELD2": "59.25"
+ ,
+ 
+    "RRR",
+   "FIELD2": "22.955"
+ ,
+ 
+    "RDHL",
+   "FIELD2": "10.38"
+ ,
+ 
+    "REGN",
+   "FIELD2": "370.12"
+ ,
+ 
+    "RGNX",
+   "FIELD2": "20.55"
+ ,
+ 
+    "RGLS",
+   "FIELD2": "1.4"
+ ,
+ 
+    "REIS",
+   "FIELD2": "18.8"
+ ,
+ 
+    "RELV",
+   "FIELD2": "6.07"
+ ,
+ 
+    "MARK",
+   "FIELD2": "3.1"
+ ,
+ 
+    "RNST",
+   "FIELD2": "41.88"
+ ,
+ 
+    "REGI",
+   "FIELD2": "10.3"
+ ,
+ 
+    "RNVA",
+   "FIELD2": "1"
+ ,
+ 
+    "RNVAZ",
+   "FIELD2": "0.014"
+ ,
+ 
+    "RCII",
+   "FIELD2": "10.9"
+ ,
+ 
+    "RTK",
+   "FIELD2": "0.4499"
+ ,
+ 
+    "RGEN",
+   "FIELD2": "35.06"
+ ,
+ 
+    "RPRX",
+   "FIELD2": "0.99"
+ ,
+ 
+    "RBCAA",
+   "FIELD2": "35.89"
+ ,
+ 
+    "FRBK",
+   "FIELD2": "8.5"
+ ,
+ 
+    "RSAS",
+   "FIELD2": "n/a"
+ ,
+ 
+    "REFR",
+   "FIELD2": "1.38"
+ ,
+ 
+    "RESN",
+   "FIELD2": "4.84"
+ ,
+ 
+    "RECN",
+   "FIELD2": "14.05"
+ ,
+ 
+    "ROIC",
+   "FIELD2": "21.8"
+ ,
+ 
+    "SALE",
+   "FIELD2": "11.5"
+ ,
+ 
+    "RTRX",
+   "FIELD2": "18.47"
+ ,
+ 
+    "RVNC",
+   "FIELD2": "20.625"
+ ,
+ 
+    "RVEN",
+   "FIELD2": "5.8506"
+ ,
+ 
+    "RBIO",
+   "FIELD2": "n/a"
+ ,
+ 
+    "RVLT",
+   "FIELD2": "8.6"
+ ,
+ 
+    "RWLK",
+   "FIELD2": "1.8"
+ ,
+ 
+    "REXX",
+   "FIELD2": "0.33"
+ ,
+ 
+    "RFIL",
+   "FIELD2": "1.5"
+ ,
+ 
+    "RGCO",
+   "FIELD2": "22.24"
+ ,
+ 
+    "RIBT",
+   "FIELD2": "0.86"
+ ,
+ 
+    "RIBTW",
+   "FIELD2": "0.1891"
+ ,
+ 
+    "RELL",
+   "FIELD2": "5.9"
+ ,
+ 
+    "RIGL",
+   "FIELD2": "2.87"
+ ,
+ 
+    "NAME",
+   "FIELD2": "9.8"
+ ,
+ 
+    "RNET",
+   "FIELD2": "20.85"
+ ,
+ 
+    "RTTR",
+   "FIELD2": "1.07"
+ ,
+ 
+    "RVSB",
+   "FIELD2": "7.33"
+ ,
+ 
+    "RLJE",
+   "FIELD2": "2.76"
+ ,
+ 
+    "RMGN",
+   "FIELD2": "0.852"
+ ,
+ 
+    "ROBO",
+   "FIELD2": "31.98"
+ ,
+ 
+    "FUEL",
+   "FIELD2": "4.4"
+ ,
+ 
+    "RMTI",
+   "FIELD2": "8.09"
+ ,
+ 
+    "RCKY",
+   "FIELD2": "12"
+ ,
+ 
+    "RMCF",
+   "FIELD2": "12.7"
+ ,
+ 
+    "ROKA",
+   "FIELD2": "3.75"
+ ,
+ 
+    "RTNB",
+   "FIELD2": "6.31"
+ ,
+ 
+    "ROSG",
+   "FIELD2": "2.41"
+ ,
+ 
+    "ROST",
+   "FIELD2": "64.9"
+ ,
+ 
+    "RBPAA",
+   "FIELD2": "4.14"
+ ,
+ 
+    "RGLD",
+   "FIELD2": "72.4"
+ ,
+ 
+    "RPXC",
+   "FIELD2": "12.555"
+ ,
+ 
+    "RTIX",
+   "FIELD2": "4.05"
+ ,
+ 
+    "RBCN",
+   "FIELD2": "0.72"
+ ,
+ 
+    "RUSHA",
+   "FIELD2": "35.16"
+ ,
+ 
+    "RUSHB",
+   "FIELD2": "32.77"
+ ,
+ 
+    "RUTH",
+   "FIELD2": "19.6"
+ ,
+ 
+    "RXII",
+   "FIELD2": "0.6644"
+ ,
+ 
+    "RXIIW",
+   "FIELD2": "0.19"
+ ,
+ 
+    "RYAAY",
+   "FIELD2": "88.58"
+ ,
+ 
+    "STBA",
+   "FIELD2": "34.84"
+ ,
+ 
+    "SANW",
+   "FIELD2": "4.95"
+ ,
+ 
+    "SCAC",
+   "FIELD2": "10"
+ ,
+ 
+    "SCACU",
+   "FIELD2": "10.61"
+ ,
+ 
+    "SCACW",
+   "FIELD2": "1.259"
+ ,
+ 
+    "SBRA",
+   "FIELD2": "28.87"
+ ,
+ 
+    "SBRAP",
+   "FIELD2": "26.48"
+ ,
+ 
+    "SABR",
+   "FIELD2": "23.09"
+ ,
+ 
+    "SAEX",
+   "FIELD2": "5.53"
+ ,
+ 
+    "SAFT",
+   "FIELD2": "70.5"
+ ,
+ 
+    "SAGE",
+   "FIELD2": "72.82"
+ ,
+ 
+    "SAIA",
+   "FIELD2": "45.3"
+ ,
+ 
+    "SAJA",
+   "FIELD2": "3.8"
+ ,
+ 
+    "SALM",
+   "FIELD2": "7.45"
+ ,
+ 
+    "SAL",
+   "FIELD2": "39"
+ ,
+ 
+    "SAFM",
+   "FIELD2": "113.45"
+ ,
+ 
+    "SASR",
+   "FIELD2": "42.53"
+ ,
+ 
+    "SGMO",
+   "FIELD2": "4.05"
+ ,
+ 
+    "SANM",
+   "FIELD2": "38.6"
+ ,
+ 
+    "GCVRZ",
+   "FIELD2": "0.4301"
+ ,
+ 
+    "SPNS",
+   "FIELD2": "12.98"
+ ,
+ 
+    "SRPT",
+   "FIELD2": "32.61"
+ ,
+ 
+    "SBFG",
+   "FIELD2": "17.75"
+ ,
+ 
+    "SBFGP",
+   "FIELD2": "17"
+ ,
+ 
+    "SBAC",
+   "FIELD2": "123.78"
+ ,
+ 
+    "SCSC",
+   "FIELD2": "38.5"
+ ,
+ 
+    "SMIT",
+   "FIELD2": "1.68"
+ ,
+ 
+    "SCHN",
+   "FIELD2": "18.75"
+ ,
+ 
+    "SCHL",
+   "FIELD2": "43.75"
+ ,
+ 
+    "SCLN",
+   "FIELD2": "9.45"
+ ,
+ 
+    "SGMS",
+   "FIELD2": "21.8"
+ ,
+ 
+    "SNI",
+   "FIELD2": "75.15"
+ ,
+ 
+    "SCYX",
+   "FIELD2": "2.57"
+ ,
+ 
+    "SEAC",
+   "FIELD2": "2.45"
+ ,
+ 
+    "SBCF",
+   "FIELD2": "24.7"
+ ,
+ 
+    "STX",
+   "FIELD2": "48.26"
+ ,
+ 
+    "SHIP",
+   "FIELD2": "0.909"
+ ,
+ 
+    "SHIPW",
+   "FIELD2": "0.18"
+ ,
+ 
+    "SRSC",
+   "FIELD2": "1.15"
+ ,
+ 
+    "SHLD",
+   "FIELD2": "13.39"
+ ,
+ 
+    "SHLDW",
+   "FIELD2": "2.97"
+ ,
+ 
+    "SHOS",
+   "FIELD2": "3.5"
+ ,
+ 
+    "SPNE",
+   "FIELD2": "8.74"
+ ,
+ 
+    "SGEN",
+   "FIELD2": "65.34"
+ ,
+ 
+    "EYES",
+   "FIELD2": "1.12"
+ ,
+ 
+    "EYESW",
+   "FIELD2": "0.36"
+ ,
+ 
+    "SCWX",
+   "FIELD2": "8.94"
+ ,
+ 
+    "SNFCA",
+   "FIELD2": "6.9"
+ ,
+ 
+    "SEIC",
+   "FIELD2": "50.1"
+ ,
+ 
+    "SLCT",
+   "FIELD2": "11"
+ ,
+ 
+    "SCSS",
+   "FIELD2": "32.01"
+ ,
+ 
+    "SIR",
+   "FIELD2": "26.37"
+ ,
+ 
+    "SELB",
+   "FIELD2": "13.88"
+ ,
+ 
+    "SIGI",
+   "FIELD2": "47.65"
+ ,
+ 
+    "LEDS",
+   "FIELD2": "2.89"
+ ,
+ 
+    "SMTC",
+   "FIELD2": "33.55"
+ ,
+ 
+    "SENEA",
+   "FIELD2": "34.95"
+ ,
+ 
+    "SENEB",
+   "FIELD2": "36.5001"
+ ,
+ 
+    "SNES",
+   "FIELD2": "7.64"
+ ,
+ 
+    "SNH",
+   "FIELD2": "22.01"
+ ,
+ 
+    "SNHNI",
+   "FIELD2": "24.53"
+ ,
+ 
+    "SNHNL",
+   "FIELD2": "25.99"
+ ,
+ 
+    "SNMX",
+   "FIELD2": "0.9197"
+ ,
+ 
+    "SRTS",
+   "FIELD2": "4.3099"
+ ,
+ 
+    "SRTSW",
+   "FIELD2": "0.6"
+ ,
+ 
+    "SQBG",
+   "FIELD2": "3.61"
+ ,
+ 
+    "MCRB",
+   "FIELD2": "9.46"
+ ,
+ 
+    "SREV",
+   "FIELD2": "3.62"
+ ,
+ 
+    "SFBS",
+   "FIELD2": "36.77"
+ ,
+ 
+    "SEV",
+   "FIELD2": "14.69"
+ ,
+ 
+    "SVBI",
+   "FIELD2": "7.0918"
+ ,
+ 
+    "SGOC",
+   "FIELD2": "2.25"
+ ,
+ 
+    "SMED",
+   "FIELD2": "4.47"
+ ,
+ 
+    "SHSP",
+   "FIELD2": "4.4"
+ ,
+ 
+    "SHEN",
+   "FIELD2": "30.7"
+ ,
+ 
+    "PIXY",
+   "FIELD2": "n/a"
+ ,
+ 
+    "SHLO",
+   "FIELD2": "11.59"
+ ,
+ 
+    "SCCI",
+   "FIELD2": "n/a"
+ ,
+ 
+    "TYHT",
+   "FIELD2": "4.6"
+ ,
+ 
+    "SHPG",
+   "FIELD2": "171.94"
+ ,
+ 
+    "SCVL",
+   "FIELD2": "25.7"
+ ,
+ 
+    "SHBI",
+   "FIELD2": "16.75"
+ ,
+ 
+    "SHOR",
+   "FIELD2": "5.8"
+ ,
+ 
+    "SFLY",
+   "FIELD2": "51.5"
+ ,
+ 
+    "SIFI",
+   "FIELD2": "15.25"
+ ,
+ 
+    "SIEB",
+   "FIELD2": "3.7698"
+ ,
+ 
+    "SIEN",
+   "FIELD2": "8.37"
+ ,
+ 
+    "BSRR",
+   "FIELD2": "27.22"
+ ,
+ 
+    "SRRA",
+   "FIELD2": "1.35"
+ ,
+ 
+    "SWIR",
+   "FIELD2": "25.05"
+ ,
+ 
+    "SIFY",
+   "FIELD2": "0.96"
+ ,
+ 
+    "SIGM",
+   "FIELD2": "6.25"
+ ,
+ 
+    "SGLB",
+   "FIELD2": "2.9701"
+ ,
+ 
+    "SGLBW",
+   "FIELD2": "1"
+ ,
+ 
+    "SGMA",
+   "FIELD2": "5.13"
+ ,
+ 
+    "SBNY",
+   "FIELD2": "140.09"
+ ,
+ 
+    "SBNYW",
+   "FIELD2": "124"
+ ,
+ 
+    "SLGN",
+   "FIELD2": "59.07"
+ ,
+ 
+    "SILC",
+   "FIELD2": "45.74"
+ ,
+ 
+    "SLAB",
+   "FIELD2": "71.95"
+ ,
+ 
+    "SIMO",
+   "FIELD2": "44.82"
+ ,
+ 
+    "SPIL",
+   "FIELD2": "8.03"
+ ,
+ 
+    "SRUNU",
+   "FIELD2": "10.37"
+ ,
+ 
+    "SSRI",
+   "FIELD2": "10.66"
+ ,
+ 
+    "SAMG",
+   "FIELD2": "13.65"
+ ,
+ 
+    "SSNT",
+   "FIELD2": "3.9"
+ ,
+ 
+    "SFNC",
+   "FIELD2": "52.3"
+ ,
+ 
+    "SLP",
+   "FIELD2": "11.55"
+ ,
+ 
+    "SINA",
+   "FIELD2": "72.11"
+ ,
+ 
+    "SBGI",
+   "FIELD2": "39.9"
+ ,
+ 
+    "SINO",
+   "FIELD2": "2.98"
+ ,
+ 
+    "SVA",
+   "FIELD2": "5.61"
+ ,
+ 
+    "SIRI",
+   "FIELD2": "5.07"
+ ,
+ 
+    "SRVA",
+   "FIELD2": "n/a"
+ ,
+ 
+    "SITO",
+   "FIELD2": "2.61"
+ ,
+ 
+    "SKYS",
+   "FIELD2": "1.99"
+ ,
+ 
+    "SKLN",
+   "FIELD2": "2.41"
+ ,
+ 
+    "SPU",
+   "FIELD2": "3.4"
+ ,
+ 
+    "SKYW",
+   "FIELD2": "34.3"
+ ,
+ 
+    "SWKS",
+   "FIELD2": "101.6"
+ ,
+ 
+    "SLM",
+   "FIELD2": "12.8"
+ ,
+ 
+    "SLMAP",
+   "FIELD2": "50.013"
+ ,
+ 
+    "SLMBP",
+   "FIELD2": "68.5"
+ ,
+ 
+    "SND",
+   "FIELD2": "12.61"
+ ,
+ 
+    "SMBK",
+   "FIELD2": "21.5"
+ ,
+ 
+    "SMSI",
+   "FIELD2": "0.8285"
+ ,
+ 
+    "SMTX",
+   "FIELD2": "1.2201"
+ ,
+ 
+    "LNCE",
+   "FIELD2": "32.98"
+ ,
+ 
+    "SRAX",
+   "FIELD2": "1.96"
+ ,
+ 
+    "SCKT",
+   "FIELD2": "4.35"
+ ,
+ 
+    "SODA",
+   "FIELD2": "53.97"
+ ,
+ 
+    "SOHU",
+   "FIELD2": "40.83"
+ ,
+ 
+    "SLRC",
+   "FIELD2": "22.55"
+ ,
+ 
+    "SUNS",
+   "FIELD2": "18.18"
+ ,
+ 
+    "SEDG",
+   "FIELD2": "15.85"
+ ,
+ 
+    "SNGX",
+   "FIELD2": "4.15"
+ ,
+ 
+    "SNGXW",
+   "FIELD2": "1.12"
+ ,
+ 
+    "SONC",
+   "FIELD2": "24.91"
+ ,
+ 
+    "SOFO",
+   "FIELD2": "4.81"
+ ,
+ 
+    "SNOA",
+   "FIELD2": "6.99"
+ ,
+ 
+    "SNOAW",
+   "FIELD2": "0.47"
+ ,
+ 
+    "SONS",
+   "FIELD2": "6.75"
+ ,
+ 
+    "SPHS",
+   "FIELD2": "2.6"
+ ,
+ 
+    "SORL",
+   "FIELD2": "4.21"
+ ,
+ 
+    "SRNE",
+   "FIELD2": "1.8"
+ ,
+ 
+    "SOHO",
+   "FIELD2": "5.79"
+ ,
+ 
+    "SOHOB",
+   "FIELD2": "25.4252"
+ ,
+ 
+    "SOHOM",
+   "FIELD2": "25.947"
+ ,
+ 
+    "SFBC",
+   "FIELD2": "29.95"
+ ,
+ 
+    "SSB",
+   "FIELD2": "90.2"
+ ,
+ 
+    "SFST",
+   "FIELD2": "32.35"
+ ,
+ 
+    "SMBC",
+   "FIELD2": "34.7"
+ ,
+ 
+    "SONA",
+   "FIELD2": "17.39"
+ ,
+ 
+    "SBSI",
+   "FIELD2": "33.76"
+ ,
+ 
+    "OKSB",
+   "FIELD2": "24.95"
+ ,
+ 
+    "SP",
+   "FIELD2": "32.95"
+ ,
+ 
+    "SPAN",
+   "FIELD2": "22.14"
+ ,
+ 
+    "SGRP",
+   "FIELD2": "0.9478"
+ ,
+ 
+    "SPKE",
+   "FIELD2": "36.55"
+ ,
+ 
+    "SPKEP",
+   "FIELD2": "26.21"
+ ,
+ 
+    "ONCE",
+   "FIELD2": "52.5"
+ ,
+ 
+    "SPAR",
+   "FIELD2": "7.95"
+ ,
+ 
+    "SPTN",
+   "FIELD2": "35.02"
+ ,
+ 
+    "DWFI",
+   "FIELD2": "25.1607"
+ ,
+ 
+    "SPPI",
+   "FIELD2": "7.09"
+ ,
+ 
+    "ANY",
+   "FIELD2": "0.193"
+ ,
+ 
+    "SPEX",
+   "FIELD2": "1.15"
+ ,
+ 
+    "SPI",
+   "FIELD2": "0.52"
+ ,
+ 
+    "SAVE",
+   "FIELD2": "58.46"
+ ,
+ 
+    "SPLK",
+   "FIELD2": "62.44"
+ ,
+ 
+    "SPOK",
+   "FIELD2": "18.9"
+ ,
+ 
+    "SPWH",
+   "FIELD2": "4.47"
+ ,
+ 
+    "SBPH",
+   "FIELD2": "9.08"
+ ,
+ 
+    "FUND",
+   "FIELD2": "7.53"
+ ,
+ 
+    "SFM",
+   "FIELD2": "22.74"
+ ,
+ 
+    "SPSC",
+   "FIELD2": "57.1"
+ ,
+ 
+    "SSNC",
+   "FIELD2": "36.68"
+ ,
+ 
+    "STAA",
+   "FIELD2": "9.4"
+ ,
+ 
+    "STAF",
+   "FIELD2": "0.9201"
+ ,
+ 
+    "STMP",
+   "FIELD2": "110"
+ ,
+ 
+    "STLY",
+   "FIELD2": "0.9099"
+ ,
+ 
+    "SPLS",
+   "FIELD2": "9.72"
+ ,
+ 
+    "SBLK",
+   "FIELD2": "9.39"
+ ,
+ 
+    "SBLKL",
+   "FIELD2": "24.85"
+ ,
+ 
+    "SBUX",
+   "FIELD2": "60.61"
+ ,
+ 
+    "STFC",
+   "FIELD2": "26.26"
+ ,
+ 
+    "STBZ",
+   "FIELD2": "26.34"
+ ,
+ 
+    "SNC",
+   "FIELD2": "14.45"
+ ,
+ 
+    "STDY",
+   "FIELD2": "6.2"
+ ,
+ 
+    "GASS",
+   "FIELD2": "3.48"
+ ,
+ 
+    "STLD",
+   "FIELD2": "35.37"
+ ,
+ 
+    "SMRT",
+   "FIELD2": "2.51"
+ ,
+ 
+    "STLR",
+   "FIELD2": "10.2"
+ ,
+ 
+    "STLRU",
+   "FIELD2": "10.42"
+ ,
+ 
+    "STLRW",
+   "FIELD2": "0.36"
+ ,
+ 
+    "SBOT",
+   "FIELD2": "1.41"
+ ,
+ 
+    "STML",
+   "FIELD2": "8.65"
+ ,
+ 
+    "SRCL",
+   "FIELD2": "85.56"
+ ,
+ 
+    "SRCLP",
+   "FIELD2": "73.8"
+ ,
+ 
+    "STRL",
+   "FIELD2": "8.99"
+ ,
+ 
+    "SHOO",
+   "FIELD2": "37.95"
+ ,
+ 
+    "SSFN",
+   "FIELD2": "9"
+ ,
+ 
+    "SYBT",
+   "FIELD2": "40.65"
+ ,
+ 
+    "BANX",
+   "FIELD2": "20.08"
+ ,
+ 
+    "SGBK",
+   "FIELD2": "45.66"
+ ,
+ 
+    "SSKN",
+   "FIELD2": "3.84"
+ ,
+ 
+    "SSYS",
+   "FIELD2": "24.03"
+ ,
+ 
+    "STRT",
+   "FIELD2": "23.8"
+ ,
+ 
+    "STRS",
+   "FIELD2": "28.7"
+ ,
+ 
+    "STRA",
+   "FIELD2": "80.57"
+ ,
+ 
+    "STRM",
+   "FIELD2": "1.42"
+ ,
+ 
+    "SBBP",
+   "FIELD2": "4.25"
+ ,
+ 
+    "STB",
+   "FIELD2": "5.9"
+ ,
+ 
+    "SCMP",
+   "FIELD2": "9.45"
+ ,
+ 
+    "SUMR",
+   "FIELD2": "1.71"
+ ,
+ 
+    "SMMF",
+   "FIELD2": "22.72"
+ ,
+ 
+    "SSBI",
+   "FIELD2": "12.7"
+ ,
+ 
+    "SMMT",
+   "FIELD2": "10.68"
+ ,
+ 
+    "SNBC",
+   "FIELD2": "24.95"
+ ,
+ 
+    "SNHY",
+   "FIELD2": "35.75"
+ ,
+ 
+    "SNDE",
+   "FIELD2": "8"
+ ,
+ 
+    "SNSS",
+   "FIELD2": "3.71"
+ ,
+ 
+    "STKL",
+   "FIELD2": "6.4"
+ ,
+ 
+    "SPWR",
+   "FIELD2": "6.67"
+ ,
+ 
+    "RUN",
+   "FIELD2": "5.12"
+ ,
+ 
+    "SBCP",
+   "FIELD2": "21.24"
+ ,
+ 
+    "SSH",
+   "FIELD2": "0.92"
+ ,
+ 
+    "SUNW",
+   "FIELD2": "1.47"
+ ,
+ 
+    "SMCI",
+   "FIELD2": "24.6"
+ ,
+ 
+    "SPCB",
+   "FIELD2": "2.94"
+ ,
+ 
+    "SCON",
+   "FIELD2": "1.96"
+ ,
+ 
+    "SGC",
+   "FIELD2": "18.72"
+ ,
+ 
+    "SUPN",
+   "FIELD2": "32.15"
+ ,
+ 
+    "SPRT",
+   "FIELD2": "2.23"
+ ,
+ 
+    "SGRY",
+   "FIELD2": "17.6"
+ ,
+ 
+    "SRDX",
+   "FIELD2": "24"
+ ,
+ 
+    "SBBX",
+   "FIELD2": "24.4"
+ ,
+ 
+    "SIVB",
+   "FIELD2": "183.12"
+ ,
+ 
+    "SIVBO",
+   "FIELD2": "26.305"
+ ,
+ 
+    "SYKE",
+   "FIELD2": "29.22"
+ ,
+ 
+    "SYMC",
+   "FIELD2": "30.7"
+ ,
+ 
+    "SYNC",
+   "FIELD2": "3.55"
+ ,
+ 
+    "SYNL",
+   "FIELD2": "12.05"
+ ,
+ 
+    "SYNA",
+   "FIELD2": "50.76"
+ ,
+ 
+    "SNCR",
+   "FIELD2": "24.41"
+ ,
+ 
+    "SNDX",
+   "FIELD2": "10.53"
+ ,
+ 
+    "SGYP",
+   "FIELD2": "4.11"
+ ,
+ 
+    "ELOS",
+   "FIELD2": "11.05"
+ ,
+ 
+    "SNPS",
+   "FIELD2": "72.6"
+ ,
+ 
+    "SYNT",
+   "FIELD2": "17.21"
+ ,
+ 
+    "SYMX",
+   "FIELD2": "0.83"
+ ,
+ 
+    "SYUT",
+   "FIELD2": "5.975"
+ ,
+ 
+    "SYPR",
+   "FIELD2": "1.05"
+ ,
+ 
+    "SYRS",
+   "FIELD2": "14.9"
+ ,
+ 
+    "TROW",
+   "FIELD2": "71.79"
+ ,
+ 
+    "TTOO",
+   "FIELD2": "4.99"
+ ,
+ 
+    "TRHC",
+   "FIELD2": "13.02"
+ ,
+ 
+    "TCMD",
+   "FIELD2": "18.45"
+ ,
+ 
+    "TAIT",
+   "FIELD2": "1.1301"
+ ,
+ 
+    "TTWO",
+   "FIELD2": "62.29"
+ ,
+ 
+    "TLND",
+   "FIELD2": "29.76"
+ ,
+ 
+    "TNDM",
+   "FIELD2": "0.9587"
+ ,
+ 
+    "TLF",
+   "FIELD2": "8.3"
+ ,
+ 
+    "TANH",
+   "FIELD2": "1.3221"
+ ,
+ 
+    "TPIV",
+   "FIELD2": "4.09"
+ ,
+ 
+    "TEDU",
+   "FIELD2": "18.71"
+ ,
+ 
+    "TATT",
+   "FIELD2": "9.8"
+ ,
+ 
+    "TAYD",
+   "FIELD2": "13.99"
+ ,
+ 
+    "TCPC",
+   "FIELD2": "16.92"
+ ,
+ 
+    "AMTD",
+   "FIELD2": "37.93"
+ ,
+ 
+    "TEAR",
+   "FIELD2": "2.38"
+ ,
+ 
+    "TECD",
+   "FIELD2": "93"
+ ,
+ 
+    "TCCO",
+   "FIELD2": "2.5527"
+ ,
+ 
+    "TTGT",
+   "FIELD2": "9.25"
+ ,
+ 
+    "TGLS",
+   "FIELD2": "10.23"
+ ,
+ 
+    "TGEN",
+   "FIELD2": "3.73"
+ ,
+ 
+    "TNAV",
+   "FIELD2": "8.85"
+ ,
+ 
+    "TTEC",
+   "FIELD2": "30.65"
+ ,
+ 
+    "TLGT",
+   "FIELD2": "7.89"
+ ,
+ 
+    "TELL",
+   "FIELD2": "10.2"
+ ,
+ 
+    "TENX",
+   "FIELD2": "0.4734"
+ ,
+ 
+    "GLBL",
+   "FIELD2": "4.725"
+ ,
+ 
+    "TERP",
+   "FIELD2": "12.28"
+ ,
+ 
+    "TVIA",
+   "FIELD2": "0.47"
+ ,
+ 
+    "TBNK",
+   "FIELD2": "31.24"
+ ,
+ 
+    "TSRO",
+   "FIELD2": "136.01"
+ ,
+ 
+    "TESO",
+   "FIELD2": "6.5"
+ ,
+ 
+    "TSLA",
+   "FIELD2": "305.6"
+ ,
+ 
+    "TESS",
+   "FIELD2": "13.7"
+ ,
+ 
+    "TTEK",
+   "FIELD2": "42.55"
+ ,
+ 
+    "TTPH",
+   "FIELD2": "8.09"
+ ,
+ 
+    "TCBI",
+   "FIELD2": "74.65"
+ ,
+ 
+    "TCBIL",
+   "FIELD2": "25.25"
+ ,
+ 
+    "TCBIP",
+   "FIELD2": "25.75"
+ ,
+ 
+    "TCBIW",
+   "FIELD2": "64.0304"
+ ,
+ 
+    "TXN",
+   "FIELD2": "79.81"
+ ,
+ 
+    "TXRH",
+   "FIELD2": "45.28"
+ ,
+ 
+    "TFSL",
+   "FIELD2": "16.6"
+ ,
+ 
+    "TGTX",
+   "FIELD2": "10.3"
+ ,
+ 
+    "ABCO",
+   "FIELD2": "47.5"
+ ,
+ 
+    "ANDE",
+   "FIELD2": "37.55"
+ ,
+ 
+    "TBBK",
+   "FIELD2": "4.93"
+ ,
+ 
+    "BONT",
+   "FIELD2": "0.6"
+ ,
+ 
+    "CG",
+   "FIELD2": "16.05"
+ ,
+ 
+    "CAKE",
+   "FIELD2": "63.03"
+ ,
+ 
+    "CHEF",
+   "FIELD2": "13.85"
+ ,
+ 
+    "TCFC",
+   "FIELD2": "35.75"
+ ,
+ 
+    "DSGX",
+   "FIELD2": "23.15"
+ ,
+ 
+    "DXYN",
+   "FIELD2": "3.65"
+ ,
+ 
+    "ENSG",
+   "FIELD2": "18.51"
+ ,
+ 
+    "XONE",
+   "FIELD2": "9.76"
+ ,
+ 
+    "FINL",
+   "FIELD2": "15.37"
+ ,
+ 
+    "FBMS",
+   "FIELD2": "28"
+ ,
+ 
+    "FLIC",
+   "FIELD2": "27"
+ ,
+ 
+    "GT",
+   "FIELD2": "35.35"
+ ,
+ 
+    "HABT",
+   "FIELD2": "18.05"
+ ,
+ 
+    "HCKT",
+   "FIELD2": "19.38"
+ ,
+ 
+    "HAIN",
+   "FIELD2": "37.64"
+ ,
+ 
+    "FITS",
+   "FIELD2": "25.7"
+ ,
+ 
+    "CUBA",
+   "FIELD2": "6.97"
+ ,
+ 
+    "INTG",
+   "FIELD2": "27.25"
+ ,
+ 
+    "JYNT",
+   "FIELD2": "3.98"
+ ,
+ 
+    "KEYW",
+   "FIELD2": "9.5"
+ ,
+ 
+    "KHC",
+   "FIELD2": "91.6"
+ ,
+ 
+    "OLD",
+   "FIELD2": "25.5366"
+ ,
+ 
+    "MDCO",
+   "FIELD2": "51.83"
+ ,
+ 
+    "MEET",
+   "FIELD2": "5.67"
+ ,
+ 
+    "MIK",
+   "FIELD2": "23.8"
+ ,
+ 
+    "MIDD",
+   "FIELD2": "137.74"
+ ,
+ 
+    "NAVG",
+   "FIELD2": "53.05"
+ ,
+ 
+    "SLIM",
+   "FIELD2": "24.39"
+ ,
+ 
+    "STKS",
+   "FIELD2": "2.29"
+ ,
+ 
+    "ORG",
+   "FIELD2": "26.3052"
+ ,
+ 
+    "PCLN",
+   "FIELD2": "1752.01"
+ ,
+ 
+    "PRSC",
+   "FIELD2": "43.73"
+ ,
+ 
+    "RMR",
+   "FIELD2": "52.1"
+ ,
+ 
+    "SPNC",
+   "FIELD2": "27.35"
+ ,
+ 
+    "TTD",
+   "FIELD2": "35.98"
+ ,
+ 
+    "ULTI",
+   "FIELD2": "206.57"
+ ,
+ 
+    "YORW",
+   "FIELD2": "37.85"
+ ,
+ 
+    "NCTY",
+   "FIELD2": "1.12"
+ ,
+ 
+    "TRPX",
+   "FIELD2": "7.6"
+ ,
+ 
+    "TBPH",
+   "FIELD2": "38.79"
+ ,
+ 
+    "TST",
+   "FIELD2": "0.7701"
+ ,
+ 
+    "TCRD",
+   "FIELD2": "10.01"
+ ,
+ 
+    "THLD",
+   "FIELD2": "0.509"
+ ,
+ 
+    "TICC",
+   "FIELD2": "7.16"
+ ,
+ 
+    "TICCL",
+   "FIELD2": "25.4499"
+ ,
+ 
+    "TIG",
+   "FIELD2": "16.09"
+ ,
+ 
+    "TTS",
+   "FIELD2": "20.85"
+ ,
+ 
+    "TIL",
+   "FIELD2": "3.91"
+ ,
+ 
+    "TSBK",
+   "FIELD2": "22.22"
+ ,
+ 
+    "TIPT",
+   "FIELD2": "7.3"
+ ,
+ 
+    "TITN",
+   "FIELD2": "15.39"
+ ,
+ 
+    "TTNP",
+   "FIELD2": "2.8"
+ ,
+ 
+    "TVTY",
+   "FIELD2": "28.7"
+ ,
+ 
+    "TIVO",
+   "FIELD2": "19.05"
+ ,
+ 
+    "TMUS",
+   "FIELD2": "64.7"
+ ,
+ 
+    "TMUSP",
+   "FIELD2": "105.55"
+ ,
+ 
+    "TOCA",
+   "FIELD2": "13.27"
+ ,
+ 
+    "TKAI",
+   "FIELD2": "0.6001"
+ ,
+ 
+    "TNXP",
+   "FIELD2": "4.27"
+ ,
+ 
+    "TISA",
+   "FIELD2": "1.28"
+ ,
+ 
+    "TOPS",
+   "FIELD2": "0.528"
+ ,
+ 
+    "TORM          ",
+   "FIELD2": "6.95"
+ ,
+ 
+    "TRCH",
+   "FIELD2": "1.88"
+ ,
+ 
+    "TSEM",
+   "FIELD2": "21.52"
+ ,
+ 
+    "CLUB",
+   "FIELD2": "3.5"
+ ,
+ 
+    "TOWN",
+   "FIELD2": "32.95"
+ ,
+ 
+    "TPIC",
+   "FIELD2": "20.25"
+ ,
+ 
+    "TCON",
+   "FIELD2": "3.55"
+ ,
+ 
+    "TSCO",
+   "FIELD2": "65.6"
+ ,
+ 
+    "TWMC",
+   "FIELD2": "1.95"
+ ,
+ 
+    "TACT",
+   "FIELD2": "8.5"
+ ,
+ 
+    "TRNS",
+   "FIELD2": "11.9"
+ ,
+ 
+    "TGA",
+   "FIELD2": "1.53"
+ ,
+ 
+    "TA",
+   "FIELD2": "5.95"
+ ,
+ 
+    "TANNI",
+   "FIELD2": "25.508"
+ ,
+ 
+    "TANNL",
+   "FIELD2": "25.614"
+ ,
+ 
+    "TANNZ",
+   "FIELD2": "25.543"
+ ,
+ 
+    "TZOO",
+   "FIELD2": "9.7"
+ ,
+ 
+    "TRVN",
+   "FIELD2": "3.29"
+ ,
+ 
+    "TCBK",
+   "FIELD2": "35.09"
+ ,
+ 
+    "TRIL",
+   "FIELD2": "6.05"
+ ,
+ 
+    "TRS",
+   "FIELD2": "20.9"
+ ,
+ 
+    "TRMB",
+   "FIELD2": "30.95"
+ ,
+ 
+    "TRIB",
+   "FIELD2": "5.61"
+ ,
+ 
+    "TRIP",
+   "FIELD2": "42.65"
+ ,
+ 
+    "TSC",
+   "FIELD2": "25.4"
+ ,
+ 
+    "TBK",
+   "FIELD2": "22.55"
+ ,
+ 
+    "TRVG",
+   "FIELD2": "14.33"
+ ,
+ 
+    "TRNC",
+   "FIELD2": "15"
+ ,
+ 
+    "TROV",
+   "FIELD2": "0.8276"
+ ,
+ 
+    "TROVU",
+   "FIELD2": "6.05"
+ ,
+ 
+    "TROVW",
+   "FIELD2": "0.1483"
+ ,
+ 
+    "TRUE",
+   "FIELD2": "15.26"
+ ,
+ 
+    "THST",
+   "FIELD2": "2.2737"
+ ,
+ 
+    "TRUP",
+   "FIELD2": "15.34"
+ ,
+ 
+    "TRST",
+   "FIELD2": "7.85"
+ ,
+ 
+    "TRMK",
+   "FIELD2": "32.2"
+ ,
+ 
+    "TSRI",
+   "FIELD2": "5.05"
+ ,
+ 
+    "TTMI",
+   "FIELD2": "15.95"
+ ,
+ 
+    "TCX",
+   "FIELD2": "57.95"
+ ,
+ 
+    "TUES",
+   "FIELD2": "3.3"
+ ,
+ 
+    "TOUR",
+   "FIELD2": "8.13"
+ ,
+ 
+    "HEAR",
+   "FIELD2": "0.9"
+ ,
+ 
+    "TUTI",
+   "FIELD2": "22.7"
+ ,
+ 
+    "TUTT",
+   "FIELD2": "21.98"
+ ,
+ 
+    "FOX",
+   "FIELD2": "30.22"
+ ,
+ 
+    "FOXA",
+   "FIELD2": "30.7"
+ ,
+ 
+    "TWIN",
+   "FIELD2": "18.9"
+ ,
+ 
+    "TRCB",
+   "FIELD2": "18.16"
+ ,
+ 
+    "USCR",
+   "FIELD2": "63"
+ ,
+ 
+    "PRTS",
+   "FIELD2": "3.61"
+ ,
+ 
+    "USEG",
+   "FIELD2": "0.9"
+ ,
+ 
+    "GROW",
+   "FIELD2": "1.38"
+ ,
+ 
+    "UREE",
+   "FIELD2": "0.2215"
+ ,
+ 
+    "UBNT",
+   "FIELD2": "50.04"
+ ,
+ 
+    "UFPT",
+   "FIELD2": "26.2"
+ ,
+ 
+    "ULTA",
+   "FIELD2": "279.5"
+ ,
+ 
+    "UCTT",
+   "FIELD2": "16.11"
+ ,
+ 
+    "UPL",
+   "FIELD2": "10.99"
+ ,
+ 
+    "RARE",
+   "FIELD2": "60.57"
+ ,
+ 
+    "ULBI",
+   "FIELD2": "5.45"
+ ,
+ 
+    "UTEK",
+   "FIELD2": "30.01"
+ ,
+ 
+    "UMBF",
+   "FIELD2": "75.23"
+ ,
+ 
+    "UMPQ",
+   "FIELD2": "17.57"
+ ,
+ 
+    "UNAM",
+   "FIELD2": "10.2"
+ ,
+ 
+    "UBSH",
+   "FIELD2": "34.41"
+ ,
+ 
+    "UNB",
+   "FIELD2": "41.2"
+ ,
+ 
+    "UNXL",
+   "FIELD2": "0.81"
+ ,
+ 
+    "QURE",
+   "FIELD2": "5.29"
+ ,
+ 
+    "UBCP",
+   "FIELD2": "11.705"
+ ,
+ 
+    "UBOH",
+   "FIELD2": "21"
+ ,
+ 
+    "UBSI",
+   "FIELD2": "41.05"
+ ,
+ 
+    "UCBA",
+   "FIELD2": "17.8"
+ ,
+ 
+    "UCBI",
+   "FIELD2": "27.02"
+ ,
+ 
+    "UCFC",
+   "FIELD2": "8.48"
+ ,
+ 
+    "UBNK",
+   "FIELD2": "17.68"
+ ,
+ 
+    "UFCS",
+   "FIELD2": "42.88"
+ ,
+ 
+    "UIHC",
+   "FIELD2": "15.22"
+ ,
+ 
+    "UNFI",
+   "FIELD2": "41.48"
+ ,
+ 
+    "UBFO",
+   "FIELD2": "8.05"
+ ,
+ 
+    "USLM",
+   "FIELD2": "78.92"
+ ,
+ 
+    "UTHR",
+   "FIELD2": "120.98"
+ ,
+ 
+    "UG",
+   "FIELD2": "14"
+ ,
+ 
+    "UNIT",
+   "FIELD2": "27.24"
+ ,
+ 
+    "UNTY",
+   "FIELD2": "16.4"
+ ,
+ 
+    "OLED",
+   "FIELD2": "85.1"
+ ,
+ 
+    "UEIC",
+   "FIELD2": "69.5"
+ ,
+ 
+    "UFPI",
+   "FIELD2": "95.32"
+ ,
+ 
+    "ULH",
+   "FIELD2": "12.85"
+ ,
+ 
+    "USAP",
+   "FIELD2": "17.085"
+ ,
+ 
+    "UVSP",
+   "FIELD2": "28.15"
+ ,
+ 
+    "UPLD",
+   "FIELD2": "17.07"
+ ,
+ 
+    "URRE",
+   "FIELD2": "1.86"
+ ,
+ 
+    "URBN",
+   "FIELD2": "23.24"
+ ,
+ 
+    "ECOL",
+   "FIELD2": "46.35"
+ ,
+ 
+    "USAT",
+   "FIELD2": "4.55"
+ ,
+ 
+    "USATP",
+   "FIELD2": "22.35"
+ ,
+ 
+    "USAK",
+   "FIELD2": "7.31"
+ ,
+ 
+    "UTMD",
+   "FIELD2": "62.5"
+ ,
+ 
+    "UTSI",
+   "FIELD2": "2"
+ ,
+ 
+    "VLRX",
+   "FIELD2": "6.86"
+ ,
+ 
+    "VALX",
+   "FIELD2": "26.7299"
+ ,
+ 
+    "VALU",
+   "FIELD2": "17.4"
+ ,
+ 
+    "VNDA",
+   "FIELD2": "14.45"
+ ,
+ 
+    "BBH",
+   "FIELD2": "117.79"
+ ,
+ 
+    "GNRX",
+   "FIELD2": "22.15"
+ ,
+ 
+    "PPH",
+   "FIELD2": "53.44"
+ ,
+ 
+    "VWOB",
+   "FIELD2": "80.14"
+ ,
+ 
+    "VNQI",
+   "FIELD2": "54.52"
+ ,
+ 
+    "VGIT",
+   "FIELD2": "64.88"
+ ,
+ 
+    "VCIT",
+   "FIELD2": "87.19"
+ ,
+ 
+    "VIGI",
+   "FIELD2": "58.08"
+ ,
+ 
+    "VYMI",
+   "FIELD2": "60.02"
+ ,
+ 
+    "VCLT",
+   "FIELD2": "90.99"
+ ,
+ 
+    "VGLT",
+   "FIELD2": "76.24"
+ ,
+ 
+    "VMBS",
+   "FIELD2": "52.74"
+ ,
+ 
+    "VONE",
+   "FIELD2": "107.85"
+ ,
+ 
+    "VONG",
+   "FIELD2": "116.92"
+ ,
+ 
+    "VONV",
+   "FIELD2": "99.38"
+ ,
+ 
+    "VTWO",
+   "FIELD2": "110.09"
+ ,
+ 
+    "VTWG",
+   "FIELD2": "117.4354"
+ ,
+ 
+    "VTWV",
+   "FIELD2": "102.23"
+ ,
+ 
+    "VTHR",
+   "FIELD2": "108.1099"
+ ,
+ 
+    "VCSH",
+   "FIELD2": "79.95"
+ ,
+ 
+    "VGSH",
+   "FIELD2": "60.89"
+ ,
+ 
+    "VTIP",
+   "FIELD2": "49.5"
+ ,
+ 
+    "BNDX",
+   "FIELD2": "54.46"
+ ,
+ 
+    "VXUS",
+   "FIELD2": "49.54"
+ ,
+ 
+    "VEACU",
+   "FIELD2": "10.04"
+ ,
+ 
+    "VREX",
+   "FIELD2": "35.11"
+ ,
+ 
+    "VRNS",
+   "FIELD2": "31.3"
+ ,
+ 
+    "VDSI",
+   "FIELD2": "12.8"
+ ,
+ 
+    "VBLT",
+   "FIELD2": "5.45"
+ ,
+ 
+    "VBIV",
+   "FIELD2": "4.75"
+ ,
+ 
+    "WOOF",
+   "FIELD2": "91.63"
+ ,
+ 
+    "VECO",
+   "FIELD2": "31"
+ ,
+ 
+    "DGLD",
+   "FIELD2": "45.94"
+ ,
+ 
+    "DSLV",
+   "FIELD2": "21.75"
+ ,
+ 
+    "UGLD",
+   "FIELD2": "11.33"
+ ,
+ 
+    "USLV",
+   "FIELD2": "15.52"
+ ,
+ 
+    "TVIZ",
+   "FIELD2": "20.41"
+ ,
+ 
+    "TVIX",
+   "FIELD2": "41.21"
+ ,
+ 
+    "ZIV",
+   "FIELD2": "61.83"
+ ,
+ 
+    "XIV",
+   "FIELD2": "66.26"
+ ,
+ 
+    "VIIZ",
+   "FIELD2": "8.98"
+ ,
+ 
+    "VIIX",
+   "FIELD2": "29.09"
+ ,
+ 
+    "VEON",
+   "FIELD2": "4.07"
+ ,
+ 
+    "VRA",
+   "FIELD2": "9.05"
+ ,
+ 
+    "VCYT",
+   "FIELD2": "7.82"
+ ,
+ 
+    "VSTM",
+   "FIELD2": "1.88"
+ ,
+ 
+    "VCEL",
+   "FIELD2": "2.6"
+ ,
+ 
+    "VRNT",
+   "FIELD2": "39.3"
+ ,
+ 
+    "VRSN",
+   "FIELD2": "88.45"
+ ,
+ 
+    "VRSK",
+   "FIELD2": "81.65"
+ ,
+ 
+    "VBTX",
+   "FIELD2": "27.19"
+ ,
+ 
+    "VRML",
+   "FIELD2": "1.86"
+ ,
+ 
+    "VSAR",
+   "FIELD2": "19.75"
+ ,
+ 
+    "VTNR",
+   "FIELD2": "0.99"
+ ,
+ 
+    "VRTX",
+   "FIELD2": "116.7"
+ ,
+ 
+    "VIA",
+   "FIELD2": "45.05"
+ ,
+ 
+    "VIAB",
+   "FIELD2": "43.1"
+ ,
+ 
+    "VMET",
+   "FIELD2": "n/a"
+ ,
+ 
+    "VSAT",
+   "FIELD2": "63.12"
+ ,
+ 
+    "VIAV",
+   "FIELD2": "9.9"
+ ,
+ 
+    "VICL",
+   "FIELD2": "2.26"
+ ,
+ 
+    "VICR",
+   "FIELD2": "16.9"
+ ,
+ 
+    "CIZ",
+   "FIELD2": "30.5592"
+ ,
+ 
+    "VSDA",
+   "FIELD2": "25.5"
+ ,
+ 
+    "CEZ",
+   "FIELD2": "27.218"
+ ,
+ 
+    "CID",
+   "FIELD2": "32.925"
+ ,
+ 
+    "CIL",
+   "FIELD2": "35.19"
+ ,
+ 
+    "CFO",
+   "FIELD2": "42.55"
+ ,
+ 
+    "CFA",
+   "FIELD2": "42.59"
+ ,
+ 
+    "CSF",
+   "FIELD2": "40.71"
+ ,
+ 
+    "CDC",
+   "FIELD2": "42.66"
+ ,
+ 
+    "CDL",
+   "FIELD2": "41.56"
+ ,
+ 
+    "CSB",
+   "FIELD2": "40.61"
+ ,
+ 
+    "CSA",
+   "FIELD2": "41.7085"
+ ,
+ 
+    "VBND",
+   "FIELD2": "49.71"
+ ,
+ 
+    "VUSE",
+   "FIELD2": "29.33"
+ ,
+ 
+    "VIDI",
+   "FIELD2": "23.93"
+ ,
+ 
+    "VDTH",
+   "FIELD2": "11.04"
+ ,
+ 
+    "VRAY",
+   "FIELD2": "6.84"
+ ,
+ 
+    "VKTX",
+   "FIELD2": "1.3886"
+ ,
+ 
+    "VKTXW",
+   "FIELD2": "0.48"
+ ,
+ 
+    "VBFC",
+   "FIELD2": "28.95"
+ ,
+ 
+    "VLGEA",
+   "FIELD2": "26.84"
+ ,
+ 
+    "VNOM",
+   "FIELD2": "17.02"
+ ,
+ 
+    "VIRC",
+   "FIELD2": "4.45"
+ ,
+ 
+    "VIRT",
+   "FIELD2": "16.05"
+ ,
+ 
+    "VRTS",
+   "FIELD2": "111.7"
+ ,
+ 
+    "VRTSP",
+   "FIELD2": "101"
+ ,
+ 
+    "VRTU",
+   "FIELD2": "29.3"
+ ,
+ 
+    "VTGN",
+   "FIELD2": "1.99"
+ ,
+ 
+    "VIST",
+   "FIELD2": "n/a"
+ ,
+ 
+    "VTL",
+   "FIELD2": "3.5"
+ ,
+ 
+    "VIVE",
+   "FIELD2": "7.4"
+ ,
+ 
+    "VVPR",
+   "FIELD2": "4.2"
+ ,
+ 
+    "VVUS",
+   "FIELD2": "1"
+ ,
+ 
+    "VOD",
+   "FIELD2": "25.83"
+ ,
+ 
+    "VOXX",
+   "FIELD2": "5.4"
+ ,
+ 
+    "VYGR",
+   "FIELD2": "10.34"
+ ,
+ 
+    "VSEC",
+   "FIELD2": "42.47"
+ ,
+ 
+    "VTVT",
+   "FIELD2": "5.5"
+ ,
+ 
+    "VUZI",
+   "FIELD2": "5.9"
+ ,
+ 
+    "VWR",
+   "FIELD2": "27.63"
+ ,
+ 
+    "WBA",
+   "FIELD2": "84.03"
+ ,
+ 
+    "WAFD",
+   "FIELD2": "33.85"
+ ,
+ 
+    "WAFDW",
+   "FIELD2": "16.6624"
+ ,
+ 
+    "WASH",
+   "FIELD2": "51.15"
+ ,
+ 
+    "WFBI",
+   "FIELD2": "27.96"
+ ,
+ 
+    "WSBF",
+   "FIELD2": "18.75"
+ ,
+ 
+    "WVE",
+   "FIELD2": "20.75"
+ ,
+ 
+    "WNFM",
+   "FIELD2": "n/a"
+ ,
+ 
+    "WAYN",
+   "FIELD2": "18"
+ ,
+ 
+    "WSTG",
+   "FIELD2": "18.9"
+ ,
+ 
+    "WCFB",
+   "FIELD2": "10.14"
+ ,
+ 
+    "WDFC",
+   "FIELD2": "104.15"
+ ,
+ 
+    "FLAG",
+   "FIELD2": "38.6374"
+ ,
+ 
+    "WEB",
+   "FIELD2": "18.1"
+ ,
+ 
+    "WBMD",
+   "FIELD2": "53.1"
+ ,
+ 
+    "WCST",
+   "FIELD2": "2.82"
+ ,
+ 
+    "WB",
+   "FIELD2": "52.87"
+ ,
+ 
+    "WEBK",
+   "FIELD2": "27"
+ ,
+ 
+    "WEN",
+   "FIELD2": "14.33"
+ ,
+ 
+    "WERN",
+   "FIELD2": "27.15"
+ ,
+ 
+    "WSBC",
+   "FIELD2": "39.98"
+ ,
+ 
+    "WTBA",
+   "FIELD2": "23.4"
+ ,
+ 
+    "WSTC",
+   "FIELD2": "24.84"
+ ,
+ 
+    "WMAR",
+   "FIELD2": "10.12"
+ ,
+ 
+    "WABC",
+   "FIELD2": "57.38"
+ ,
+ 
+    "WBB",
+   "FIELD2": "21.15"
+ ,
+ 
+    "WSTL",
+   "FIELD2": "0.64"
+ ,
+ 
+    "WDC",
+   "FIELD2": "83.11"
+ ,
+ 
+    "WNEB",
+   "FIELD2": "10.3"
+ ,
+ 
+    "WLB",
+   "FIELD2": "12"
+ ,
+ 
+    "WPRT",
+   "FIELD2": "1.14"
+ ,
+ 
+    "WEYS",
+   "FIELD2": "27.98"
+ ,
+ 
+    "WHLR",
+   "FIELD2": "13.74"
+ ,
+ 
+    "WHLRD",
+   "FIELD2": "25.55"
+ ,
+ 
+    "WHLRP",
+   "FIELD2": "24.2992"
+ ,
+ 
+    "WHLRW",
+   "FIELD2": "0.0437"
+ ,
+ 
+    "WHF",
+   "FIELD2": "14.45"
+ ,
+ 
+    "WHFBL",
+   "FIELD2": "25.6763"
+ ,
+ 
+    "WFM",
+   "FIELD2": "35.71"
+ ,
+ 
+    "WILN",
+   "FIELD2": "2.17"
+ ,
+ 
+    "WHLM",
+   "FIELD2": "7.1501"
+ ,
+ 
+    "WVVI",
+   "FIELD2": "7.89"
+ ,
+ 
+    "WVVIP",
+   "FIELD2": "6.13"
+ ,
+ 
+    "WLDN",
+   "FIELD2": "31.64"
+ ,
+ 
+    "WLFC",
+   "FIELD2": "22.23"
+ ,
+ 
+    "WLTW",
+   "FIELD2": "128.05"
+ ,
+ 
+    "WIN",
+   "FIELD2": "5.61"
+ ,
+ 
+    "WINT",
+   "FIELD2": "1.17"
+ ,
+ 
+    "WING",
+   "FIELD2": "28.27"
+ ,
+ 
+    "WINA",
+   "FIELD2": "125.4"
+ ,
+ 
+    "WINS",
+   "FIELD2": "55.15"
+ ,
+ 
+    "WTFC",
+   "FIELD2": "70.25"
+ ,
+ 
+    "WTFCM",
+   "FIELD2": "26.84"
+ ,
+ 
+    "WTFCW",
+   "FIELD2": "42.7"
+ ,
+ 
+    "AGZD",
+   "FIELD2": "48.0028"
+ ,
+ 
+    "AGND",
+   "FIELD2": "43.4"
+ ,
+ 
+    "CXSE",
+   "FIELD2": "57.592"
+ ,
+ 
+    "EMCG",
+   "FIELD2": "22.7198"
+ ,
+ 
+    "EMCB",
+   "FIELD2": "72.06"
+ ,
+ 
+    "DGRE",
+   "FIELD2": "23.2999"
+ ,
+ 
+    "DXGE",
+   "FIELD2": "29.98"
+ ,
+ 
+    "HYZD",
+   "FIELD2": "23.9501"
+ ,
+ 
+    "WETF",
+   "FIELD2": "8.55"
+ ,
+ 
+    "DXJS",
+   "FIELD2": "36.51"
+ ,
+ 
+    "GULF",
+   "FIELD2": "17.39"
+ ,
+ 
+    "HYND",
+   "FIELD2": "20.75"
+ ,
+ 
+    "CRDT",
+   "FIELD2": "75.1"
+ ,
+ 
+    "DGRW",
+   "FIELD2": "35.44"
+ ,
+ 
+    "DGRS",
+   "FIELD2": "33.19"
+ ,
+ 
+    "DXPS",
+   "FIELD2": "23.21"
+ ,
+ 
+    "UBND",
+   "FIELD2": "50.4137"
+ ,
+ 
+    "WIX",
+   "FIELD2": "70.6"
+ ,
+ 
+    "WMIH",
+   "FIELD2": "1.55"
+ ,
+ 
+    "WBKC",
+   "FIELD2": "31.0465"
+ ,
+ 
+    "WWD",
+   "FIELD2": "67.06"
+ ,
+ 
+    "WKHS",
+   "FIELD2": "2.24"
+ ,
+ 
+    "WRLD",
+   "FIELD2": "53.04"
+ ,
+ 
+    "WPCS",
+   "FIELD2": "1.31"
+ ,
+ 
+    "WPPGY",
+   "FIELD2": "108.57"
+ ,
+ 
+    "WMGI",
+   "FIELD2": "30.23"
+ ,
+ 
+    "WMGIZ",
+   "FIELD2": "1.44"
+ ,
+ 
+    "WSFS",
+   "FIELD2": "46.65"
+ ,
+ 
+    "WSFSL",
+   "FIELD2": "25.6801"
+ ,
+ 
+    "WSCI",
+   "FIELD2": "3.45"
+ ,
+ 
+    "WVFC",
+   "FIELD2": "14.8"
+ ,
+ 
+    "WYNN",
+   "FIELD2": "115.9"
+ ,
+ 
+    "XBIT",
+   "FIELD2": "10.23"
+ ,
+ 
+    "XELB",
+   "FIELD2": "2.35"
+ ,
+ 
+    "XCRA",
+   "FIELD2": "9.73"
+ ,
+ 
+    "XNCR",
+   "FIELD2": "23.3"
+ ,
+ 
+    "XBIO",
+   "FIELD2": "4.42"
+ ,
+ 
+    "XBKS",
+   "FIELD2": "25.58"
+ ,
+ 
+    "XENE",
+   "FIELD2": "3.75"
+ ,
+ 
+    "XGTI",
+   "FIELD2": "1.49"
+ ,
+ 
+    "XGTIW",
+   "FIELD2": "5.14"
+ ,
+ 
+    "XLNX",
+   "FIELD2": "57.69"
+ ,
+ 
+    "XOMA",
+   "FIELD2": "7.73"
+ ,
+ 
+    "XPER",
+   "FIELD2": "32.05"
+ ,
+ 
+    "XPLR",
+   "FIELD2": "1.975"
+ ,
+ 
+    "XTLB",
+   "FIELD2": "2.63"
+ ,
+ 
+    "XNET",
+   "FIELD2": "3.57"
+ ,
+ 
+    "YHOO",
+   "FIELD2": "47.52"
+ ,
+ 
+    "YNDX",
+   "FIELD2": "23.08"
+ ,
+ 
+    "YERR",
+   "FIELD2": "7.82"
+ ,
+ 
+    "YTRA",
+   "FIELD2": "9.24"
+ ,
+ 
+    "YTEN",
+   "FIELD2": "0.46"
+ ,
+ 
+    "YIN",
+   "FIELD2": "18.19"
+ ,
+ 
+    "YRCW",
+   "FIELD2": "10.51"
+ ,
+ 
+    "YECO",
+   "FIELD2": "0.44"
+ ,
+ 
+    "YY",
+   "FIELD2": "45.88"
+ ,
+ 
+    "ZFGN",
+   "FIELD2": "4.77"
+ ,
+ 
+    "ZAGG",
+   "FIELD2": "7.05"
+ ,
+ 
+    "ZAIS",
+   "FIELD2": "2.32"
+ ,
+ 
+    "ZBRA",
+   "FIELD2": "90.97"
+ ,
+ 
+    "ZLTQ",
+   "FIELD2": "56.5"
+ ,
+ 
+    "Z",
+   "FIELD2": "36.61"
+ ,
+ 
+    "ZG",
+   "FIELD2": "36.16"
+ ,
+ 
+    "ZN",
+   "FIELD2": "1.11"
+ ,
+ 
+    "ZNWAA",
+   "FIELD2": "n/a"
+ ,
+ 
+    "ZION",
+   "FIELD2": "40.85"
+ ,
+ 
+    "ZIONW",
+   "FIELD2": "10.55"
+ ,
+ 
+    "ZIONZ",
+   "FIELD2": "7.03"
+ ,
+ 
+    "ZIOP",
+   "FIELD2": "6.79"
+ ,
+ 
+    "ZIXI",
+   "FIELD2": "5.37"
+ ,
+ 
+    "ZGNX",
+   "FIELD2": "10.7"
+ ,
+ 
+    "ZSAN",
+   "FIELD2": "1.48"
+ ,
+ 
+    "ZUMZ",
+   "FIELD2": "18.2"
+ ,
+ 
+    "ZYNE",
+   "FIELD2": "23.2"
+ ,
+ 
+    "ZNGA",
+   "FIELD2": "2.79"
+   
+}
