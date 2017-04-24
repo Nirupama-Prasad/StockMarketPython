@@ -29,23 +29,23 @@ TS = dicts_from_file[TickerSymbol]
 print TS
 
 Proceeds = Allotment*FinalSharePrice
-CapitalGainTax = Allotment*(FinalSharePrice-InitialSharePrice)*CapitalGainTaxRate
+CapitalGainTax = Allotment*(FinalSharePrice-InitialSharePrice)*CapitalGainTaxRate/100
 Cost = Allotment*InitialSharePrice+Sell_Commission+Buy_Commission+CapitalGainTax
 NetProfit = Proceeds - Cost
 ROI = (NetProfit/Cost) * 100
 BEP = InitialSharePrice+Sell_Commission+Buy_Commission
 
-print ("Your Proceeds are %.2f", Proceeds)
-print ("Costs were %.2f", Cost)
-print ("Cost details")
-print ("Total Purchase price %d X $%.2f = ", Allotment, Allotment*InitialSharePrice)
-print ("Buy Commission = %.2f", Buy_Commission)
-print ("Sell Commission = %.2f", Sell_Commission)
-print ("Tax on Capital Gain = %.2f", CapitalGainTax)
+print "Your Proceeds are ", Proceeds
+print "Costs were ", Cost
+print "Cost details"
+print "Total Purchase price = ", Allotment*InitialSharePrice
+print "Buy Commission = ", Buy_Commission
+print "Sell Commission = ", Sell_Commission
+print "Tax on Capital Gain = ", CapitalGainTax
 
-print ("Net Profit = %.2f", NetProfit)
-print ("Return on Investment = %.2f", ROI)
-print ("To break even, you must have a final price of %.2f", BEP)
+print "Net Profit = ", NetProfit
+print "Return on Investment = ", ROI
+print "To break even, you must have a final price of ", BEP
 
 
 
