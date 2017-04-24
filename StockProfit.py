@@ -6,13 +6,13 @@ import os
 from pprint import pprint
 
 print "Enter the following details:"
-TickerSymbol = raw_input("Ticker Symbol: ");
-Allotment = raw_input("Allotment(number of shares): ");
+TickerSymbol = raw_input("Ticker Symbol: ")
+Allotment = float(raw_input("Allotment(number of shares): "))
 FinalSharePrice = float(raw_input("Final Share Price: "))
-Sell_Commission = raw_input("Sell Commission: ");
-InitialSharePrice = raw_input("Initial Share Price: ");
-Buy_Commission = raw_input("Buy Commission: ");
-CapitalGainTaxRate = raw_input("Capital Gain Tax Rate is")
+Sell_Commission = float(raw_input("Sell Commission: "))
+InitialSharePrice = float(raw_input("Initial Share Price: "))
+Buy_Commission = float(raw_input("Buy Commission: "))
+CapitalGainTaxRate = float(raw_input("Capital Gain Tax Rate is"))
 
 
 dicts_from_file = {"TURN": "1.44", "FLWS": "10.5", "FCCY": "18.45", "SRCE": "48.65",
